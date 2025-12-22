@@ -417,7 +417,7 @@ Get user's learning history with a specific verse.
         "summary": "Excellent - you captured the core meaning accurately",
         "correct": ["praise to Allah", "Lord of the worlds"],
         "missed": ["The word 'due'"],
-        "insight": "..."
+        "insight": null
       },
       "createdAt": "2024-12-14T10:35:00Z"
     },

@@ -148,8 +148,8 @@ curl http://localhost:11434/api/generate -d '{
 ```typescript
 // server/src/llm/ollama.provider.ts
 
-import type { LLMProvider, EvaluationInput, EvaluationOutput } from './types';
-import { buildEvaluationPrompt } from './prompt';
+import type { LLMProvider, ComparisonInput, ComparisonOutput } from './types';
+import { buildComparisonPrompt } from './prompt';
 
 interface OllamaConfig {
   baseUrl: string;
@@ -165,12 +165,12 @@ export class OllamaProvider implements LLMProvider {
     this.model = config.model;
   }
 
-  async evaluate(input: EvaluationInput): Promise<EvaluationOutput> {
+  async compare(input: ComparisonInput): Promise<ComparisonOutput> {
     const startTime = Date.now();
-    
+
     try {
-      const prompt = buildEvaluationPrompt(input);
-      
+      const prompt = buildComparisonPrompt(input);
+
       const response = await fetch(`${this.baseUrl}/api/generate`, {
         method: 'POST',
         headers: {
@@ -196,15 +196,14 @@ export class OllamaProvider implements LLMProvider {
       const latencyMs = Date.now() - startTime;
       
       // Parse the JSON response from Ollama
-      const evaluation = JSON.parse(data.response);
-      
+      const result = JSON.parse(data.response);
+
       return {
-        score: evaluation.score,
+        score: result.score,
         feedback: {
-          summary: evaluation.feedback.summary,
-          correct: evaluation.feedback.correct,
-          missed: evaluation.feedback.missed,
-          insight: evaluation.feedback.insight || null,
+          summary: result.feedback.summary,
+          correct: result.feedback.correct,
+          missed: result.feedback.missed,
         },
         metadata: {
           model: this.model,
@@ -212,9 +211,9 @@ export class OllamaProvider implements LLMProvider {
           latencyMs,
         }
       };
-      
+
     } catch (error) {
-      throw new Error(`Ollama evaluation failed: ${error.message}`);
+      throw new Error(`Ollama comparison failed: ${error.message}`);
     }
   }
 
@@ -247,8 +246,8 @@ TOGETHER_MODEL=meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo
 ```typescript
 // server/src/llm/together.provider.ts
 
-import type { LLMProvider, EvaluationInput, EvaluationOutput } from './types';
-import { buildEvaluationPrompt } from './prompt';
+import type { LLMProvider, ComparisonInput, ComparisonOutput } from './types';
+import { buildComparisonPrompt } from './prompt';
 
 interface TogetherConfig {
   apiKey: string;
@@ -265,12 +264,12 @@ export class TogetherProvider implements LLMProvider {
     this.model = config.model;
   }
 
-  async evaluate(input: EvaluationInput): Promise<EvaluationOutput> {
+  async compare(input: ComparisonInput): Promise<ComparisonOutput> {
     const startTime = Date.now();
-    
+
     try {
-      const prompt = buildEvaluationPrompt(input);
-      
+      const prompt = buildComparisonPrompt(input);
+
       const response = await fetch(`${this.baseUrl}/chat/completions`, {
         method: 'POST',
         headers: {
@@ -305,15 +304,14 @@ export class TogetherProvider implements LLMProvider {
       
       // Parse the JSON response
       const content = data.choices[0].message.content;
-      const evaluation = JSON.parse(content);
-      
+      const result = JSON.parse(content);
+
       return {
-        score: evaluation.score,
+        score: result.score,
         feedback: {
-          summary: evaluation.feedback.summary,
-          correct: evaluation.feedback.correct,
-          missed: evaluation.feedback.missed,
-          insight: evaluation.feedback.insight || null,
+          summary: result.feedback.summary,
+          correct: result.feedback.correct,
+          missed: result.feedback.missed,
         },
         metadata: {
           model: this.model,
@@ -323,9 +321,9 @@ export class TogetherProvider implements LLMProvider {
           latencyMs,
         }
       };
-      
+
     } catch (error) {
-      throw new Error(`Together AI evaluation failed: ${error.message}`);
+      throw new Error(`Together AI comparison failed: ${error.message}`);
     }
   }
 
@@ -502,16 +500,15 @@ export async function evaluateAttempt(input: EvaluateRequest): Promise<EvaluateR
   
   try {
     // Call LLM with retry logic
-    const evaluation = await withRetry(() => 
-      llm.evaluate({
+    const comparison = await withRetry(() =>
+      llm.compare({
         verseId: input.verseId,
-        arabic: verse.arabic,
         translation: verse.translation,
         userInput: input.userInput,
         skipped: input.skipped
       })
     );
-    
+
     // Store attempt in database
     const attempt = await storeAttempt({
       userId: input.userId,
@@ -520,16 +517,16 @@ export async function evaluateAttempt(input: EvaluateRequest): Promise<EvaluateR
       translation: verse.translation,
       userInput: input.userInput,
       skipped: input.skipped,
-      score: evaluation.score,
-      feedback: evaluation.feedback,
-      llmMetadata: evaluation.metadata
+      score: comparison.score,
+      feedback: comparison.feedback,
+      llmMetadata: comparison.metadata
     });
     
     return {
       attemptId: attempt.id,
       verseId: input.verseId,
-      score: evaluation.score,
-      feedback: evaluation.feedback,
+      score: comparison.score,
+      feedback: comparison.feedback,
       verse: {
         arabic: verse.arabic,
         translation: verse.translation
@@ -539,10 +536,10 @@ export async function evaluateAttempt(input: EvaluateRequest): Promise<EvaluateR
     
   } catch (error) {
     // Log the error for debugging
-    console.error('LLM evaluation failed:', error);
-    
+    console.error('LLM comparison failed:', error);
+
     // Return a 503 error to the client
-    throw new ServiceUnavailableError('Unable to evaluate verse at this time. Please try again.');
+    throw new ServiceUnavailableError('Unable to compare verse at this time. Please try again.');
   }
 }
 ```
@@ -613,16 +610,14 @@ describe('OllamaProvider', () => {
           feedback: {
             summary: 'Good understanding',
             correct: ['key concept'],
-            missed: ['minor detail'],
-            insight: 'Teaching moment'
+            missed: ['minor detail']
           }
         })
       })
     });
-    
-    const result = await provider.evaluate({
+
+    const result = await provider.compare({
       verseId: '1:1',
-      arabic: 'test',
       translation: 'test',
       userInput: 'test',
       skipped: false
@@ -642,17 +637,16 @@ Test with real LLM (during development only):
 // server/src/llm/__tests__/integration.test.ts
 
 describe('LLM Integration', () => {
-  it('should evaluate verse correctly', async () => {
+  it('should compare verse correctly', async () => {
     const provider = createLLMProvider();
-    
-    const result = await provider.evaluate({
+
+    const result = await provider.compare({
       verseId: '1:1',
-      arabic: 'بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ',
       translation: 'In the name of Allah, the Entirely Merciful, the Especially Merciful.',
       userInput: 'In the name of God, the merciful and compassionate',
       skipped: false
     });
-    
+
     expect(result.score).toBeGreaterThan(70); // Should recognize this as correct
     expect(result.feedback.correct.length).toBeGreaterThan(0);
   });
@@ -682,7 +676,7 @@ This data helps you:
 ### Log Format
 
 ```typescript
-logger.info('LLM evaluation', {
+logger.info('LLM comparison', {
   userId: attempt.userId,
   verseId: attempt.verseId,
   provider: metadata.provider,

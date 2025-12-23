@@ -8,48 +8,18 @@ import { VerseDisplay } from '@/components/VerseDisplay'
 import { FeedbackCard } from '@/components/FeedbackCard'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
-import type { AttemptFeedback, WordAnalysis } from '@/types'
+import { getSurahById, getRandomVerse } from '@/lib/data'
+import type { AttemptFeedback, WordAnalysis, Verse, Surah } from '@/types'
 
-// Mock verse data - will be replaced with real data
-const mockVerses: Record<string, {
-  id: string
-  surahId: number
-  surahName: string
-  verseNumber: number
-  totalVerses: number
-  textArabic: string
-  textEnglish: string
-}> = {
-  '1:1': {
-    id: '1:1',
-    surahId: 1,
-    surahName: 'Al-Fatihah',
-    verseNumber: 1,
-    totalVerses: 7,
-    textArabic: 'بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ',
-    textEnglish: 'In the name of Allah, the Most Gracious, the Most Merciful.',
-  },
-  '1:2': {
-    id: '1:2',
-    surahId: 1,
-    surahName: 'Al-Fatihah',
-    verseNumber: 2,
-    totalVerses: 7,
-    textArabic: 'الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ',
-    textEnglish: 'All praise is due to Allah, Lord of the worlds.',
-  },
-}
+// Mock word analysis - will be enhanced with pre-computed data later
+const defaultAnalysis: WordAnalysis[] = [
+  { word: 'بِسْمِ', transliteration: 'bismi', meaning: 'In the name of', root: 'س-م-و', grammar: 'Preposition + noun' },
+  { word: 'اللَّهِ', transliteration: 'Allāhi', meaning: 'Allah/God', grammar: 'Proper noun, genitive case' },
+  { word: 'الرَّحْمَٰنِ', transliteration: 'ar-Raḥmāni', meaning: 'The Most Gracious', root: 'ر-ح-م', grammar: 'Adjective/Name, genitive' },
+  { word: 'الرَّحِيمِ', transliteration: 'ar-Raḥīmi', meaning: 'The Most Merciful', root: 'ر-ح-م', grammar: 'Adjective/Name, genitive' },
+]
 
-const mockAnalysis: Record<string, WordAnalysis[]> = {
-  '1:1': [
-    { word: 'بِسْمِ', transliteration: 'bismi', meaning: 'In the name of', root: 'س-م-و', grammar: 'Preposition + noun' },
-    { word: 'اللَّهِ', transliteration: 'Allāhi', meaning: 'Allah/God', grammar: 'Proper noun, genitive case' },
-    { word: 'الرَّحْمَٰنِ', transliteration: 'ar-Raḥmāni', meaning: 'The Most Gracious', root: 'ر-ح-م', grammar: 'Adjective/Name, genitive' },
-    { word: 'الرَّحِيمِ', transliteration: 'ar-Raḥīmi', meaning: 'The Most Merciful', root: 'ر-ح-م', grammar: 'Adjective/Name, genitive' },
-  ],
-}
-
-// Mock feedback generator
+// Mock feedback generator (will be replaced with LLM evaluation)
 function generateMockFeedback(score: number): AttemptFeedback {
   const isExcellent = score >= 0.9
   const isGood = score >= 0.7
@@ -80,10 +50,19 @@ function generateMockFeedback(score: number): AttemptFeedback {
 
 type ViewState = 'practice' | 'feedback' | 'analysis'
 
+interface VerseData {
+  verse: Verse
+  surah: Surah
+  totalVerses: number
+}
+
 function PracticeContent() {
   const searchParams = useSearchParams()
-  const verseId = searchParams.get('verseId') || '1:1'
+  const verseIdParam = searchParams.get('verseId')
 
+  const [verseData, setVerseData] = useState<VerseData | null>(null)
+  const [loading, setLoading] = useState(true)
+  const [loadError, setLoadError] = useState<string | null>(null)
   const [userTranslation, setUserTranslation] = useState('')
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [viewState, setViewState] = useState<ViewState>('practice')
@@ -92,9 +71,83 @@ function PracticeContent() {
   const [hintsRevealed, setHintsRevealed] = useState(0)
   const [showHints, setShowHints] = useState(false)
 
-  // Get verse data (will be from API later)
-  const verse = mockVerses[verseId] || mockVerses['1:1']
-  const analysis = mockAnalysis[verseId] || mockAnalysis['1:1']
+  // Use default analysis for now (will be per-verse later)
+  const analysis = defaultAnalysis
+
+  // Load verse data
+  useEffect(() => {
+    async function loadVerseData() {
+      setLoading(true)
+      setLoadError(null)
+
+      try {
+        if (verseIdParam) {
+          // Load specific verse
+          const [surahIdStr, verseNumStr] = verseIdParam.split(':')
+          const surahId = parseInt(surahIdStr, 10)
+          const verseNum = parseInt(verseNumStr, 10)
+
+          const surah = await getSurahById(surahId)
+          if (!surah) {
+            setLoadError('Surah data not available yet.')
+            return
+          }
+
+          const verse = surah.verses.find(v => v.verseNumber === verseNum)
+          if (!verse) {
+            setLoadError('Verse not found.')
+            return
+          }
+
+          setVerseData({
+            verse,
+            surah: {
+              id: surah.id,
+              name: surah.name,
+              nameArabic: surah.nameArabic,
+              meaning: surah.meaning,
+              verseCount: surah.verseCount,
+              revelationType: surah.revelationType,
+            },
+            totalVerses: surah.verses.length,
+          })
+        } else {
+          // Load random verse for quick practice
+          const randomVerse = await getRandomVerse()
+          if (!randomVerse) {
+            setLoadError('No verse data available.')
+            return
+          }
+
+          const surah = await getSurahById(randomVerse.surahId)
+          if (!surah) {
+            setLoadError('Surah data not available.')
+            return
+          }
+
+          setVerseData({
+            verse: randomVerse,
+            surah: {
+              id: surah.id,
+              name: surah.name,
+              nameArabic: surah.nameArabic,
+              meaning: surah.meaning,
+              verseCount: surah.verseCount,
+              revelationType: surah.revelationType,
+            },
+            totalVerses: surah.verses.length,
+          })
+        }
+      } catch (err) {
+        console.error('Failed to load verse:', err)
+        setLoadError('Failed to load verse data.')
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    loadVerseData()
+  }, [verseIdParam])
 
   const handleSubmit = useCallback(async () => {
     if (!userTranslation.trim()) {
@@ -144,13 +197,15 @@ function PracticeContent() {
   }
 
   const handleNextVerse = () => {
-    const nextVerseNum = verse.verseNumber + 1
-    if (nextVerseNum <= verse.totalVerses) {
-      const nextVerseId = `${verse.surahId}:${nextVerseNum}`
+    if (!verseData) return
+
+    const nextVerseNum = verseData.verse.verseNumber + 1
+    if (nextVerseNum <= verseData.totalVerses) {
+      const nextVerseId = `${verseData.surah.id}:${nextVerseNum}`
       window.location.href = `/practice?verseId=${nextVerseId}`
     } else {
       // Go back to surah page if no more verses
-      window.location.href = `/browse/surah/${verse.surahId}`
+      window.location.href = `/browse/surah/${verseData.surah.id}`
     }
   }
 
@@ -160,6 +215,36 @@ function PracticeContent() {
       setShowHints(true)
     }
   }
+
+  if (loading) {
+    return (
+      <main className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
+        <div className="flex items-center justify-center py-20">
+          <Spinner size="lg" />
+        </div>
+      </main>
+    )
+  }
+
+  if (loadError || !verseData) {
+    return (
+      <main className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
+        <Alert variant="warning" title="Verse Not Available">
+          {loadError || 'Unable to load verse data.'}
+        </Alert>
+        <div className="mt-6 flex gap-4">
+          <Link href="/browse">
+            <Button variant="outline">Browse Surahs</Button>
+          </Link>
+          <Link href="/practice">
+            <Button>Try Random Verse</Button>
+          </Link>
+        </div>
+      </main>
+    )
+  }
+
+  const { verse, surah, totalVerses } = verseData
 
   return (
     <main className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
@@ -174,8 +259,8 @@ function PracticeContent() {
             </li>
             <li>/</li>
             <li>
-              <Link href={`/browse/surah/${verse.surahId}`} className="hover:text-gray-700">
-                {verse.surahName}
+              <Link href={`/browse/surah/${surah.id}`} className="hover:text-gray-700">
+                {surah.name}
               </Link>
             </li>
             <li>/</li>
@@ -186,14 +271,14 @@ function PracticeContent() {
         {/* Progress in surah */}
         <div className="text-sm text-gray-500">
           <span className="font-medium text-gray-900">{verse.verseNumber}</span>
-          <span> of {verse.totalVerses}</span>
+          <span> of {totalVerses}</span>
         </div>
       </div>
 
       {/* Verse Display */}
       <VerseDisplay
         arabic={verse.textArabic}
-        surahName={verse.surahName}
+        surahName={surah.name}
         verseNumber={verse.verseNumber}
         size="xl"
         className="mb-8"
@@ -322,7 +407,7 @@ function PracticeContent() {
               View Word Analysis
             </Button>
             <Button onClick={handleNextVerse} className="flex-1" size="lg">
-              {verse.verseNumber < verse.totalVerses ? 'Next Verse' : 'Back to Surah'}
+              {verse.verseNumber < totalVerses ? 'Next Verse' : 'Back to Surah'}
             </Button>
           </div>
         </div>
@@ -386,7 +471,7 @@ function PracticeContent() {
                 Practice This Verse
               </Button>
               <Button onClick={handleNextVerse}>
-                {verse.verseNumber < verse.totalVerses ? 'Next Verse' : 'Back to Surah'}
+                {verse.verseNumber < totalVerses ? 'Next Verse' : 'Back to Surah'}
               </Button>
             </div>
           </CardContent>

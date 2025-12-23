@@ -1,5 +1,6 @@
 /**
  * Core type definitions for Qalam
+ * Stateless knowledge application - no user accounts
  */
 
 // Surah metadata
@@ -38,17 +39,6 @@ export interface VerseAnalysis {
   grammarNotes: string[]
 }
 
-// User's practice attempt
-export interface Attempt {
-  id: string
-  verseId: string
-  userId: string
-  userTranslation: string
-  score: number          // 0-1
-  feedback: AttemptFeedback
-  createdAt: Date
-}
-
 // Feedback from LLM evaluation
 export interface AttemptFeedback {
   overallScore: number
@@ -58,25 +48,6 @@ export interface AttemptFeedback {
   encouragement: string
 }
 
-// User progress stats
-export interface UserProgress {
-  totalAttempts: number
-  uniqueVerses: number
-  averageScore: number
-  daysActive: number
-  currentStreak: number
-  bestScore: number
-}
-
-// Verse progress (per verse stats)
-export interface VerseProgress {
-  verseId: string
-  attemptCount: number
-  bestScore: number
-  lastAttemptAt: Date
-  averageScore: number
-}
-
 // API Response types
 export interface ApiResponse<T> {
   success: boolean
@@ -84,13 +55,17 @@ export interface ApiResponse<T> {
   error?: string
 }
 
-// Pagination
-export interface PaginatedResponse<T> {
-  items: T[]
-  total: number
-  page: number
-  pageSize: number
-  hasMore: boolean
+// Evaluation request
+export interface EvaluateRequest {
+  verseId: string
+  userTranslation: string
+}
+
+// Evaluation response
+export interface EvaluateResponse {
+  feedback: AttemptFeedback
+  referenceTranslation: string
+  analysis: WordAnalysis[]
 }
 
 // Form states
@@ -100,5 +75,11 @@ export type FormStatus = 'idle' | 'loading' | 'success' | 'error'
 export interface NavItem {
   label: string
   href: string
-  icon?: string
+}
+
+// Session preferences (localStorage)
+export interface UserPreferences {
+  fontSize: 'small' | 'medium' | 'large' | 'xlarge'
+  showHints: boolean
+  lastVerseId?: string
 }

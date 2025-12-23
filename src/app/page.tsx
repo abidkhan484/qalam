@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { Button } from '@/components/ui'
 
-export default function LandingPage() {
+export default function HomePage() {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
@@ -10,49 +10,55 @@ export default function LandingPage() {
           <div className="flex justify-between items-center">
             <span className="text-2xl font-bold">Qalam</span>
             <div className="flex gap-3">
-              <Link href="/login">
+              <Link href="/browse">
                 <Button variant="ghost" className="text-white hover:bg-white/10">
-                  Sign in
+                  Browse Surahs
                 </Button>
               </Link>
-              <Link href="/register">
+              <Link href="/practice?verseId=1:1">
                 <Button variant="secondary">
-                  Get Started
+                  Start Practice
                 </Button>
               </Link>
             </div>
           </div>
         </nav>
 
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-24 text-center">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-            Master Quran Translation
+            Understand the Quran
             <br />
             <span className="text-secondary-300">Through Practice</span>
           </h1>
           <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
-            Learn to translate Quranic verses with AI-powered feedback.
-            Build deep understanding through active practice, not passive reading.
+            Practice translating Quranic verses and receive instant AI-powered feedback.
+            Build deep understanding through active learning.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/register">
+            <Link href="/practice?verseId=1:1">
               <Button size="lg" variant="secondary" className="w-full sm:w-auto">
-                Start Learning Free
+                Try with Al-Fatihah
               </Button>
             </Link>
-            <Link href="#how-it-works">
+            <Link href="/browse">
               <Button size="lg" variant="outline" className="w-full sm:w-auto border-white text-white hover:bg-white/10">
-                See How It Works
+                Browse All Surahs
               </Button>
             </Link>
           </div>
         </div>
       </header>
 
-      {/* Sample Verse Display */}
+      {/* Featured Verse - Try It Now */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-8">
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">Try It Now</h2>
+            <p className="text-gray-600">See how Qalam helps you learn</p>
+          </div>
+
           <div className="bg-white rounded-2xl shadow-card p-8 md:p-12">
+            <p className="text-sm text-gray-500 mb-4 text-center">Al-Fatihah 1:1</p>
             <p
               className="font-arabic text-arabic-xl text-gray-900 text-center leading-[2.5] mb-6"
               dir="rtl"
@@ -60,22 +66,29 @@ export default function LandingPage() {
             >
               بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
             </p>
-            <p className="text-center text-gray-500 text-sm">
-              Al-Fatihah 1:1 — Practice translating verses like this
+            <p className="text-center text-gray-500 text-sm mb-6">
+              Can you translate this verse? Click below to practice.
             </p>
+            <div className="flex justify-center">
+              <Link href="/practice?verseId=1:1">
+                <Button size="lg">
+                  Practice This Verse
+                </Button>
+              </Link>
+            </div>
           </div>
         </div>
       </section>
 
       {/* How It Works */}
-      <section id="how-it-works" className="py-20 bg-white">
+      <section className="py-20 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-              How Qalam Works
+              How It Works
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              A simple, effective approach to learning Quran translation
+              Simple, effective learning in three steps
             </p>
           </div>
 
@@ -89,7 +102,7 @@ export default function LandingPage() {
                 Select a Verse
               </h3>
               <p className="text-gray-600">
-                Browse through Surahs and choose any verse you want to practice translating.
+                Browse through 114 Surahs and choose any verse to practice.
               </p>
             </div>
 
@@ -102,7 +115,7 @@ export default function LandingPage() {
                 Write Your Translation
               </h3>
               <p className="text-gray-600">
-                Read the Arabic text and write your best translation in English. Take your time.
+                Read the Arabic text and write your best English translation.
               </p>
             </div>
 
@@ -112,10 +125,10 @@ export default function LandingPage() {
                 <span className="text-2xl font-bold text-primary-600">3</span>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">
-                Get AI Feedback
+                Get Instant Feedback
               </h3>
               <p className="text-gray-600">
-                Receive detailed feedback on your translation with scoring, insights, and suggestions.
+                Receive AI-powered feedback with scoring, insights, and word-by-word analysis.
               </p>
             </div>
           </div>
@@ -127,10 +140,10 @@ export default function LandingPage() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-              Learn Effectively
+              Learn Deeply
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Features designed to help you understand the Quran deeply
+              Features designed for meaningful understanding
             </p>
           </div>
 
@@ -142,10 +155,10 @@ export default function LandingPage() {
                 </svg>
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                Instant Feedback
+                Intelligent Feedback
               </h3>
               <p className="text-gray-600">
-                Get immediate, detailed feedback on your translations with specific points on what you got right and areas to improve.
+                AI evaluates your translation, highlighting what you got right and suggesting improvements.
               </p>
             </div>
 
@@ -159,35 +172,35 @@ export default function LandingPage() {
                 Word-by-Word Analysis
               </h3>
               <p className="text-gray-600">
-                Understand each Arabic word with transliteration, meaning, root letters, and grammatical notes.
+                Explore each Arabic word with transliteration, meaning, root letters, and grammar.
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 shadow-card">
               <div className="w-12 h-12 bg-secondary-50 rounded-lg flex items-center justify-center mb-4">
                 <svg className="w-6 h-6 text-secondary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                 </svg>
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                Track Your Progress
+                No Sign-Up Required
               </h3>
               <p className="text-gray-600">
-                Monitor your learning journey with detailed statistics, history, and improvement trends over time.
+                Start learning immediately. No accounts, no passwords, no barriers.
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 shadow-card">
               <div className="w-12 h-12 bg-warning-50 rounded-lg flex items-center justify-center mb-4">
                 <svg className="w-6 h-6 text-warning-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                Build Streaks
+                All 114 Surahs
               </h3>
               <p className="text-gray-600">
-                Stay motivated with daily practice streaks and see how consistent effort leads to mastery.
+                Practice with any verse from the complete Quran. Over 6,000 verses available.
               </p>
             </div>
           </div>
@@ -198,14 +211,14 @@ export default function LandingPage() {
       <section className="py-20 bg-gradient-hero pattern-overlay text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Start Your Journey Today
+            Begin Your Journey
           </h2>
           <p className="text-xl text-primary-100 mb-8">
-            Join learners who are deepening their understanding of the Quran through active practice.
+            Every verse you practice deepens your understanding.
           </p>
-          <Link href="/register">
+          <Link href="/browse">
             <Button size="lg" variant="secondary">
-              Create Free Account
+              Browse Surahs
             </Button>
           </Link>
         </div>
@@ -220,11 +233,11 @@ export default function LandingPage() {
               <p className="text-sm mt-1">Learn Quran Translation Through Practice</p>
             </div>
             <div className="flex gap-6 text-sm">
-              <Link href="/login" className="hover:text-white transition-colors">
-                Sign In
+              <Link href="/browse" className="hover:text-white transition-colors">
+                Browse
               </Link>
-              <Link href="/register" className="hover:text-white transition-colors">
-                Register
+              <Link href="/practice?verseId=1:1" className="hover:text-white transition-colors">
+                Practice
               </Link>
             </div>
           </div>

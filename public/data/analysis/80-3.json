@@ -1,0 +1,103 @@
+{
+  "verseId": "80:3",
+  "verse": {
+    "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+    "transliteration": "Wama yudreeka laAAallahu yazzakka",
+    "surah": "Abasa",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or to be"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُدْرِيكَ",
+      "transliteration": "yuḍriku-ka",
+      "meaning": "would make you know/perceive",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to know, to realize"
+      },
+      "components": [
+        {
+          "arabic": "يُدْرِك",
+          "meaning": "would make you know/perceive (verbal form)"
+        },
+        {
+          "arabic": "-ك",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَعَلَّهُ",
+      "transliteration": "laʿallahū",
+      "meaning": "perhaps he",
+      "root": {
+        "letters": "ع-ل-ه",
+        "meaning": "to hope, to expect, to be possible"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, in order that, so that (introducing a purpose or hope)"
+        },
+        {
+          "arabic": "عَلَّ",
+          "meaning": "to hope, to expect (verbal noun form)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَزَّكَّىٰ",
+      "transliteration": "yazakkā",
+      "meaning": "become purified/be cleansed",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "growth, increase; purity, goodness"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first-person singular imperfect active voice or present tense"
+        },
+        {
+          "arabic": "زَكَّى",
+          "meaning": "to purify, to cleanse"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what would-make-you know/perceive perhaps-he become-purified/be-cleansed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

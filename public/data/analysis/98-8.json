@@ -1,0 +1,338 @@
+{
+  "verseId": "98:8",
+  "verse": {
+    "arabic": "جَزَاؤُهُمْ عِندَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+    "transliteration": "Jazaohum AAinda rabbihim jannatu AAadnin tajree min tahtiha alanharu khalideena feeha abadan radiya Allahu AAanhum waradoo AAanhu thalika liman khashiya rabbahu",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "جَزَاؤُهُمْ",
+      "transliteration": "jazā’uhum",
+      "meaning": "Their reward",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to fully pay (a debt or price)"
+      },
+      "components": [
+        {
+          "arabic": "جَزَاءٌ",
+          "meaning": "reward, recompense"
+        },
+        {
+          "arabic": "ـُهُمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "With, at",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be present with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـهمْ",
+          "meaning": "their (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَنَّاتُ",
+      "transliteration": "jannāt",
+      "meaning": "Gardens",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "To hide, to cover, to be concealed; also relates to the essence of something hidden and beautiful."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَدْنٍ",
+      "transliteration": "ʿadnin",
+      "meaning": "Perpetual residence, Eden",
+      "root": {
+        "letters": "ع-د-ن",
+        "meaning": "to settle, to reside; lowliness/humility (related to the state of peaceful dwelling)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَجْرِي",
+      "transliteration": "tajrī",
+      "meaning": "Flows, runs",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "To flow, to run, to proceed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِن تَحْتِهَا",
+      "transliteration": "min taḥtihā",
+      "meaning": "From beneath them",
+      "root": {
+        "letters": "ح-ت-ث",
+        "meaning": "to be below, to lie under, underneath"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "تَحْتِهَا",
+          "meaning": "beneath them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْأَنْهَارُ",
+      "transliteration": "al-anhār",
+      "meaning": "The rivers",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream; riverbed"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَنْهَار",
+          "meaning": "rivers (plural of نهر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "خَالِدِينَ",
+      "transliteration": "khālidīn",
+      "meaning": "Abiding, remaining forever",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to be eternal, to remain, to perish (in the sense of something ceasing to exist)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "In them, therein",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "To contain, to encompass; to be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "In"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Them, therein (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَبَدًا",
+      "transliteration": "abadan",
+      "meaning": "Forever, eternally",
+      "root": {
+        "letters": "أ-ب-د",
+        "meaning": "to perish, to be destroyed; permanence by opposition (i.e., never perishing)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "رَّضِيَ",
+      "transliteration": "raḍiya",
+      "meaning": "Was pleased",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be content, to approve, to accept with satisfaction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "عَنْهُمْ",
+      "transliteration": "ʿanhum",
+      "meaning": "With them, about them",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to be away from, to depart, to turn back"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, with respect to"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "they, them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "وَرَضُوا",
+      "transliteration": "waraḍū",
+      "meaning": "And they were pleased",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be content, to approve, to accept willingly"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَضُوا",
+          "meaning": "they were pleased/content"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "عَنْهُ",
+      "transliteration": "ʿanhu",
+      "meaning": "With Him, about Him",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to be away from, to depart, to turn back"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, about"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "That is, this is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "[humiliation, weakness, submission]"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "[That, this]"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "[Suffix indicating remoteness/demonstrative pronoun]"
+        }
+      ]
+    },
+    {
+      "wordNumber": 18,
+      "arabic": "لِمَنْ",
+      "transliteration": "liman",
+      "meaning": "For whoever, to whomever",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to be possessed, to belong to; prevention, obstruction"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَنْ",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 19,
+      "arabic": "خَشِيَ",
+      "transliteration": "khashiya",
+      "meaning": "Feared, was wary of",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "Humility, reverence, fear, shrinking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 20,
+      "arabic": "رَبَّهُ",
+      "transliteration": "rabba-hu",
+      "meaning": "His Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative case)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "His"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Their-reward - with - their-Lord - gardens - perpetual-residence - flows - from-beneath-them - the-rivers - abiding-forever - in-them - forever - was-pleased - Allah - with-them - and-they-were-pleased - with-Him - that-is - for-whoever - feared - his-Lord"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

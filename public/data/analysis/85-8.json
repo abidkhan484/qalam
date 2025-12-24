@@ -1,0 +1,177 @@
+{
+  "verseId": "85:8",
+  "verse": {
+    "arabic": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَن يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+    "transliteration": "Wama naqamoo minhum illa an yuminoo biAllahi alAAazeezi alhameedi",
+    "surah": "Al-Buruj",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَقَمُوا",
+      "transliteration": "naqamū",
+      "meaning": "they resented/they disliked intensely",
+      "root": {
+        "letters": "ن-ق-م",
+        "meaning": "to resent, to dislike intensely, to blame"
+      },
+      "components": [
+        {
+          "arabic": "نَقَمُوا",
+          "meaning": "they resented/disliked intensely (verb, third person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنْهُمْ",
+      "transliteration": "min hum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/only",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away from, to reject, to negate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَن",
+      "transliteration": "an",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; related to verbal nouns and infinitives indicating state or act of being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُؤْمِنُوا",
+      "transliteration": "yu'minū",
+      "meaning": "they believe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to trust, to be secure"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural pronoun prefix indicating the subject)"
+        },
+        {
+          "arabic": "أَمِنُوا",
+          "meaning": "believe (verb, 3rd person masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِاللَّهِ",
+      "transliteration": "bi-llāhi",
+      "meaning": "in/with Allah",
+      "root": {
+        "letters": "ل-ه-ا",
+        "meaning": "to be divine, to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْعَزِيزِ",
+      "transliteration": "al-ʿazīzi",
+      "meaning": "the Exalted in Might/the Powerful",
+      "root": {
+        "letters": "ع-ز-ز",
+        "meaning": "strength, power, firmness, nobility"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَزِيز",
+          "meaning": "mighty, powerful, exalted"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْحَمِيدِ",
+      "transliteration": "al-ḥamīdi",
+      "meaning": "the Praiseworthy",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, commendation, glory"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَمِيد",
+          "meaning": "praised, commendable"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and what-not they resented from them except that they believe in-Allah the-Exalted-in-Might the-Praiseworthy"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

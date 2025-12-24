@@ -1,0 +1,81 @@
+{
+  "verseId": "104:4",
+  "verse": {
+    "arabic": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ",
+    "transliteration": "Kalla layunbathanna fee alhutamati",
+    "surah": "Al-Humazah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No! Indeed!",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "to prevent, to repel, or negation/rejection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَيُنبَذَنَّ",
+      "transliteration": "layunbadhan",
+      "meaning": "He will surely be thrown",
+      "root": {
+        "letters": "ن-ب-ذ",
+        "meaning": "to cast away, to reject, to discard"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يُنْبَذَنَّ",
+          "meaning": "he will surely be thrown/discarded (passive, emphatic)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, into",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحُطَمَةِ",
+      "transliteration": "al-ḥuṭmah",
+      "meaning": "the Crusher, the breaking (thing)",
+      "root": {
+        "letters": "ح-ط-م",
+        "meaning": "to break, to crush, to destroy"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حُطْمَة",
+          "meaning": "crushed thing, debris, breaking"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! -He- will-surely-be-thrown -in- the-Crusher."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

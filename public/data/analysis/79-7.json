@@ -1,0 +1,54 @@
+{
+  "verseId": "79:7",
+  "verse": {
+    "arabic": "تَتْبَعُهَا الرَّادِفَةُ",
+    "transliteration": "TatbaAAuha alrradifatu",
+    "surah": "An-Nazi'at",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَتْبَعُهَا",
+      "transliteration": "tatbaʿuhā",
+      "meaning": "It follows it",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to pursue, to succeed"
+      },
+      "components": [
+        {
+          "arabic": "تَتَ",
+          "meaning": "it (feminine singular) does/is doing"
+        },
+        {
+          "arabic": "بِعُ",
+          "meaning": "following (verbal noun)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular, accusative pronoun indicating the object being followed)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الرَّادِفَةُ",
+      "transliteration": "ar-rādifatu",
+      "meaning": "The subsequent one",
+      "root": {
+        "letters": "ر-د-ف",
+        "meaning": "to follow, to succeed, to come after"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "follows-it [the] subsequent-one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "verseId": "89:1",
+  "verse": {
+    "arabic": "وَالْفَجْرِ",
+    "transliteration": "Waalfajri",
+    "surah": "Al-Fajr",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْفَجْرِ",
+      "transliteration": "wa-l-fajri",
+      "meaning": "and the dawn",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to break, split open; dawn (as a breaking of the darkness)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْفَجْرِ",
+          "meaning": "the dawn"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the dawn-[by]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

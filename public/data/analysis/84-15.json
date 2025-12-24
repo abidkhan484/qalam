@@ -1,0 +1,105 @@
+{
+  "verseId": "84:15",
+  "verse": {
+    "arabic": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+    "transliteration": "Bala inna rabbahu kana bihi baseeran",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلَىٰ",
+      "transliteration": "balā",
+      "meaning": "Yes, indeed; affirmation",
+      "root": {
+        "letters": "ب-ل-ي",
+        "meaning": "to be afflicted, to reach fulfillment; affirmation/access"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed, verily; emphatic particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle indicating affirmation and importance."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبَّهُ",
+      "transliteration": "rabba-hu",
+      "meaning": "His Lord; possessor, sustainer of him",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; to sustain, to cherish"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord, possessor, sustainer"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "His"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, used to be; past tense of 'to be'",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِهِ",
+      "transliteration": "bi-hi",
+      "meaning": "With him; regarding him",
+      "root": {
+        "letters": "ح-ي-أ",
+        "meaning": "life, existence, being alive"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him; his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بَصِيرًا",
+      "transliteration": "baṣīran",
+      "meaning": "Seeing; perceptive, aware",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "To see; to perceive; to be aware."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Yes-indeed, indeed-[it is that] His-Lord was with-him Seeing."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "verseId": "90:7",
+  "verse": {
+    "arabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ",
+    "transliteration": "Ayahsabu an lam yarahu ahadun",
+    "surah": "Al-Balad",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَيَحْسَبُ",
+      "transliteration": "ʾayḥasibu",
+      "meaning": "Does he think?",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to estimate; to consider"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "يَحْسِبُ",
+          "meaning": "he thinks, he considers"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also used to form verbal nouns of measure VIII"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّمْ",
+      "transliteration": "lam",
+      "meaning": "not"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَرَهُ",
+      "transliteration": "yarahū",
+      "meaning": "see him",
+      "root": {
+        "letters": "ر-ه-ي",
+        "meaning": "to see, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person singular present tense (I)"
+        },
+        {
+          "arabic": "رَهُ",
+          "meaning": "him (masculine singular object pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَحَدٌ",
+      "transliteration": "ʾaḥadun",
+      "meaning": "anyone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "uniqueness, oneness, singularity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Does-he think that not see-him anyone?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

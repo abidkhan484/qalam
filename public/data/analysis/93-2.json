@@ -1,0 +1,60 @@
+{
+  "verseId": "93:2",
+  "verse": {
+    "arabic": "وَاللَّيْلِ إِذَا سَجَىٰ",
+    "transliteration": "Waallayli itha saja",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّيْلِ",
+      "transliteration": "al-layli",
+      "meaning": "the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark or obscure"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to go, to depart; time, occasion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَجَىٰ",
+      "transliteration": "sajā",
+      "meaning": "covered, enveloped; became dark",
+      "root": {
+        "letters": "س-ج-و",
+        "meaning": "to cover, to veil, to become dark"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -the-night when it -covers-with-darkness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

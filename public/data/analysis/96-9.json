@@ -1,0 +1,74 @@
+{
+  "verseId": "96:9",
+  "verse": {
+    "arabic": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+    "transliteration": "Araayta allathee yanha",
+    "surah": "Al-Alaq",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَرَأَيْتَ",
+      "transliteration": "ʾarāyta",
+      "meaning": "Have you seen, have you perceived",
+      "root": {
+        "letters": "ر-أ-ي",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle (indicating a question)"
+        },
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "you have seen (second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "The one who, which (relative pronoun)",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "to possess, to have; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَنْهَىٰ",
+      "transliteration": "yanhā",
+      "meaning": "He forbids, he prohibits",
+      "root": {
+        "letters": "ن-ه-ي",
+        "meaning": "to restrain, to prevent, to forbid"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular or third person masculine singular"
+        },
+        {
+          "arabic": "ن-ه-ى",
+          "meaning": "to restrain, to prevent, to forbid (root)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "vowel indicating present/future tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-seen the-one-who he-forbids"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

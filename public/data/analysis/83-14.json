@@ -1,0 +1,134 @@
+{
+  "verseId": "83:14",
+  "verse": {
+    "arabic": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ",
+    "transliteration": "Kalla bal rana AAala quloobihim ma kanoo yaksiboona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Indeed not!",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "to prevent, to hinder, negation or denial"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "Rather, but",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to reject, to oppose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَانَ",
+      "transliteration": "rāna",
+      "meaning": "Covered, stained",
+      "root": {
+        "letters": "ر-ي-ن",
+        "meaning": "to be full, to be abundant; to have moisture or saturation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قُلُوبِهِم",
+      "transliteration": "qulūbihim",
+      "meaning": "Their hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change; heart (as the turner of emotions)"
+      },
+      "components": [
+        {
+          "arabic": "قلوب",
+          "meaning": "hearts"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "That which, what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "To desire, to wish; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "They were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "They (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "Were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَكْسِبُونَ",
+      "transliteration": "yaksibūna",
+      "meaning": "They earn",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to gain, to earn"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural subject"
+        },
+        {
+          "arabic": "كْسِبُونَ",
+          "meaning": "they earn (verb form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - Rather - Covered - upon - their hearts - that which - they were - earning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

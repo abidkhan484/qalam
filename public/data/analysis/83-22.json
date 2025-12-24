@@ -1,0 +1,68 @@
+{
+  "verseId": "83:22",
+  "verse": {
+    "arabic": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+    "transliteration": "Inna alabrara lafee naAAeemin",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-نّ",
+        "meaning": "to confirm, to establish, to be true"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, if/when (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَبْرَارَ",
+      "transliteration": "al-ʾabrāra",
+      "meaning": "the righteous ones",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be pious, righteous; to excel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَفِي",
+      "transliteration": "lafī",
+      "meaning": "are surely in",
+      "root": {
+        "letters": "ل-ف-ي",
+        "meaning": "to be excessive, to remain, to exceed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَعِيمٍ",
+      "transliteration": "naʿīmin",
+      "meaning": "pleasure, bliss",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "enjoyment, comfort, pleasantness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-righteous-ones-[are]-surely-in-pleasure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

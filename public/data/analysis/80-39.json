@@ -1,0 +1,63 @@
+{
+  "verseId": "80:39",
+  "verse": {
+    "arabic": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+    "transliteration": "Dahikatun mustabshiratun",
+    "surah": "Abasa",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ضَاحِكَةٌ",
+      "transliteration": "ḍāḥikah̙",
+      "meaning": "A female laugher; laughing one.",
+      "root": {
+        "letters": "ض-ح-ك",
+        "meaning": "to laugh, to smile; merriment"
+      },
+      "components": [
+        {
+          "arabic": "ضَاحِك",
+          "meaning": "laughing, one who laughs"
+        },
+        {
+          "arabic": "ةٌ",
+          "meaning": "feminine indefinite marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مُّسْتَبْشِرَةٌ",
+      "transliteration": "mustabshirah̙",
+      "meaning": "A female rejoicer; one who receives good news with joy.",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to bring good news; to be joyful"
+      },
+      "components": [
+        {
+          "arabic": "مُسْتَ",
+          "meaning": "passive participle prefix indicating 'one who receives...'"
+        },
+        {
+          "arabic": "بَشِرَة",
+          "meaning": "good news, glad tidings"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "laughing-one rejoicing-at-good-news-[is]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "verseId": "100:1",
+  "verse": {
+    "arabic": "وَالْعَادِيَاتِ ضَبْحًا",
+    "transliteration": "WaalAAadiyati dabhan",
+    "surah": "Al-Adiyat",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْعَادِيَاتِ",
+      "transliteration": "wa-l-ʿādiyāti",
+      "meaning": "and the racers/runners",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to run, to be swift, to hasten"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْعَادِيَاتِ",
+          "meaning": "the racers/runners (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ضَبْحًا",
+      "transliteration": "ḍabḥan",
+      "meaning": "panting/with a forceful stride",
+      "root": {
+        "letters": "ض-ب-ح",
+        "meaning": "to sacrifice, to slaughter; to cut off intensely"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the racers/runners - panting/with a forceful stride"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "verseId": "82:16",
+  "verse": {
+    "arabic": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+    "transliteration": "Wama hum AAanha bighaibeena",
+    "surah": "Al-Infitar",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, or to be able; related to questioning and negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "belonging to, being with, possessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنْهَا",
+      "transliteration": "ʿanhā",
+      "meaning": "from it/away from it",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to deviate, to turn away, to be distant"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "from, away from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِغَائِبِينَ",
+      "transliteration": "bi-ghāʾibīn",
+      "meaning": "absent/being absent",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be absent, to disappear, to go away"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "غَائِبِينَ",
+          "meaning": "absent ones, those who are absent"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not they from-it being-absent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

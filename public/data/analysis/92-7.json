@@ -1,0 +1,67 @@
+{
+  "verseId": "92:7",
+  "verse": {
+    "arabic": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+    "transliteration": "Fasanuyassiruhu lilyusra",
+    "surah": "Al-Layl",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَنُيَسِّرُهُ",
+      "transliteration": "fa-sanuyassiruhu",
+      "meaning": "then We will surely facilitate it for him",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "ease, facility; to be easy or facilitated"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so (particle indicating future consequence)"
+        },
+        {
+          "arabic": "سَـ",
+          "meaning": "future tense marker"
+        },
+        {
+          "arabic": "نُيَسِّرُ",
+          "meaning": "We will facilitate"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلْيُسْرَىٰ",
+      "transliteration": "lil-yusrā",
+      "meaning": "for the ease/facility",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "facilitation, ease, convenience"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "يُسْرَىٰ",
+          "meaning": "the ease, facility; the left side (in some contexts)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then]-sanuyassiruhu-We will surely facilitate it for him lil-yusrā-for the ease/facility"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "verseId": "97:3",
+  "verse": {
+    "arabic": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+    "transliteration": "Laylatu alqadri khayrun min alfi shahrin",
+    "surah": "Al-Qadr",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَيْلَةُ",
+      "transliteration": "laylatu",
+      "meaning": "night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْقَدْرِ",
+      "transliteration": "al-qadri",
+      "meaning": "the Decree (or Power)",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate; power, ability, decree"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَدْرِ",
+          "meaning": "decree, power, measure (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّنْ",
+      "transliteration": "min",
+      "meaning": "than",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or deprive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَلْفِ",
+      "transliteration": "ʾalfi",
+      "meaning": "thousand",
+      "root": {
+        "letters": "أ-ل-ف",
+        "meaning": "to be first, to begin; a single thing, unit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَهْرٍ",
+      "transliteration": "shahrin",
+      "meaning": "months",
+      "root": {
+        "letters": "ش-ه-ر",
+        "meaning": "to be wide, spacious; a period of time"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "night-of the Decree better than thousand months"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

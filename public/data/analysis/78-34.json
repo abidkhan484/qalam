@@ -1,0 +1,49 @@
+{
+  "verseId": "78:34",
+  "verse": {
+    "arabic": "وَكَأْسًا دِهَاقًا",
+    "transliteration": "Wakasan dihaqan",
+    "surah": "An-Naba",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَأْسًا",
+      "transliteration": "kaʾsan",
+      "meaning": "a cup",
+      "root": {
+        "letters": "ك-أ-س",
+        "meaning": "to drink, cup, glass"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "دِهَاقًا",
+      "transliteration": "dahāqan",
+      "meaning": "full, overflowing",
+      "root": {
+        "letters": "د-ح-ق",
+        "meaning": "to overwhelm, to engulf, to spread widely"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - a cup - full"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

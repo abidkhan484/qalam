@@ -1,0 +1,74 @@
+{
+  "verseId": "108:1",
+  "verse": {
+    "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+    "transliteration": "Inna aAAtaynaka alkawthara",
+    "surah": "Al-Kawthar",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily; the emphatic particle 'in' with attached pronoun 'na'",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle introducing a clause"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We, us (first person plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَعْطَيْنَاكَ",
+      "transliteration": "ʾaʿṭaynāk",
+      "meaning": "We have granted you; 'aʿṭay' (to grant) with attached pronoun suffixes",
+      "root": {
+        "letters": "ع-ط-ي",
+        "meaning": "to give, to grant, to bestow"
+      },
+      "components": [
+        {
+          "arabic": "أعطى",
+          "meaning": "we granted (past tense)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكَوْثَرَ",
+      "transliteration": "al-kawthar",
+      "meaning": "Al-Kawthar; the proper noun, likely abundance or a specific river in Paradise",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "abundance, plenitude, multiplicity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we have-granted-you al-Kawthar"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

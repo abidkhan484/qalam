@@ -1,0 +1,70 @@
+{
+  "verseId": "91:6",
+  "verse": {
+    "arabic": "وَالْأَرْضِ وَمَا طَحَاهَا",
+    "transliteration": "Waalardi wama tahaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْأَرْضِ",
+      "transliteration": "wa-l-ʾarḍi",
+      "meaning": "and the earth (with definite article)",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَرْضِ",
+          "meaning": "the earth (definite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "طَحَاهَا",
+      "transliteration": "ṭaḥāhā",
+      "meaning": "He spread it (out)",
+      "root": {
+        "letters": "ط-ح-و",
+        "meaning": "to spread out, to cover, to overwhelm"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the earth and-what He-spread-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "verseId": "78:23",
+  "verse": {
+    "arabic": "لَّابِثِينَ فِيهَا أَحْقَابًا",
+    "transliteration": "Labitheena feeha ahqaban",
+    "surah": "An-Naba",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّابِثِينَ",
+      "transliteration": "lābithīna",
+      "meaning": "remaining, abiding ones (plural masculine)",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to stay, abide, tarry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it (feminine)",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to contain"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَحْقَابًا",
+      "transliteration": "aḥqāban",
+      "meaning": "ages, long periods of time (plural)",
+      "root": {
+        "letters": "ح-ق-ب",
+        "meaning": "to surround, to encompass; to hold or contain (time/periods)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "remaining-ones in-it ages"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

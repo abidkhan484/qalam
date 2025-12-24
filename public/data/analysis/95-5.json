@@ -1,0 +1,72 @@
+{
+  "verseId": "95:5",
+  "verse": {
+    "arabic": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+    "transliteration": "Thumma radadnahu asfala safileena",
+    "surah": "At-Tin",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; then (as a result of settling)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَدَدْنَاهُ",
+      "transliteration": "radadnāhu",
+      "meaning": "We returned him",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to repel, to restore"
+      },
+      "components": [
+        {
+          "arabic": "رَدَدْ",
+          "meaning": "We returned"
+        },
+        {
+          "arabic": "نَاهُ",
+          "meaning": "him (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَسْفَلَ",
+      "transliteration": "asfala",
+      "meaning": "lower, lowest",
+      "root": {
+        "letters": "س-ف-ل",
+        "meaning": "to be low, humble; to descend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَافِلِينَ",
+      "transliteration": "sāfilīn",
+      "meaning": "the low ones, the lowest places",
+      "root": {
+        "letters": "س-ف-ل",
+        "meaning": "to be low, to descend, to humiliate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-We-returned-him to-the-lowest of-the-low-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

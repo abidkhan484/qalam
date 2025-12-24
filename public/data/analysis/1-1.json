@@ -1,0 +1,86 @@
+{
+  "verseId": "1:1",
+  "verse": {
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+    "transliteration": "Bismi Allahi alrrahmani alrraheemi",
+    "surah": "Al-Fatihah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِسْمِ",
+      "transliteration": "bi-smi",
+      "meaning": "with the name of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, high status, prominence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "اسْم",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-إ",
+        "meaning": "to worship; deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "ar-Raḥmāni",
+      "meaning": "the Entirely Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰنِ",
+          "meaning": "the Entirely Merciful (intensive form of the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرَّحِيمِ",
+      "transliteration": "ar-Raḥīmi",
+      "meaning": "the Especially Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحِيم",
+          "meaning": "the Merciful"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "possessive ending (genitive case, indicating belonging or relation)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "with-the name of -Allah the-Entirely Merciful the-Especially Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

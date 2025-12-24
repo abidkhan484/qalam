@@ -1,0 +1,106 @@
+{
+  "verseId": "96:1",
+  "verse": {
+    "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+    "transliteration": "Iqra biismi rabbika allathee khalaqa",
+    "surah": "Al-Alaq",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "اُقْرَأْ",
+      "transliteration": "iqraʾ",
+      "meaning": "Read! Recite!",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "To read, to recite, to learn"
+      },
+      "components": [
+        {
+          "arabic": "اقْرَأْ",
+          "meaning": "Read! Recite!"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِاسْمِ",
+      "transliteration": "bi-ismi",
+      "meaning": "With the name of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to elevate, to rise; name, reputation"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "اسْمِ",
+          "meaning": "the name of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِي",
+      "transliteration": "allaḏī",
+      "meaning": "Who, Which",
+      "root": {
+        "letters": "ذ-ي-د",
+        "meaning": "possession, ownership, having quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "Created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Read! - with-the name-of - your-Lord - the-one who - created"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

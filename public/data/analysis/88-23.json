@@ -1,0 +1,81 @@
+{
+  "verseId": "88:23",
+  "verse": {
+    "arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+    "transliteration": "Illa man tawalla wakafara",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but not",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to incline, to turn away from"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, toward"
+        },
+        {
+          "arabic": "لا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; to protect; a point of restriction or limitation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَوَلَّىٰ",
+      "transliteration": "tawallā",
+      "meaning": "turned away, retreated, abandoned",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be responsible for, to govern"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَكَفَرَ",
+      "transliteration": "wakafara",
+      "meaning": "and disbelieved, and denied (faith)",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to deny, disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَفَرَ",
+          "meaning": "he disbelieved, he denied (faith)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-who [he] turned-away and-disbelieved"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

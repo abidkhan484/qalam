@@ -1,0 +1,91 @@
+{
+  "verseId": "113:3",
+  "verse": {
+    "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "transliteration": "Wamin sharri ghasiqin itha waqaba",
+    "surah": "Al-Falaq",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to be from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَرّ",
+      "transliteration": "sharri",
+      "meaning": "evil, harm",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, badness, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "غَاسِقٍ",
+      "transliteration": "ghāsiqin",
+      "meaning": "darkness, gloom",
+      "root": {
+        "letters": "غ-ش-ق",
+        "meaning": "to cover, to overshadow; to become dark"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-أ",
+        "meaning": "to perceive, to be aware of, to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَقَبَ",
+      "transliteration": "waqaba",
+      "meaning": "settled, entered (darkness)",
+      "root": {
+        "letters": "ق-ب-و",
+        "meaning": "to settle, to resort, to enter (a place)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَبَ",
+          "meaning": "settled, entered (darkness)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - from - evil - of darkness - when - it settled"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

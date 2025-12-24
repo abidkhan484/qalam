@@ -1,0 +1,63 @@
+{
+  "verseId": "82:2",
+  "verse": {
+    "arabic": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ",
+    "transliteration": "Waitha alkawakibu intatharat",
+    "surah": "Al-Infitar",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to avoid, to abstain from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكَوَاكِبُ",
+      "transliteration": "al-kawākibu",
+      "meaning": "the stars",
+      "root": {
+        "letters": "ك-و-ب",
+        "meaning": "to shine, to be radiant; to fill (a vessel)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "انتَثَرَتْ",
+      "transliteration": "intatharat",
+      "meaning": "scattered, dispersed",
+      "root": {
+        "letters": "ن-ث-ر",
+        "meaning": "to scatter, to disperse, to spread out"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - the stars - scattered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

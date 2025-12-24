@@ -1,0 +1,50 @@
+{
+  "verseId": "83:1",
+  "verse": {
+    "arabic": "وَيْلٌ لِّلْمُطَفِّفِينَ",
+    "transliteration": "Waylun lilmutaffifeena",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيْلٌ",
+      "transliteration": "waylun",
+      "meaning": "woe, destruction",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "loss, deficiency, destruction, anguish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّلْمُطَفِّفِينَ",
+      "transliteration": "lil-muṭaffifīna",
+      "meaning": "to the defrauders, those who shortchange",
+      "root": {
+        "letters": "ط-ف-ف",
+        "meaning": "to diminish, reduce; to cover (something bad); to deceive"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْمُطَفِّفِينَ",
+          "meaning": "the defrauders, those who shortchange (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Woe - to - the - defrauders"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

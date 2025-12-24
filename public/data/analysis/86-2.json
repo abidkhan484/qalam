@@ -1,0 +1,80 @@
+{
+  "verseId": "86:2",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+    "transliteration": "Wama adraka ma alttariqu",
+    "surah": "At-Tariq",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "ʾadrakāka",
+      "meaning": "can make you know, understand",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to reach, to attain, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَكَ",
+          "meaning": "to know, to understand (perfect tense, active voice)"
+        },
+        {
+          "arabic": "ـَكَ",
+          "meaning": "your (masculine singular, suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الطَّارِقُ",
+      "transliteration": "aṭ-ṭāriqu",
+      "meaning": "the night comer, visitor",
+      "root": {
+        "letters": "ط-ر-ق",
+        "meaning": "to knock, to come at night, to visit suddenly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - what - can make you know - what - the night comer"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

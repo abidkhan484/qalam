@@ -1,0 +1,55 @@
+{
+  "verseId": "1:3",
+  "verse": {
+    "arabic": "الرَّحْمَـٰنِ الرَّحِيمِ",
+    "transliteration": "Alrrahmani alrraheemi",
+    "surah": "Al-Fatihah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "meaning": "The Entirely Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰن",
+          "meaning": "The Merciful (intensified form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الرَّحِيمِ",
+      "transliteration": "ar-raḥīmi",
+      "meaning": "The Especially Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "رَّحِيمِ",
+          "meaning": "Merciful, Compassionate (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-Merciful The-Merciful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

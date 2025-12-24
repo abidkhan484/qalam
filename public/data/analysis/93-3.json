@@ -1,0 +1,98 @@
+{
+  "verseId": "93:3",
+  "verse": {
+    "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+    "transliteration": "Ma waddaAAaka rabbuka wama qala",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "not, what (interrogative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَدَّعَكَ",
+      "transliteration": "waddaʿaka",
+      "meaning": "abandoned you, forsaken you",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, invoke; to abandon, forsake"
+      },
+      "components": [
+        {
+          "arabic": "وَدَّ",
+          "meaning": "to love, desire intensely (related to the root meaning of calling upon something one desires)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rab buka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and not, and what (conjunction + interrogative particle)",
+      "root": {
+        "letters": "م-و-ا",
+        "meaning": "to desire, to will, possession (related to the interrogative)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "قَلَىٰ",
+      "transliteration": "qalā",
+      "meaning": "disliked you, detested you, been displeased with you",
+      "root": {
+        "letters": "ق-ل-و",
+        "meaning": "to say, to utter; to be displeased, to reject"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-abandoned-you your-Lord and-not disliked-you"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

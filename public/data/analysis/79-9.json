@@ -1,0 +1,50 @@
+{
+  "verseId": "79:9",
+  "verse": {
+    "arabic": "أَبْصَارُهَا خَاشِعَةٌ",
+    "transliteration": "Absaruha khashiAAatun",
+    "surah": "An-Nazi'at",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَبْصَارُهَا",
+      "transliteration": "ʾabṣāruhā",
+      "meaning": "Their eyes",
+      "root": {
+        "letters": "ب-ص-ر",
+        "meaning": "to see, to perceive, vision"
+      },
+      "components": [
+        {
+          "arabic": "أَبْ",
+          "meaning": "possessive prefix indicating 'belonging to'"
+        },
+        {
+          "arabic": "صَارُهَا",
+          "meaning": "their eyes (plural, feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَاشِعَةٌ",
+      "transliteration": "khāshiʿatun",
+      "meaning": "Humbled, lowered (in state)",
+      "root": {
+        "letters": "خ-ش-ع",
+        "meaning": "to be submissive, to shrink back, to lower oneself"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Eyes-of-them humbled"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

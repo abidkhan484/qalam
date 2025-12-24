@@ -1,0 +1,59 @@
+{
+  "verseId": "86:1",
+  "verse": {
+    "arabic": "وَالسَّمَاءِ وَالطَّارِقِ",
+    "transliteration": "Waalssamai waalttariqi",
+    "surah": "At-Tariq",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالسَّمَاءِ",
+      "transliteration": "wa-s-samāʾi",
+      "meaning": "and the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "السَّمَاءُ",
+          "meaning": "the sky"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَالطَّارِقِ",
+      "transliteration": "wa-ṭ-ṭāriqi",
+      "meaning": "and the night comer",
+      "root": {
+        "letters": "ط-ر-ق",
+        "meaning": "to come at night, to visit, knock (at a door)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الطَّارِقِ",
+          "meaning": "the night comer (one who comes at night)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the sky-[by] and-the night-comer-[by]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "verseId": "80:15",
+  "verse": {
+    "arabic": "بِأَيْدِي سَفَرَةٍ",
+    "transliteration": "Biaydee safaratin",
+    "surah": "Abasa",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِأَيْدِي",
+      "transliteration": "biʾaydī",
+      "meaning": "with/by hands",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; hand, power"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَيْدِي",
+          "meaning": "hands (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَفَرَةٍ",
+      "transliteration": "safaratin",
+      "meaning": "messengers/writing angels"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "by-hands of messengers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

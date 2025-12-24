@@ -1,0 +1,77 @@
+{
+  "verseId": "108:3",
+  "verse": {
+    "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+    "transliteration": "Inna shaniaka huwa alabtaru",
+    "surah": "Al-Kawthar",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates affirmation and emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces a significant statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَانِئَكَ",
+      "transliteration": "shāniʾaka",
+      "meaning": "Your enemy, your hater",
+      "root": {
+        "letters": "ش-ي-ن",
+        "meaning": "to hate, to be hostile"
+      },
+      "components": [
+        {
+          "arabic": "شَانِئَ",
+          "meaning": "hater, enemy"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He, it (pronoun)",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "existence, being, essence; to fall (in love or despair)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَبْتَرُ",
+      "transliteration": "al-ʾabtaru",
+      "meaning": "The cut off, the maimed",
+      "root": {
+        "letters": "ب-ت-ر",
+        "meaning": "to cut, to sever, to break off"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-your-enemy-[is]-he-the-cut-off"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "verseId": "82:3",
+  "verse": {
+    "arabic": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+    "transliteration": "Waitha albiharu fujjirat",
+    "surah": "Al-Infitar",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to go, to depart; to pass away (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْبِحَارُ",
+      "transliteration": "al-biḥāru",
+      "meaning": "the seas",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to swell, to flow; sea, ocean"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بِحَارُ",
+          "meaning": "seas (plural of بحر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فُجِّرَتْ",
+      "transliteration": "fujjjirat",
+      "meaning": "were erupted, were broken open",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to burst forth, to split open, to excavate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-seas were-erupted"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

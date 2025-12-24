@@ -1,0 +1,54 @@
+{
+  "verseId": "100:3",
+  "verse": {
+    "arabic": "فَالْمُغِيرَاتِ صُبْحًا",
+    "transliteration": "Faalmugheerati subhan",
+    "surah": "Al-Adiyat",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَالْمُغِيرَاتِ",
+      "transliteration": "fa-l-mughīrāt",
+      "meaning": "then, the chargers",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to change, alter; to invade, attack unexpectedly"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُغِيرَاتِ",
+          "meaning": "chargers, attackers (plural feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صُبْحًا",
+      "transliteration": "ṣubḥan",
+      "meaning": "at dawn",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "brightness, clarity, morning"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then]-l-mughīrāt-the chargers ṣubḥan-at dawn"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

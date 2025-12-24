@@ -1,0 +1,58 @@
+{
+  "verseId": "78:7",
+  "verse": {
+    "arabic": "وَالْجِبَالَ أَوْتَادًا",
+    "transliteration": "Waaljibala awtadan",
+    "surah": "An-Naba",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجِبَالَ",
+      "transliteration": "al-jibāla",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise up; strength, power"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "جِبَال",
+          "meaning": "mountains (plural of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَوْتَادًا",
+      "transliteration": "awtādan",
+      "meaning": "stakes, pegs",
+      "root": {
+        "letters": "و-ث-د",
+        "meaning": "to firmly establish, to fix, to impound"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the mountains - stakes"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

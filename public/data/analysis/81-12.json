@@ -1,0 +1,78 @@
+{
+  "verseId": "81:12",
+  "verse": {
+    "arabic": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+    "transliteration": "Waitha aljaheemu suAAAAirat",
+    "surah": "At-Takwir",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to turn back or return (in a figurative sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْجَحِيمُ",
+      "transliteration": "al-jaḥīm",
+      "meaning": "the Hellfire",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "intense heat; burning; vehemence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "جَحِيم",
+          "meaning": "Hellfire; blazing fire"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سُعِّرَتْ",
+      "transliteration": "suʿʿirat",
+      "meaning": "was set ablaze/heated intensely",
+      "root": {
+        "letters": "س-ع-ر",
+        "meaning": "to be high in price; to blaze, burn intensely; heat"
+      },
+      "components": [
+        {
+          "arabic": "سَعَّرَ",
+          "meaning": "to heat, to set ablaze; to raise the price (of something)"
+        },
+        {
+          "arabic": "ت",
+          "meaning": "feminine passive marker (form X)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-Hellfire was-set-ablaze"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

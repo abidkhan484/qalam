@@ -1,0 +1,79 @@
+{
+  "verseId": "89:14",
+  "verse": {
+    "arabic": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+    "transliteration": "Inna rabbaka labialmirsadi",
+    "surah": "Al-Fajr",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates affirmation and emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces an emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord (nominative singular)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَبِالْمِرْصَادِ",
+      "transliteration": "labi-l-mirṣādi",
+      "meaning": "is in observation, is at the place of waiting/ambush",
+      "root": {
+        "letters": "ر-ص-د",
+        "meaning": "to watch, to observe, to lie in wait"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, in order to"
+        },
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "الْمِرْصَادِ",
+          "meaning": "the place of waiting/ambush, the observation post"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed - your - Lord - is-in - the-place-of-waiting/observation."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

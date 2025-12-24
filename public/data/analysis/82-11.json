@@ -1,0 +1,50 @@
+{
+  "verseId": "82:11",
+  "verse": {
+    "arabic": "كِرَامًا كَاتِبِينَ",
+    "transliteration": "Kiraman katibeena",
+    "surah": "Al-Infitar",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كِرَامًا",
+      "transliteration": "kirāman",
+      "meaning": "generous, noble, honorable",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "to be generous, to honor, to respect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَاتِبِينَ",
+      "transliteration": "kātibīn",
+      "meaning": "writers, recorders",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كاتب",
+          "meaning": "writer, scribe"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "dual ending, indicating two writers"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "noble - writers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

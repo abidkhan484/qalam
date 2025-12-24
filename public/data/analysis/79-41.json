@@ -1,0 +1,81 @@
+{
+  "verseId": "79:41",
+  "verse": {
+    "arabic": "فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ",
+    "transliteration": "Fainna aljannata hiya almawa",
+    "surah": "An-Nazi'at",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed, for verily",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be, to exist; hidden, latent"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily; emphatic particle introducing a noun clause"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَنَّةَ",
+      "transliteration": "al-jannata",
+      "meaning": "the Paradise, the garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; also related to abundance and lushness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "it is, she is",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَأْوَىٰ",
+      "transliteration": "al-maʾwā",
+      "meaning": "the refuge, the shelter, the abode",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to return, to resort, to seek protection"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَأْوَى",
+          "meaning": "place of return, refuge, shelter"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-indeed the-Paradise it-is the-refuge"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

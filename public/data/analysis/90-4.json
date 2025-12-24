@@ -1,0 +1,89 @@
+{
+  "verseId": "90:4",
+  "verse": {
+    "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ",
+    "transliteration": "Laqad khalaqna alinsana fee kabadin",
+    "surah": "Al-Balad",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَقَدْ",
+      "transliteration": "la-qad",
+      "meaning": "Indeed, certainly, verily (emphatic particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "Emphatic particle, often used for affirmation or insistence."
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "Particle indicating certainty, completion or past action; intensifies the statement."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقْنَا",
+      "transliteration": "khalaqnā",
+      "meaning": "We created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "creation, act of creating (verbal noun)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (first person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be friendly, forgetfulness (paradoxical - humans are prone to forgetting)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, into",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter into, to be contained in, to return to a previous state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَبَدٍ",
+      "transliteration": "kabadin",
+      "meaning": "Hardship, toil, distress",
+      "root": {
+        "letters": "ك-ب-د",
+        "meaning": "To exert effort, to strive, to labor; to be weary or distressed."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-certainly We-created the-human being in-hardship"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

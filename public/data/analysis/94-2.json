@@ -1,0 +1,87 @@
+{
+  "verseId": "94:2",
+  "verse": {
+    "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "transliteration": "WawadaAAna AAanka wizraka",
+    "surah": "Ash-Sharh",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَضَعْنَا",
+      "transliteration": "waḍaʿnā",
+      "meaning": "We placed, We removed, We laid down",
+      "root": {
+        "letters": "ض-ع-ع",
+        "meaning": "to place, to put down, to set aside"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ضَعْنَا",
+          "meaning": "we placed/removed/laid down (verb, first person plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنكَ",
+      "transliteration": "ʿanka",
+      "meaning": "from you, concerning you",
+      "root": {
+        "letters": "ع-ن-ك",
+        "meaning": "protection, defense, care; to be free from something"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, concerning"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وِزْرَكَ",
+      "transliteration": "wizraka",
+      "meaning": "your burden, your weight, your responsibility",
+      "root": {
+        "letters": "و-ز-ر",
+        "meaning": "to bear, carry a weight, responsibility"
+      },
+      "components": [
+        {
+          "arabic": "وِزْرَ",
+          "meaning": "burden, weight, responsibility (base form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We-placed from-you burden-your"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

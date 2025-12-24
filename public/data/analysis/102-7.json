@@ -1,0 +1,89 @@
+{
+  "verseId": "102:7",
+  "verse": {
+    "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+    "transliteration": "Thumma latarawunnaha AAayna alyaqeeni",
+    "surah": "At-Takathur",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after, subsequent time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَتَرَوُنَّهَا",
+      "transliteration": "lataraūnnahā",
+      "meaning": "you will surely see it",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for (purpose)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "future tense marker, will"
+        },
+        {
+          "arabic": "رَوُنَّ",
+          "meaning": "you (plural) will see"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَيْنَ",
+      "transliteration": "ʿayna",
+      "meaning": "eye (of)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to be an eye, source, spring; defect, flaw (figuratively)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْيَقِينِ",
+      "transliteration": "al-yaqīni",
+      "meaning": "the certainty",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "to be firm, certain, assured; to settle in one's heart"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "يَقِينِ",
+          "meaning": "certainty, assuredness"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - you will surely see it - eye of - the certainty"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

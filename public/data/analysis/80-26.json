@@ -1,0 +1,68 @@
+{
+  "verseId": "80:26",
+  "verse": {
+    "arabic": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+    "transliteration": "Thumma shaqaqna alarda shaqqan",
+    "surah": "Abasa",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to establish, to place"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَقَقْنَا",
+      "transliteration": "shaqaqnā",
+      "meaning": "We split, We broke open",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to break apart, to cleave"
+      },
+      "components": [
+        {
+          "arabic": "شَقَقْنَا",
+          "meaning": "We split, We broke open (first person plural active past)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "شَقًّا",
+      "transliteration": "shaqqan",
+      "meaning": "a split, a crack",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to tear apart, to cleave"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - We-split - the-earth - a-split"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

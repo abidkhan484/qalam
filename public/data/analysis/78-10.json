@@ -1,0 +1,61 @@
+{
+  "verseId": "78:10",
+  "verse": {
+    "arabic": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+    "transliteration": "WajaAAalna allayla libasan",
+    "surah": "An-Naba",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَعَلْنَا",
+      "transliteration": "wa-jaʿalnā",
+      "meaning": "and We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّيْلَ",
+      "transliteration": "al-layla",
+      "meaning": "the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark or covered in darkness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِبَاسًا",
+      "transliteration": "libāsan",
+      "meaning": "clothing",
+      "root": {
+        "letters": "ل-ب-س",
+        "meaning": "to wear, to cover, to put on"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa- [We]-made the night clothing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

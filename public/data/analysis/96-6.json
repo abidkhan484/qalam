@@ -1,0 +1,77 @@
+{
+  "verseId": "96:6",
+  "verse": {
+    "arabic": "كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ",
+    "transliteration": "Kalla inna alinsana layatgha",
+    "surah": "Al-Alaq",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No! Indeed not!",
+      "root": {
+        "letters": "ك-ل-و",
+        "meaning": "To refuse, to reject, to deny. Also related to insufficiency."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be weak, frail; to associate intimately; to adapt or become accustomed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَيَطْغَىٰ",
+      "transliteration": "layatghā",
+      "meaning": "He certainly transgresses, he is wont to overstep [boundaries]",
+      "root": {
+        "letters": "غ-ي-ط",
+        "meaning": "to exceed, to transgress, to overflow, to be insolent"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يَطْغَىٰ",
+          "meaning": "he transgresses, he oversteps (boundaries)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No!-Indeed-the human being-[is] certainly transgresses."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

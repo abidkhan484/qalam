@@ -1,0 +1,41 @@
+{
+  "verseId": "90:13",
+  "verse": {
+    "arabic": "فَكُّ رَقَبَةٍ",
+    "transliteration": "Fakku raqabatin",
+    "surah": "Al-Balad",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَكُّ",
+      "transliteration": "fakku",
+      "meaning": "releasing, freeing; noun of the state resulting from the act of freeing",
+      "root": {
+        "letters": "ف-ك-ك",
+        "meaning": "to untie, to loosen, to break apart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَقَبَةٍ",
+      "transliteration": "raqabah(in)",
+      "meaning": "neck; a slave (specifically, the neck as representing the person)",
+      "root": {
+        "letters": "ر-ق-ب",
+        "meaning": "to watch over, to guard; to have power over (due to watching)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "releasing-of neck-[a slave]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

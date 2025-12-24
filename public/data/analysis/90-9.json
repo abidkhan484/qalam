@@ -1,0 +1,59 @@
+{
+  "verseId": "90:9",
+  "verse": {
+    "arabic": "وَلِسَانًا وَشَفَتَيْنِ",
+    "transliteration": "Walisanan washafatayni",
+    "surah": "Al-Balad",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلِسَانًا",
+      "transliteration": "wa-lisānan",
+      "meaning": "and a tongue",
+      "root": {
+        "letters": "ل-س-ن",
+        "meaning": "to be smooth, to flow; also connected with taste and speech"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِسَانًا",
+          "meaning": "a tongue"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَشَفَتَيْنِ",
+      "transliteration": "wa-shafatayn",
+      "meaning": "and two lips",
+      "root": {
+        "letters": "ش-ف-ت",
+        "meaning": "to split, to have a fissure; lip (as a split)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "شَفَتَيْنِ",
+          "meaning": "two lips (dual form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-a tongue and-two lips"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "verseId": "79:22",
+  "verse": {
+    "arabic": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+    "transliteration": "Thumma adbara yasAAa",
+    "surah": "An-Nazi'at",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; to establish after something else"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْبَرَ",
+      "transliteration": "ʾadbara",
+      "meaning": "he turned his back, he retreated",
+      "root": {
+        "letters": "د-ب-ر",
+        "meaning": "to return, to go back, to finish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَسْعَىٰ",
+      "transliteration": "yasʿā",
+      "meaning": "he strives, he hastens",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to endeavor, to strive, to make an effort"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - he-turned-back - he-strives"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

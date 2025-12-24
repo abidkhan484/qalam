@@ -1,0 +1,41 @@
+{
+  "verseId": "80:16",
+  "verse": {
+    "arabic": "كِرَامٍ بَرَرَةٍ",
+    "transliteration": "Kiramin bararatin",
+    "surah": "Abasa",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كِرَامٍ",
+      "transliteration": "kirāmin",
+      "meaning": "Generous, noble, honorable",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, to honor, to possess excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَرَرَةٍ",
+      "transliteration": "bararatin",
+      "meaning": "Righteous, dutiful, pious",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be pious, to fulfill a duty or obligation, to excel in righteousness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Generous-noble – Righteous-dutiful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

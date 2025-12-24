@@ -1,0 +1,82 @@
+{
+  "verseId": "96:8",
+  "verse": {
+    "arabic": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+    "transliteration": "Inna ila rabbika alrrujAAa",
+    "surah": "Al-Alaq",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "a conditional particle emphasizing the following statement"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline towards, to resort to; relationship, connection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرُّجْعَىٰ",
+      "transliteration": "ar-rujʿā",
+      "meaning": "the return",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "الرُّجْعَىٰ",
+          "meaning": "The return (specifically to Allah)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-to your Lord is the return."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "verseId": "105:5",
+  "verse": {
+    "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+    "transliteration": "FajaAAalahum kaAAasfin makoolin",
+    "surah": "Al-Fil",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَجَعَلَهُمْ",
+      "transliteration": "fa-jaʿalahum",
+      "meaning": "So He made them",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to transform"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "He made, He created"
+        },
+        {
+          "arabic": "ـهُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَعَصْفٍ",
+      "transliteration": "ka-ʿaṣfin",
+      "meaning": "Like straw"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّأْكُولٍ",
+      "transliteration": "maʾkūlin",
+      "meaning": "Eaten",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "مَأْ",
+          "meaning": "passive participle prefix"
+        },
+        {
+          "arabic": "كُولٍ",
+          "meaning": "active participle form, indicating something that is eaten"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-He-made-them like-straw eaten-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

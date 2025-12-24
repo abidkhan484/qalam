@@ -1,0 +1,39 @@
+{
+  "verseId": "103:1",
+  "verse": {
+    "arabic": "وَالْعَصْرِ",
+    "transliteration": "WaalAAasri",
+    "surah": "Al-Asr",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْعَصْرِ",
+      "transliteration": "wa-l-ʿaṣri",
+      "meaning": "and the time",
+      "root": {
+        "letters": "ع-ص-ر",
+        "meaning": "to squeeze, to extract, time (as something that extracts life)"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْعَصْرِ",
+          "meaning": "the time/epoch"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the time [by]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

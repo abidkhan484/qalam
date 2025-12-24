@@ -1,0 +1,92 @@
+{
+  "verseId": "107:3",
+  "verse": {
+    "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+    "transliteration": "Wala yahuddu AAala taAAami almiskeeni",
+    "surah": "Al-Ma'un",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to not desire"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَحُضُّ",
+      "transliteration": "yaḥuḍḍu",
+      "meaning": "he urges, he encourages",
+      "root": {
+        "letters": "ح-ضّ-د",
+        "meaning": "to incite, to urge, to stir up, to prepare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "طَعَامِ",
+      "transliteration": "ṭaʿāmi",
+      "meaning": "food of, the food (genitive)",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, nourishment"
+      },
+      "components": [
+        {
+          "arabic": "طَعَ",
+          "meaning": "eating, food (verbal noun base)"
+        },
+        {
+          "arabic": "ـامِ",
+          "meaning": "genitive case ending indicating possession or relation ('of')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمِسْكِينِ",
+      "transliteration": "al-miskīni",
+      "meaning": "the poor (one)",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "weakness, poverty; to be weak or needy"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not he-urges upon food-of the-poor-one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

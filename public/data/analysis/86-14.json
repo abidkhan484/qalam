@@ -1,0 +1,65 @@
+{
+  "verseId": "86:14",
+  "verse": {
+    "arabic": "وَمَا هُوَ بِالْهَزْلِ",
+    "transliteration": "Wama huwa bialhazli",
+    "surah": "At-Tariq",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (in a broad sense)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it/he"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْهَزْلِ",
+      "transliteration": "bi-l-hazli",
+      "meaning": "with the amusement/by way of jest",
+      "root": {
+        "letters": "ه-ز-ل",
+        "meaning": "to be light, weak, insignificant; to trifle, jest"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْهَزْلِ",
+          "meaning": "the jest, the amusement"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not it with-the amusement"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

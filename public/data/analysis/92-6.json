@@ -1,0 +1,71 @@
+{
+  "verseId": "92:6",
+  "verse": {
+    "arabic": "وَصَدَّقَ بِالْحُسْنَىٰ",
+    "transliteration": "Wasaddaqa bialhusna",
+    "surah": "Al-Layl",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَدَّقَ",
+      "transliteration": "ṣaddaqa",
+      "meaning": "he believed, he affirmed",
+      "root": {
+        "letters": "ص-د-ق",
+        "meaning": "truth, sincerity, correctness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِ",
+      "transliteration": "bi",
+      "meaning": "in, with, by means of",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ب",
+          "meaning": "preposition indicating various relationships, including 'in', 'with', or 'by means of'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحُسْنَىٰ",
+      "transliteration": "al-ḥusnā",
+      "meaning": "the best, the goodness",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "beauty, goodness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حُسْنَىٰ",
+          "meaning": "goodness, best (feminine form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-believed in-the-best"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

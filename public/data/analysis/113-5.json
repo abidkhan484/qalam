@@ -1,0 +1,98 @@
+{
+  "verseId": "113:5",
+  "verse": {
+    "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "transliteration": "Wamin sharri hasidin itha hasada",
+    "surah": "Al-Falaq",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَرِّ",
+      "transliteration": "sharri",
+      "meaning": "evil of",
+      "root": {
+        "letters": "ش-ر-ّ",
+        "meaning": "evil, badness, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَاسِدٍ",
+      "transliteration": "ḥāsidin",
+      "meaning": "an envier",
+      "root": {
+        "letters": "ح-س-د",
+        "meaning": "to feel envy, to be jealous"
+      },
+      "components": [
+        {
+          "arabic": "حَسَدَ",
+          "meaning": "to envy"
+        },
+        {
+          "arabic": "-ِد",
+          "meaning": "denominative noun suffix indicating someone who performs the action or possesses the quality of envy"
+        },
+        {
+          "arabic": "ـٌ",
+          "meaning": "indefinite nominative ending for singular masculine nouns"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart, to decline"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حَسَدَ",
+      "transliteration": "ḥasada",
+      "meaning": "he envied",
+      "root": {
+        "letters": "ح-س-د",
+        "meaning": "to feel displeasure or resentment towards others because of their possessions, qualities, or success; to covet"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - from - evil of - an envier - when - he envied"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

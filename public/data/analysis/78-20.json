@@ -1,0 +1,81 @@
+{
+  "verseId": "78:20",
+  "verse": {
+    "arabic": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+    "transliteration": "Wasuyyirati aljibalu fakanat saraban",
+    "surah": "An-Naba",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَسُيِّرَتِ",
+      "transliteration": "wa-suyyiratī",
+      "meaning": "and it was made to move/travel, and it moved",
+      "root": {
+        "letters": "س-ي-ر",
+        "meaning": "to travel, to proceed, to move forward"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سُيِّرَتِ",
+          "meaning": "was made to move/travel (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise high; hardness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَكَانَتْ",
+      "transliteration": "fa-kānatī",
+      "meaning": "so it became/was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "كَانَتْ",
+          "meaning": "she was/became (feminine singular, past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَرَابًا",
+      "transliteration": "sarābanī",
+      "meaning": "a mirage, shimmering heat haze",
+      "root": {
+        "letters": "س-ر-ب",
+        "meaning": "to flow, to spread, to rush forth"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it-was-made-to-move the-mountains so-it-became a-mirage"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

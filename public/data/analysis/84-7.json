@@ -1,0 +1,110 @@
+{
+  "verseId": "84:7",
+  "verse": {
+    "arabic": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
+    "transliteration": "Faama man ootiya kitabahu biyameenihi",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "then as for; so as to",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to aim at; to be full of"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who; whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure; a particle indicating questioning or indefiniteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُوتِيَ",
+      "transliteration": "ʾūtiya",
+      "meaning": "was given; has been granted",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, to bestow; to entrust"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "passive voice prefix indicating 'was given to'"
+        },
+        {
+          "arabic": "تِيَ",
+          "meaning": "second person masculine singular suffix indicating 'you (were given)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كِتَابَهُ",
+      "transliteration": "kitābahū",
+      "meaning": "his record; his book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write"
+      },
+      "components": [
+        {
+          "arabic": "كتاب",
+          "meaning": "book, writing"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his; possessive pronoun suffix for masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِيَمِينِهِ",
+      "transliteration": "biyamīnihī",
+      "meaning": "in his right hand",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, power, blessing"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with"
+        },
+        {
+          "arabic": "يَدِهِ",
+          "meaning": "his hand"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-as-for [the one] man was-given his-record in-his-right-hand"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

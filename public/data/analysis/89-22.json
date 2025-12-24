@@ -1,0 +1,105 @@
+{
+  "verseId": "89:22",
+  "verse": {
+    "arabic": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+    "transliteration": "Wajaa rabbuka waalmalaku saffan saffan",
+    "surah": "Al-Fajr",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَاءَ",
+      "transliteration": "wa-jāʾa",
+      "meaning": "and came",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَاءَ",
+          "meaning": "came, he came"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, master"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالْمَلَكُ",
+      "transliteration": "wa-l-malaku",
+      "meaning": "and the angel(s)",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَكُ",
+          "meaning": "angel (singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَفًّا",
+      "transliteration": "ṣaffan",
+      "meaning": "in a row/rank",
+      "root": {
+        "letters": "ص-ف-ف",
+        "meaning": "to arrange, to align, to rank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "صَفًّا",
+      "transliteration": "ṣaffan",
+      "meaning": "in a row/rank",
+      "root": {
+        "letters": "ص-ف-ف",
+        "meaning": "to arrange, to line up, to be clear or distinct"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa-came - your Lord - and the angel(s) - in a row - in a row"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

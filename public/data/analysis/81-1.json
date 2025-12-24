@@ -1,0 +1,57 @@
+{
+  "verseId": "81:1",
+  "verse": {
+    "arabic": "إِذَا الشَّمْسُ كُوِّرَتْ",
+    "transliteration": "Itha alshshamsu kuwwirat",
+    "surah": "At-Takwir",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go away, to depart; to cease or finish; to come about"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الشَّمْسُ",
+      "transliteration": "ash-shamsu",
+      "meaning": "the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "intensity, heat, brilliance; to travel intensely"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُوِّرَتْ",
+      "transliteration": "kuwwirat",
+      "meaning": "was wrapped up, was coiled",
+      "root": {
+        "letters": "ك-و-ر",
+        "meaning": "to coil, to wrap, to fold"
+      },
+      "components": [
+        {
+          "arabic": "كُوِّرَتْ",
+          "meaning": "was wrapped up, was coiled (passive voice)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-whenever - the sun - was-wrapped-up/was-coiled"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

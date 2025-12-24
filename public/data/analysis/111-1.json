@@ -1,0 +1,83 @@
+{
+  "verseId": "111:1",
+  "verse": {
+    "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+    "transliteration": "Tabbat yada abee lahabin watabba",
+    "surah": "Al-Masad",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَبَّتْ",
+      "transliteration": "tabbat",
+      "meaning": "perished, was ruined",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to perish, to be destroyed; follow (in a negative sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَدَا",
+      "transliteration": "yadā",
+      "meaning": "hands (dual)",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; also, weakness, softness.  Relates to the hand as an instrument of power and action."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَبِي",
+      "transliteration": "abī",
+      "meaning": "of Abu",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "father, originator"
+      },
+      "components": [
+        {
+          "arabic": "أَب",
+          "meaning": "father, progenitor"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my, possessive suffix for 'I'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَهَبٍ",
+      "transliteration": "lahab",
+      "meaning": "flame, fire",
+      "root": {
+        "letters": "ل-ه-ب",
+        "meaning": "to blaze, to flame; intense heat or fire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَتَبَّ",
+      "transliteration": "watabba",
+      "meaning": "and perished, and was ruined",
+      "root": {
+        "letters": "ت-ب-ع",
+        "meaning": "to follow, to perish, to be destroyed"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "perished-the hands of Abu flame and-perished he"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

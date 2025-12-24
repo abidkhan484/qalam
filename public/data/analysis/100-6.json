@@ -1,0 +1,77 @@
+{
+  "verseId": "100:6",
+  "verse": {
+    "arabic": "إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ",
+    "transliteration": "Inna alinsana lirabbihi lakanoodun",
+    "surah": "Al-Adiyat",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-ن-ن",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be in a state of forgetfulness, weakness, or vulnerability; also, gentleness and sociability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِرَبِّهِ",
+      "transliteration": "li-rabbihi",
+      "meaning": "To his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to lord over; master, owner"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for, belonging to"
+        },
+        {
+          "arabic": "رَبِّهِ",
+          "meaning": "his Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَكَنُودٌ",
+      "transliteration": "la-kanūd",
+      "meaning": "Ungrateful, denier of favors",
+      "root": {
+        "letters": "ك-ن-د",
+        "meaning": "To be generous, to show favor; also, to conceal or hide (often with negative implication)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-human-being to-his-Lord is-ungrateful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

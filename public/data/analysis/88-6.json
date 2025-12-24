@@ -1,0 +1,103 @@
+{
+  "verseId": "88:6",
+  "verse": {
+    "arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+    "transliteration": "Laysa lahum taAAamun illa min dareeAAin",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّيْسَ",
+      "transliteration": "laysa",
+      "meaning": "is not / there is no",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be non-existent, to lack"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negation"
+        },
+        {
+          "arabic": "يَس",
+          "meaning": "to exist, to be present (archaic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "for them / to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "possession, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "طَعَامٌ",
+      "transliteration": "ṭaʿāmun",
+      "meaning": "food / nourishment",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, food, nourishment"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except / but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away from, to reject"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from / of",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "origin, source, extraction; to decrease or diminish (related to the idea of taking 'from' something)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ضَرِيعٍ",
+      "transliteration": "ḍarīʿin",
+      "meaning": "a thorny plant / poisonous shrub",
+      "root": {
+        "letters": "ض-ر-ع",
+        "meaning": "to be needy, to supplicate intensely; also associated with harm and affliction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "is not - for them - food - except - from - [a] thorny plant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

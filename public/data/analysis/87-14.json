@@ -1,0 +1,76 @@
+{
+  "verseId": "87:14",
+  "verse": {
+    "arabic": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+    "transliteration": "Qad aflaha man tazakka",
+    "surah": "Al-A'la",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "Indeed; certainly; has already",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "To step forward; to advance; to precede"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَفْلَحَ",
+      "transliteration": "ʾaflaḥa",
+      "meaning": "He succeeded; he prospered",
+      "root": {
+        "letters": "ف-ل-ح",
+        "meaning": "to be successful, to thrive; to cultivate the land"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "Who; whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, obscured; to protect or shield"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَزَكَّىٰ",
+      "transliteration": "tazakkā",
+      "meaning": "Purified himself; cleansed himself",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean, righteous; to grow well, flourish"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating past tense and often reflexive voice (form X)"
+        },
+        {
+          "arabic": "زَكَّى",
+          "meaning": "to purify, cleanse, make righteous"
+        },
+        {
+          "arabic": "ٰ",
+          "meaning": "tanween al-fatḥ for indefinite noun, serves no semantic role here but indicates pronunciation"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-succeeded-[one]-who-purified-himself."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

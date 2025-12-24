@@ -1,0 +1,61 @@
+{
+  "verseId": "79:37",
+  "verse": {
+    "arabic": "فَأَمَّا مَن طَغَىٰ",
+    "transliteration": "Faamma man tagha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "So as for; then concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to turn to, to concern oneself with"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "Who; whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to conceal; a point or letter indicating distinction or separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "طَغَىٰ",
+      "transliteration": "ṭaḡā",
+      "meaning": "Transgressed; exceeded (limits)",
+      "root": {
+        "letters": "ﻁ-ﻐ-ﻯ",
+        "meaning": "To overflow, exceed, be arrogant; to cover or overwhelm."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [then] ʾammā - [as for] man - [whoever] ṭaḡā - [transgressed]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

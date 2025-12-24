@@ -1,0 +1,79 @@
+{
+  "verseId": "84:2",
+  "verse": {
+    "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+    "transliteration": "Waathinat lirabbiha wahuqqat",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأَذِنَتْ",
+      "transliteration": "waʾadhinat",
+      "meaning": "and she responded/listened",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen, to permit"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَذِنَتْ",
+          "meaning": "she responded/listened (feminine singular, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِرَبِّهَا",
+      "transliteration": "li-rabbihā",
+      "meaning": "to her Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "رَبِّهَا",
+          "meaning": "her Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَحُقَّتْ",
+      "transliteration": "waḥuqqat",
+      "meaning": "and it was obligated/was true",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, to realize, to establish firmly"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حُقَّتْ",
+          "meaning": "it was obligated/was true (feminine singular, perfect passive)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-responded to-her-Lord and-it-was-obligated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "verseId": "82:14",
+  "verse": {
+    "arabic": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+    "transliteration": "Wainna alfujjara lafee jaheemin",
+    "surah": "Al-Infitar",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining, linking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْفُجَّارَ",
+      "transliteration": "al-fujjāra",
+      "meaning": "the wicked, the transgressors",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to split, to cleave; to exceed limits, to transgress"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَفِي",
+      "transliteration": "la-fī",
+      "meaning": "are in, assuredly in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to be in, to exist, to dwell"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "جَحِيمٍ",
+      "transliteration": "jaḥīm",
+      "meaning": "Hellfire, blazing fire",
+      "root": {
+        "letters": "ح-م-ي",
+        "meaning": "intensity, heat, burning"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed the-wicked are-in Hellfire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

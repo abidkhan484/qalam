@@ -1,0 +1,121 @@
+{
+  "verseId": "83:31",
+  "verse": {
+    "arabic": "وَإِذَا انقَلَبُوا إِلَىٰ أَهْلِهِمُ انقَلَبُوا فَكِهِينَ",
+    "transliteration": "Waitha inqalaboo ila ahlihimu inqalaboo fakiheena",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to come, to happen; time"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when; if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "انقَلَبُوا",
+      "transliteration": "inqalabū",
+      "meaning": "they returned",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change state, to revert"
+      },
+      "components": [
+        {
+          "arabic": "انْ",
+          "meaning": "prefix indicating past tense and often intention or completion"
+        },
+        {
+          "arabic": "قَلَبُوا",
+          "meaning": "they turned, they reverted"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, incline towards, resort to; protect or be near"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَهْلِهِمُ",
+      "transliteration": "ʾahlihimu",
+      "meaning": "their people, their families",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to be inclined to, to belong to; family, household"
+      },
+      "components": [
+        {
+          "arabic": "أَهْلِ",
+          "meaning": "people, family"
+        },
+        {
+          "arabic": "هِمُ",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "انقَلَبُوا",
+      "transliteration": "inqalabū",
+      "meaning": "they returned",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change state, to revert"
+      },
+      "components": [
+        {
+          "arabic": "انْ",
+          "meaning": "indicates past tense and a directing prefix (to them)"
+        },
+        {
+          "arabic": "قَلَبُوا",
+          "meaning": "they turned, they changed state"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَكِهِينَ",
+      "transliteration": "fakihīn",
+      "meaning": "jesting, joyful",
+      "root": {
+        "letters": "ف-ك-ه",
+        "meaning": "to be lighthearted, to find amusement"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when they-returned to-their-people they-returned jesting"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "verseId": "102:1",
+  "verse": {
+    "arabic": "أَلْهَاكُمُ التَّكَاثُرُ",
+    "transliteration": "Alhakumu alttakathuru",
+    "surah": "At-Takathur",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلْهَاكُمُ",
+      "transliteration": "ʾalhākumu",
+      "meaning": "distracted you, diverted your attention",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be lost; to weaken or decline"
+      },
+      "components": [
+        {
+          "arabic": "أَلْـ",
+          "meaning": "the prefix indicating negation or emphasis, 'not'"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "you (masculine plural)"
+        },
+        {
+          "arabic": "ـكُمُ",
+          "meaning": "your (masculine plural, possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "التَّكَاثُرُ",
+      "transliteration": "at-takāthuru",
+      "meaning": "the competition, the vying for increase",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to increase, to multiply, to become abundant"
+      },
+      "components": [
+        {
+          "arabic": "التَّـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ـكَاثُرُ",
+          "meaning": "competition, vying for increase (verbal noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "distracted-you the-competition"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

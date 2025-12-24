@@ -1,0 +1,103 @@
+{
+  "verseId": "104:3",
+  "verse": {
+    "arabic": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+    "transliteration": "Yahsabu anna malahu akhladahu",
+    "surah": "Al-Humazah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَحْسَبُ",
+      "transliteration": "yaḥsabu",
+      "meaning": "He thinks, he reckons",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to count, reckon, estimate"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (present tense marker)"
+        },
+        {
+          "arabic": "حَسَبَ",
+          "meaning": "to count, reckon"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah (present tense vowel)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَّ",
+      "transliteration": "ʾanna",
+      "meaning": "That",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "that, in that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَالَهُ",
+      "transliteration": "mālahu",
+      "meaning": "His wealth",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "Possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "What, possessive pronoun marker (in this context)"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "For him, his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَخْلَدَهُ",
+      "transliteration": "ʾakhladahu",
+      "meaning": "Will make him remain (forever), will immortalize him",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "will (future tense marker)"
+        },
+        {
+          "arabic": "خَلَدَ",
+          "meaning": "to remain, to immortalize (verb form)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-thinks - that - his-wealth - will-make-him-remain-[forever]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

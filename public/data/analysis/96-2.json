@@ -1,0 +1,63 @@
+{
+  "verseId": "96:2",
+  "verse": {
+    "arabic": "خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
+    "transliteration": "Khalaqa alinsana min AAalaqin",
+    "surah": "Al-Alaq",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "He created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being, man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be weak, frail; to associate closely; to adapt."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ى",
+        "meaning": "origin, source, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَقٍ",
+      "transliteration": "ʿalaqin",
+      "meaning": "A clinging substance, blood clot",
+      "root": {
+        "letters": "ع-ل-ق",
+        "meaning": "to cling, adhere, or become attached"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Created-He the-human being from a-clinging substance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

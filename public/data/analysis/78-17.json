@@ -1,0 +1,79 @@
+{
+  "verseId": "78:17",
+  "verse": {
+    "arabic": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+    "transliteration": "Inna yawma alfasli kana meeqatan",
+    "surah": "An-Naba",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces a confirming statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "Day (accusative)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to exist, to pass (of time), day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْفَصْلِ",
+      "transliteration": "al-faṣli",
+      "meaning": "the Judgement/Separating",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, to distinguish, to decide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was, is (copula)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِيقَاتًا",
+      "transliteration": "mīqātan",
+      "meaning": "an appointed time, a deadline",
+      "root": {
+        "letters": "م-و-ق",
+        "meaning": "to set a time, to establish; to measure out"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- Day- of- the- Judgement/Separating - was- an- appointed time/deadline"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "verseId": "89:16",
+  "verse": {
+    "arabic": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+    "transliteration": "Waamma itha ma ibtalahu faqadara AAalayhi rizqahu fayaqoolu rabbee ahanani",
+    "surah": "Al-Fajr",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "as for / but when",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to grasp, to receive"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what / that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when / if",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to finish, to end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which / what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to have / to possess / existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ابْتَلَاهُ",
+      "transliteration": "ibtalāhu",
+      "meaning": "He tried him / He tested him",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be afflicted, to test, to try"
+      },
+      "components": [
+        {
+          "arabic": "ابْتَ",
+          "meaning": "prefix indicating seeking or initiating an action"
+        },
+        {
+          "arabic": "لَاهُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَقَدَرَ",
+      "transliteration": "faqadara",
+      "meaning": "then He constricted / then he was able to constrict",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to have power, to be able, to measure, to value"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then (particle indicating sequence)"
+        },
+        {
+          "arabic": "قَدَرَ",
+          "meaning": "He constricted / He was able to constrict (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "upon him / to him (regarding)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail over; relation/dependence"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, to, regarding"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "رِزْقَهُ",
+      "transliteration": "rizqahu",
+      "meaning": "his provision / his sustenance",
+      "root": {
+        "letters": "ر-ز-ق",
+        "meaning": "provision, sustenance, livelihood"
+      },
+      "components": [
+        {
+          "arabic": "رِزْق",
+          "meaning": "provision, sustenance"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَيَقُولُ",
+      "transliteration": "fayaqūlu",
+      "meaning": "then he says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "يَقُولُ",
+          "meaning": "he says"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "My Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess; Lordship, masterhood"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, master"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَهَانَنِ",
+      "transliteration": "ahānani",
+      "meaning": "He humiliated me / He disgraced me",
+      "root": {
+        "letters": "ه-و-ن",
+        "meaning": "weakness, lowness, inferiority"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And - as for - when - that which - He tried him - then He constricted - upon him - his provision - then he says - My Lord - He humiliated me."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

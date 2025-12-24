@@ -1,0 +1,81 @@
+{
+  "verseId": "92:8",
+  "verse": {
+    "arabic": "وَأَمَّا مَن بَخِلَ وَاسْتَغْنَىٰ",
+    "transliteration": "Waamma man bakhila waistaghna",
+    "surah": "Al-Layl",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأَمَّا",
+      "transliteration": "wa-ʾammā",
+      "meaning": "and as for, and concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to aim at, to take charge of; also, 'as for'"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; to exist but not be apparent; or related to questioning/inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَخِلَ",
+      "transliteration": "bakhila",
+      "meaning": "he withheld, he was miserly",
+      "root": {
+        "letters": "ب-خ-ل",
+        "meaning": "to possess, to have; deficiency, lack"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَاسْتَغْنَىٰ",
+      "transliteration": "wa-staġnā",
+      "meaning": "and considered himself self-sufficient, and was independent",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be rich, to suffice, to be independent"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اسْتَغْنَىٰ",
+          "meaning": "he considered himself self-sufficient, he was independent (derived from غنى)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-as-for who he-withheld and-he-considered-himself self-sufficient"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

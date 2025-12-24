@@ -1,0 +1,94 @@
+{
+  "verseId": "89:26",
+  "verse": {
+    "arabic": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+    "transliteration": "Wala yoothiqu wathaqahu ahadun",
+    "surah": "Al-Fajr",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not / nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to negate, to refuse, to be unable"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not / nor (negation particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُوثِقُ",
+      "transliteration": "yuwaththiqu",
+      "meaning": "binds firmly / secures",
+      "root": {
+        "letters": "و-ث-ق",
+        "meaning": "to be firm, strong; to trust, have confidence"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense, active voice (form I)"
+        },
+        {
+          "arabic": "وَثَّقَ",
+          "meaning": "to strengthen, confirm, bind firmly"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah – vowel indicating present tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَثَاقَهُ",
+      "transliteration": "wathāqahu",
+      "meaning": "his binding / his constraint",
+      "root": {
+        "letters": "و-ث-ق",
+        "meaning": "to trust, to be firm, to bind"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "preposition indicating possession ('of')"
+        },
+        {
+          "arabic": "ثَاقَهُ",
+          "meaning": "his binding, his constraint (derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَحَدٌ",
+      "transliteration": "aḥadun",
+      "meaning": "anyone / one",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, singular, one"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not binds firmly his-binding anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

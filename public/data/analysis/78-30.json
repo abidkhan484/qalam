@@ -1,0 +1,93 @@
+{
+  "verseId": "78:30",
+  "verse": {
+    "arabic": "فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+    "transliteration": "Fathooqoo falan nazeedakum illa AAathaban",
+    "surah": "An-Naba",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَذُوقُوا",
+      "transliteration": "faḏūqū",
+      "meaning": "So taste!",
+      "root": {
+        "letters": "ذ-و-ق",
+        "meaning": "to taste; to experience"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so; then (introducing a command)"
+        },
+        {
+          "arabic": "ذُوقُوا",
+          "meaning": "taste (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَلَن نَّزِيدَكُمْ",
+      "transliteration": "fa-lan nazīdakum",
+      "meaning": "Then We will not increase you",
+      "root": {
+        "letters": "ز-ي-د",
+        "meaning": "to increase, to add; excess"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَـ",
+          "meaning": "negative particle (not)"
+        },
+        {
+          "arabic": "نَـ",
+          "meaning": "first person plural pronoun prefix (we)"
+        },
+        {
+          "arabic": "زِيدَ",
+          "meaning": "to increase (verb, perfect tense)"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَذَابًا",
+      "transliteration": "ʿaḏāban",
+      "meaning": "torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; suffering, hardship"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-taste! – Then-We-will-not-increase-you - except - torment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

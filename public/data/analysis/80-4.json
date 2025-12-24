@@ -1,0 +1,98 @@
+{
+  "verseId": "80:4",
+  "verse": {
+    "arabic": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَىٰ",
+    "transliteration": "Aw yaththakkaru fatanfaAAahu alththikra",
+    "surah": "Abasa",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-أ-و",
+        "meaning": "to join, to connect, alternation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَذَّكَّرُ",
+      "transliteration": "yadhakkiru",
+      "meaning": "he remembers/be reminded",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and active voice (first person singular)"
+        },
+        {
+          "arabic": "ذَكَّرَ",
+          "meaning": "to remind, to cause someone to remember"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ending indicating third person masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَتَنفَعَهُ",
+      "transliteration": "fa-tanfaʿuhu",
+      "meaning": "so it benefits him",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to be useful, to benefit"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "تَنفَعُ",
+          "meaning": "it benefits (verb, imperfect)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الذِّكْرَىٰ",
+      "transliteration": "adh-dhikrā",
+      "meaning": "the remembrance/reminder",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِكْرَىٰ",
+          "meaning": "remembrance, reminder (verbal noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or-he-remembers/be-reminded so-[it]-benefits-him the-remembrance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

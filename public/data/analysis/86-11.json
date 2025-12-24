@@ -1,0 +1,69 @@
+{
+  "verseId": "86:11",
+  "verse": {
+    "arabic": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+    "transliteration": "Waalssamai thati alrrajAAi",
+    "surah": "At-Tariq",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "height, elevation; to rise up"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَاتِ",
+      "transliteration": "dhāti",
+      "meaning": "possessor of / owner of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "to have, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرَّجْعِ",
+      "transliteration": "ar-rajʿi",
+      "meaning": "the return",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "to return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "رَجْعٍ",
+          "meaning": "return, reverting"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -the-sky -possessor-of -the-return"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

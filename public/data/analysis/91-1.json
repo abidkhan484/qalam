@@ -1,0 +1,59 @@
+{
+  "verseId": "91:1",
+  "verse": {
+    "arabic": "وَالشَّمْسِ وَضُحَاهَا",
+    "transliteration": "Waalshshamsi waduhaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالشَّمْسِ",
+      "transliteration": "wa-ash-shamsi",
+      "meaning": "and the sun",
+      "root": {
+        "letters": "ش-م-س",
+        "meaning": "to shine, to be warm; intensity, brightness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الشَّمْسِ",
+          "meaning": "the sun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَضُحَاهَا",
+      "transliteration": "wa-ḍuḥāhā",
+      "meaning": "and its brightness/its clarity",
+      "root": {
+        "letters": "ض-ح-و",
+        "meaning": "to be clear, bright, radiant; to shine"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ضُحَاهَا",
+          "meaning": "its brightness, its clarity (referring to the daylight)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the sun - and-its brightness/clarity"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

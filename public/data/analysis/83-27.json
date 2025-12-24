@@ -1,0 +1,61 @@
+{
+  "verseId": "83:27",
+  "verse": {
+    "arabic": "وَمِزَاجُهُ مِن تَسْنِيمٍ",
+    "transliteration": "Wamizajuhu min tasneemin",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِزَاجُهُ",
+      "transliteration": "wa mizājuhu",
+      "meaning": "and its mixture",
+      "root": {
+        "letters": "م-ز-ج",
+        "meaning": "to blend, mix, combine"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِزَاجُ",
+          "meaning": "mixture, temperament"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; source, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَسْنِيمٍ",
+      "transliteration": "tasnīm",
+      "meaning": "Tasneem (a spring in Paradise)",
+      "root": {
+        "letters": "س-ن-م",
+        "meaning": "elevation, highness; to rise, ascend"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-mixture-[its] from Tasneem"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

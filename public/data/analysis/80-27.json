@@ -1,0 +1,74 @@
+{
+  "verseId": "80:27",
+  "verse": {
+    "arabic": "فَأَنبَتْنَا فِيهَا حَبًّا",
+    "transliteration": "Faanbatna feeha habban",
+    "surah": "Abasa",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَنبَتْنَا",
+      "transliteration": "faʾanbatnā",
+      "meaning": "So We caused to grow/sprout",
+      "root": {
+        "letters": "ن-ب-ت",
+        "meaning": "to grow, to sprout, to produce vegetation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle indicating sequence/result)"
+        },
+        {
+          "arabic": "أَنبَت",
+          "meaning": "We caused to grow/sprout (verb in the past tense)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "We (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "Within it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, to be within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَبًّا",
+      "transliteration": "ḥabban",
+      "meaning": "Grain/seed",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to cherish; also grain, seed (due to its preciousness)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-We-caused-to-grow Within-it Grain"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

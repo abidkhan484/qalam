@@ -1,0 +1,99 @@
+{
+  "verseId": "79:31",
+  "verse": {
+    "arabic": "أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا",
+    "transliteration": "Akhraja minha maaha wamarAAaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَخْرَجَ",
+      "transliteration": "ʾakhraja",
+      "meaning": "He brought out, He extracted",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to appear"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "indicates past tense and third-person singular masculine"
+        },
+        {
+          "arabic": "خَرَجَ",
+          "meaning": "he exited, he came out (basic verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنْهَا",
+      "transliteration": "minhā",
+      "meaning": "From it (feminine)",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَاءَهَا",
+      "transliteration": "māʾahā",
+      "meaning": "Its water (feminine)",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "water, fluidity"
+      },
+      "components": [
+        {
+          "arabic": "مَاء",
+          "meaning": "water"
+        },
+        {
+          "arabic": "-هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَمَرْعَاهَا",
+      "transliteration": "wa-marʿahā",
+      "meaning": "And its pasture (feminine)",
+      "root": {
+        "letters": "م-ر-ع",
+        "meaning": "to graze, pasture land"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَرْعَاهَا",
+          "meaning": "its pasture (feminine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-brought-out - from-it - its-water - and-its-pasture"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

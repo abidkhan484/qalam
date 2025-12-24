@@ -1,0 +1,70 @@
+{
+  "verseId": "86:13",
+  "verse": {
+    "arabic": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+    "transliteration": "Innahu laqawlun faslun",
+    "surah": "At-Tariq",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahu",
+      "meaning": "Indeed it (masculine singular)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَقَوْلٌ",
+      "transliteration": "la-qawlun",
+      "meaning": "It is a statement/speech",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To say, speech, statement"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "Negative particle, not"
+        },
+        {
+          "arabic": "قول",
+          "meaning": "Statement, speech"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَصْلٌ",
+      "transliteration": "faṣlun",
+      "meaning": "Decisive/clear/separating",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "To divide, separate, distinguish; to finish, conclude"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-it is-[a] statement decisive."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

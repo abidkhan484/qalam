@@ -1,0 +1,63 @@
+{
+  "verseId": "83:21",
+  "verse": {
+    "arabic": "يَشْهَدُهُ الْمُقَرَّبُونَ",
+    "transliteration": "Yashhaduhu almuqarraboona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَشْهَدُهُ",
+      "transliteration": "yashhaduhu",
+      "meaning": "He witnesses it",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, to be present"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "He (pronoun prefix)"
+        },
+        {
+          "arabic": "شْهَدَ",
+          "meaning": "witnessed (verb, past tense)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمُقَرَّبُونَ",
+      "transliteration": "al-muqarrabūna",
+      "meaning": "Those brought near",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to approach, to be near"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُقَرَّبُونَ",
+          "meaning": "those who have been brought near, close ones (plural passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-witnesses-it - The-brought-near [ones]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

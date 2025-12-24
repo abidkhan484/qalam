@@ -1,0 +1,247 @@
+{
+  "verseId": "85:11",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+    "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati lahum jannatun tajree min tahtiha alanharu thalika alfawzu alkabeeru",
+    "surah": "Al-Buruj",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, or to become"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, a particle emphasizing the following statement"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to have; relating to or belonging to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed, have faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix denoting present/continuous tense, or emphasizing the act of believing"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed, have faith (from root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَعَمِلُوا",
+      "transliteration": "wa-ʿamilū",
+      "meaning": "And did, and worked",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to practice"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَمِلُوا",
+          "meaning": "they did, they worked"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّالِحَاتِ",
+      "transliteration": "al-ṣāliḥāti",
+      "meaning": "The righteous deeds, good actions",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, suitable; to repair, amend"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "صَّالِحَاتِ",
+          "meaning": "righteous (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them, to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "جَنَّاتٌ",
+      "transliteration": "jannātun",
+      "meaning": "Gardens, paradises",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to shield; also relates to the unseen and abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "تَجْرِي",
+      "transliteration": "tajrī",
+      "meaning": "Flow, run",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "to flow, to run, to proceed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مِن تَحْتِهَا",
+      "transliteration": "min taḥtihā",
+      "meaning": "From beneath them, under them",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "to be below, to lie beneath"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "تَحْتِهَا",
+          "meaning": "beneath them, under them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْأَنْهَارُ",
+      "transliteration": "al-ʾanhāru",
+      "meaning": "The rivers",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow, to stream; riverbed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "ۚ",
+      "transliteration": "laa sign",
+      "meaning": "Pause marker (waqf)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "That, this (masculine)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base; also 'near' in space or time"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "That (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "-ك",
+          "meaning": "Suffix pronoun -ka (masculine singular 'you')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْفَوْزُ",
+      "transliteration": "al-fawzu",
+      "meaning": "The attainment, the success",
+      "root": {
+        "letters": "ف-و-ز",
+        "meaning": "to obtain, to gain, to win; surpassing something and achieving it"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "الْكَبِيرُ",
+      "transliteration": "al-kabīru",
+      "meaning": "The great, the immense",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, great; to increase, grow"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَبِيرُ",
+          "meaning": "great, immense (adjective)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-those who-have believed-and did-the righteous deeds-for them-gardens-flow-from beneath them-the rivers-[Pause]-That-the attainment-the great."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

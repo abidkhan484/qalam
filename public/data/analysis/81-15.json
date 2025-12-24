@@ -1,0 +1,69 @@
+{
+  "verseId": "81:15",
+  "verse": {
+    "arabic": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+    "transliteration": "Fala oqsimu bialkhunnasi",
+    "surah": "At-Takwir",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَ",
+      "transliteration": "fa-",
+      "meaning": "so, then",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, consequence, result"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, indeed (emphatic)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "uqsimu",
+      "meaning": "I swear, I make an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, to apportion, to distribute; also relates to establishing shares and portions (hence an oath as a defined share of responsibility)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالْخُنَّسِ",
+      "transliteration": "bil-khunnasi",
+      "meaning": "by the retreating stars",
+      "root": {
+        "letters": "خ-ن-س",
+        "meaning": "to sink, to go down, to retreat, to diminish"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "الْخُنَّسِ",
+          "meaning": "the retreating stars"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-not-I-swear-by-the-retreating-stars"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

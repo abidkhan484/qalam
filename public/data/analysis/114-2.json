@@ -1,0 +1,41 @@
+{
+  "verseId": "114:2",
+  "verse": {
+    "arabic": "مَلِكِ النَّاسِ",
+    "transliteration": "Maliki alnnasi",
+    "surah": "An-Nas",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَلِكِ",
+      "transliteration": "maliki",
+      "meaning": "Possessor, Owner, Sovereign",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "Possession, ownership"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "The mankind, The people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost or strayed; also associated with origin and descent (from ancestors)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Possessor-of the mankind"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

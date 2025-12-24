@@ -1,0 +1,294 @@
+{
+  "verseId": "78:40",
+  "verse": {
+    "arabic": "إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا",
+    "transliteration": "Inna antharnakum AAathaban qareeban yawma yanthuru almaro ma qaddamat yadahu wayaqoolu alkafiru ya laytanee kuntu turaban",
+    "surah": "An-Naba",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّا",
+      "transliteration": "ʾinnā",
+      "meaning": "Indeed, verily we",
+      "root": {
+        "letters": "ن-و-ن",
+        "meaning": "to exist, to be"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنذَرْنَاكُمْ",
+      "transliteration": "ʾanḏarnākum",
+      "meaning": "We warned you",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to inform of danger"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to (infinitive marker)"
+        },
+        {
+          "arabic": "ذَر",
+          "meaning": "warned (from the root ن-ذ-ر)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَذَابًا",
+      "transliteration": "ʿadhāban",
+      "meaning": "Punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe, to inflict pain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَرِيبًا",
+      "transliteration": "qarīban",
+      "meaning": "Near, close",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "To be near, to approach, proximity"
+      },
+      "components": [
+        {
+          "arabic": "قَرِيب",
+          "meaning": "Near, close (adjective)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "Indefinite accusative marker, indicating time or manner (soon, shortly)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to exist, to pass (of time); day as a period of existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَنظُرُ",
+      "transliteration": "yanẓuru",
+      "meaning": "He observes, he looks",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, he"
+        },
+        {
+          "arabic": "نَظُرُ",
+          "meaning": "to see, to observe (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَرْءُ",
+      "transliteration": "al-marʾu",
+      "meaning": "The man, the human being",
+      "root": {
+        "letters": "م-ر-أ",
+        "meaning": "masculinity, human being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "قَدَّمَتْ",
+      "transliteration": "qaddamat",
+      "meaning": "It has put forth, it has sent forward",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to advance, to step forward, to present"
+      },
+      "components": [
+        {
+          "arabic": "قَدَّمَ",
+          "meaning": "to send forward, to put forth"
+        },
+        {
+          "arabic": "-تْ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَدَاهُ",
+      "transliteration": "yadāhu",
+      "meaning": "His hands",
+      "root": {
+        "letters": "ي-د-و",
+        "meaning": "to possess, to have; also related to weakness and softness (and thus the hand)"
+      },
+      "components": [
+        {
+          "arabic": "يَدَ",
+          "meaning": "hand(s)"
+        },
+        {
+          "arabic": "اهُ",
+          "meaning": "his (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix denoting present tense or habitual action, he/she does"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "The verbal noun/source of the verb; to say"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْكَافِرُ",
+      "transliteration": "al-kāfiru",
+      "meaning": "The disbeliever",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, to conceal; to be ungrateful or disbelieve."
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "كَافِرُ",
+          "meaning": "Disbeliever, one who hides/covers (truth)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "Oh!",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "لَيْتَنِي",
+      "transliteration": "laytanī",
+      "meaning": "Oh, I wish",
+      "root": {
+        "letters": "ل-ي-ت",
+        "meaning": "softness, gentleness; to wish, desire (often unattainable)"
+      },
+      "components": [
+        {
+          "arabic": "لَي",
+          "meaning": "particle expressing wish or regret"
+        },
+        {
+          "arabic": "ـتَنِي",
+          "meaning": "first person singular suffix with nun, denoting 'I'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "كُنتُ",
+      "transliteration": "kuntu",
+      "meaning": "I was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُنْتُ",
+          "meaning": "I was (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "تُرَابًا",
+      "transliteration": "turāban",
+      "meaning": "Dust",
+      "root": {
+        "letters": "ت-ر-ب",
+        "meaning": "To be soft, fine, or weak; earth, dust"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we warned-you punishment near day when observes the-man what has-put-forth his-hands and says the-disbeliever Oh I-wish I-was dust"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

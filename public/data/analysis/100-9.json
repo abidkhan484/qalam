@@ -1,0 +1,131 @@
+{
+  "verseId": "100:9",
+  "verse": {
+    "arabic": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+    "transliteration": "Afala yaAAlamu itha buAAthira ma fee alquboori",
+    "surah": "Al-Adiyat",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَلَا",
+      "transliteration": "ʾafalā",
+      "meaning": "Does not? (interrogative particle with negation)",
+      "root": {
+        "letters": "ف-ل-ي",
+        "meaning": "to lack, to be deficient, to fail"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle (yes/no question)"
+        },
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating negation (not)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "particle indicating negation (not)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "He knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person singular"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah, indicating nominative case and third person singular masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "ʾidhā",
+      "meaning": "When",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to come, to arrive; time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بُعْثِرَ",
+      "transliteration": "buʿthira",
+      "meaning": "Was scattered/disrupted",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to resurrect, to send forth, to raise up"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What/That which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to be able"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to be within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْقُبُورِ",
+      "transliteration": "al-qubūr",
+      "meaning": "The graves",
+      "root": {
+        "letters": "ق-ب-ر",
+        "meaning": "to bury, to hide, interment"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُبُورِ",
+          "meaning": "graves (plural of قبر)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Does-not he know when was-scattered what in the-graves?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

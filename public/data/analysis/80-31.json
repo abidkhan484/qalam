@@ -1,0 +1,50 @@
+{
+  "verseId": "80:31",
+  "verse": {
+    "arabic": "وَفَاكِهَةً وَأَبًّا",
+    "transliteration": "Wafakihatan waabban",
+    "surah": "Abasa",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَفَاكِهَةً",
+      "transliteration": "wa-fākihat(an)",
+      "meaning": "and fruit",
+      "root": {
+        "letters": "ف-ك-ه",
+        "meaning": "to be abundant, to grow lushly; ripeness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فَاكِهَةً",
+          "meaning": "fruit"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَأَبًّا",
+      "transliteration": "wa-ʾabba(n)",
+      "meaning": "and grass/fodder",
+      "root": {
+        "letters": "أ-بّ-و",
+        "meaning": "father; origin, source of sustenance/growth"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-fruit-[specifically] and-grass/[fodder]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

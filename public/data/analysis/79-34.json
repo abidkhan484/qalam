@@ -1,0 +1,90 @@
+{
+  "verseId": "79:34",
+  "verse": {
+    "arabic": "فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ",
+    "transliteration": "Faitha jaati alttammatu alkubra",
+    "surah": "An-Nazi'at",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "fa-idhā",
+      "meaning": "then when; so when; and when",
+      "root": {
+        "letters": "إ-د-ي",
+        "meaning": "to come; to arrive; time"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when; at the time of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَاءَتِ",
+      "transliteration": "jā'ati",
+      "meaning": "came; arrived; occurred (feminine singular)",
+      "root": {
+        "letters": "ج-ي-أ",
+        "meaning": "to come; to arrive; to occur"
+      },
+      "components": [
+        {
+          "arabic": "جَاء",
+          "meaning": "came; arrived; occurred (masculine)"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "feminine singular marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الطَّامَّةُ",
+      "transliteration": "aṭ-ṭāmmah",
+      "meaning": "the overwhelming calamity; the great disaster",
+      "root": {
+        "letters": "ط-م-م",
+        "meaning": "to sink, to overwhelm; covering, encompassing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْكُبْرَىٰ",
+      "transliteration": "al-kubrā",
+      "meaning": "the greatest; the largest (feminine singular)",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "growth, increase; to be great or large"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كُبْرَىٰ",
+          "meaning": "greatest, largest (feminine singular adjective)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-when came the-overwhelming-calamity the-greatest"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

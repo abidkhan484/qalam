@@ -1,0 +1,49 @@
+{
+  "verseId": "89:2",
+  "verse": {
+    "arabic": "وَلَيَالٍ عَشْرٍ",
+    "transliteration": "Walayalin AAashrin",
+    "surah": "Al-Fajr",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَيَالٍ",
+      "transliteration": "layālin",
+      "meaning": "nights (plural)",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "night, darkness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَشْرٍ",
+      "transliteration": "ʿashrin",
+      "meaning": "ten",
+      "root": {
+        "letters": "ع-ش-ر",
+        "meaning": "to associate ten, to be in the tenth (of a lunar cycle)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - nights - ten"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

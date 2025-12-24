@@ -1,0 +1,72 @@
+{
+  "verseId": "112:1",
+  "verse": {
+    "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+    "transliteration": "Qul huwa Allahu ahadun",
+    "surah": "Al-Ikhlas",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; to fall or descend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَحَدٌ",
+      "transliteration": "aḥadun",
+      "meaning": "One",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Uniqueness, oneness, singularity"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Indefinite negation or intensifying particle (in this context, signifies oneness)"
+        },
+        {
+          "arabic": "حَدّ",
+          "meaning": "Limit, boundary, edge; also used to denote uniqueness in combination with the 'أـ' particle"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say! - He - Allah - One"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

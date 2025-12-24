@@ -1,0 +1,281 @@
+{
+  "verseId": "98:6",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَـٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+    "transliteration": "Inna allatheena kafaroo min ahli alkitabi waalmushrikeena fee nari jahannama khalideena feeha olaika hum sharru albariyyati",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, to exist; emphasis, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who, the ones who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to possess, to have, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "relative pronoun - plural masculine, 'those who'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "Disbelieved, rejected faith",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, conceal; to be ungrateful, deny (a blessing), disbelieve"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Prefix indicating a group of people (plural)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "They disbelieved, they rejected faith (from the root ك-ف-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "From, among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَهْلِ",
+      "transliteration": "ʾahli",
+      "meaning": "People of, family of",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to incline to, be fit for; family, household"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "The Scripture, the Book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْمُشْرِكِينَ",
+      "transliteration": "al-mushrikīna",
+      "meaning": "The polytheists, the associators (of gods)",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to share, associate, partner"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُشْرِكِينَ",
+          "meaning": "Those who associate (others with God), polytheists"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go within; abundance, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "نَارِ",
+      "transliteration": "nāri",
+      "meaning": "Fire of",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, intensity"
+      },
+      "components": [
+        {
+          "arabic": "نَارٍ",
+          "meaning": "Fire (genitive case, indicating possession or relation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "جَهَنَّمَ",
+      "transliteration": "jahannama",
+      "meaning": "Hellfire, Gehenna",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "to be hidden, to cover; also intensity and heat"
+      },
+      "components": [
+        {
+          "arabic": "جَهَنَّمَ",
+          "meaning": "Hellfire, Gehenna - a valley near Mecca known for its intense heat and fire; by extension, it became the name of Hell."
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "خَالِدِينَ",
+      "transliteration": "khālidīna",
+      "meaning": "Abiding, remaining eternally",
+      "root": {
+        "letters": "خ-ل-د",
+        "meaning": "to remain, to endure, to be eternal"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "Therein, in it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to contain, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those, they (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, initial, foremost; to return or revert"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (demonstrative prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Suffix indicating plural masculine human beings"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They, they themselves",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; collective reference"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "شَرُّ",
+      "transliteration": "sharru",
+      "meaning": "The worst, the evilest",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, badness, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 17,
+      "arabic": "الْبَرِيَّةِ",
+      "transliteration": "al-barīyah",
+      "meaning": "The creation, creatures",
+      "root": {
+        "letters": "ب-ر-ي",
+        "meaning": "to create, to bring into existence; vastness, wilderness"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَرِيَّة",
+          "meaning": "creation, creatures; wilderness"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- the-ones-who disbelieved from people-of the-Book and the-polytheists in fire-of Hell abiding eternally therein. Those they are the-worst of creation."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

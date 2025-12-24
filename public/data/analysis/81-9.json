@@ -1,0 +1,70 @@
+{
+  "verseId": "81:9",
+  "verse": {
+    "arabic": "بِأَيِّ ذَنبٍ قُتِلَتْ",
+    "transliteration": "Biayyi thanbin qutilat",
+    "surah": "At-Takwir",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِأَيِّ",
+      "transliteration": "biʾayyi",
+      "meaning": "With which / By what",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "to return, to come back; relative pronoun referring to something previously mentioned or understood"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَيّ",
+          "meaning": "which, what (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَنبٍ",
+      "transliteration": "ḏanbin",
+      "meaning": "sin / crime / fault",
+      "root": {
+        "letters": "ذ-ن-ب",
+        "meaning": "to sin, to err; the part of an animal used for following (metaphorically leading to error)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قُتِلَتْ",
+      "transliteration": "qutilat",
+      "meaning": "she was killed / it was slain (passive voice)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "to kill, to destroy, death"
+      },
+      "components": [
+        {
+          "arabic": "قُتِلَ",
+          "meaning": "passive voice, was killed/slain"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular ending"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "with-which sin she-was-killed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

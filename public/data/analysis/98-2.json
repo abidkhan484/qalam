@@ -1,0 +1,98 @@
+{
+  "verseId": "98:2",
+  "verse": {
+    "arabic": "رَسُولٌ مِّنَ اللَّهِ يَتْلُو صُحُفًا مُّطَهَّرَةً",
+    "transliteration": "Rasoolun mina Allahi yatloo suhufan mutahharatan",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَسُولٌ",
+      "transliteration": "rasūlun",
+      "meaning": "messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; to travel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِّنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اللَّهِ",
+      "transliteration": "allāhi",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, divinity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَتْلُو",
+      "transliteration": "yatlū",
+      "meaning": "he recites",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite; generally related to sequence and continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "صُحُفًا",
+      "transliteration": "ṣuḥufan",
+      "meaning": "scriptures (plural)",
+      "root": {
+        "letters": "ص-ح-ف",
+        "meaning": "to write, to record; smoothness, clarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مُّطَهَّرَةً",
+      "transliteration": "muṭahharatan",
+      "meaning": "purified",
+      "root": {
+        "letters": "ط-ه-ر",
+        "meaning": "to be pure, clean, free from imperfection; to purify"
+      },
+      "components": [
+        {
+          "arabic": "مُ",
+          "meaning": "passive participle marker"
+        },
+        {
+          "arabic": "طَهَّرَ",
+          "meaning": "to purify (verb)"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine ending, indefinite noun marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "messenger - from - Allah - he recites - scriptures - purified"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

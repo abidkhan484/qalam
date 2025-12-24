@@ -1,0 +1,61 @@
+{
+  "verseId": "104:9",
+  "verse": {
+    "arabic": "فِي عَمَدٍ مُّمَدَّدَةٍ",
+    "transliteration": "Fee AAamadin mumaddadatin",
+    "surah": "Al-Humazah",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَمَدٍ",
+      "transliteration": "ʿamadīn",
+      "meaning": "columns, pillars, supports",
+      "root": {
+        "letters": "ع-م-د",
+        "meaning": "to stand firm, to be stable; foundation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّمَدَّدَةٍ",
+      "transliteration": "mumaddadah",
+      "meaning": "extended, prolonged, lengthened",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to extend, to stretch out, to lengthen"
+      },
+      "components": [
+        {
+          "arabic": "مُمَ",
+          "meaning": "passive participle prefix indicating 'being extended'"
+        },
+        {
+          "arabic": "دَّدَةٍ",
+          "meaning": "suffix denoting feminine singular indefinite state and prolongation/repetition of the root's action"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in - columns - extended"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

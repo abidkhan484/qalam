@@ -1,0 +1,94 @@
+{
+  "verseId": "107:2",
+  "verse": {
+    "arabic": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+    "transliteration": "Fathalika allathee yaduAAAAu alyateema",
+    "surah": "Al-Ma'un",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَ",
+      "transliteration": "fa-",
+      "meaning": "then, so, therefore (particle of consequence)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ف",
+          "meaning": "particle indicating sequence, consequence or result; then, so, therefore."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (demonstrative pronoun)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (remote demonstrative base)"
+        },
+        {
+          "arabic": "-ك",
+          "meaning": "suffix pronoun - your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the one who, which (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; to be near or belong to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِي",
+          "meaning": "the one who, which (relative pronoun core)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَدُعُّ",
+      "transliteration": "yadʿu",
+      "meaning": "he drives away, repels (verb)",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke; to beckon or summon"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْيَتِيمَ",
+      "transliteration": "al-yatīm",
+      "meaning": "the orphan (noun)",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, deficient, or lacking; to need care"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-that the-one who he-drives-away the-orphan"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

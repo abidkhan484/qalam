@@ -1,0 +1,63 @@
+{
+  "verseId": "81:2",
+  "verse": {
+    "arabic": "وَإِذَا النُّجُومُ انكَدَرَتْ",
+    "transliteration": "Waitha alnnujoomu inkadarat",
+    "surah": "At-Takwir",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-س-ل",
+        "meaning": "to connect, to join, to follow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to decline or fall (of fortune)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النُّجُومُ",
+      "transliteration": "an-nujūmu",
+      "meaning": "the stars",
+      "root": {
+        "letters": "ن-ج-م",
+        "meaning": "to be bright, to shine; star"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "انكَدَرَتْ",
+      "transliteration": "inkadarāt",
+      "meaning": "became dark, obscured, fell dispersing",
+      "root": {
+        "letters": "ك-د-ر",
+        "meaning": "to be troubled, murky, or cloudy; to cover with darkness or obscurity."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - the stars - became dark/dispersed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

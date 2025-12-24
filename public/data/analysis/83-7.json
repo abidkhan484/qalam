@@ -1,0 +1,99 @@
+{
+  "verseId": "83:7",
+  "verse": {
+    "arabic": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+    "transliteration": "Kalla inna kitaba alfujjari lafee sijjeenin",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Surely not!",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "To prevent, to restrain, negation or denial"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed, Verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation and emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, Verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كِتَابَ",
+      "transliteration": "kitāba",
+      "meaning": "Record, Book (accusative)",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "To write, to compose; writing in general."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْفُجَّارِ",
+      "transliteration": "al-fujjāri",
+      "meaning": "The wicked, The transgressors (genitive)",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "To split, to break, to dawn; to rebel, to transgress"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "فُجَّارِ",
+          "meaning": "Plural of فاجر (transgressor, wicked person). Genitive form indicating possession or attribute."
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَفِي",
+      "transliteration": "lafī",
+      "meaning": "Is indeed in, Surely is in",
+      "root": {
+        "letters": "ل-ف-ي",
+        "meaning": "to remain, to abide, to stay"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "سِجِّينٍ",
+      "transliteration": "sijjīnin",
+      "meaning": "Sijjeen (a place, often understood as Hell - genitive)",
+      "root": {
+        "letters": "س-ج-ن",
+        "meaning": "imprisonment, confinement, a prison; to be imprisoned or confined"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No!- Indeed- [the] record- of- the- wicked - is indeed- in- Sijjeen."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

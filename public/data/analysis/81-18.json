@@ -1,0 +1,70 @@
+{
+  "verseId": "81:18",
+  "verse": {
+    "arabic": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+    "transliteration": "Waalssubhi itha tanaffasa",
+    "surah": "At-Takwir",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالصُّبْحِ",
+      "transliteration": "wa-ṣ-ṣubḥi",
+      "meaning": "and the dawn",
+      "root": {
+        "letters": "ص-ب-ح",
+        "meaning": "to become light, to shine; morning, dawn"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الصُّبْحِ",
+          "meaning": "the dawn"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go away, to depart; to come, to happen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَنَفَّسَ",
+      "transliteration": "tanaffasa",
+      "meaning": "it breathed, exhaled",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, breath, life; to exhale, to seek relief"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating past tense and often intensiveness or completion"
+        },
+        {
+          "arabic": "نَفَّسَ",
+          "meaning": "to breathe, exhale; to relieve oneself (from something burdensome)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the dawn when it breathes"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

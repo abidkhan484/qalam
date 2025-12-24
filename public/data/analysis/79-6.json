@@ -1,0 +1,52 @@
+{
+  "verseId": "79:6",
+  "verse": {
+    "arabic": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ",
+    "transliteration": "Yawma tarjufu alrrajifatu",
+    "surah": "An-Nazi'at",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرْجُفُ",
+      "transliteration": "tarjufu",
+      "meaning": "it shakes violently / convulses",
+      "root": {
+        "letters": "ر-ج-ف",
+        "meaning": "to tremble, shake, quiver, be afraid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّاجِفَةُ",
+      "transliteration": "ar-rājiifah",
+      "meaning": "the violently shaking one / the convulsion",
+      "root": {
+        "letters": "ر-ج-ف",
+        "meaning": "to shake, tremble, quake"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day-when shakes violently the-violently-shaking-one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

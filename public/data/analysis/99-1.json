@@ -1,0 +1,81 @@
+{
+  "verseId": "99:1",
+  "verse": {
+    "arabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+    "transliteration": "Itha zulzilati alardu zilzalaha",
+    "surah": "Az-Zalzalah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go away, to depart; to come, to happen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "زُلْزِلَتِ",
+      "transliteration": "zulzilatī",
+      "meaning": "was shaken, it was violently stirred",
+      "root": {
+        "letters": "ز-ل-ز",
+        "meaning": "to shake, tremble, or be in violent motion"
+      },
+      "components": [
+        {
+          "arabic": "زُلْ",
+          "meaning": "passive participle stem indicating 'shaken'"
+        },
+        {
+          "arabic": "زِلَتِ",
+          "meaning": "feminine singular, past tense – 'was shaken'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth, the ground",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, expansive; the earth as a broad surface"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "زِلْزَالَهَا",
+      "transliteration": "zilzālahā",
+      "meaning": "its shaking, its earthquake",
+      "root": {
+        "letters": "ز-ل-ز",
+        "meaning": "to shake, tremble, or be in violent motion"
+      },
+      "components": [
+        {
+          "arabic": "زِلْزَال",
+          "meaning": "earthquake, shaking"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when - was-shaken - the-earth - its-shaking"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

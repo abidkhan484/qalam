@@ -1,0 +1,50 @@
+{
+  "verseId": "78:16",
+  "verse": {
+    "arabic": "وَجَنَّاتٍ أَلْفَافًا",
+    "transliteration": "Wajannatin alfafan",
+    "surah": "An-Naba",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَنَّاتٍ",
+      "transliteration": "wa-janānātٍ",
+      "meaning": "and gardens (plural)",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to shelter; abundance, protection"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَنَّاتٍ",
+          "meaning": "gardens (plural, indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَلْفَافًا",
+      "transliteration": "ʾalfāfān",
+      "meaning": "entwined, closely interwoven",
+      "root": {
+        "letters": "ل-ف-ف",
+        "meaning": "to wrap, to coil, to entwine"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-gardens [plural] - entwined"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

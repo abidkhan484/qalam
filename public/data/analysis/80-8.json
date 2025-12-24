@@ -1,0 +1,101 @@
+{
+  "verseId": "80:8",
+  "verse": {
+    "arabic": "وَأَمَّا مَن جَاءَكَ يَسْعَىٰ",
+    "transliteration": "Waamma man jaaka yasAAa",
+    "surah": "Abasa",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ي",
+        "meaning": "affection, love, friendship; also implies connection and unity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but as for",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to begin, to intend"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "but, however"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; or to ask, inquire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَاءَكَ",
+      "transliteration": "jā'aka",
+      "meaning": "came to you",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَ",
+          "meaning": "he came"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "to you (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَسْعَىٰ",
+      "transliteration": "yasʿā",
+      "meaning": "striving, hastening",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to endeavor, to strive, to make effort"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person singular present tense (I)"
+        },
+        {
+          "arabic": "سَعَى",
+          "meaning": "to strive, to hasten"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - but as for - who - came-to-you - striving"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "verseId": "83:29",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+    "transliteration": "Inna allatheena ajramoo kanoo mina allatheena amanoo yadhakoona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-ن-ن",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to have a quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَجْرَمُوا",
+      "transliteration": "ʾajramū",
+      "meaning": "Committed crimes, transgressed",
+      "root": {
+        "letters": "ج-ر-م",
+        "meaning": "To incur guilt, to commit a fault or crime; to be wicked."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "Were, used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Pronoun suffix indicating plural 'they'"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "Verb form indicating past tense, plural masculine"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "From among, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to belong to; relative pronoun indicating possession or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed, had faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trust, faith"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix denoting present/ongoing tense (form I verb)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed, they had faith (verb form I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَضْحَكُونَ",
+      "transliteration": "yaḍḥakūna",
+      "meaning": "They used to laugh, they were laughing",
+      "root": {
+        "letters": "ض-ح-ك",
+        "meaning": "to laugh, to joke, amusement"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and plurality (they)"
+        },
+        {
+          "arabic": "ضْحَك",
+          "meaning": "laughing, source of laughter"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating masculine plural active participle (they are doing)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-those-who-committed-crimes-were-from-among-those-who-believed-they-used-to-laugh"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

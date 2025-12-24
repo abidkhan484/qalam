@@ -1,0 +1,104 @@
+{
+  "verseId": "86:7",
+  "verse": {
+    "arabic": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+    "transliteration": "Yakhruju min bayni alssulbi waalttaraibi",
+    "surah": "At-Tariq",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَخْرُجُ",
+      "transliteration": "yakhruju",
+      "meaning": "He emerges, it comes out",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "To exit, to come forth, to appear"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense and third person singular."
+        },
+        {
+          "arabic": "خْرُج",
+          "meaning": "The root denoting exiting or coming forth."
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "Dammah indicating the present/future tense vowel."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, be less, originate from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَيْنِ",
+      "transliteration": "bayna",
+      "meaning": "Between",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, to stand between"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصُّلْبِ",
+      "transliteration": "aṣ-ṣulbi",
+      "meaning": "The backbone, loin",
+      "root": {
+        "letters": "ص-ل-ب",
+        "meaning": "hardness, firmness, strength"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "التَّرَائِبِ",
+      "transliteration": "at-tarāʾibi",
+      "meaning": "The ribs, side",
+      "root": {
+        "letters": "ر-ي-ب",
+        "meaning": "to be strong, firm; to have strength or solidity; to possess ribs"
+      },
+      "components": [
+        {
+          "arabic": "التَّ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "رَائِبِ",
+          "meaning": "ribs, side (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-emerges from between the-backbone and the-ribs"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

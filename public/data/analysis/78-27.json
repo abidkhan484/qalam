@@ -1,0 +1,98 @@
+{
+  "verseId": "78:27",
+  "verse": {
+    "arabic": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+    "transliteration": "Innahum kanoo la yarjoona hisaban",
+    "surah": "An-Naba",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "ʾinnahum",
+      "meaning": "Indeed they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; intention, desire"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "-هُمْ",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَرْجُونَ",
+      "transliteration": "yarjūna",
+      "meaning": "they expect, they hope for",
+      "root": {
+        "letters": "ر-ج-و",
+        "meaning": "to hope, to expect, to desire"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person plural active present tense"
+        },
+        {
+          "arabic": "رْجُونَ",
+          "meaning": "they hope, they expect (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حِسَابًا",
+      "transliteration": "ḥisāban",
+      "meaning": "an account",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-they were not they-expect an-account"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

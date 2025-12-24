@@ -1,0 +1,71 @@
+{
+  "verseId": "102:3",
+  "verse": {
+    "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+    "transliteration": "Kalla sawfa taAAlamoona",
+    "surah": "At-Takathur",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, indeed not, by no means",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to refuse, to reject, to prevent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَوْفَ",
+      "transliteration": "sawfa",
+      "meaning": "Soon, shortly, will (future particle)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "A phonetic element indicating futurity; no inherent lexical meaning."
+        },
+        {
+          "arabic": "وْفَ",
+          "meaning": "A phonetic element indicating futurity; no inherent lexical meaning."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "You will know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "To know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix indicating the second person masculine plural present/future tense."
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "To know, to understand (root verb)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "Suffix indicating the second person masculine plural."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - Soon - You-will-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

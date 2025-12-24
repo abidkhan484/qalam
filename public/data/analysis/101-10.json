@@ -1,0 +1,77 @@
+{
+  "verseId": "101:10",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+    "transliteration": "Wama adraka ma hiyah",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "ʾadrakāka",
+      "meaning": "can make you know/understand (you)",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to reach, to comprehend, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَكَ",
+          "meaning": "to make you know/understand (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for; to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "هِيَهْ",
+      "transliteration": "hiyah",
+      "meaning": "it/that (feminine)",
+      "root": {
+        "letters": "هـ-يَ-ء",
+        "meaning": "existence, being; that which is present"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what can-make-you-know what it/that (feminine)"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

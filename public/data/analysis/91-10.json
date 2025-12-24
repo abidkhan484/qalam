@@ -1,0 +1,80 @@
+{
+  "verseId": "91:10",
+  "verse": {
+    "arabic": "وَقَدْ خَابَ مَن دَسَّاهَا",
+    "transliteration": "Waqad khaba man dassaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "indeed, surely",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to advance, to precede"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَابَ",
+      "transliteration": "khāba",
+      "meaning": "failed, lost hope",
+      "root": {
+        "letters": "خ-ي-ب",
+        "meaning": "to be disappointed, to fail, to lose hope"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to conceal; a point or place not visible"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "دَسَّاهَا",
+      "transliteration": "dassāhā",
+      "meaning": "instilled it with corruption, concealed it",
+      "root": {
+        "letters": "د-س-و",
+        "meaning": "to conceal, hide; to corrupt or poison subtly"
+      },
+      "components": [
+        {
+          "arabic": "دَسَّ",
+          "meaning": "to instill subtly, to conceal secretly"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And - indeed - failed - who - instilled-it-with-corruption."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

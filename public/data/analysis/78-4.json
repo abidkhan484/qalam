@@ -1,0 +1,54 @@
+{
+  "verseId": "78:4",
+  "verse": {
+    "arabic": "كَلَّا سَيَعْلَمُونَ",
+    "transliteration": "Kalla sayaAAlamoona",
+    "surah": "An-Naba",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Indeed not!",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to reject, to refuse, to negate strongly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَيَعْلَمُونَ",
+      "transliteration": "sayʿlamūn",
+      "meaning": "They will surely know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "يَعْلَمُ",
+          "meaning": "they will know (verb)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "pronoun suffix indicating plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - They-will-surely-know."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

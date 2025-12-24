@@ -1,0 +1,63 @@
+{
+  "verseId": "86:6",
+  "verse": {
+    "arabic": "خُلِقَ مِن مَّاءٍ دَافِقٍ",
+    "transliteration": "Khuliqa min main dafiqin",
+    "surah": "At-Tariq",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خُلِقَ",
+      "transliteration": "khuliqa",
+      "meaning": "He was created, it was created (passive)",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to form"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّاءٍ",
+      "transliteration": "māʾin",
+      "meaning": "Water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "Fluidity, moisture, that which flows."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "دَافِقٍ",
+      "transliteration": "dāfiqin",
+      "meaning": "Ejected, gushing forth, pouring out",
+      "root": {
+        "letters": "د-ف-ق",
+        "meaning": "to gush forth, to pour out, to eject"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-was-created - from - water - ejected."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

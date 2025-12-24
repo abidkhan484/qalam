@@ -1,0 +1,52 @@
+{
+  "verseId": "82:1",
+  "verse": {
+    "arabic": "إِذَا السَّمَاءُ انفَطَرَتْ",
+    "transliteration": "Itha alssamao infatarat",
+    "surah": "Al-Infitar",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, at the time of",
+      "root": {
+        "letters": "ذ-ه-أ",
+        "meaning": "to perceive, to feel, to experience; also, to go away, to depart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "انفَطَرَتْ",
+      "transliteration": "infaṭarat",
+      "meaning": "split, broke apart",
+      "root": {
+        "letters": "ف-ط-ر",
+        "meaning": "to split, to break open; creation (as splitting from nothingness)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-at the time of -the sky -split/broke apart"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

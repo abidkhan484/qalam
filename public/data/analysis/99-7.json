@@ -1,0 +1,125 @@
+{
+  "verseId": "99:7",
+  "verse": {
+    "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+    "transliteration": "Faman yaAAmal mithqala tharratin khayran yarahu",
+    "surah": "Az-Zalzalah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَن",
+      "transliteration": "fa-man",
+      "meaning": "so whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, exist; also connection, relation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (fā particle)"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَعْمَلْ",
+      "transliteration": "yaʿmal",
+      "meaning": "does, performs",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to practice, to exert effort"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular or imperfective aspect"
+        },
+        {
+          "arabic": "عَمَلْ",
+          "meaning": "verbal noun/form II verb: to perform, to do"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِثْقَالَ",
+      "transliteration": "mithqāla",
+      "meaning": "weight of, amount like the weight of",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "heaviness, weight; to be heavy; to weigh"
+      },
+      "components": [
+        {
+          "arabic": "مِثْ",
+          "meaning": "amount like, measure of"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "weight, scale (noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذَرَّةٍ",
+      "transliteration": "dharratin",
+      "meaning": "a particle, a speck, an atom",
+      "root": {
+        "letters": "ذ-ر-ر",
+        "meaning": "to scatter, to break up, smallness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "خَيْرًا",
+      "transliteration": "khayran",
+      "meaning": "good, benefit",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "the best, good quality, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَرَهُ",
+      "transliteration": "yarahu",
+      "meaning": "he will see it",
+      "root": {
+        "letters": "ر-هـ-ي",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense or imperfective aspect"
+        },
+        {
+          "arabic": "رَ",
+          "meaning": "base form root letter representing the action of seeing"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "pronoun suffix: 'it' (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-whoever does weight-of a particle good he-will-see it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

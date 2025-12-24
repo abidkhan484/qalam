@@ -1,0 +1,30 @@
+{
+  "verseId": "101:1",
+  "verse": {
+    "arabic": "الْقَارِعَةُ",
+    "transliteration": "AlqariAAatu",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْقَارِعَةُ",
+      "transliteration": "al-qāriʿah",
+      "meaning": "the Striking Calamity",
+      "root": {
+        "letters": "ق-ر-ع",
+        "meaning": "to strike, to knock forcefully"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-Striking Calamity"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

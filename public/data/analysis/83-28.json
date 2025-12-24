@@ -1,0 +1,99 @@
+{
+  "verseId": "83:28",
+  "verse": {
+    "arabic": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
+    "transliteration": "AAaynan yashrabu biha almuqarraboona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَيْنًا",
+      "transliteration": "ʿaynāⁿ",
+      "meaning": "spring, eye (source)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "source, eye, defect, spring"
+      },
+      "components": [
+        {
+          "arabic": "عَيْن",
+          "meaning": "eye, source"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwin (indefinite accusative singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَشْرَبُ",
+      "transliteration": "yašrabu",
+      "meaning": "he drinks",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, absorb"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular"
+        },
+        {
+          "arabic": "شْرَبَ",
+          "meaning": "to drink (basic verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهَا",
+      "transliteration": "bihā",
+      "meaning": "with it, from it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have, to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُقَرَّبُونَ",
+      "transliteration": "al-muqarrabūna",
+      "meaning": "the near ones, those brought close",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُقَرَّبُونَ",
+          "meaning": "those who are brought near, the near ones (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "spring-[from which]-he drinks-with it-the near ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "verseId": "92:18",
+  "verse": {
+    "arabic": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+    "transliteration": "Allathee yutee malahu yatazakka",
+    "surah": "Al-Layl",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the who/which (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; to be near; to belong to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who/which (relative pronoun base)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُؤْتِي",
+      "transliteration": "yu'tī",
+      "meaning": "he gives/bestows",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to bestow, to grant"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first-person singular or third-person masculine singular"
+        },
+        {
+          "arabic": "أُتِيَ",
+          "meaning": "passive form of 'to give/bestow'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَالَهُ",
+      "transliteration": "mālahu",
+      "meaning": "his wealth/property",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "what/possessive pronoun marker (in this context)"
+        },
+        {
+          "arabic": "لَهُ",
+          "meaning": "for him/his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَتَزَكَّىٰ",
+      "transliteration": "yatazakkā",
+      "meaning": "he purifies himself/strives for purity",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, to flourish, to grow well"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, he (masculine singular)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "indicates the imperfective form, often reflexive or iterative action"
+        },
+        {
+          "arabic": "زَكَّى",
+          "meaning": "to purify, to cleanse (root-based meaning)"
+        },
+        {
+          "arabic": "ىٰ",
+          "meaning": "tanween al-fatḥ for indefinite noun ending, also can indicate prolongation."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-who he-gives his-wealth he-purifies-himself"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

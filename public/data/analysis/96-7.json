@@ -1,0 +1,70 @@
+{
+  "verseId": "96:7",
+  "verse": {
+    "arabic": "أَن رَّآهُ اسْتَغْنَىٰ",
+    "transliteration": "An raahu istaghna",
+    "surah": "Al-Alaq",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that; because",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; related to being or becoming"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَّآهُ",
+      "transliteration": "raʾāhu",
+      "meaning": "he saw him; he perceived it",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "رَآ",
+          "meaning": "he saw"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him; it (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اِسْتَغْنَىٰ",
+      "transliteration": "istaghna",
+      "meaning": "he was self-sufficient; he became independent",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be free from want, to suffice; wealth, richness"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَـ",
+          "meaning": "indicates seeking or doing something to a high degree; prefix denoting effort/intensity"
+        },
+        {
+          "arabic": "غَنَىٰ",
+          "meaning": "wealth, richness; to be sufficient"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "that-he saw-him he-was self-sufficient"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

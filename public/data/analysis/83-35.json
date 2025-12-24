@@ -1,0 +1,61 @@
+{
+  "verseId": "83:35",
+  "verse": {
+    "arabic": "عَلَى الْأَرَائِكِ يَنظُرُونَ",
+    "transliteration": "AAala alaraiki yanthuroona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَرَائِكِ",
+      "transliteration": "al-ʾarāʾiki",
+      "meaning": "the couches, the reclining places",
+      "root": {
+        "letters": "أ-ر-ك",
+        "meaning": "to incline, to be comfortable, to settle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَنظُرُونَ",
+      "transliteration": "yanẓurūna",
+      "meaning": "they observe, they look at",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to look at"
+      },
+      "components": [
+        {
+          "arabic": "ينظر",
+          "meaning": "they observe (present tense)"
+        },
+        {
+          "arabic": "ون",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "upon - the - couches - they-observe"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

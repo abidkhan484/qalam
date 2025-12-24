@@ -1,0 +1,79 @@
+{
+  "verseId": "84:5",
+  "verse": {
+    "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+    "transliteration": "Waathinat lirabbiha wahuqqat",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأَذِنَتْ",
+      "transliteration": "waʾadhinat",
+      "meaning": "and it responded/listened",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen, to permit"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَذِنَتْ",
+          "meaning": "it responded/listened (feminine singular, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِرَبِّهَا",
+      "transliteration": "li-rabbi-hā",
+      "meaning": "to its Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "رَبِّهَا",
+          "meaning": "her Lord (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَحُقَّتْ",
+      "transliteration": "wa-ḥuqqat",
+      "meaning": "and it was obligated/realized/fulfilled",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, to be certain, to exist in reality; justice, truthfulness"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حُقَّتْ",
+          "meaning": "it was obligated/realized/fulfilled (feminine singular, past tense)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-responded to-its-Lord and-it-was-obligated"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

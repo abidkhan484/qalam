@@ -1,0 +1,105 @@
+{
+  "verseId": "96:15",
+  "verse": {
+    "arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+    "transliteration": "Kalla lain lam yantahi lanasfaAAan bialnnasiyati",
+    "surah": "Al-Alaq",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Indeed not!",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "to reject, to deny, to prevent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَئِن",
+      "transliteration": "laʾin",
+      "meaning": "If, Verily if",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "to yield, to be soft, to be pliable; conditional particle indicating affirmation of a condition"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "conditional particle, introducing a condition; if"
+        },
+        {
+          "arabic": "إِنْ",
+          "meaning": "particle emphasizing the condition, verily if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَنْتَهِ",
+      "transliteration": "yantahi",
+      "meaning": "he desist, he cease",
+      "root": {
+        "letters": "ن-ه-ي",
+        "meaning": "to cease, to stop, to refrain from"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, he (masculine singular)"
+        },
+        {
+          "arabic": "نَتَ",
+          "meaning": "form II stem, indicating causative or iterative action related to the root"
+        },
+        {
+          "arabic": "هِيَ",
+          "meaning": "suffix denoting the third person masculine singular pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَنَسْفَعًا",
+      "transliteration": "lanasfaʿan",
+      "meaning": "We will surely drag, We shall certainly pull",
+      "root": {
+        "letters": "س-ف-ع",
+        "meaning": "to drag, to pull forcibly; to wear away"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالنَّاصِيَةِ",
+      "transliteration": "binaṣiyyati",
+      "meaning": "by the forelock, with the top of the head",
+      "root": {
+        "letters": "ن-ص-و",
+        "meaning": "to raise, to draw up; forelock (as raised)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "النَّاصِيَةِ",
+          "meaning": "the forelock, the top of the head"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No!- If- he desist- We will surely drag- by the forelock"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "verseId": "78:14",
+  "verse": {
+    "arabic": "وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+    "transliteration": "Waanzalna mina almuAAsirati maan thajjajan",
+    "surah": "An-Naba",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنزَلْنَا",
+      "transliteration": "anzalnā",
+      "meaning": "We sent down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "we"
+        },
+        {
+          "arabic": "زَلْنَا",
+          "meaning": "sent down"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُعْصِرَاتِ",
+      "transliteration": "al-muʿṣirāti",
+      "meaning": "the rain clouds (those that squeeze out water)",
+      "root": {
+        "letters": "ع-ص-ر",
+        "meaning": "to squeeze, press hard, wring out"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُعْصِرَاتِ",
+          "meaning": "those squeezing, extracting (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَاءً",
+      "transliteration": "mā’an",
+      "meaning": "water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, wateriness, existence; relating to fluid or moisture"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ثَجَّاجًا",
+      "transliteration": "thajjājā",
+      "meaning": "pouring, abundant",
+      "root": {
+        "letters": "ث-ج-ج",
+        "meaning": "to gush forth, to flow abundantly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We sent down from the-rain clouds water pouring [heavily]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

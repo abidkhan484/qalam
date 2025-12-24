@@ -1,0 +1,47 @@
+{
+  "verseId": "79:8",
+  "verse": {
+    "arabic": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ",
+    "transliteration": "Quloobun yawmaithin wajifatun",
+    "surah": "An-Nazi'at",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلُوبٌ",
+      "transliteration": "qulūbun",
+      "meaning": "hearts",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn over, to change; the heart as that which turns and changes"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that day"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَاجِفَةٌ",
+      "transliteration": "wājifah",
+      "meaning": "trembling, frightened",
+      "root": {
+        "letters": "و-ج-ف",
+        "meaning": "to fear, to tremble, to be shy"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "hearts- that- day trembling"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

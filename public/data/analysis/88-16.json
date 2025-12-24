@@ -1,0 +1,50 @@
+{
+  "verseId": "88:16",
+  "verse": {
+    "arabic": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+    "transliteration": "Wazarabiyyu mabthoothatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَزَرَابِيُّ",
+      "transliteration": "wa-zarābiyy",
+      "meaning": "and carpets (plural)",
+      "root": {
+        "letters": "ز-ر-ب",
+        "meaning": "to spread out, to cultivate, to grow; (figuratively) to increase wealth"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "زَرَابِيُّ",
+          "meaning": "carpets (plural, indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَبْثُوثَةٌ",
+      "transliteration": "mabthūthah",
+      "meaning": "spread out, scattered",
+      "root": {
+        "letters": "ب-ث-ث",
+        "meaning": "to spread, to scatter, to disperse"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-carpets [spread]-out"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

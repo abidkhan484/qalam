@@ -1,0 +1,63 @@
+{
+  "verseId": "113:2",
+  "verse": {
+    "arabic": "مِن شَرِّ مَا خَلَقَ",
+    "transliteration": "Min sharri ma khalaqa",
+    "surah": "Al-Falaq",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation, origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَرِّ",
+      "transliteration": "sharri",
+      "meaning": "evil, harm",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, badness, harm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which, what",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be, to exist; that which is"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "He created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "To create, to originate, to bring into being"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "from-of evil of that which He created"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

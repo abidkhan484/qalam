@@ -1,0 +1,92 @@
+{
+  "verseId": "100:10",
+  "verse": {
+    "arabic": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+    "transliteration": "Wahussila ma fee alssudoori",
+    "surah": "Al-Adiyat",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, to call upon, association"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حُصِّلَ",
+      "transliteration": "ḥuṣṣila",
+      "meaning": "was obtained, was collected, was gathered",
+      "root": {
+        "letters": "ح-ص-ل",
+        "meaning": "to acquire, to obtain, to result in"
+      },
+      "components": [
+        {
+          "arabic": "حَصَّ",
+          "meaning": "to obtain, to acquire"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "passive voice marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to exist, to be"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصُّدُورِ",
+      "transliteration": "aṣ-ṣudūrī",
+      "meaning": "the breasts, the hearts",
+      "root": {
+        "letters": "ص-د-ر",
+        "meaning": "to be foremost, to lead, to advance; chest, heart"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صُدُورٍ",
+          "meaning": "breasts, hearts (plural of صَدْر)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - was-obtained - what - in - the-breasts"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

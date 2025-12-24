@@ -1,0 +1,70 @@
+{
+  "verseId": "85:5",
+  "verse": {
+    "arabic": "النَّارِ ذَاتِ الْوَقُودِ",
+    "transliteration": "Alnnari thati alwaqoodi",
+    "surah": "Al-Buruj",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "النَّارِ",
+      "transliteration": "an-nāri",
+      "meaning": "the fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَّارِ",
+          "meaning": "fire (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَاتِ",
+      "transliteration": "dhāti",
+      "meaning": "possessing, owner of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "to possess, to have; essence, nature"
+      },
+      "components": [
+        {
+          "arabic": "ذَات",
+          "meaning": "possession, ownership; essence, attribute"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending (iʿrab)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْوَقُودِ",
+      "transliteration": "al-waqūdi",
+      "meaning": "the fuel",
+      "root": {
+        "letters": "و-ق-د",
+        "meaning": "to ignite, to burn, to be sufficient"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-fire [possessing] the-fuel"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

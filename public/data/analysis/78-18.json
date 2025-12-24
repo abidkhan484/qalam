@@ -1,0 +1,120 @@
+{
+  "verseId": "78:18",
+  "verse": {
+    "arabic": "يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+    "transliteration": "Yawma yunfakhu fee alssoori fatatoona afwajan",
+    "surah": "An-Naba",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as that which passes or comes into existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُنْفَخُ",
+      "transliteration": "yunfakhu",
+      "meaning": "is blown",
+      "root": {
+        "letters": "ن-ف-خ",
+        "meaning": "to breathe, to blow, to exhale"
+      },
+      "components": [
+        {
+          "arabic": "يُنْ",
+          "meaning": "passive voice prefix (form IV)"
+        },
+        {
+          "arabic": "فَخُ",
+          "meaning": "from the root ن-ف-خ, indicating blowing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصُّورِ",
+      "transliteration": "aṣ-ṣūri",
+      "meaning": "the Horn",
+      "root": {
+        "letters": "ص-و-ر",
+        "meaning": "to form, to shape; also, a picture or image"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صُّورِ",
+          "meaning": "Horn (instrument for blowing)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَتَأْتُونَ",
+      "transliteration": "fataʾtūna",
+      "meaning": "and you come forth",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "particle indicating consequence or purpose (fa)"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine plural (you)"
+        },
+        {
+          "arabic": "أَتَـ",
+          "meaning": "stem derived from root أ-ت-ي meaning 'to come'"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person masculine plural (you - active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَفْوَاجًا",
+      "transliteration": "ʾafwājan",
+      "meaning": "multitudes",
+      "root": {
+        "letters": "ف-و-ج",
+        "meaning": "to return, to group, to gather"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day- [when] is blown- in the-Horn and you come forth- multitudes"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

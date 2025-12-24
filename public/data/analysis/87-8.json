@@ -1,0 +1,71 @@
+{
+  "verseId": "87:8",
+  "verse": {
+    "arabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+    "transliteration": "Wanuyassiruka lilyusra",
+    "surah": "Al-A'la",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نُيَسِّرُكَ",
+      "transliteration": "nu-yassiru-ka",
+      "meaning": "We will facilitate you/We ease for you",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, to facilitate, to smooth"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "يَسِّرُ",
+          "meaning": "to ease, to facilitate (verb)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (pronoun suffix, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِلْيُسْرَىٰ",
+      "transliteration": "li-l-yusrā",
+      "meaning": "for the ease/toward the ease",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "facility, ease, comfort; to be easy"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to; preposition indicating direction or purpose"
+        },
+        {
+          "arabic": "يُسْرَىٰ",
+          "meaning": "the ease, the facility; accusative case indicating direction toward"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We-will-facilitate-you for-the-ease"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

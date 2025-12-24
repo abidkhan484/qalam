@@ -1,0 +1,87 @@
+{
+  "verseId": "91:8",
+  "verse": {
+    "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+    "transliteration": "Faalhamaha fujooraha wataqwaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَلْهَمَهَا",
+      "transliteration": "faʾalhamahā",
+      "meaning": "So He inspired it",
+      "root": {
+        "letters": "ه-ل-م",
+        "meaning": "to inspire, to suggest, to implant"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "أَلْ",
+          "meaning": "prefix indicating past tense and active voice (imperfect form)"
+        },
+        {
+          "arabic": "هَمَ",
+          "meaning": "inspiration, suggestion (from root ه-ل-م)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "feminine singular pronoun, referring to 'it' (the soul/nafs)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فُجُورَهَا",
+      "transliteration": "fujūrahā",
+      "meaning": "its wickedness, its immorality",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "to break, to split; transgression, wickedness"
+      },
+      "components": [
+        {
+          "arabic": "فُجُور",
+          "meaning": "wickedness, immorality, transgression"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَتَقْوَاهَا",
+      "transliteration": "wataqwāhā",
+      "meaning": "and its righteousness, and its piety",
+      "root": {
+        "letters": "ق-و-ي",
+        "meaning": "to be strong, to refrain, to protect oneself"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَقْوَاهَا",
+          "meaning": "its righteousness, its piety (derived from the root ق-و-ي with a specific morphological structure indicating protection and awareness)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-He-inspired-[it] its-wickedness and-its-righteousness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

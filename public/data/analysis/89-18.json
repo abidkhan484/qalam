@@ -1,0 +1,105 @@
+{
+  "verseId": "89:18",
+  "verse": {
+    "arabic": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+    "transliteration": "Wala tahaddoona AAala taAAami almiskeeni",
+    "surah": "Al-Fajr",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-أ",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَحَاضُّونَ",
+      "transliteration": "taḥāḍḍūna",
+      "meaning": "you encourage, you urge one another",
+      "root": {
+        "letters": "ح-ض-د",
+        "meaning": "to encourage, to incite, to assist"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural form (you)"
+        },
+        {
+          "arabic": "حَاضُّـ",
+          "meaning": "active participle related to the root meaning 'encouraging'"
+        },
+        {
+          "arabic": "ـونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, on, concerning",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "طَعَامِ",
+      "transliteration": "ṭaʿāmi",
+      "meaning": "food of, the food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, nourishment"
+      },
+      "components": [
+        {
+          "arabic": "طَعَ",
+          "meaning": "eating, food"
+        },
+        {
+          "arabic": "ـامِ",
+          "meaning": "genitive marker indicating possession ('of')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمِسْكِينِ",
+      "transliteration": "al-miskīni",
+      "meaning": "the poor one, the needy person",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to be weak, poor; to fall into destitution"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you-encourage upon food-of the-poor-one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

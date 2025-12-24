@@ -1,0 +1,54 @@
+{
+  "verseId": "80:41",
+  "verse": {
+    "arabic": "تَرْهَقُهَا قَتَرَةٌ",
+    "transliteration": "Tarhaquha qataratun",
+    "surah": "Abasa",
+    "verseNumber": 41
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَرْهَقُهَا",
+      "transliteration": "tarhaquhā",
+      "meaning": "it will cover it/them",
+      "root": {
+        "letters": "ر-ه-ق",
+        "meaning": "to fatigue, to overwhelm, to burden, to cover (figuratively)"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense/subjunctive mood"
+        },
+        {
+          "arabic": "رَهَقَ",
+          "meaning": "to overwhelm/cover (basic verb form)"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "feminine singular pronoun suffix (it/her)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَتَرَةٌ",
+      "transliteration": "qataraṫun",
+      "meaning": "blackness, darkness",
+      "root": {
+        "letters": "ق-ت-ر",
+        "meaning": "to flow, to pour forth; darkness (related to the idea of something 'pouring' over visibility)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "will-cover-it/them - blackness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

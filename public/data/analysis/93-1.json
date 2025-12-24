@@ -1,0 +1,38 @@
+{
+  "verseId": "93:1",
+  "verse": {
+    "arabic": "وَالضُّحَىٰ",
+    "transliteration": "Waaldduha",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الضُّحَىٰ",
+      "transliteration": "aḍ-ḍuḥā",
+      "meaning": "the brightness, the clear daylight",
+      "root": {
+        "letters": "ض-ح-و",
+        "meaning": "brightness, clarity, shining"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the brightness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

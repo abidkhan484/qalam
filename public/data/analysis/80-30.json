@@ -1,0 +1,50 @@
+{
+  "verseId": "80:30",
+  "verse": {
+    "arabic": "وَحَدَائِقَ غُلْبًا",
+    "transliteration": "Wahadaiqa ghulban",
+    "surah": "Abasa",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَحَدَائِقَ",
+      "transliteration": "wa-ḥadāʾiq",
+      "meaning": "and gardens",
+      "root": {
+        "letters": "ح-د-ق",
+        "meaning": "to cultivate, to tend; smoothness, beauty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "حَدَائِقَ",
+          "meaning": "gardens (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "غُلْبًا",
+      "transliteration": "ghulban",
+      "meaning": "dense, abundant (shrubbery)",
+      "root": {
+        "letters": "غ-ل-ب",
+        "meaning": "to overcome, to be superior"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-gardens dense-abundance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

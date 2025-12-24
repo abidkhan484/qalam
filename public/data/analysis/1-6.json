@@ -1,0 +1,70 @@
+{
+  "verseId": "1:6",
+  "verse": {
+    "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "transliteration": "Ihdina alssirata almustaqeema",
+    "surah": "Al-Fatihah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "اهْدِنَا",
+      "transliteration": "ihdinā",
+      "meaning": "Guide us",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the way, to direct"
+      },
+      "components": [
+        {
+          "arabic": "اِ",
+          "meaning": "particle of request/invocative"
+        },
+        {
+          "arabic": "هْدِنَا",
+          "meaning": "guide us (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الصِّرَاطَ",
+      "transliteration": "aṣ-ṣirāṭa",
+      "meaning": "The path",
+      "root": {
+        "letters": "ص-ر-ط",
+        "meaning": "to be straight, to have a direct course; path, way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُسْتَقِيمَ",
+      "transliteration": "al-mustaqīma",
+      "meaning": "The straight (path)",
+      "root": {
+        "letters": "س-ق-م",
+        "meaning": "to go straight, to be upright, to correct"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُسْتَقِيمَ",
+          "meaning": "straight, upright (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Guide-us the-path the-straight"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

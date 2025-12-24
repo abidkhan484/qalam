@@ -1,0 +1,61 @@
+{
+  "verseId": "78:13",
+  "verse": {
+    "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+    "transliteration": "WajaAAalna sirajan wahhajan",
+    "surah": "An-Naba",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَعَلْنَا",
+      "transliteration": "wa-jaʿalnā",
+      "meaning": "and We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سِرَاجًا",
+      "transliteration": "sirājān",
+      "meaning": "a lamp, a blazing light",
+      "root": {
+        "letters": "س-ر-ج",
+        "meaning": "to illuminate, to light up; a lamp"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَهَّاجًا",
+      "transliteration": "wahhājān",
+      "meaning": "blazing, shining brightly",
+      "root": {
+        "letters": "و-ه-ج",
+        "meaning": "to shine, to glow, to blaze"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We made - a-lamp - and-blazing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "verseId": "96:3",
+  "verse": {
+    "arabic": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+    "transliteration": "Iqra warabbuka alakramu",
+    "surah": "Al-Alaq",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "اُقْرَأْ",
+      "transliteration": "iqraʾ",
+      "meaning": "Read, recite",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "To read, to recite, to learn"
+      },
+      "components": [
+        {
+          "arabic": "اِقْرَ",
+          "meaning": "Imperative form of 'read!'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَرَبُّكَ",
+      "transliteration": "wa rabbuka",
+      "meaning": "And your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "رَبُّكَ",
+          "meaning": "your Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَكْرَمُ",
+      "transliteration": "al-akramu",
+      "meaning": "The Most Generous",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, to honor, to have abundance"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَكْرَمُ",
+          "meaning": "Most Generous (superlative form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Read-recite - and - Lord-your - the-Most-Generous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

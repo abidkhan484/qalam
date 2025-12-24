@@ -1,0 +1,166 @@
+{
+  "verseId": "87:7",
+  "verse": {
+    "arabic": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+    "transliteration": "Illa ma shaa Allahu innahu yaAAlamu aljahra wama yakhfa",
+    "surah": "Al-A'la",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to not have"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "He willed, He desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to will, to desire; to be something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, the God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنَّهُ",
+      "transliteration": "innahū",
+      "meaning": "Indeed He, Verily He",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, Verily (emphasizing particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَعْلَمُ",
+      "transliteration": "yaʿlamu",
+      "meaning": "He knows",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the third person singular masculine present tense"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know, to be aware"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating the present tense conjugation for a verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْجَهْرَ",
+      "transliteration": "al-jahra",
+      "meaning": "the declaration, the openly stated thing",
+      "root": {
+        "letters": "ج-ه-ر",
+        "meaning": "to be clear, manifest, open; to pronounce distinctly, utter aloud"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "جَهْرَ",
+          "meaning": "declaration, openly stated thing (verbal noun of the root ج-ه-ر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; that which is"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَخْفَىٰ",
+      "transliteration": "yakhfā",
+      "meaning": "He hides, it is hidden",
+      "root": {
+        "letters": "خ-ف-ي",
+        "meaning": "to be concealed, hidden, secret"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first-person singular or third-person singular masculine (depending on context)"
+        },
+        {
+          "arabic": "خَفَى",
+          "meaning": "to hide, to be hidden"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-what He-willed-[of] Allah - Indeed-He knows the-declaration and what it-hides"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "verseId": "81:24",
+  "verse": {
+    "arabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+    "transliteration": "Wama huwa AAala alghaybi bidaneenin",
+    "surah": "At-Takwir",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be capable of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "he/it",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being, essence; also selfhood or personality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon/over/regarding",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْغَيْبِ",
+      "transliteration": "al-ghaybi",
+      "meaning": "the unseen/the hidden things",
+      "root": {
+        "letters": "غ-ي-ب",
+        "meaning": "to be absent, hidden, unseen; to go away; to cover"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "غَيْب",
+          "meaning": "unseen, hidden things; absence"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِضَنِينٍ",
+      "transliteration": "biḍanīnin",
+      "meaning": "with stinginess/with withholding",
+      "root": {
+        "letters": "ض-ي-ن",
+        "meaning": "to be narrow, constricted; to hold back or conceal"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ضَنِينٍ",
+          "meaning": "stinginess, withholding (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not he upon the-unseen with-stinginess/withholding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

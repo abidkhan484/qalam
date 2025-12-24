@@ -1,0 +1,81 @@
+{
+  "verseId": "84:9",
+  "verse": {
+    "arabic": "وَيَنقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
+    "transliteration": "Wayanqalibu ila ahlihi masrooran",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَنقَلِبُ",
+      "transliteration": "wa yanqalibu",
+      "meaning": "and he returns",
+      "root": {
+        "letters": "ق-ل-ب",
+        "meaning": "to turn, to change, to revert; the heart (as a turning point)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَنقَلِبُ",
+          "meaning": "he returns, he is turned back (verb in present/future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to incline, turn towards; to reach a destination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَهْلِهِ",
+      "transliteration": "ahlihi",
+      "meaning": "his people/family",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to be suitable, fit; family, household"
+      },
+      "components": [
+        {
+          "arabic": "أَهْلِ",
+          "meaning": "people, family"
+        },
+        {
+          "arabic": "-هِ",
+          "meaning": "his (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَسْرُورًا",
+      "transliteration": "masrūran",
+      "meaning": "happy/joyful",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to be joyful, to feel pleasure, gladness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he returns -to -his-people/family -happy/joyful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

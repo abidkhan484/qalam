@@ -1,0 +1,112 @@
+{
+  "verseId": "92:11",
+  "verse": {
+    "arabic": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+    "transliteration": "Wama yughnee AAanhu maluhu itha taradda",
+    "surah": "Al-Layl",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; also relates to questioning and relativity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُغْنِي",
+      "transliteration": "yughnī",
+      "meaning": "benefit, avail",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be sufficient, to suffice, to be wealthy"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنْهُ",
+      "transliteration": "ʿanhu",
+      "meaning": "about him, for him",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to be free from, to depart from, relation/connection"
+      },
+      "components": [
+        {
+          "arabic": "عن",
+          "meaning": "about, from, for"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَالُهُ",
+      "transliteration": "mālahu",
+      "meaning": "his wealth",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "مَالُ",
+          "meaning": "wealth, possessions"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, if",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to decline or fail (of things)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَرَدَّىٰ",
+      "transliteration": "taraddā",
+      "meaning": "falls, perishes",
+      "root": {
+        "letters": "ر-د-ي",
+        "meaning": "to return, to descend, to fall down (often in a negative sense)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and what-benefit about-him his wealth when-if he falls?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

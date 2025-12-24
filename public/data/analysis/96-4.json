@@ -1,0 +1,70 @@
+{
+  "verseId": "96:4",
+  "verse": {
+    "arabic": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+    "transliteration": "Allathee AAallama bialqalami",
+    "surah": "Al-Alaq",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the who/which (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong, to possess, to be suitable for"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who/which (relative pronoun base)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَّمَ",
+      "transliteration": "ʿallama",
+      "meaning": "he taught",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to learn"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْقَلَمِ",
+      "transliteration": "bi-l-qalamī",
+      "meaning": "by the pen",
+      "root": {
+        "letters": "ق-ل-م",
+        "meaning": "to speak, to write, to recount"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "الْقَلَمِ",
+          "meaning": "the pen"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-who taught by-the pen"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

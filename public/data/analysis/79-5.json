@@ -1,0 +1,54 @@
+{
+  "verseId": "79:5",
+  "verse": {
+    "arabic": "فَالْمُدَبِّرَاتِ أَمْرًا",
+    "transliteration": "Faalmudabbirati amran",
+    "surah": "An-Nazi'at",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَالْمُدَبِّرَاتِ",
+      "transliteration": "fa-al-mudabbirāti",
+      "meaning": "Then the arrangers (feminine plural)",
+      "root": {
+        "letters": "د-ب-ر",
+        "meaning": "to arrange, to manage, to govern"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُدَبِّرَاتِ",
+          "meaning": "arrangers (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمْرًا",
+      "transliteration": "amran",
+      "meaning": "a matter/affair/command",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, order, matter, affair"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-the arrangers [feminine plural] -a matter/affair"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

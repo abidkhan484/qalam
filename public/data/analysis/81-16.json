@@ -1,0 +1,41 @@
+{
+  "verseId": "81:16",
+  "verse": {
+    "arabic": "الْجَوَارِ الْكُنَّسِ",
+    "transliteration": "Aljawari alkunnasi",
+    "surah": "At-Takwir",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْجَوَارِ",
+      "transliteration": "al-jawāri",
+      "meaning": "the runners, those that flow/course",
+      "root": {
+        "letters": "ج-و-ر",
+        "meaning": "to flow, to run a course; inclination, deviation (often negatively)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْكُنَّسِ",
+      "transliteration": "al-kunnasi",
+      "meaning": "the sweepers, those that hide/disappear",
+      "root": {
+        "letters": "ك-ن-س",
+        "meaning": "to sweep, to clean, to remove; also to hide or disappear (due to sweeping away traces)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-runners the-sweepers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

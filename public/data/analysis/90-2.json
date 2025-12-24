@@ -1,0 +1,88 @@
+{
+  "verseId": "90:2",
+  "verse": {
+    "arabic": "وَأَنتَ حِلٌّ بِهَـٰذَا الْبَلَدِ",
+    "transliteration": "Waanta hillun bihatha albaladi",
+    "surah": "Al-Balad",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "you (masculine singular)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also refers to being hidden or distant"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حِلٌّ",
+      "transliteration": "ḥillun",
+      "meaning": "free, unrestricted",
+      "root": {
+        "letters": "ح-ل-ل",
+        "meaning": "to loosen, untie, resolve; to be free from restriction or bondage"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِ",
+      "transliteration": "bi",
+      "meaning": "in, with, by means of",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this (masculine singular)",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "demonstration, pointing out, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْبَلَدِ",
+      "transliteration": "al-baladi",
+      "meaning": "the city, the land",
+      "root": {
+        "letters": "ب-ل-د",
+        "meaning": "to reach maturity, to be old; land, city, country"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَلَدِ",
+          "meaning": "city, land (genitive case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - you - free/unrestricted - in - this - the city"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

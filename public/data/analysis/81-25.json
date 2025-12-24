@@ -1,0 +1,97 @@
+{
+  "verseId": "81:25",
+  "verse": {
+    "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَّجِيمٍ",
+    "transliteration": "Wama huwa biqawli shaytanin rajeemin",
+    "surah": "At-Takwir",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "it/he",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, essence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِقَوْلِ",
+      "transliteration": "bi-qawli",
+      "meaning": "with/by speech/saying",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to say, to utter, speech"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "قَوْلِ",
+          "meaning": "speech, saying (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "شَيْطَانٍ",
+      "transliteration": "shayṭānin",
+      "meaning": "devil/demon",
+      "root": {
+        "letters": "ش-ي-ط",
+        "meaning": "to be distant, strayed away; to deviate from the right path"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَّجِيمٍ",
+      "transliteration": "rajīmin",
+      "meaning": "expelled/stony/accursed",
+      "root": {
+        "letters": "ر-ج-م",
+        "meaning": "to cast back, reject, throw away"
+      },
+      "components": [
+        {
+          "arabic": "رَجِيم",
+          "meaning": "expelled, driven away, accursed - one that is rejected or cast out with hostility"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not it by-speech devil expelled"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

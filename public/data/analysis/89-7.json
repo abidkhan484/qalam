@@ -1,0 +1,70 @@
+{
+  "verseId": "89:7",
+  "verse": {
+    "arabic": "إِرَمَ ذَاتِ الْعِمَادِ",
+    "transliteration": "Irama thati alAAimadi",
+    "surah": "Al-Fajr",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِرَمَ",
+      "transliteration": "ʾIramā",
+      "meaning": "Iram (a city)",
+      "root": {
+        "letters": "ر-م-و",
+        "meaning": "To be high, elevated; to tower.  Also associated with sand dunes and strong winds."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَاتِ",
+      "transliteration": "ḏāti",
+      "meaning": "possessing, owner of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "possession, having, being"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, owner of"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "feminine marker, genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعِمَادِ",
+      "transliteration": "al-ʿimādi",
+      "meaning": "the pillars",
+      "root": {
+        "letters": "ع-م-د",
+        "meaning": "to stand firm, to support, to strengthen"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عِمَادِ",
+          "meaning": "pillar (genitive singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Iram - [the city] possessing - the pillars"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

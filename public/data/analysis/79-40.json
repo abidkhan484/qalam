@@ -1,0 +1,157 @@
+{
+  "verseId": "79:40",
+  "verse": {
+    "arabic": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ",
+    "transliteration": "Waama man khafa maqama rabbihi wanaha alnnafsa AAani alhawa",
+    "surah": "An-Nazi'at",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but as for; concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to receive, to undertake; also denoting emphasis or restriction"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "but, or; introducing a restrictive conditional statement"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which; relative pronoun or indefinite pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who; whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure; connection or relation (in this context)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَافَ",
+      "transliteration": "khāfa",
+      "meaning": "feared; was afraid of",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to have fear, to be afraid; shyness, modesty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَقَامَ",
+      "transliteration": "maqāma",
+      "meaning": "position; standing place",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise; to stand; station"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord; the Lord of him",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "نَهَى",
+      "transliteration": "nahā",
+      "meaning": "prevented; forbade",
+      "root": {
+        "letters": "ن-ه-ي",
+        "meaning": "to restrain, to prevent, to forbid"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "النَّفْسَ",
+      "transliteration": "an-nafsa",
+      "meaning": "the soul; the self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe; to expire; to separate; the essence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "from; about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be away from"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, about; a preposition indicating separation or source"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الْهَوَىٰ",
+      "transliteration": "al-hawā",
+      "meaning": "the inclination; the desire",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to fall; to rush; to incline toward something, generally with a sense of weakness or passion"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - but-as-for - who - feared - position - his-Lord - and - prevented - the-soul - from - the-inclination"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

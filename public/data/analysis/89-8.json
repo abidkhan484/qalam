@@ -1,0 +1,109 @@
+{
+  "verseId": "89:8",
+  "verse": {
+    "arabic": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+    "transliteration": "Allatee lam yukhlaq mithluha fee albiladi",
+    "surah": "Al-Fajr",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّتِي",
+      "transliteration": "al-latī",
+      "meaning": "the one (feminine)",
+      "root": {
+        "letters": "ل-ت-ي",
+        "meaning": "softness, gentleness, weakness; to be inclined or leaning"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "one (feminine relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُخْلَقْ",
+      "transliteration": "yukhlak",
+      "meaning": "be created (passive)",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker and prefix for the present/future tense (form IV)"
+        },
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "to create (form IV)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِثْلُهَا",
+      "transliteration": "mithluhā",
+      "meaning": "its like, her likeness",
+      "root": {
+        "letters": "م-ث-ل",
+        "meaning": "similarity, likeness, equal"
+      },
+      "components": [
+        {
+          "arabic": "مِثْلُ",
+          "meaning": "like, similar to"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "her, its (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, to be present within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْبِلَادِ",
+      "transliteration": "al-bilād",
+      "meaning": "the lands, the country",
+      "root": {
+        "letters": "ب-ل-د",
+        "meaning": "to reach, attain; land, place"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-one not be-created its-like in the-lands"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "verseId": "97:2",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+    "transliteration": "Wama adraka ma laylatu alqadri",
+    "surah": "Al-Qadr",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, or the essence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "adrakāka",
+      "meaning": "[to know/perceive] you",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to comprehend, to perceive, to attain knowledge of"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَكَ",
+          "meaning": "to know/perceive you (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, something existing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَيْلَةُ",
+      "transliteration": "laylatu",
+      "meaning": "night of",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night"
+      },
+      "components": [
+        {
+          "arabic": "لَيْل",
+          "meaning": "night"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker/indefinite noun ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْقَدْرِ",
+      "transliteration": "al-qadri",
+      "meaning": "the Decree",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate, to have power; also fate or decree"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَدْرِ",
+          "meaning": "Decree, measure, portion (noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - what - [to know/perceive] you - what - night of - the Decree"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

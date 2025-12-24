@@ -1,0 +1,50 @@
+{
+  "verseId": "78:32",
+  "verse": {
+    "arabic": "حَدَائِقَ وَأَعْنَابًا",
+    "transliteration": "Hadaiqa waaAAnaban",
+    "surah": "An-Naba",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَدَائِقَ",
+      "transliteration": "ḥadāʾiq",
+      "meaning": "gardens, enclosures with cultivated plants",
+      "root": {
+        "letters": "ح-د-ي",
+        "meaning": "to cultivate, to guide, to direct; smoothness, beauty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَأَعْنَابًا",
+      "transliteration": "wa-aʿnāban",
+      "meaning": "and grapevines, and grapes",
+      "root": {
+        "letters": "ع-ن-ب",
+        "meaning": "to be abundant, to grow, vine"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَعْنَابًا",
+          "meaning": "grapes/grapevines (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "gardens-and grapevines"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

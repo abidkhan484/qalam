@@ -1,0 +1,41 @@
+{
+  "verseId": "78:33",
+  "verse": {
+    "arabic": "وَكَوَاعِبَ أَتْرَابًا",
+    "transliteration": "WakawaAAiba atraban",
+    "surah": "An-Naba",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَكَوَاعِبَ",
+      "transliteration": "wa-kawāʿiba",
+      "meaning": "and full-breasted ones",
+      "root": {
+        "letters": "ك-و-ع",
+        "meaning": "to be full, to be abundant; specifically relating to fullness of the breast or body"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتْرَابًا",
+      "transliteration": "atrāban",
+      "meaning": "of equal age; peers",
+      "root": {
+        "letters": "ر-ت-ب",
+        "meaning": "to arrange, to order, to settle; to be high-ranking"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-full-breasted [ones] of-equal-age"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

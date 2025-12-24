@@ -1,0 +1,113 @@
+{
+  "verseId": "1:5",
+  "verse": {
+    "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "transliteration": "Iyyaka naAAbudu waiyyaka nastaAAeenu",
+    "surah": "Al-Fatihah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِيَّاكَ",
+      "transliteration": "ʾiyyāka",
+      "meaning": "to you (exclusively)",
+      "root": {
+        "letters": "ك-ي-أ",
+        "meaning": "to be, to exist; possessiveness/belonging"
+      },
+      "components": [
+        {
+          "arabic": "إِي",
+          "meaning": "an emphatic particle indicating exclusivity, focus on 'you'"
+        },
+        {
+          "arabic": "يَا",
+          "meaning": "vocative particle, calling attention to 'you'"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "pronoun suffix, 'you (masculine singular)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَعْبُدُ",
+      "transliteration": "naʿbudu",
+      "meaning": "we worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship, to be a slave of"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "عَبَدُ",
+          "meaning": "to worship (verb, root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِيَّاكَ",
+      "transliteration": "ʾiyyāka",
+      "meaning": "to you (exclusively)",
+      "root": {
+        "letters": "ك-ي-أ",
+        "meaning": "to be, to exist; possess, have; turn towards"
+      },
+      "components": [
+        {
+          "arabic": "إِيّ",
+          "meaning": "exclusive emphasis, to you only"
+        },
+        {
+          "arabic": "ـكَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَسْتَعِينُ",
+      "transliteration": "nastʿīnu",
+      "meaning": "we seek help",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to assist, to help, to aid"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun)"
+        },
+        {
+          "arabic": "سْتَ",
+          "meaning": "requesting/seeking (prefix)"
+        },
+        {
+          "arabic": "عِينُ",
+          "meaning": "help/assistance (stem)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "to-you-exclusively we-worship and to-you-exclusively we-seek-help"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

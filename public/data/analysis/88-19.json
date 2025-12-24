@@ -1,0 +1,86 @@
+{
+  "verseId": "88:19",
+  "verse": {
+    "arabic": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+    "transliteration": "Waila aljibali kayfa nusibat",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِلَى",
+      "transliteration": "waʾilā",
+      "meaning": "and to",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to resort to, to be connected with"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَى",
+          "meaning": "to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجِبَالِ",
+      "transliteration": "al-jibāli",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise high; firmness, solidity"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِبَالِ",
+          "meaning": "mountains (plural form of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how?",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to exist; condition, state"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نُصِبَتْ",
+      "transliteration": "nuṣibat",
+      "meaning": "were erected/set up",
+      "root": {
+        "letters": "ن-ص-ب",
+        "meaning": "to place, erect, set up; to aim at or intend"
+      },
+      "components": [
+        {
+          "arabic": "نُصِبَ",
+          "meaning": "was erected/set up (passive voice)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-to the-mountains how? were-erected"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

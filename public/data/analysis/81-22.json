@@ -1,0 +1,79 @@
+{
+  "verseId": "81:22",
+  "verse": {
+    "arabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+    "transliteration": "Wama sahibukum bimajnoonin",
+    "surah": "At-Takwir",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; to wish, to desire"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not; relative pronoun, interrogative particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَاحِبُكُم",
+      "transliteration": "ṣāḥibukum",
+      "meaning": "companion of you/your companion",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to possess"
+      },
+      "components": [
+        {
+          "arabic": "صَاحِبُ",
+          "meaning": "companion, friend, possessor"
+        },
+        {
+          "arabic": "كُم",
+          "meaning": "of you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمَجْنُونٍ",
+      "transliteration": "bi majnūnin",
+      "meaning": "with madness/in being mad",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to be insane, to deviate from reason"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in"
+        },
+        {
+          "arabic": "مَجْنُونٍ",
+          "meaning": "mad, insane (masculine singular indefinite)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what your-companion in-being mad"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

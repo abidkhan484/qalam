@@ -1,0 +1,112 @@
+{
+  "verseId": "111:2",
+  "verse": {
+    "arabic": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+    "transliteration": "Ma aghna AAanhu maluhu wama kasaba",
+    "surah": "Al-Masad",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, not",
+      "root": {
+        "letters": "م-و-ن",
+        "meaning": "to be non-existent, to lack, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَغْنَىٰ",
+      "transliteration": "ʾaghnā",
+      "meaning": "sufficed, enriched",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be free from need, to suffice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَنْهُ",
+      "transliteration": "ʿanhu",
+      "meaning": "about him, from him",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "to be away from, to depart from, concerning"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "about, from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَالُهُ",
+      "transliteration": "mālahu",
+      "meaning": "his wealth",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "possession, ownership"
+      },
+      "components": [
+        {
+          "arabic": "مَال",
+          "meaning": "wealth, property"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what, and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (in its basic form)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, what-ever, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَسَبَ",
+      "transliteration": "kasaba",
+      "meaning": "he earned, he gained",
+      "root": {
+        "letters": "ك-س-ب",
+        "meaning": "to acquire, to strive for something through effort; to gain or earn"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-sufficed-about-him his-wealth and-what he-earned"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

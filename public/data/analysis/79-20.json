@@ -1,0 +1,69 @@
+{
+  "verseId": "79:20",
+  "verse": {
+    "arabic": "فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ",
+    "transliteration": "Faarahu alayata alkubra",
+    "surah": "An-Nazi'at",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَرَاهُ",
+      "transliteration": "faʾarāhu",
+      "meaning": "So He showed him",
+      "root": {
+        "letters": "ر-أ-ى",
+        "meaning": "to see, to perceive, to show"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle of sequence)"
+        },
+        {
+          "arabic": "أَرَ",
+          "meaning": "He showed (prefix form of the verb)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْآيَةَ",
+      "transliteration": "al-ʾāyata",
+      "meaning": "The sign"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكُبْرَىٰ",
+      "transliteration": "al-kubrā",
+      "meaning": "The greatest",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "growth, being large, greatness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كُبْرَىٰ",
+          "meaning": "greatest (feminine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-ʾarāhu - [He] showed him - al-ʾāyata - the sign - al-kubrā - the greatest"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

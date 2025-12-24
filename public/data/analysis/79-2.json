@@ -1,0 +1,54 @@
+{
+  "verseId": "79:2",
+  "verse": {
+    "arabic": "وَالنَّاشِطَاتِ نَشْطًا",
+    "transliteration": "Waalnnashitati nashtan",
+    "surah": "An-Nazi'at",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالنَّاشِطَاتِ",
+      "transliteration": "wa-al-nāshiṭāti",
+      "meaning": "and the ones who pull/remove (feminine plural)",
+      "root": {
+        "letters": "ن-ش-ط",
+        "meaning": "to become active, to strive, to remove vigorously"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نَاشِطَاتٍ",
+          "meaning": "active ones, those who pull/remove (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَشْطًا",
+      "transliteration": "nashṭan",
+      "meaning": "with ease/vigorously/actively",
+      "root": {
+        "letters": "ن-ش-ط",
+        "meaning": "to be energetic, lively, or vigorous; to expand, unfold"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-[the] ones-who-pull vigorously"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

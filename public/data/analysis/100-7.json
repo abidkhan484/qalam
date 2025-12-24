@@ -1,0 +1,94 @@
+{
+  "verseId": "100:7",
+  "verse": {
+    "arabic": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+    "transliteration": "Wainnahu AAala thalika lashaheedun",
+    "surah": "Al-Adiyat",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنَّهُ",
+      "transliteration": "wa-'innahu",
+      "meaning": "and indeed, he",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; becoming, being"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to ascend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that (masculine)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, lowliness; to be meek or submissive"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (demonstrative pronoun base)"
+        },
+        {
+          "arabic": "ك",
+          "meaning": "masculine singular suffix of the demonstrative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَشَهِيدٌ",
+      "transliteration": "la-shahīdun",
+      "meaning": "is a witness, surely a witness",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, to be present"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "شَهِيدٌ",
+          "meaning": "witness, testifying one"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed-[to]-that surely-a-witness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "verseId": "95:4",
+  "verse": {
+    "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+    "transliteration": "Laqad khalaqna alinsana fee ahsani taqweemin",
+    "surah": "At-Tin",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَقَدْ",
+      "transliteration": "la-qad",
+      "meaning": "Indeed; certainly; verily. A reinforced emphatic particle.",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "A particle used for emphasis, often translated as 'indeed' or reinforcing the following statement."
+        },
+        {
+          "arabic": "قَدْ",
+          "meaning": "A particle indicating certainty, completion or that something has definitely occurred."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقْنَا",
+      "transliteration": "khalaqnā",
+      "meaning": "We created.",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothing"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "creation, act of creating"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being; mankind.",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be weak, frail; to adapt, associate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In.",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَحْسَنِ",
+      "transliteration": "ʾaḥsan-i",
+      "meaning": "The best [form/state].",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "to be good, beautiful, excellent"
+      },
+      "components": [
+        {
+          "arabic": "أَحْسَن",
+          "meaning": "better, best (comparative/superlative form)"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "definite article, indicating 'the'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تَقْوِيمٍ",
+      "transliteration": "taqwīm-in",
+      "meaning": "Form; structure; stature [creation/constitution].",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "To establish, to straighten; to complete and perfect."
+      },
+      "components": [
+        {
+          "arabic": "تَقْوِيم",
+          "meaning": "The process of making something straight, well-formed or complete; constitution."
+        },
+        {
+          "arabic": "-ٍ",
+          "meaning": "Indefinite accusative case ending (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-we created-the human being-in-the best-[of]-form/structure."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

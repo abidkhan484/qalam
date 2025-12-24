@@ -1,0 +1,85 @@
+{
+  "verseId": "92:15",
+  "verse": {
+    "arabic": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+    "transliteration": "La yaslaha illa alashqa",
+    "surah": "Al-Layl",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, none",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَصْلَاهَا",
+      "transliteration": "yaṣlāhā",
+      "meaning": "he will burn it (feminine object)",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to burn, to cook, to roast; to pray (related through intensity of heat)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense and the third person singular masculine subject (he)"
+        },
+        {
+          "arabic": "صْلَ",
+          "meaning": "stem from the root ص-ل-و, related to burning or roasting"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "suffix indicating the feminine singular object (it/her)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to lack, to exclude"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَشْقَى",
+      "transliteration": "al-ʾašqa",
+      "meaning": "the most wretched, the unhappiest",
+      "root": {
+        "letters": "ش-ق-ي",
+        "meaning": "to be unfortunate, to suffer hardship; generally relating to difficulty and misery"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "أَشْقَى",
+          "meaning": "most wretched, most unhappy (superlative form of شَقِي)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-will-burn-it except the-most-wretched"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

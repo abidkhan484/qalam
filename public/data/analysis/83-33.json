@@ -1,0 +1,99 @@
+{
+  "verseId": "83:33",
+  "verse": {
+    "arabic": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ",
+    "transliteration": "Wama orsiloo AAalayhim hafitheena",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, desire; to possess, have"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُرْسِلُوا",
+      "transliteration": "ursilū",
+      "meaning": "they were sent",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch, messenger"
+      },
+      "components": [
+        {
+          "arabic": "أَرْ",
+          "meaning": "imperative prefix, indicating command or request"
+        },
+        {
+          "arabic": "سِلُوا",
+          "meaning": "send (you all)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them/over them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to elevate; to be above or over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حَافِظِينَ",
+      "transliteration": "ḥāfiẓīn",
+      "meaning": "guardians/keepers/watchers",
+      "root": {
+        "letters": "ح-ف-ظ",
+        "meaning": "to guard, to preserve, to protect"
+      },
+      "components": [
+        {
+          "arabic": "حَفَظ",
+          "meaning": "to guard, to preserve"
+        },
+        {
+          "arabic": "ـِينَ",
+          "meaning": "plural masculine ending (indicating a group of guardians)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not they-were-sent upon them guardians"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

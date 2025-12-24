@@ -1,0 +1,58 @@
+{
+  "verseId": "80:29",
+  "verse": {
+    "arabic": "وَزَيْتُونًا وَنَخْلًا",
+    "transliteration": "Wazaytoonan wanakhlan",
+    "surah": "Abasa",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "زَيْتُونًا",
+      "transliteration": "zaytūnan",
+      "meaning": "olive tree",
+      "root": {
+        "letters": "ز-ي-ت",
+        "meaning": "oil; smoothness, luster"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَنَخْلًا",
+      "transliteration": "wa-nakhlān",
+      "meaning": "and palm trees",
+      "root": {
+        "letters": "ن-خ-ل",
+        "meaning": "to grow, to be abundant; palm tree"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَخْلًا",
+          "meaning": "palm trees (plural, accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - olive tree - and - palm trees"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

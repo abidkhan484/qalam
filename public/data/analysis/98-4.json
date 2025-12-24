@@ -1,0 +1,196 @@
+{
+  "verseId": "98:4",
+  "verse": {
+    "arabic": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+    "transliteration": "Wama tafarraqa allatheena ootoo alkitaba illa min baAAdi ma jaathumu albayyinatu",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and not/nor, and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also related to questioning/interrogation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَفَرَّقَ",
+      "transliteration": "tafarraqa",
+      "meaning": "to become divided/scattered",
+      "root": {
+        "letters": "ف-ر-ق",
+        "meaning": "to break apart, to separate, to distinguish"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a causative or intensive form (Form IV)"
+        },
+        {
+          "arabic": "فَرَّقَ",
+          "meaning": "to divide, to separate (Form I root verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who/the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to belong to, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who/the ones who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُوتُوا",
+      "transliteration": "ūtū",
+      "meaning": "they were given/bestowed upon",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker/past tense prefix indicating 'they were'"
+        },
+        {
+          "arabic": "وتُوا",
+          "meaning": "given/bestowed upon (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْكِتَابَ",
+      "transliteration": "al-kitāba",
+      "meaning": "the Book/the Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَابَ",
+          "meaning": "book, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless/only",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to reject, to abstain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِن بَعْدِ",
+      "transliteration": "min baʿdi",
+      "meaning": "after/from after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness, to be far away"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "بَعْدِ",
+          "meaning": "after, subsequent to"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or relative pronoun"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "جَاءَتْهُمُ",
+      "transliteration": "jā'at-humu",
+      "meaning": "came to them/reached them",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَ",
+          "meaning": "came, arrived"
+        },
+        {
+          "arabic": "-تْ",
+          "meaning": "feminine singular past tense marker"
+        },
+        {
+          "arabic": "-هُمُ",
+          "meaning": "to them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "الْبَيِّنَةُ",
+      "transliteration": "al-bayyinatu",
+      "meaning": "the clear evidence/proof",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, manifest, evident"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not became-divided those-who were-given the-Book except from after what came-to-them the-clear-evidence"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

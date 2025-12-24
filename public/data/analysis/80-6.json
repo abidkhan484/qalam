@@ -1,0 +1,79 @@
+{
+  "verseId": "80:6",
+  "verse": {
+    "arabic": "فَأَنتَ لَهُ تَصَدَّىٰ",
+    "transliteration": "Faanta lahu tasadda",
+    "surah": "Abasa",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَنتَ",
+      "transliteration": "fa-ʾanta",
+      "meaning": "then you",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (masculine singular)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَنتَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to him, for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "ل",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَصَدَّىٰ",
+      "transliteration": "taṣaddā",
+      "meaning": "turned, gave attention, assumed responsibility",
+      "root": {
+        "letters": "ص-د-ي",
+        "meaning": "to turn away, to deflect, to stand against"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating a causative or iterative sense"
+        },
+        {
+          "arabic": "صَدَّى",
+          "meaning": "to turn away, to deflect, to repel"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-you to-him turned/gave-attention"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

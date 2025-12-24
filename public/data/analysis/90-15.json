@@ -1,0 +1,52 @@
+{
+  "verseId": "90:15",
+  "verse": {
+    "arabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+    "transliteration": "Yateeman tha maqrabatin",
+    "surah": "Al-Balad",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَتِيمًا",
+      "transliteration": "yatīman",
+      "meaning": "orphan",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, deficient, lacking a parent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَا",
+      "transliteration": "dhā",
+      "meaning": "possessing, having",
+      "root": {
+        "letters": "ذ-و-ا",
+        "meaning": "possession, ownership"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَقْرَبَةٍ",
+      "transliteration": "maqrabah",
+      "meaning": "nearness, close relationship",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach, closeness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "orphan - possessing - nearness/close-relationship"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "verseId": "88:13",
+  "verse": {
+    "arabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+    "transliteration": "Feeha sururun marfooAAatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, within it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سُرُرٌ",
+      "transliteration": "surur",
+      "meaning": "couches, beds, seats",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to be joyful, to feel pleasure or delight; happiness, gladness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّرْفُوعَةٌ",
+      "transliteration": "marfūʿah",
+      "meaning": "raised, elevated, high",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to raise up"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-it couches raised-high"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

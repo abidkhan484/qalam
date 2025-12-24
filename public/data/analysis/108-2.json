@@ -1,0 +1,79 @@
+{
+  "verseId": "108:2",
+  "verse": {
+    "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+    "transliteration": "Fasalli lirabbika wainhar",
+    "surah": "Al-Kawthar",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَصَلِّ",
+      "transliteration": "fa-ṣalli",
+      "meaning": "so pray/perform prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to perform religious rites"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of enticement/command)"
+        },
+        {
+          "arabic": "صَلِّ",
+          "meaning": "pray, perform prayer (command form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِرَبِّكَ",
+      "transliteration": "li-rabbika",
+      "meaning": "to your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "رَبِّكَ",
+          "meaning": "your Lord (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَانْحَرْ",
+      "transliteration": "wa-nḥar",
+      "meaning": "and sacrifice",
+      "root": {
+        "letters": "ن-ح-ر",
+        "meaning": "to slaughter, to sacrifice, to emit water"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "انْحَرْ",
+          "meaning": "sacrifice (imperative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-pray to-your-Lord and-sacrifice"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

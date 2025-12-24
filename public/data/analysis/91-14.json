@@ -1,0 +1,158 @@
+{
+  "verseId": "91:14",
+  "verse": {
+    "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
+    "transliteration": "Fakaththaboohu faAAaqarooha fadamdama AAalayhim rabbuhum bithanbihim fasawwaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَكَذَّبُوهُ",
+      "transliteration": "fa-kaḏḏabūhu",
+      "meaning": "So they denied him",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to falsely accuse, to deny the truth"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "كَذَّبُـ",
+          "meaning": "to deny, to reject (verb form)"
+        },
+        {
+          "arabic": "ـُوهُ",
+          "meaning": "him (pronoun suffix, 3rd person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَعَقَرُوهَا",
+      "transliteration": "fa-ʿaqarūhā",
+      "meaning": "So they hamstrung her",
+      "root": {
+        "letters": "ع-ق-ر",
+        "meaning": "to cut, to sever, to hamstring"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence)"
+        },
+        {
+          "arabic": "عَقَرُوهَا",
+          "meaning": "they hamstrung it (feminine object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَدَمْدَمَ",
+      "transliteration": "fa-damdama",
+      "meaning": "So brought down destruction",
+      "root": {
+        "letters": "د-م-م",
+        "meaning": "to destroy, to bring down completely, utter ruin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; to be over/above something in power or position"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبُّهُم",
+      "transliteration": "rabbu-hum",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِذَنبِهِمْ",
+      "transliteration": "bi-ḏunubi-him",
+      "meaning": "with their sin",
+      "root": {
+        "letters": "ذ-ن-ب",
+        "meaning": "to sin, wrongdoing, fault"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "ذُنُوبِهِمْ",
+          "meaning": "their sins"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَسَوَّاهَا",
+      "transliteration": "fa-sawwāhā",
+      "meaning": "So He made it equal",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to make straight, to correct, to equalize"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "سَوَّى",
+          "meaning": "He made straight, He corrected, He equalized (verb)"
+        },
+        {
+          "arabic": "ـهَا",
+          "meaning": "it (feminine singular pronoun, object)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-they denied-him - So-they hamstrung-her - So-brought-down destruction - upon-them - their Lord - with-their sin - So-He made-it equal"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

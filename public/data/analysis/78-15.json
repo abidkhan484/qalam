@@ -1,0 +1,90 @@
+{
+  "verseId": "78:15",
+  "verse": {
+    "arabic": "لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+    "transliteration": "Linukhrija bihi habban wanabatan",
+    "surah": "An-Naba",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّنُخْرِجَ",
+      "transliteration": "li-nukhrija",
+      "meaning": "to bring forth; for the purpose of extracting/removing",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نُخْرِجَ",
+          "meaning": "we extract/remove (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِهِ",
+      "transliteration": "bi-hi",
+      "meaning": "with it; by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "to possess, to have; to be with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with; by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَبًّا",
+      "transliteration": "ḥabban",
+      "meaning": "grain; seed",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love; to cherish; affection, fondness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَنَبَاتًا",
+      "transliteration": "wa-nabātan",
+      "meaning": "and vegetation; and plants/growth",
+      "root": {
+        "letters": "ن-ب-ت",
+        "meaning": "to grow, sprout, originate; plant, vegetation"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَبَاتًا",
+          "meaning": "vegetation, plants, growth"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the-purpose-of bringing-forth with-it grain and vegetation"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

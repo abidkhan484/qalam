@@ -1,0 +1,69 @@
+{
+  "verseId": "82:4",
+  "verse": {
+    "arabic": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+    "transliteration": "Waitha alqubooru buAAthirat",
+    "surah": "Al-Infitar",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "أ-د-ى",
+        "meaning": "to come, to arrive; time, occasion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْقُبُورُ",
+      "transliteration": "al-qubūru",
+      "meaning": "the graves",
+      "root": {
+        "letters": "ق-ب-ر",
+        "meaning": "to bury, to hide, grave"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قُبُور",
+          "meaning": "graves (plural of قبر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بُعْثِرَتْ",
+      "transliteration": "buʿthirat",
+      "meaning": "were scattered, overturned",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to resurrect, to send forth, to raise up; generally relating to sending something or someone from one place to another"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - the-graves - were-scattered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

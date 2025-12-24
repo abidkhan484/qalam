@@ -1,0 +1,110 @@
+{
+  "verseId": "89:9",
+  "verse": {
+    "arabic": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+    "transliteration": "Wathamooda allatheena jaboo alssakhra bialwadi",
+    "surah": "Al-Fajr",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَثَمُودَ",
+      "transliteration": "wa-thamūda",
+      "meaning": "and Thamud (a tribe)",
+      "root": {
+        "letters": "ث-م-د",
+        "meaning": "firmness, strength, endurance; to establish, to be permanent"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ثَمُودَ",
+          "meaning": "Thamud (the name of a tribe)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "who, those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, or have"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَابُوا",
+      "transliteration": "jābuū",
+      "meaning": "they carved, they excavated",
+      "root": {
+        "letters": "ج-ب-و",
+        "meaning": "to bring, to come with something, to excavate, to carve"
+      },
+      "components": [
+        {
+          "arabic": "جَابَ",
+          "meaning": "they brought, they excavated"
+        },
+        {
+          "arabic": "-ُوا",
+          "meaning": "dual or plural masculine suffix (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصَّخْرَ",
+      "transliteration": "aṣ-ṣakhra",
+      "meaning": "the rock, the stone",
+      "root": {
+        "letters": "ص-خ-ر",
+        "meaning": "to be hard, firm; to strike forcefully, to break"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْوَادِي",
+      "transliteration": "bi-l-wādī",
+      "meaning": "in the valley",
+      "root": {
+        "letters": "و-د-ي",
+        "meaning": "to love, fondness; also to descend or flow (related to water)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "الْوَادِي",
+          "meaning": "the valley"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-Thamud who carved-out the-rock in-the-valley"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

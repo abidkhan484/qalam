@@ -1,0 +1,88 @@
+{
+  "verseId": "78:36",
+  "verse": {
+    "arabic": "جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا",
+    "transliteration": "Jazaan min rabbika AAataan hisaban",
+    "surah": "An-Naba",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "جَزَاءً",
+      "transliteration": "jazāʾan",
+      "meaning": "reward, recompense",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to be sufficient"
+      },
+      "components": [
+        {
+          "arabic": "جَزَاءً",
+          "meaning": "reward, recompense (accusative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, to be extracted from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to be powerful"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَطَاءً",
+      "transliteration": "ʿaṭāʾan",
+      "meaning": "gift, bestowal",
+      "root": {
+        "letters": "ع-ط-و",
+        "meaning": "to give, bestow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "حِسَابًا",
+      "transliteration": "ḥisāban",
+      "meaning": "account, reckoning",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to suffice, to reckon"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "reward - from - your-Lord, gift - account"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

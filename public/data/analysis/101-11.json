@@ -1,0 +1,41 @@
+{
+  "verseId": "101:11",
+  "verse": {
+    "arabic": "نَارٌ حَامِيَةٌ",
+    "transliteration": "Narun hamiyatun",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَارٌ",
+      "transliteration": "nārun",
+      "meaning": "fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to blaze, to burn, intense heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَامِيَةٌ",
+      "transliteration": "ḥāmiyah",
+      "meaning": "intensely hot, scorching",
+      "root": {
+        "letters": "ح-م-ي",
+        "meaning": "to protect, to defend; heat, warmth"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fire- intensely-hot"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

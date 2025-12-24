@@ -1,0 +1,125 @@
+{
+  "verseId": "99:6",
+  "verse": {
+    "arabic": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
+    "transliteration": "Yawmaithin yasduru alnnasu ashtatan liyuraw aAAmalahum",
+    "surah": "Az-Zalzalah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "On that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَصْدُرُ",
+      "transliteration": "yaṣduru",
+      "meaning": "will depart/proceed",
+      "root": {
+        "letters": "ص-د-ر",
+        "meaning": "to issue forth, to proceed, to depart"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates future tense and third-person singular masculine"
+        },
+        {
+          "arabic": "صَدَرَ",
+          "meaning": "to depart, to proceed (basic root form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating nominative case and indefinite noun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; also, people (derived meaning)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَشْتَاتًا",
+      "transliteration": "ʾashtātan",
+      "meaning": "separated [groups/categories]",
+      "root": {
+        "letters": "ش-ت-ت",
+        "meaning": "to scatter, to be dispersed, to divide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّيُرَوْا",
+      "transliteration": "li-yurawū",
+      "meaning": "so that they be shown/to be shown",
+      "root": {
+        "letters": "ر-و-ي",
+        "meaning": "to see, to observe, to witness"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to, in order that (purpose)"
+        },
+        {
+          "arabic": "يُرَوُا",
+          "meaning": "they be shown, they are seen (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَعْمَالَهُمْ",
+      "transliteration": "ʾaʿmālahum",
+      "meaning": "their deeds/works",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to perform"
+      },
+      "components": [
+        {
+          "arabic": "أعْمَال",
+          "meaning": "deeds, works (plural)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they/their"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "On-that Day - will-depart - the-people - separated [in-groups] - so-that they be-shown - their-deeds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

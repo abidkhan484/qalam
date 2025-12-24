@@ -1,0 +1,81 @@
+{
+  "verseId": "104:7",
+  "verse": {
+    "arabic": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+    "transliteration": "Allatee tattaliAAu AAala alafidati",
+    "surah": "Al-Humazah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّتِي",
+      "transliteration": "al-latī",
+      "meaning": "The which (feminine)",
+      "root": {
+        "letters": "ل-ي-ت",
+        "meaning": "to belong, to be connected with, to relate to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "تِي",
+          "meaning": "feminine singular pronoun suffix, relative marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَطَّلِعُ",
+      "transliteration": "taṭṭaliʿu",
+      "meaning": "It mounts, it climbs up, it looks intently",
+      "root": {
+        "letters": "ط-ل-ع",
+        "meaning": "to ascend, to rise, to appear"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating imperfect tense, often with a reflexive sense"
+        },
+        {
+          "arabic": "طَّلِعَ",
+          "meaning": "to ascend, to climb up (root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over, at",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise; superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَفْئِدَةِ",
+      "transliteration": "al-ʾafʾidah",
+      "meaning": "The hearts",
+      "root": {
+        "letters": "أ-ف-د",
+        "meaning": "to know, to understand; to feel or perceive with the heart"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-which -it-mounts -upon -the-hearts"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

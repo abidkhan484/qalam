@@ -1,0 +1,217 @@
+{
+  "verseId": "98:1",
+  "verse": {
+    "arabic": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ",
+    "transliteration": "Lam yakuni allatheena kafaroo min ahli alkitabi waalmushrikeena munfakkeena hatta tatiyahumu albayyinatu",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to will, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَكُنِ",
+      "transliteration": "yakun",
+      "meaning": "to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الَّذِينَ",
+      "transliteration": "alladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-هـ-ي",
+        "meaning": "to refer, to point out, to be"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِينَ",
+          "meaning": "those (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to be ungrateful, to deny"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating first person plural past tense (they)"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "past tense verb form indicating 'they disbelieved'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ا",
+        "meaning": "to originate, to proceed from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَهْلِ",
+      "transliteration": "ahli",
+      "meaning": "people of / family of",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to incline, to be suitable; family, household"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْكِتَابِ",
+      "transliteration": "al-kitābi",
+      "meaning": "the Book / the Scripture",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record; that which is written"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كِتَاب",
+          "meaning": "book, scripture"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْمُشْرِكِينَ",
+      "transliteration": "al-mushrikīna",
+      "meaning": "the polytheists / the associators",
+      "root": {
+        "letters": "ش-ر-ك",
+        "meaning": "to associate, share partnership, polytheism"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُشْرِكِينَ",
+          "meaning": "polytheists (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مُنْفَكِّينَ",
+      "transliteration": "munfakkīna",
+      "meaning": "parted / separated",
+      "root": {
+        "letters": "ف-ك-ك",
+        "meaning": "to separate, to untie, to resolve"
+      },
+      "components": [
+        {
+          "arabic": "مُنْفَكّ",
+          "meaning": "passive participle form related to separation"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural marker, indicates a group of separated ones"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "تَأْتِيَهُمُ",
+      "transliteration": "ta'tīhumu",
+      "meaning": "come to them",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second person masculine singular future tense"
+        },
+        {
+          "arabic": "أَتْـ",
+          "meaning": "root related to coming or arrival"
+        },
+        {
+          "arabic": "ـيَهُمُ",
+          "meaning": "them (masculine plural, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الْبَيِّنَةُ",
+      "transliteration": "al-bayyinatu",
+      "meaning": "the clear evidence / the proof",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be manifest, clear, evident"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-be those-who disbelieved from people-of the-Book and the-polytheists parted until come-to-them the-clear-evidence"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

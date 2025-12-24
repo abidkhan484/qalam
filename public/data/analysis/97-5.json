@@ -1,0 +1,74 @@
+{
+  "verseId": "97:5",
+  "verse": {
+    "arabic": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+    "transliteration": "Salamun hiya hatta matlaAAi alfajri",
+    "surah": "Al-Qadr",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَلَامٌ",
+      "transliteration": "salām(un)",
+      "meaning": "Peace, safety, well-being",
+      "root": {
+        "letters": "س-ل-م",
+        "meaning": "to be safe, to be sound, to surrender"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "It (feminine)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "Until, up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَطْلَعِ",
+      "transliteration": "maṭlaʿi",
+      "meaning": "Rising, emergence (of)",
+      "root": {
+        "letters": "ط-ل-ع",
+        "meaning": "To rise, ascend, emerge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْفَجْرِ",
+      "transliteration": "al-fajri",
+      "meaning": "The dawn, the morning",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "To break, to split open; to emerge or become visible (like the dawn)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Peace-it is - until - rising-of - the-dawn"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

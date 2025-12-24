@@ -1,0 +1,82 @@
+{
+  "verseId": "84:18",
+  "verse": {
+    "arabic": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+    "transliteration": "Waalqamari itha ittasaqa",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْقَمَرِ",
+      "transliteration": "al-qamari",
+      "meaning": "the moon",
+      "root": {
+        "letters": "ق-م-ر",
+        "meaning": "to measure, to lessen; the moon itself is associated with cycles of measurement (of time)"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَمَر",
+          "meaning": "moon"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to do, to act, to take initiative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اتَّسَقَ",
+      "transliteration": "ittasaqa",
+      "meaning": "became full, completed (its form)",
+      "root": {
+        "letters": "س-ق-و",
+        "meaning": "to water, to flow, to be equal/consistent"
+      },
+      "components": [
+        {
+          "arabic": "اِتِّ",
+          "meaning": "indicates completion or mutual action (formative prefix)"
+        },
+        {
+          "arabic": "تَسَقَ",
+          "meaning": "to become full, to be consistent (derived from س-ق-و)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -the-moon when it-becomes-full"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

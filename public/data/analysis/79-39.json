@@ -1,0 +1,81 @@
+{
+  "verseId": "79:39",
+  "verse": {
+    "arabic": "فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ",
+    "transliteration": "Fainna aljaheema hiya almawa",
+    "surah": "An-Nazi'at",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "then indeed; so surely",
+      "root": {
+        "letters": "ك-ن-ن",
+        "meaning": "to be; to exist"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed; surely; verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَحِيمَ",
+      "transliteration": "al-jaḥīma",
+      "meaning": "the Hellfire; the blazing fire",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "intense heat; scorching; severe burning"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَحِيمَ",
+          "meaning": "blazing fire; Hellfire (intense burning)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "it (feminine)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَأْوَىٰ",
+      "transliteration": "al-maʾwā",
+      "meaning": "the refuge; the shelter; the place of rest",
+      "root": {
+        "letters": "أ-و-ى",
+        "meaning": "to return, to seek refuge, to shelter"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-ʾinna - al-jaḥīma - hiya - al-maʾwā"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "verseId": "96:11",
+  "verse": {
+    "arabic": "أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَىٰ",
+    "transliteration": "Araayta in kana AAala alhuda",
+    "surah": "Al-Alaq",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَرَأَيْتَ",
+      "transliteration": "ʾarāyta",
+      "meaning": "Have you seen?",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicating a question"
+        },
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "you have seen (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "If, indeed",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, confirmation, truth"
+      },
+      "components": [
+        {
+          "arabic": "إِ",
+          "meaning": "indeed, verily"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "particle of condition/confirmation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "Was, is (verb 'to be')",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْهُدَىٰ",
+      "transliteration": "al-hudā",
+      "meaning": "The guidance",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هُدَىٰ",
+          "meaning": "guidance"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-seen if was upon the-guidance?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

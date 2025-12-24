@@ -1,0 +1,67 @@
+{
+  "verseId": "102:6",
+  "verse": {
+    "arabic": "لَتَرَوُنَّ الْجَحِيمَ",
+    "transliteration": "Latarawunna aljaheema",
+    "surah": "At-Takathur",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَتَرَوُنَّ",
+      "transliteration": "lataraūunna",
+      "meaning": "Surely you will see",
+      "root": {
+        "letters": "ر-ء-ى",
+        "meaning": "to see, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for (purpose)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "future marker, will"
+        },
+        {
+          "arabic": "رَوْنَ",
+          "meaning": "seeing, vision (verbal noun)"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "emphatic suffix, surely"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَحِيمَ",
+      "transliteration": "al-jaḥīma",
+      "meaning": "the Hellfire",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "intense heat, aridity; burning, scorching"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَحِيمَ",
+          "meaning": "Hellfire, blazing fire"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Surely-you-will-see - the-Hellfire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

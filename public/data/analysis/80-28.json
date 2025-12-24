@@ -1,0 +1,50 @@
+{
+  "verseId": "80:28",
+  "verse": {
+    "arabic": "وَعِنَبًا وَقَضْبًا",
+    "transliteration": "WaAAinaban waqadban",
+    "surah": "Abasa",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَعِنَبًا",
+      "transliteration": "waʿinaban",
+      "meaning": "and grapes",
+      "root": {
+        "letters": "ع-ن-ب",
+        "meaning": "to be succulent, to have many clusters; grapes (as a plant producing many clusters)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عِنَبًا",
+          "meaning": "grapes (accusative indefinite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَقَضْبًا",
+      "transliteration": "waqaḍban",
+      "meaning": "and herbage",
+      "root": {
+        "letters": "ق-د-ب",
+        "meaning": "to sprout, to grow forth; freshness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-grapes and-herbage"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "verseId": "83:9",
+  "verse": {
+    "arabic": "كِتَابٌ مَّرْقُومٌ",
+    "transliteration": "Kitabun marqoomun",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كِتَابٌ",
+      "transliteration": "kitābun",
+      "meaning": "book, writing, record",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّرْقُومٌ",
+      "transliteration": "marqūmun",
+      "meaning": "inscribed, written down, recorded",
+      "root": {
+        "letters": "ر-ق-م",
+        "meaning": "to write, to record, to inscribe"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "book - inscribed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

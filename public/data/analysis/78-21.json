@@ -1,0 +1,94 @@
+{
+  "verseId": "78:21",
+  "verse": {
+    "arabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+    "transliteration": "Inna jahannama kanat mirsadan",
+    "surah": "An-Naba",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; also indicates emphasis or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces an emphatic statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَهَنَّمَ",
+      "transliteration": "jahannam",
+      "meaning": "Hell",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "intense heat, aridity, hiddenness; a place of intense concealment or burning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَانَتْ",
+      "transliteration": "kānat",
+      "meaning": "was, has been",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "past tense marker (feminine singular)"
+        },
+        {
+          "arabic": "انْتَ",
+          "meaning": "second person feminine singular pronoun suffix"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "ta' marbuta, feminine ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِرْصَادًا",
+      "transliteration": "mirṣādān",
+      "meaning": "lying in wait, an ambush, a lookout place",
+      "root": {
+        "letters": "ر-ص-د",
+        "meaning": "to watch, to observe, to guard"
+      },
+      "components": [
+        {
+          "arabic": "مِر",
+          "meaning": "denotes a place or time of the action"
+        },
+        {
+          "arabic": "صَاد",
+          "meaning": "the root related to watching or guarding"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fathah, indicates indefiniteness and accusative case (likely adverbial of time/manner)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-Hell-has-been lying-in-wait"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

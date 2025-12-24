@@ -1,0 +1,78 @@
+{
+  "verseId": "89:27",
+  "verse": {
+    "arabic": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+    "transliteration": "Ya ayyatuha alnnafsu almutmainnatu",
+    "surah": "Al-Fajr",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيَّتُهَا",
+      "transliteration": "ayyatu-hā",
+      "meaning": "O you (feminine singular vocative particle)",
+      "root": {
+        "letters": "أَيّ-هـَ",
+        "meaning": "to address, to turn attention towards"
+      },
+      "components": [
+        {
+          "arabic": "أَيُّ",
+          "meaning": "O (vocative particle)"
+        },
+        {
+          "arabic": "-هَا",
+          "meaning": "feminine singular pronoun suffix (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّفْسُ",
+      "transliteration": "an-nafsu",
+      "meaning": "the soul, the self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, to expire; the essence of being, life force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُطْمَئِنَّةُ",
+      "transliteration": "al-muṭmaʾinnaᵋ",
+      "meaning": "the reassured, the tranquil",
+      "root": {
+        "letters": "ط-م-ن",
+        "meaning": "to feel safe, to be secure, to find peace"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُطْمَئِنَّةٌ",
+          "meaning": "reassured, tranquil (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O-you the-soul the-reassured"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

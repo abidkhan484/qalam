@@ -1,0 +1,54 @@
+{
+  "verseId": "79:3",
+  "verse": {
+    "arabic": "وَالسَّابِحَاتِ سَبْحًا",
+    "transliteration": "Waalssabihati sabhan",
+    "surah": "An-Nazi'at",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّابِحَاتِ",
+      "transliteration": "as-sābiḥāti",
+      "meaning": "the swimmers/gliders",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to move swiftly; to glorify (God)"
+      },
+      "components": [
+        {
+          "arabic": "السَّابِحَاتِ",
+          "meaning": "The swimmers/gliders (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَبْحًا",
+      "transliteration": "sabḥan",
+      "meaning": "swimming/gliding (as an adverb)",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, flow, move freely; to glorify (often used as praise of God)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the swimmers/gliders - swimming/gliding"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "verseId": "80:32",
+  "verse": {
+    "arabic": "مَّتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ",
+    "transliteration": "MataAAan lakum walianAAamikum",
+    "surah": "Abasa",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّتَاعًا",
+      "transliteration": "matāʿan",
+      "meaning": "enjoyment, benefit, provision",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "to enjoy, to benefit, to possess temporarily"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-أ-ف",
+        "meaning": "to possess, to be sufficient, to contain"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ـكُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلِأَنْعَامِكُمْ",
+      "transliteration": "wa li-ʾanʿāmikum",
+      "meaning": "and for your livestock",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to benefit from, to enjoy; livestock (as a source of benefit)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَنْعَامِكُمْ",
+          "meaning": "your livestock"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "enjoyment - for - you - and - to/for - livestock - of - you"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

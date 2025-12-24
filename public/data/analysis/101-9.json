@@ -1,0 +1,54 @@
+{
+  "verseId": "101:9",
+  "verse": {
+    "arabic": "فَأُمُّهُ هَاوِيَةٌ",
+    "transliteration": "Faommuhu hawiyatun",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأُمُّهُ",
+      "transliteration": "faʾummuhu",
+      "meaning": "so his mother",
+      "root": {
+        "letters": "أ-مّ-ه",
+        "meaning": "motherhood, the source of life and nurture"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "أُمُّ",
+          "meaning": "mother"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَاوِيَةٌ",
+      "transliteration": "hāwiyah",
+      "meaning": "an abyss, a deep pit",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "to fall, to decline, to perish; inclination or desire (often negative)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-his mother -an abyss"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "verseId": "96:13",
+  "verse": {
+    "arabic": "أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّىٰ",
+    "transliteration": "Araayta in kaththaba watawalla",
+    "surah": "Al-Alaq",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَرَأَيْتَ",
+      "transliteration": "ʾarāyta",
+      "meaning": "Have you seen?",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of inquiry/interrogation (have you...?) "
+        },
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "you saw (perfect tense, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "ʾin",
+      "meaning": "If",
+      "root": {
+        "letters": "إ-ن-و",
+        "meaning": "affirmation, existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Conditional particle; introduces a condition (if)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَذَّبَ",
+      "transliteration": "kaḏdhaba",
+      "meaning": "He denied, he lied",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَتَوَلَّىٰ",
+      "transliteration": "wa-tawallā",
+      "meaning": "And he turned away",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn away, to abandon, to be responsible for"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَوَلَّىٰ",
+          "meaning": "he turned away, he abandoned"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-seen if he-denied and-he-turned-away"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

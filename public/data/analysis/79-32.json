@@ -1,0 +1,63 @@
+{
+  "verseId": "79:32",
+  "verse": {
+    "arabic": "وَالْجِبَالَ أَرْسَاهَا",
+    "transliteration": "Waaljibala arsaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْجِبَالَ",
+      "transliteration": "wa-l-jibāla",
+      "meaning": "and the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise high; power, strength"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِبَالَ",
+          "meaning": "mountains (plural of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرْسَاهَا",
+      "transliteration": "ʾarsāhā",
+      "meaning": "He set them firmly / He established them",
+      "root": {
+        "letters": "ر-س-و",
+        "meaning": "to be firm, stable, to anchor"
+      },
+      "components": [
+        {
+          "arabic": "أَرْ",
+          "meaning": "prefix indicating intensification or completion"
+        },
+        {
+          "arabic": "سَاهَا",
+          "meaning": "to set firmly, to establish"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the mountains He-established-them"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

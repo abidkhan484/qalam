@@ -1,0 +1,60 @@
+{
+  "verseId": "81:13",
+  "verse": {
+    "arabic": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+    "transliteration": "Waitha aljannatu ozlifat",
+    "surah": "At-Takwir",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to come, to arrive; time, occasion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْجَنَّةُ",
+      "transliteration": "al-jannah",
+      "meaning": "the Paradise, the Garden",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be secluded"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُزْلِفَتْ",
+      "transliteration": "uzlifat",
+      "meaning": "was brought near, was drawn close",
+      "root": {
+        "letters": "ز-ل-ف",
+        "meaning": "nearness, proximity, to approach"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-Paradise was-brought-near"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "verseId": "87:6",
+  "verse": {
+    "arabic": "سَنُقْرِئُكَ فَلَا تَنسَىٰ",
+    "transliteration": "Sanuqrioka fala tansa",
+    "surah": "Al-A'la",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَنُقْرِئُكَ",
+      "transliteration": "sanuqriʾuka",
+      "meaning": "We will make you recite",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, to recite"
+      },
+      "components": [
+        {
+          "arabic": "سَـ",
+          "meaning": "future particle indicating 'will'"
+        },
+        {
+          "arabic": "نُـ",
+          "meaning": "pronoun prefix indicating 'we'"
+        },
+        {
+          "arabic": "قْرِئُـ",
+          "meaning": "passive voice form derived from the root 'to read'"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "pronoun suffix indicating 'you (masculine singular)'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "So not / and do not",
+      "root": {
+        "letters": "ل-ي-ف",
+        "meaning": "to be weak, deficient, or to fail; negation/absence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so / then (particle indicating consequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not / do not (negative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَنسَىٰ",
+      "transliteration": "tansā",
+      "meaning": "You forget",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine singular (you)"
+        },
+        {
+          "arabic": "نَسَىٰ",
+          "meaning": "to forget"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "tanwīn al-fatḥ for indefinite noun"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We-will-make-you-recite - so-not/and-do-not - you-forget"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

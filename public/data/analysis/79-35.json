@@ -1,0 +1,91 @@
+{
+  "verseId": "79:35",
+  "verse": {
+    "arabic": "يَوْمَ يَتَذَكَّرُ الْإِنسَانُ مَا سَعَىٰ",
+    "transliteration": "Yawma yatathakkaru alinsanu ma saAAa",
+    "surah": "An-Nazi'at",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَتَذَكَّرُ",
+      "transliteration": "yataḏakkaru",
+      "meaning": "he remembers; he recalls",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third person singular"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "indicates middle voice or reflexive action (in this case, reciprocal)"
+        },
+        {
+          "arabic": "ذَكَّرَ",
+          "meaning": "to remind, to recall (derived from ذَكَرَ)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "third person singular masculine pronoun suffix (he)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human; mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly; weakness, fragility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what; that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سَعَىٰ",
+      "transliteration": "saʿā",
+      "meaning": "he strove; he endeavored",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to strive, to endeavor, to hasten, to make effort"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day-when he-remembers the-human what he-stroved"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

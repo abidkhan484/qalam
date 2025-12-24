@@ -1,0 +1,112 @@
+{
+  "verseId": "89:24",
+  "verse": {
+    "arabic": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+    "transliteration": "Yaqoolu ya laytanee qaddamtu lihayatee",
+    "surah": "Al-Fajr",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating present/future tense and first person singular (He)"
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "The verb 'to say' in the present/future form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "Oh!",
+      "root": null,
+      "components": [
+        {
+          "arabic": "يَا",
+          "meaning": "Oh! (vocative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَيْتَنِي",
+      "transliteration": "laytanī",
+      "meaning": "Oh, I wish!",
+      "root": {
+        "letters": "ل-ي-ت",
+        "meaning": "softness, gentleness, wishing"
+      },
+      "components": [
+        {
+          "arabic": "لَيْتَ",
+          "meaning": "Oh, I wish!"
+        },
+        {
+          "arabic": "-نِي",
+          "meaning": "first person singular suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَدَّمْتُ",
+      "transliteration": "qaddamtu",
+      "meaning": "I sent ahead, I advanced",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to advance, to step forward, to present"
+      },
+      "components": [
+        {
+          "arabic": "قَدَّمْ",
+          "meaning": "to send ahead, to advance (verb stem)"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "first-person singular suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِحَيَاتِي",
+      "transliteration": "li-ḥayātī",
+      "meaning": "for my life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, life"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "حَيَاتِي",
+          "meaning": "my life"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-says - Oh! - Oh, I-wish! - I-sent-ahead - for-my-life"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "verseId": "112:4",
+  "verse": {
+    "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "transliteration": "Walam yakun lahu kufuwan ahadun",
+    "surah": "Al-Ikhlas",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to desire, to will, to intend; negation (in general)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَكُن",
+      "transliteration": "yakun",
+      "meaning": "be/exist",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person singular (in some forms)"
+        },
+        {
+          "arabic": "كُن",
+          "meaning": "to be, exist (imperative form of the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَّهُ",
+      "transliteration": "lahu",
+      "meaning": "for him/to Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُفُوًا",
+      "transliteration": "kufu'an",
+      "meaning": "equal/equivalent",
+      "root": {
+        "letters": "ك-ف-أ",
+        "meaning": "sufficiency, adequacy, equality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَحَدٌ",
+      "transliteration": "aḥadun",
+      "meaning": "anyone/one",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "uniqueness, oneness, singularity"
+      },
+      "components": [
+        {
+          "arabic": "أحد",
+          "meaning": "one, unique, singular"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not be/exist for-him equal/equivalent anyone/one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

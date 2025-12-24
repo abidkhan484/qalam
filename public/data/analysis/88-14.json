@@ -1,0 +1,41 @@
+{
+  "verseId": "88:14",
+  "verse": {
+    "arabic": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+    "transliteration": "Waakwabun mawdooAAatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأَكْوَابٌ",
+      "transliteration": "waʾakwābun",
+      "meaning": "and cups",
+      "root": {
+        "letters": "ك-و-ب",
+        "meaning": "to drink, to fill (a vessel)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَّوْضُوعَةٌ",
+      "transliteration": "mawḍūʿatun",
+      "meaning": "put in place/arranged",
+      "root": {
+        "letters": "ض-و-ع",
+        "meaning": "to place, to set, to put; loss or straying (as something placed badly)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-cups [that are] put-in-place"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

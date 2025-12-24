@@ -1,0 +1,79 @@
+{
+  "verseId": "1:4",
+  "verse": {
+    "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+    "transliteration": "Maliki yawmi alddeeni",
+    "surah": "Al-Fatihah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَالِكِ",
+      "transliteration": "mālikī",
+      "meaning": "Possessor, Owner, Sovereign",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "ownership, possession"
+      },
+      "components": [
+        {
+          "arabic": "مَالِك",
+          "meaning": "possessor, owner"
+        },
+        {
+          "arabic": "-ِي",
+          "meaning": "my (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمِ",
+      "transliteration": "yawmi",
+      "meaning": "Day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "Day; to pass, elapse (time)"
+      },
+      "components": [
+        {
+          "arabic": "يَو",
+          "meaning": "Day (stem)"
+        },
+        {
+          "arabic": "مِ",
+          "meaning": "Genitive marker ('of')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "The Recompense, The Judgment",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be in debt, to be obligated; recompense, judgment, religion"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "دِينِ",
+          "meaning": "Recompense, Judgment (noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Possessor-of Day-of The-Recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

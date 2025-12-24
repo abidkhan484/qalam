@@ -1,0 +1,41 @@
+{
+  "verseId": "114:3",
+  "verse": {
+    "arabic": "إِلَـٰهِ النَّاسِ",
+    "transliteration": "Ilahi alnnasi",
+    "surah": "An-Nas",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَـٰهِ",
+      "transliteration": "ilāhi",
+      "meaning": "God (of)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, to deify; the deity itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the mankind, the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost or strayed; also, people (derived from the idea of forgetting one's origin)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "God-of the-mankind"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

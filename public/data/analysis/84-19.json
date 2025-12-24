@@ -1,0 +1,72 @@
+{
+  "verseId": "84:19",
+  "verse": {
+    "arabic": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+    "transliteration": "Latarkabunna tabaqan AAan tabaqin",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَتَرْكَبُنَّ",
+      "transliteration": "latarkabunna",
+      "meaning": "[emphatic future command/certainty of riding/experiencing]",
+      "root": {
+        "letters": "ر-ك-ب",
+        "meaning": "to mount, ride, or experience"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to (purpose)"
+        },
+        {
+          "arabic": "تَرْكَبُنَّ",
+          "meaning": "you will certainly ride/experience (emphatic future)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَبَقًا",
+      "transliteration": "ṭabaqan",
+      "meaning": "a layer, a state, a kind",
+      "root": {
+        "letters": "ﻁ-ب-ق",
+        "meaning": "to imprint, to stamp; to overlay, to cover; to settle or be fixed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "upon, over, after",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, to have connection with; to return or revert"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "طَبَقٍ",
+      "transliteration": "ṭabaqin",
+      "meaning": "a layer, a state, a kind (indefinite accusative)",
+      "root": {
+        "letters": "ﻁ-ب-ع",
+        "meaning": "to impress, to stamp, to seal; naturally endowed quality or disposition"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "You-will-surely-experience [a] state - upon [another] state"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

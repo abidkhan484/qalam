@@ -1,0 +1,101 @@
+{
+  "verseId": "85:19",
+  "verse": {
+    "arabic": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+    "transliteration": "Bali allatheena kafaroo fee taktheebin",
+    "surah": "Al-Buruj",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلِ",
+      "transliteration": "bal",
+      "meaning": "but, rather; indeed",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to oppose; to reach a destination (and thus negate the previous statement)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, relative pronoun marker"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "they disbelieved, they denied faith",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, deny a favor"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "prefix indicating a group of masculine beings"
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "they disbelieved/denied (second person plural past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be contained within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَكْذِيبٍ",
+      "transliteration": "takdhīb",
+      "meaning": "denial; disbelief",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie; to falsely assert; to contradict truth"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating verbal noun formation (masdar)"
+        },
+        {
+          "arabic": "كْذِيب",
+          "meaning": "denial, disbelief (verbal noun from the root ك-ذ-ب)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "but-indeed those-who disbelieved in denial"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "verseId": "92:2",
+  "verse": {
+    "arabic": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+    "transliteration": "Waalnnahari itha tajalla",
+    "surah": "Al-Layl",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّهَارِ",
+      "transliteration": "an-nahāri",
+      "meaning": "the day",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to be clear, bright; to appear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go, to depart; to come, to occur"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَجَلَّىٰ",
+      "transliteration": "tajallā",
+      "meaning": "it appeared, it shone forth",
+      "root": {
+        "letters": "ج-ل-و",
+        "meaning": "to be manifest, to become clear, to shine"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -the-day when -it-appeared"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

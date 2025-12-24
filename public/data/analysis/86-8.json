@@ -1,0 +1,90 @@
+{
+  "verseId": "86:8",
+  "verse": {
+    "arabic": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+    "transliteration": "Innahu AAala rajAAihi laqadirun",
+    "surah": "At-Tariq",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahu",
+      "meaning": "Indeed, he (referring to Allah)",
+      "root": {
+        "letters": "ن-هـ-أ",
+        "meaning": "to be, to exist; inherent quality or essence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphasizing particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he (pronoun referring to the third person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over, to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "To be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَجْعِهِ",
+      "transliteration": "rajʿihi",
+      "meaning": "His return (to life/previous state)",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "To return, to go back; reversal, restoration."
+      },
+      "components": [
+        {
+          "arabic": "رَجْع",
+          "meaning": "Return, coming back."
+        },
+        {
+          "arabic": "ـِهِ",
+          "meaning": "His (possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَقَادِرٌ",
+      "transliteration": "la-qādirun",
+      "meaning": "Certainly Able, He is Powerful",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to possess power, to be able, to have dominion"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "certainly, indeed, truly (negative particle used for emphasis)"
+        },
+        {
+          "arabic": "قَادِرٌ",
+          "meaning": "able, powerful"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-he upon-his return certainly-Able."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

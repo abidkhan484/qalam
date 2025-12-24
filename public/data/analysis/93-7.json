@@ -1,0 +1,82 @@
+{
+  "verseId": "93:7",
+  "verse": {
+    "arabic": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+    "transliteration": "Wawajadaka dallan fahada",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَجَدَ",
+      "transliteration": "wajada",
+      "meaning": "he found",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to obtain, to come upon"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَ",
+      "transliteration": "ka",
+      "meaning": "you (masculine)",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "manner, state, condition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ضَالًّا",
+      "transliteration": "ḍāllan",
+      "meaning": "lost, astray",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to err, to be lost"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "then, so",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to begin, to initiate, to separate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "هَدَىٰ",
+      "transliteration": "hadā",
+      "meaning": "he guided",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, to lead"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he-found you lost then-he-guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

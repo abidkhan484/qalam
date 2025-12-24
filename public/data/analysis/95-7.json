@@ -1,0 +1,94 @@
+{
+  "verseId": "95:7",
+  "verse": {
+    "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+    "transliteration": "Fama yukaththibuka baAAdu bialddeeni",
+    "surah": "At-Tin",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَا",
+      "transliteration": "famā",
+      "meaning": "so what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to will, to desire; questioned particle"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle introducing consequence)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which (interrogative/conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُكَذِّبُكَ",
+      "transliteration": "yukadhdhibuka",
+      "meaning": "causes you to deny",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating the present tense, active voice, 3rd person singular"
+        },
+        {
+          "arabic": "كَذِّبُ",
+          "meaning": "to deny, to call false"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَعْدُ",
+      "transliteration": "baʿdu",
+      "meaning": "yet, afterwards",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالدِّينِ",
+      "transliteration": "bi-l-dīni",
+      "meaning": "with the Recompense",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to judge, recompense, accountability; religion as a system of judgment"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الدِّينِ",
+          "meaning": "the Recompense, the religion"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-what causes-you to-deny yet with-the Recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

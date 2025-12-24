@@ -1,0 +1,69 @@
+{
+  "verseId": "105:4",
+  "verse": {
+    "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+    "transliteration": "Tarmeehim bihijaratin min sijjeelin",
+    "surah": "Al-Fil",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَرْمِيهِم",
+      "transliteration": "tarmihim",
+      "meaning": "They throw (at them)",
+      "root": {
+        "letters": "ر-م-ي",
+        "meaning": "to throw, to cast"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating they (masculine plural) are the subject and verb is in present tense"
+        },
+        {
+          "arabic": "رَمِـ",
+          "meaning": "throw, cast (verb stem)"
+        },
+        {
+          "arabic": "ـهِم",
+          "meaning": "them (masculine plural, object pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِحِجَارَةٍ",
+      "transliteration": "biḥijāratin",
+      "meaning": "With stones"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن سِجِّيلٍ",
+      "transliteration": "min sijjīlin",
+      "meaning": "From hard clay (or stones)",
+      "root": {
+        "letters": "س-ج-ل",
+        "meaning": "to strike, to impress, to record; also hardness and smoothness"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "سِجِّيلٍ",
+          "meaning": "hard clay, stones (likely baked or hardened)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-throw-at-them - with-stones - from-hard-clay"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

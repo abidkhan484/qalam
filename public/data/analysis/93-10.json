@@ -1,0 +1,98 @@
+{
+  "verseId": "93:10",
+  "verse": {
+    "arabic": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+    "transliteration": "Waamma alssaila fala tanhar",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "as for, concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to direct towards"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "intent, purpose; or the interrogative particle 'or'"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, whatever; relative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّائِلَ",
+      "transliteration": "as-sāʾila",
+      "meaning": "the petitioner, the one who asks",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire, to request"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then do not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, negation or impossibility"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, do not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَنْهَرْ",
+      "transliteration": "tanhar",
+      "meaning": "repel, rebuke, scold sharply",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to flow forth, to pour out; in a derived sense, to repel, to reject"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix denoting a causative or iterative form (form IV)"
+        },
+        {
+          "arabic": "نَهَرْ",
+          "meaning": "to repel, rebuke, scold"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and as-for the-petitioner then-not you-repel"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "verseId": "90:19",
+  "verse": {
+    "arabic": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+    "transliteration": "Waallatheena kafaroo biayatina hum ashabu almashamati",
+    "surah": "Al-Balad",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "allaḏīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, to exist; possess qualities or attributes"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "disbelieved",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, disbelieve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِآيَاتِنَا",
+      "transliteration": "bi-āyātina",
+      "meaning": "in Our signs",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, proof, miracle"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with"
+        },
+        {
+          "arabic": "آيَاتِنَا",
+          "meaning": "Our signs"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "belonging to, being with, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "aṣḥābu",
+      "meaning": "companions/people of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمَشْأَمَةِ",
+      "transliteration": "al-mashʾamati",
+      "meaning": "the left side/misfortune",
+      "root": {
+        "letters": "ش-أ-م",
+        "meaning": "to be on the left; north, or to incline towards misfortune"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "مَشْأَمَة",
+          "meaning": "left side; unlucky direction/misfortune"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-those who disbelieved in Our signs - they are companions of the left side"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

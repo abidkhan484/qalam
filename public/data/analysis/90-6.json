@@ -1,0 +1,81 @@
+{
+  "verseId": "90:6",
+  "verse": {
+    "arabic": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+    "transliteration": "Yaqoolu ahlaktu malan lubadan",
+    "surah": "Al-Balad",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَقُولُ",
+      "transliteration": "yaqūlu",
+      "meaning": "He says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to utter; generally relating to communication through speech."
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating the present tense, third-person masculine singular."
+        },
+        {
+          "arabic": "قُولُ",
+          "meaning": "The root verb 'to say' in the noun form, modified to fit the verbal structure."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَهْلَكْتُ",
+      "transliteration": "ahlektu",
+      "meaning": "I have destroyed/wasted",
+      "root": {
+        "letters": "ه-ل-ك",
+        "meaning": "to perish, to be destroyed"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (first person singular pronoun)"
+        },
+        {
+          "arabic": "هَلَكْتُ",
+          "meaning": "destroyed/perished (past tense, first person singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَالًا",
+      "transliteration": "mālan",
+      "meaning": "Wealth",
+      "root": {
+        "letters": "م-ل-ي",
+        "meaning": "Possession, ownership, fullness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لُّبَدًا",
+      "transliteration": "lubadan",
+      "meaning": "Abundant/thickly scattered",
+      "root": {
+        "letters": "ل-ب-د",
+        "meaning": "to be dense, thick, or strongly interwoven; to cling tightly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-says - I-have-destroyed - wealth - abundance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

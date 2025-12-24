@@ -1,0 +1,90 @@
+{
+  "verseId": "79:24",
+  "verse": {
+    "arabic": "فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ",
+    "transliteration": "Faqala ana rabbukumu alaAAla",
+    "surah": "An-Nazi'at",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَقَالَ",
+      "transliteration": "fa-qāla",
+      "meaning": "so he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنَا",
+      "transliteration": "anā",
+      "meaning": "I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also related to being late or delayed (in some dialects)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبُّكُمُ",
+      "transliteration": "rabbu-kum",
+      "meaning": "your lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to nurture"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, possessor"
+        },
+        {
+          "arabic": "كم",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَعْلَىٰ",
+      "transliteration": "al-aʿlā",
+      "meaning": "the most exalted/highest",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَعْلَىٰ",
+          "meaning": "most high, highest (superlative form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-he said - I - lord-of-you - the-most-exalted"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

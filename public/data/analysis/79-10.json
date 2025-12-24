@@ -1,0 +1,110 @@
+{
+  "verseId": "79:10",
+  "verse": {
+    "arabic": "يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ",
+    "transliteration": "Yaqooloona ainna lamardoodoona fee alhafirati",
+    "surah": "An-Nazi'at",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَقُولُونَ",
+      "transliteration": "yaqūlūna",
+      "meaning": "They say",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "They (pronoun suffix)"
+        },
+        {
+          "arabic": "قُولُونَ",
+          "meaning": "Say (verb, present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَإِنَّا",
+      "transliteration": "ʾa-ʾinnā",
+      "meaning": "Is it that we...",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "أ",
+          "meaning": "interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "إِنَّا",
+          "meaning": "indeed we, truly we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَمَرْدُودُونَ",
+      "transliteration": "la-mardūdūna",
+      "meaning": "Are indeed returned",
+      "root": {
+        "letters": "ر-د-د",
+        "meaning": "to return, to repel, to restore"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "مَرْدُودُونَ",
+          "meaning": "returned (plural, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to be within, to permeate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْحَافِرَةِ",
+      "transliteration": "al-ḥāfirah",
+      "meaning": "The former state/the digging (place)",
+      "root": {
+        "letters": "ح-ف-ر",
+        "meaning": "to dig, excavate"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَافِرَة",
+          "meaning": "digging, excavator (feminine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-say - Is-it-that-we - Are-indeed-returned - In - The-former-state"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

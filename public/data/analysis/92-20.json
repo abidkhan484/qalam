@@ -1,0 +1,92 @@
+{
+  "verseId": "92:20",
+  "verse": {
+    "arabic": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+    "transliteration": "Illa ibtighaa wajhi rabbihi alaAAla",
+    "surah": "Al-Layl",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but only",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise above; exception, negation of totality"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ابْتِغَاءَ",
+      "transliteration": "ibtighā’a",
+      "meaning": "seeking, in search of",
+      "root": {
+        "letters": "ب-غ-ى",
+        "meaning": "to seek, to desire, to request"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَجْهِ",
+      "transliteration": "wajhi",
+      "meaning": "face, countenance",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, to appear, face; also encompassing notions of direction and prestige"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْأَعْلَىٰ",
+      "transliteration": "al-aʿlā",
+      "meaning": "the Most High",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَعْلَىٰ",
+          "meaning": "highest, most high (superlative form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except - seeking - face - his Lord - the Most High"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

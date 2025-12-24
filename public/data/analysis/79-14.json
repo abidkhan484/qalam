@@ -1,0 +1,70 @@
+{
+  "verseId": "79:14",
+  "verse": {
+    "arabic": "فَإِذَا هُم بِالسَّاهِرَةِ",
+    "transliteration": "Faitha hum bialssahirati",
+    "surah": "An-Nazi'at",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "Then, suddenly; so when",
+      "root": {
+        "letters": "ء-ذ-ه",
+        "meaning": "to take, to seize; presence, existence"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُم",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "To be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالسَّاهِرَةِ",
+      "transliteration": "bi-s-sāhirati",
+      "meaning": "With the surface; upon the place of wakefulness/vigilance",
+      "root": {
+        "letters": "س-ح-ر",
+        "meaning": "to be awake at night; nocturnal activity, magic"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "السَّاهِرَةِ",
+          "meaning": "the wakeful place/surface; the night-watch"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-idhā - then, suddenly | hum - they | bi-s-sāhirati - with the surface/place of wakefulness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

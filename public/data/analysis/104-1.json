@@ -1,0 +1,82 @@
+{
+  "verseId": "104:1",
+  "verse": {
+    "arabic": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "transliteration": "Waylun likulli humazatin lumazatin",
+    "surah": "Al-Humazah",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيْلٌ",
+      "transliteration": "waylun",
+      "meaning": "Woe, destruction",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "loss, deficiency, destruction; to be lost or destroyed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّكُلِّ",
+      "transliteration": "li-kulli",
+      "meaning": "to every, for each",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to finish; totality, wholeness"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كُلِّ",
+          "meaning": "every, each (genitive singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُمَزَةٍ",
+      "transliteration": "humazatin",
+      "meaning": "scorner, one who maligns",
+      "root": {
+        "letters": "ح-م-ز",
+        "meaning": "to break, to crush, to scorch; also, severe rebuke or contempt"
+      },
+      "components": [
+        {
+          "arabic": "هُمَزَةٍ",
+          "meaning": "scorner, one who maligns; an instance of severe criticism or contempt"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لُّمَزَةٍ",
+      "transliteration": "lummāzatin",
+      "meaning": "mocker, one who taunts",
+      "root": {
+        "letters": "ل-م-ز",
+        "meaning": "to blame, to reproach, to taunt"
+      },
+      "components": [
+        {
+          "arabic": "لُمَزَةٍ",
+          "meaning": "mocker, one who habitually taunts (feminine noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Woe - to - every - scorner - mocker."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

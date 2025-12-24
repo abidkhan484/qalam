@@ -1,0 +1,72 @@
+{
+  "verseId": "92:12",
+  "verse": {
+    "arabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+    "transliteration": "Inna AAalayna lalhuda",
+    "surah": "Al-Layl",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily; emphatic particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle introducing a clause. It stresses the truth of what follows."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْنَا",
+      "transliteration": "ʿalaynā",
+      "meaning": "Upon us, incumbent upon us",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend; superiority, height in status"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us, we (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَلْهُدَىٰ",
+      "transliteration": "lilhudā",
+      "meaning": "For the guidance, surely to guidance; emphatic construction indicating obligation",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "To guide, to show the right way; direction"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "For, to; preposition indicating purpose or direction"
+        },
+        {
+          "arabic": "هُدَىٰ",
+          "meaning": "Guidance, the correct path; verbal noun of هَدَىٰ"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed - upon-us - [is] surely to guidance."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

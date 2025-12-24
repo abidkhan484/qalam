@@ -1,0 +1,116 @@
+{
+  "verseId": "88:17",
+  "verse": {
+    "arabic": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+    "transliteration": "Afala yanthuroona ila alibili kayfa khuliqat",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَفَلَا",
+      "transliteration": "ʾafalā",
+      "meaning": "Does not then?, Surely not?",
+      "root": {
+        "letters": "ف-ل-ي",
+        "meaning": "to lack, to be deficient, to fail"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of questioning/negation, often implying surprise or rebuke"
+        },
+        {
+          "arabic": "فَلَا",
+          "meaning": "does not then?, surely not?"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَنظُرُونَ",
+      "transliteration": "yanẓurūn",
+      "meaning": "Do they look?, Do they observe?",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural active voice (they are...)"
+        },
+        {
+          "arabic": "نَظُر",
+          "meaning": "to look, to observe"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine active voice (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَى",
+      "transliteration": "ʾilā",
+      "meaning": "To, Towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To turn, incline towards, resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْإِبِلِ",
+      "transliteration": "al-ʾibil",
+      "meaning": "The camels",
+      "root": {
+        "letters": "أ-ب-ل",
+        "meaning": "to be strong, powerful; to possess strength or abundance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "How?",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "To be/become, state or condition of something; encompassing a sense of manner and quality."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "خُلِقَتْ",
+      "transliteration": "khuliqat",
+      "meaning": "It was created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to form from nothingness"
+      },
+      "components": [
+        {
+          "arabic": "خُلِقَ",
+          "meaning": "It was created (passive voice)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular passive participle suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Does-not-then they-look to the-camels how it-was-created?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

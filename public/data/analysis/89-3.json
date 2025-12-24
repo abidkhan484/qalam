@@ -1,0 +1,59 @@
+{
+  "verseId": "89:3",
+  "verse": {
+    "arabic": "وَالشَّفْعِ وَالْوَتْرِ",
+    "transliteration": "WaalshshafAAi waalwatri",
+    "surah": "Al-Fajr",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالشَّفْعِ",
+      "transliteration": "wa-ash-shafʿi",
+      "meaning": "and the even number/parity",
+      "root": {
+        "letters": "ش-ف-ع",
+        "meaning": "to be even, to intercede, to pair"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الشَّفْعِ",
+          "meaning": "the even number/parity"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَالْوَتْرِ",
+      "transliteration": "wa-al-watri",
+      "meaning": "and the odd number/parity",
+      "root": {
+        "letters": "و-ت-ر",
+        "meaning": "to turn back, to remain, oddness/singularity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْوَتْر",
+          "meaning": "the odd number/parity"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-even-number and-the-odd-number"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

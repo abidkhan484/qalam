@@ -1,0 +1,90 @@
+{
+  "verseId": "94:1",
+  "verse": {
+    "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "transliteration": "Alam nashrah laka sadraka",
+    "surah": "Ash-Sharh",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did...not?",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to wish, to will; negation or denial"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of interrogation and emphasis, often negative"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "negative particle, indicating past tense negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَشْرَحْ",
+      "transliteration": "nashraḥ",
+      "meaning": "We expand / make wide",
+      "root": {
+        "letters": "ش-ر-ح",
+        "meaning": "to explain, to expand, to make clear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "for you",
+      "root": {
+        "letters": "ل-ك-و",
+        "meaning": "possession, belonging"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَدْرَكَ",
+      "transliteration": "ṣadraka",
+      "meaning": "your breast / chest",
+      "root": {
+        "letters": "ص-د-ر",
+        "meaning": "to be broad in the chest, to lead, to advance; also related to having intention and will"
+      },
+      "components": [
+        {
+          "arabic": "صَدْر",
+          "meaning": "chest, breast"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not We expand for-you breast-your?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

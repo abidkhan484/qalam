@@ -1,0 +1,67 @@
+{
+  "verseId": "81:19",
+  "verse": {
+    "arabic": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+    "transliteration": "Innahu laqawlu rasoolin kareemin",
+    "surah": "At-Takwir",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahu",
+      "meaning": "Indeed, it is (introduces emphasis)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "It (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَقَوْلُ",
+      "transliteration": "la-qawlu",
+      "meaning": "It is certainly a speech/statement"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَسُولٍ",
+      "transliteration": "rasūlin",
+      "meaning": "A messenger",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to dispatch; a messenger"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَرِيمٍ",
+      "transliteration": "karīmin",
+      "meaning": "Noble/Generous",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, noble; honor, bounty"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-it-is certainly-a-speech [of]-a messenger noble"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

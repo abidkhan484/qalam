@@ -1,0 +1,80 @@
+{
+  "verseId": "104:5",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+    "transliteration": "Wama adraka ma alhutamatu",
+    "surah": "Al-Humazah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, something existing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "adrakāka",
+      "meaning": "can make you know, understand (you)",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to comprehend, to attain knowledge"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَ",
+          "meaning": "to know, to perceive"
+        },
+        {
+          "arabic": "-كَا",
+          "meaning": "you (masculine singular, suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, existence; to possess; questioning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْحُطَمَةُ",
+      "transliteration": "al-ḥuṭamatu",
+      "meaning": "the Crusher, the shattering thing",
+      "root": {
+        "letters": "ح-ط-م",
+        "meaning": "to break, to shatter, to destroy"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and what that which can make you know what the Crusher?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

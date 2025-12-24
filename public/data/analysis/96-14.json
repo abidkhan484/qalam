@@ -1,0 +1,92 @@
+{
+  "verseId": "96:14",
+  "verse": {
+    "arabic": "أَلَمْ يَعْلَم بِأَنَّ اللَّهَ يَرَىٰ",
+    "transliteration": "Alam yaAAlam bianna Allaha yara",
+    "surah": "Al-Alaq",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did not, has not",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to want, or to know"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negative particle, indicates negation in the past tense."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَعْلَمْ",
+      "transliteration": "yaʿlam",
+      "meaning": "Knows, understand",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to possess knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِأَنَّ",
+      "transliteration": "biʾanna",
+      "meaning": "That, with the fact that",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, the fact that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah, The God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship, to deify; the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَرَىٰ",
+      "transliteration": "yarā",
+      "meaning": "Sees, observes",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "To see, to observe, to know, to understand"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not know with-that Allah sees?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

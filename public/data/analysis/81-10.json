@@ -1,0 +1,69 @@
+{
+  "verseId": "81:10",
+  "verse": {
+    "arabic": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+    "transliteration": "Waitha alssuhufu nushirat",
+    "surah": "At-Takwir",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to take, to seize, to grasp; to come upon (in time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الصُّحُفُ",
+      "transliteration": "aṣ-ṣuḥuf",
+      "meaning": "the pages, the scrolls",
+      "root": {
+        "letters": "ص-ح-ف",
+        "meaning": "to write, to record, to inscribe; smoothness or clarity (related to the surface being written on)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نُشِرَتْ",
+      "transliteration": "nushirat",
+      "meaning": "were made public, were spread out",
+      "root": {
+        "letters": "ن-ش-ر",
+        "meaning": "to spread out, to publish, to disseminate"
+      },
+      "components": [
+        {
+          "arabic": "نُ",
+          "meaning": "passive voice marker"
+        },
+        {
+          "arabic": "شِرَتْ",
+          "meaning": "spread, published (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - the pages - were made public"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

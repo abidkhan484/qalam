@@ -1,0 +1,84 @@
+{
+  "verseId": "78:29",
+  "verse": {
+    "arabic": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
+    "transliteration": "Wakulla shayin ahsaynahu kitaban",
+    "surah": "An-Naba",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُلَّ",
+      "transliteration": "kulla",
+      "meaning": "all, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "totality, completeness, entirety"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be, to exist; something that is perceived or understood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَحْصَيْنَاهُ",
+      "transliteration": "ʾaḥṣaynāhu",
+      "meaning": "We have enumerated it, We have counted it",
+      "root": {
+        "letters": "ح-ص-ي",
+        "meaning": "to count, to enumerate, to reckon"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first-person plural (we)"
+        },
+        {
+          "arabic": "حَصَيْنَا",
+          "meaning": "we counted, we enumerated (perfect tense)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it (masculine singular pronoun, object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كِتَابًا",
+      "transliteration": "kitāban",
+      "meaning": "as a writing, in writing",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-all thing We-have-enumerated-it in-writing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

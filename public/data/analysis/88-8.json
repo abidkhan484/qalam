@@ -1,0 +1,61 @@
+{
+  "verseId": "88:8",
+  "verse": {
+    "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+    "transliteration": "Wujoohun yawmaithin naAAimatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وُجُوهٌ",
+      "transliteration": "wujūhun",
+      "meaning": "faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, clear, appear; face, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "on that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on a day, the day of"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that (time), then"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَّاعِمَةٌ",
+      "transliteration": "nāʿimah",
+      "meaning": "pleasant, joyful, blissful",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "pleasantness, softness, joy"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "faces-on that day-[will be] pleasant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

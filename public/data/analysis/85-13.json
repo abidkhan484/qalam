@@ -1,0 +1,94 @@
+{
+  "verseId": "85:13",
+  "verse": {
+    "arabic": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+    "transliteration": "Innahu huwa yubdio wayuAAeedu",
+    "surah": "Al-Buruj",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahu",
+      "meaning": "Indeed, it is He",
+      "root": {
+        "letters": "هـ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He, it"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He",
+      "root": {
+        "letters": "ه-و-ي",
+        "meaning": "existence, being; self, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُبْدِئُ",
+      "transliteration": "yubdiʾu",
+      "meaning": "He originates, He begins",
+      "root": {
+        "letters": "ب-د-أ",
+        "meaning": "to begin, to originate, to initiate"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (He)"
+        },
+        {
+          "arabic": "بَدَأَ",
+          "meaning": "to begin, to originate"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah indicating the present/future tense conjugation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَيُعِيدُ",
+      "transliteration": "wayuʿīdu",
+      "meaning": "And He repeats, And He returns",
+      "root": {
+        "letters": "ع-ي-د",
+        "meaning": "to return, to repeat, to restore"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُعِيدُ",
+          "meaning": "He repeats/returns"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-it-is He - He - He originates - and He repeats."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

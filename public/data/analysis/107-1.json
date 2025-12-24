@@ -1,0 +1,103 @@
+{
+  "verseId": "107:1",
+  "verse": {
+    "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+    "transliteration": "Araayta allathee yukaththibu bialddeeni",
+    "surah": "Al-Ma'un",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَرَأَيْتَ",
+      "transliteration": "ʾarāyta",
+      "meaning": "Have you seen?",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicating a question"
+        },
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "you have seen (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "The one who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere, to remain close, to be connected"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِي",
+          "meaning": "one who, possessor of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُكَذِّبُ",
+      "transliteration": "yukadhdhibu",
+      "meaning": "Denies, falsifies",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense and active voice (first person singular)"
+        },
+        {
+          "arabic": "كَذَّبَ",
+          "meaning": "to deny, to falsify (basic verb form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah, indicating present tense vowel"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالدِّينِ",
+      "transliteration": "bi-l-dīni",
+      "meaning": "With the Recompense, by the Religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "To judge, to reckon; religion, recompense, judgment"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With, by means of"
+        },
+        {
+          "arabic": "الدِّينِ",
+          "meaning": "The Recompense, The Religion"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-you-seen the-one-who denies-with the-Recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

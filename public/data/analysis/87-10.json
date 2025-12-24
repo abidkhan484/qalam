@@ -1,0 +1,78 @@
+{
+  "verseId": "87:10",
+  "verse": {
+    "arabic": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+    "transliteration": "Sayaththakkaru man yakhsha",
+    "surah": "Al-A'la",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَيَذَّكَّرُ",
+      "transliteration": "sayadhdhakkaru",
+      "meaning": "He will certainly remind/remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "To remember, to mention, to recall, mindful of"
+      },
+      "components": [
+        {
+          "arabic": "سَـ",
+          "meaning": "Future particle, indicating will/certainty to happen"
+        },
+        {
+          "arabic": "يَـ",
+          "meaning": "Prefix indicating first person singular (future tense)"
+        },
+        {
+          "arabic": "ذَكَّرَ",
+          "meaning": "To remind, to cause someone to remember (derived from ذَكَرَ)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "Pronoun suffix indicating third person masculine singular (he)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "Who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be weak, vulnerable; to ask; also related to interrogation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَخْشَىٰ",
+      "transliteration": "yakhshā",
+      "meaning": "Fears, is afraid of",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to feel fear, to be afraid, to be wary"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person singular present tense (I)"
+        },
+        {
+          "arabic": "خَشَىٰ",
+          "meaning": "to fear, to be afraid of"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-will-certainly-remind- [one]- who- fears"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

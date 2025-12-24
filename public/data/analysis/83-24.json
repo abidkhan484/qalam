@@ -1,0 +1,105 @@
+{
+  "verseId": "83:24",
+  "verse": {
+    "arabic": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
+    "transliteration": "TaAArifu fee wujoohihim nadrata alnnaAAeemi",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَعْرِفُ",
+      "transliteration": "taʿrifu",
+      "meaning": "You know/recognize (2nd person masculine plural)",
+      "root": {
+        "letters": "ع-ر-ف",
+        "meaning": "To know, to recognize, to be aware of"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix indicating the second person masculine plural present tense."
+        },
+        {
+          "arabic": "عَرِفَ",
+          "meaning": "To know, to recognize (root verb)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "Present tense ending for the second person masculine plural."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وُجُوهِهِمْ",
+      "transliteration": "wujūhihim",
+      "meaning": "their faces",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, clear, or prominent; face, direction"
+      },
+      "components": [
+        {
+          "arabic": "وُ",
+          "meaning": "their (possessive pronoun suffix)"
+        },
+        {
+          "arabic": "جُوه",
+          "meaning": "faces (plural of وَجْه)"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَضْرَةَ",
+      "transliteration": "naḍrata",
+      "meaning": "radiance/freshness/bloom",
+      "root": {
+        "letters": "ن-ض-ر",
+        "meaning": "brightness, clarity, freshness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "النَّعِيمِ",
+      "transliteration": "an-naʿīmi",
+      "meaning": "the pleasure/bliss",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "enjoyment, comfort, pleasure"
+      },
+      "components": [
+        {
+          "arabic": "النَّعِيمِ",
+          "meaning": "the pleasure/bliss (definite form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "You-know in their-faces radiance of the-pleasure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

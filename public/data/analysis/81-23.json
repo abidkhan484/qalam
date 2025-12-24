@@ -1,0 +1,99 @@
+{
+  "verseId": "81:23",
+  "verse": {
+    "arabic": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+    "transliteration": "Walaqad raahu bialofuqi almubeeni",
+    "surah": "At-Takwir",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَقَدْ",
+      "transliteration": "wa-laqad",
+      "meaning": "and indeed, and certainly",
+      "root": {
+        "letters": "ل-ق-د",
+        "meaning": "to adhere, to be firm, to be certain"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَقَدْ",
+          "meaning": "indeed, certainly (emphasizing the truth of what follows)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَآهُ",
+      "transliteration": "raʼāhu",
+      "meaning": "he saw him",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "رَآ",
+          "meaning": "he saw"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالْأُفُقِ",
+      "transliteration": "bi-l-ʼufqi",
+      "meaning": "at/in the horizon",
+      "root": {
+        "letters": "ف-ق-ع",
+        "meaning": "to rise, to ascend; horizon (as that which rises)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, at, with"
+        },
+        {
+          "arabic": "الْأُفُقِ",
+          "meaning": "the horizon"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُبِينِ",
+      "transliteration": "al-mubīni",
+      "meaning": "the clear, the manifest",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be clear, to become manifest; to explain"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُبِين",
+          "meaning": "clear, manifest (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed he-saw him at/in the horizon the-clear"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

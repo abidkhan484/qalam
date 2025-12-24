@@ -1,0 +1,90 @@
+{
+  "verseId": "79:13",
+  "verse": {
+    "arabic": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ",
+    "transliteration": "Fainnama hiya zajratun wahidatun",
+    "surah": "An-Nazi'at",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِنَّمَا",
+      "transliteration": "faʾinnamā",
+      "meaning": "Indeed, but only; emphasizes restriction",
+      "root": {
+        "letters": "ن-م-و",
+        "meaning": "growth, increase; to grow, develop"
+      },
+      "components": [
+        {
+          "arabic": "فَإِنَّ",
+          "meaning": "Indeed, for verily; emphasizes the following statement"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "only; restricts the statement to what follows"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هِيَ",
+      "transliteration": "hiya",
+      "meaning": "It (feminine)",
+      "root": {
+        "letters": "هـ-ي-أ",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "زَجْرَةٌ",
+      "transliteration": "zajratun",
+      "meaning": "A shout; a single cry/warning",
+      "root": {
+        "letters": "ز-ج-ر",
+        "meaning": "to restrain, to prevent, to warn"
+      },
+      "components": [
+        {
+          "arabic": "زَجْر",
+          "meaning": "a warning, a deterrent"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "tanwīn (indefinite noun marker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَاحِدَةٌ",
+      "transliteration": "wāḥidatun",
+      "meaning": "One; single",
+      "root": {
+        "letters": "و-ح-د",
+        "meaning": "to be unique, single, one; to unite, consolidate"
+      },
+      "components": [
+        {
+          "arabic": "وَاحد",
+          "meaning": "one; single (masculine form)"
+        },
+        {
+          "arabic": "ـة",
+          "meaning": "feminine marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-ʾinnamā - it - [is] a shout - one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

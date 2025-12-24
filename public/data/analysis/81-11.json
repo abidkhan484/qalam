@@ -1,0 +1,61 @@
+{
+  "verseId": "81:11",
+  "verse": {
+    "arabic": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+    "transliteration": "Waitha alssamao kushitat",
+    "surah": "At-Takwir",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "wa-idhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to come, to arrive; to experience"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كُشِطَتْ",
+      "transliteration": "kushiṭat",
+      "meaning": "stripped away",
+      "root": {
+        "letters": "ك-ش-ط",
+        "meaning": "to strip, to peel away, to remove the outer layer"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-sky stripped-away"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

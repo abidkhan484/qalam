@@ -1,0 +1,61 @@
+{
+  "verseId": "88:12",
+  "verse": {
+    "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
+    "transliteration": "Feeha AAaynun jariyatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, within it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to exist within, to contain"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَيْنٌ",
+      "transliteration": "ʿaynun",
+      "meaning": "eye, spring (of water)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to be an eye, to be a source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَارِيَةٌ",
+      "transliteration": "jāriyah",
+      "meaning": "flowing, running",
+      "root": {
+        "letters": "ج-ر-ي",
+        "meaning": "to flow, to run, to proceed smoothly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-it eye flowing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

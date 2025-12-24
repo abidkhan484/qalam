@@ -1,0 +1,70 @@
+{
+  "verseId": "80:5",
+  "verse": {
+    "arabic": "أَمَّا مَنِ اسْتَغْنَىٰ",
+    "transliteration": "Amma mani istaghna",
+    "surah": "Abasa",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَمَّا",
+      "transliteration": "ʾammā",
+      "meaning": "as for; concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to direct towards"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what; that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنِ",
+      "transliteration": "man",
+      "meaning": "who; whoever",
+      "root": {
+        "letters": "م-ن-و",
+        "meaning": "to be, to exist; hidden, concealed"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اسْتَغْنَىٰ",
+      "transliteration": "istaghnaā",
+      "meaning": "thought himself independent; was self-sufficient",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be rich, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "اِسْتَـ",
+          "meaning": "indicates seeking or attempting something; prefix of intensity"
+        },
+        {
+          "arabic": "غَنَىٰ",
+          "meaning": "richness, independence; the verbal noun from غني"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "as-for - who – thought-himself independent"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

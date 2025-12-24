@@ -1,0 +1,63 @@
+{
+  "verseId": "90:16",
+  "verse": {
+    "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+    "transliteration": "Aw miskeenan tha matrabatin",
+    "surah": "Al-Balad",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "أ-و-ي",
+        "meaning": "to wish, to desire; or (as a conjunction)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِسْكِينًا",
+      "transliteration": "miskīnan",
+      "meaning": "needy person, poor",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to be weak, poor; to fall into destitution"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَا",
+      "transliteration": "dhā",
+      "meaning": "possessor of, having",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَتْرَبَةٍ",
+      "transliteration": "matrabatin",
+      "meaning": "dust, misery, hardship",
+      "root": {
+        "letters": "ر-ب-ت",
+        "meaning": "to be soft, weak, or humiliated; to increase (in dust); to become fine/powdered"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or - needy-person - having - dust/misery"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

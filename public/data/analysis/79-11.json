@@ -1,0 +1,82 @@
+{
+  "verseId": "79:11",
+  "verse": {
+    "arabic": "أَإِذَا كُنَّا عِظَامًا نَّخِرَةً",
+    "transliteration": "Aitha kunna AAithaman nakhiratan",
+    "surah": "An-Nazi'at",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَإِذَا",
+      "transliteration": "ʾaʾiḏā",
+      "meaning": "Conditional particle; is it when/if?",
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Conditional particle; used to initiate a conditional sentence, often translated as 'if' or 'when'."
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "Conditional particle; 'when/if', introducing a time or condition."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُنَّا",
+      "transliteration": "kunnā",
+      "meaning": "We were/used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كُنْ",
+          "meaning": "be! (imperative)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عِظَامًا",
+      "transliteration": "ʿiẓāman",
+      "meaning": "Bones (plural, accusative)",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be strong, to have power; bone"
+      },
+      "components": [
+        {
+          "arabic": "عِظَامًا",
+          "meaning": "Bones (plural, accusative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَّخِرَةً",
+      "transliteration": "nakhratan",
+      "meaning": "Decayed/rotten (bones), fragmented",
+      "root": {
+        "letters": "ن-خ-ر",
+        "meaning": "to decay, to erode, to hollow out; to gnaw at"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Is-it-when/if - we-were - bones - decayed/fragmented"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

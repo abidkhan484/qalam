@@ -1,0 +1,61 @@
+{
+  "verseId": "96:12",
+  "verse": {
+    "arabic": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+    "transliteration": "Aw amara bialttaqwa",
+    "surah": "Al-Alaq",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, and alternation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَرَ",
+      "transliteration": "amara",
+      "meaning": "he commanded / he ordered",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair, matter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالتَّقْوَىٰ",
+      "transliteration": "bi-t-taqwā",
+      "meaning": "with / by the righteousness",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, preserve"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with / by means of"
+        },
+        {
+          "arabic": "التَّقْوَىٰ",
+          "meaning": "the righteousness, piety, god-consciousness"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or- he commanded- with/by- the righteousness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "verseId": "85:14",
+  "verse": {
+    "arabic": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+    "transliteration": "Wahuwa alghafooru alwadoodu",
+    "surah": "Al-Buruj",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa huwa",
+      "meaning": "and He is",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "He is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْغَفُورُ",
+      "transliteration": "al-ghafūru",
+      "meaning": "the Forgiving",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to conceal"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "غَفُور",
+          "meaning": "Forgiving (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْوَدُودُ",
+      "transliteration": "al-wadūdu",
+      "meaning": "the Affectionate",
+      "root": {
+        "letters": "و-د-د",
+        "meaning": "to love, to be friendly, affection"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وَدُود",
+          "meaning": "affectionate, loving (one who possesses affection)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-He is -the-Forgiving -the-Affectionate"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

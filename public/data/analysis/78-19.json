@@ -1,0 +1,104 @@
+{
+  "verseId": "78:19",
+  "verse": {
+    "arabic": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا",
+    "transliteration": "Wafutihati alssamao fakanat abwaban",
+    "surah": "An-Naba",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فُتِحَتِ",
+      "transliteration": "futiḥati",
+      "meaning": "was opened",
+      "root": {
+        "letters": "ف-ت-ح",
+        "meaning": "to open, to conquer"
+      },
+      "components": [
+        {
+          "arabic": "فَتِحَ",
+          "meaning": "was opened (passive)"
+        },
+        {
+          "arabic": "-تِ",
+          "meaning": "feminine past tense marker, indicating it is related to a feminine singular subject."
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the heaven/sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "so/then",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, come back, result"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَانَتْ",
+      "transliteration": "kānat",
+      "meaning": "was/became",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "past tense marker (feminine singular)"
+        },
+        {
+          "arabic": "انْت",
+          "meaning": "second person singular suffix (feminine)"
+        },
+        {
+          "arabic": "ت",
+          "meaning": "the ta' marbuta, indicating feminine gender"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَبْوَابًا",
+      "transliteration": "abwāban",
+      "meaning": "gateways/doors",
+      "root": {
+        "letters": "ب-و-ب",
+        "meaning": "to open, to have a doorway/gate; entrance"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-was-opened the-heaven so-became gateways"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

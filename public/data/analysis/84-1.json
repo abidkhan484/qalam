@@ -1,0 +1,65 @@
+{
+  "verseId": "84:1",
+  "verse": {
+    "arabic": "إِذَا السَّمَاءُ انشَقَّتْ",
+    "transliteration": "Itha alssamao inshaqqat",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, at the time of",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to take, to seize, to grasp; also relates to time and occurrence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "انشَقَّتْ",
+      "transliteration": "inshaqqaat",
+      "meaning": "split open, cleaved apart",
+      "root": {
+        "letters": "ش-ق-ق",
+        "meaning": "to split, to cleave, to tear apart"
+      },
+      "components": [
+        {
+          "arabic": "انْ",
+          "meaning": "intensive prefix indicating a strong or complete action of splitting"
+        },
+        {
+          "arabic": "شَقَّ",
+          "meaning": "split, cleaved (past tense)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when - the sky - split-open"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

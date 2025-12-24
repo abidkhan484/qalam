@@ -1,0 +1,89 @@
+{
+  "verseId": "78:12",
+  "verse": {
+    "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+    "transliteration": "Wabanayna fawqakum sabAAan shidadan",
+    "surah": "An-Naba",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَنَيْنَا",
+      "transliteration": "banaynā",
+      "meaning": "we constructed",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct"
+      },
+      "components": [
+        {
+          "arabic": "بَ",
+          "meaning": "prefix indicating first person plural ('we')"
+        },
+        {
+          "arabic": "نَيْنَا",
+          "meaning": "suffix indicating perfect tense, first person plural ('constructed')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَوْقَكُمْ",
+      "transliteration": "fawqa-kum",
+      "meaning": "above you",
+      "root": {
+        "letters": "ف-و-ق",
+        "meaning": "to be above, to surpass, to excel"
+      },
+      "components": [
+        {
+          "arabic": "فَوْقَ",
+          "meaning": "above"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَبْعًا",
+      "transliteration": "sabʿan",
+      "meaning": "seven",
+      "root": {
+        "letters": "س-ب-ع",
+        "meaning": "abundance, fullness; to go beyond a limit (often referring to quantity)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شِدَادًا",
+      "transliteration": "shidādan",
+      "meaning": "strong, firm",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "firmness, intensity, strength"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-we constructed above-you seven strong"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

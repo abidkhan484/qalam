@@ -1,0 +1,59 @@
+{
+  "verseId": "85:3",
+  "verse": {
+    "arabic": "وَشَاهِدٍ وَمَشْهُودٍ",
+    "transliteration": "Washahidin wamashhoodin",
+    "surah": "Al-Buruj",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَشَاهِدٍ",
+      "transliteration": "wa-šāhidin",
+      "meaning": "and a witness",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, presence"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "شَاهِدٍ",
+          "meaning": "a witness (indefinite, genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَمَشْهُودٍ",
+      "transliteration": "wa-mašhūdin",
+      "meaning": "and what is witnessed",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to be present, to testify"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَشْهُودٍ",
+          "meaning": "witnessed, that which is witnessed"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-witness and-what-is-witnessed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

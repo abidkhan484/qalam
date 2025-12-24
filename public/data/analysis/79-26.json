@@ -1,0 +1,134 @@
+{
+  "verseId": "79:26",
+  "verse": {
+    "arabic": "إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ",
+    "transliteration": "Inna fee thalika laAAibratan liman yakhsha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "to be firm, stable, truthful; confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "conditional particle indicating emphasis; 'if'"
+        },
+        {
+          "arabic": "نَّ",
+          "meaning": "nūn al-tawkīd; emphatic suffix"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "That, this (masculine)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, having"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَعِبْرَةً",
+      "transliteration": "laʿibratan",
+      "meaning": "A warning, a lesson",
+      "root": {
+        "letters": "ع-ب-ر",
+        "meaning": "to cross over, to pass through; to learn by experience"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for; to indicate purpose or benefit"
+        },
+        {
+          "arabic": "عِبْرَةً",
+          "meaning": "lesson, warning, sign; the state of being warned/learning a lesson"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّمَن",
+      "transliteration": "liman",
+      "meaning": "For whoever, to whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to belong, to be from, origin, type"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "whoever, whom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَخْشَىٰ",
+      "transliteration": "yakhshā",
+      "meaning": "He fears, would fear",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to feel fear, to be afraid, to dread"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person singular (or imperfective)"
+        },
+        {
+          "arabic": "خْشَىٰ",
+          "meaning": "to fear, to be afraid (root verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-in-that-is-a-warning-[for]-whoever-would-fear"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "verseId": "87:5",
+  "verse": {
+    "arabic": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+    "transliteration": "FajaAAalahu ghuthaan ahwa",
+    "surah": "Al-A'la",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَجَعَلَهُ",
+      "transliteration": "fa-jaʿalahu",
+      "meaning": "So He made it",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to render"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "He made, He created"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "it (pronoun suffix, masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "غُثَاءً",
+      "transliteration": "ḡuthāʾan",
+      "meaning": "Dry chaff, stubble",
+      "root": {
+        "letters": "غ-ث-أ",
+        "meaning": "to cover, to overwhelm; to be lush (then weakened to denote what remains after harvest)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَحْوَىٰ",
+      "transliteration": "aḥwā",
+      "meaning": "Dark, blackish",
+      "root": {
+        "letters": "ح-و-ي",
+        "meaning": "To incline, to turn; darkness, obscurity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-made-[it] ghuthāʾan aḥwā"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "verseId": "86:16",
+  "verse": {
+    "arabic": "وَأَكِيدُ كَيْدًا",
+    "transliteration": "Waakeedu kaydan",
+    "surah": "At-Tariq",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, invoke; love, affection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَكِيدُ",
+      "transliteration": "ʾakīdu",
+      "meaning": "I plan, I devise",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "to scheme, to plan deceitfully"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun prefix)"
+        },
+        {
+          "arabic": "كِيدُ",
+          "meaning": "planning, scheming (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْدًا",
+      "transliteration": "kaydan",
+      "meaning": "a plan, a scheme, trickery",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "to scheme, to plan deceitfully; cunning"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-I-plan a-plan"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

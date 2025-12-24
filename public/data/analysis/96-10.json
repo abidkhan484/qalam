@@ -1,0 +1,61 @@
+{
+  "verseId": "96:10",
+  "verse": {
+    "arabic": "عَبْدًا إِذَا صَلَّىٰ",
+    "transliteration": "AAabdan itha salla",
+    "surah": "Al-Alaq",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَبْدًا",
+      "transliteration": "ʿabdan",
+      "meaning": "slave, servant",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve, to enslave oneself"
+      },
+      "components": [
+        {
+          "arabic": "عَبْد",
+          "meaning": "slave, servant"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn fathah - indefinite accusative singular masculine noun marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to avoid, to shun"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "صَلَّىٰ",
+      "transliteration": "ṣallā",
+      "meaning": "prayed, performed prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to be devout"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "slave - when - he-prayed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

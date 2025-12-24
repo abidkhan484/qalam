@@ -1,0 +1,70 @@
+{
+  "verseId": "89:29",
+  "verse": {
+    "arabic": "فَادْخُلِي فِي عِبَادِي",
+    "transliteration": "Faodkhulee fee AAibadee",
+    "surah": "Al-Fajr",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَادْخُلِي",
+      "transliteration": "fa-udkhulī",
+      "meaning": "So enter (feminine singular imperative)",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating sequence/consequence)"
+        },
+        {
+          "arabic": "اِدْخُلِي",
+          "meaning": "enter! (feminine singular imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, among",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عِبَادِي",
+      "transliteration": "ʿibādī",
+      "meaning": "My servants",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "عِبَادِ",
+          "meaning": "servants (plural)"
+        },
+        {
+          "arabic": "ي",
+          "meaning": "My (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-enter-you in among My servants"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

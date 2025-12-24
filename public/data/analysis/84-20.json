@@ -1,0 +1,91 @@
+{
+  "verseId": "84:20",
+  "verse": {
+    "arabic": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+    "transliteration": "Fama lahum la yuminoona",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَا",
+      "transliteration": "fa-mā",
+      "meaning": "So what/Then what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so/then (particle of consequence)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which (interrogative or relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them/To them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not/No",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُؤْمِنُونَ",
+      "transliteration": "yu’minūn",
+      "meaning": "They believe/Do they believe?",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trust, belief"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first-person plural subject (they)"
+        },
+        {
+          "arabic": "ؤْمِن",
+          "meaning": "to believe, to have faith"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating plural masculine subject (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-what [for] them not they-believe?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

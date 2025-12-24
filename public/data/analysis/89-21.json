@@ -1,0 +1,85 @@
+{
+  "verseId": "89:21",
+  "verse": {
+    "arabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+    "transliteration": "Kalla itha dukkati alardu dakkan dakkan",
+    "surah": "Al-Fajr",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No, indeed; by no means",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to reject, to deny, to be insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "When; whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go, to depart; to perceive, to know; to be aware or conscious"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "دُكَّتِ",
+      "transliteration": "dukkatī",
+      "meaning": "Was leveled; was crushed",
+      "root": {
+        "letters": "د-ك-ك",
+        "meaning": "to crush, to pulverize, to level"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "The earth; the ground",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "دَكًّا",
+      "transliteration": "dakkan",
+      "meaning": "Leveling; crushing (as an adverb of manner)",
+      "root": {
+        "letters": "د-ك-ك",
+        "meaning": "To crush, to pulverize; to level, to subdue."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "دَكًّا",
+      "transliteration": "dakkan",
+      "meaning": "Leveling; crushing (as an adverb of manner)",
+      "root": {
+        "letters": "د-ك-ك",
+        "meaning": "To crush, to pulverize, to level completely"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No-indeed [when] was-leveled the-earth leveling leveling"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

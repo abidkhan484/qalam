@@ -1,0 +1,59 @@
+{
+  "verseId": "79:21",
+  "verse": {
+    "arabic": "فَكَذَّبَ وَعَصَىٰ",
+    "transliteration": "Fakaththaba waAAasa",
+    "surah": "An-Nazi'at",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَكَذَّبَ",
+      "transliteration": "fa-kaḏḏaba",
+      "meaning": "then he denied, so he falsified",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to falsely attribute, to reject truth"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so (particle indicating sequence)"
+        },
+        {
+          "arabic": "كَذَّبَ",
+          "meaning": "he denied, he falsified"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَعَصَىٰ",
+      "transliteration": "wa-ʿaṣā",
+      "meaning": "and he disobeyed, and he rebelled",
+      "root": {
+        "letters": "ع-ص-ي",
+        "meaning": "to disobey, to resist, to be obstinate"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "عَصَىٰ",
+          "meaning": "he disobeyed, he rebelled"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-he-denied and-he-disobeyed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "verseId": "94:6",
+  "verse": {
+    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "transliteration": "Inna maAAa alAAusri yusran",
+    "surah": "Ash-Sharh",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed; verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence; confirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed; verily (emphasizing particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "With; along with",
+      "root": {
+        "letters": "ع-م-و",
+        "meaning": "To follow, to go with; support, help"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعُسْرِ",
+      "transliteration": "al-ʿusri",
+      "meaning": "The hardship; the difficulty",
+      "root": {
+        "letters": "ع-س-ر",
+        "meaning": "to be difficult; to constrain; to oppose"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُسْرًا",
+      "transliteration": "yusran",
+      "meaning": "Ease; facility",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, facility, comfort"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-with the-hardship [there is] ease."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

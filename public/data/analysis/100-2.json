@@ -1,0 +1,54 @@
+{
+  "verseId": "100:2",
+  "verse": {
+    "arabic": "فَالْمُورِيَاتِ قَدْحًا",
+    "transliteration": "Faalmooriyati qadhan",
+    "surah": "Al-Adiyat",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَالْمُورِيَاتِ",
+      "transliteration": "fal-mūriyātī",
+      "meaning": "And the producers (feminine plural)",
+      "root": {
+        "letters": "م-و-ر",
+        "meaning": "to produce, to create, to originate"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُورِيَاتِ",
+          "meaning": "producers (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قَدْحًا",
+      "transliteration": "qadḥan",
+      "meaning": "Striking, sparks",
+      "root": {
+        "letters": "ق-د-ح",
+        "meaning": "To strike, to forge; to ignite or set aflame."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "And-the-producers[feminine plural] striking/sparks"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

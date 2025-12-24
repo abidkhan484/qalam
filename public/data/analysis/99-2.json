@@ -1,0 +1,81 @@
+{
+  "verseId": "99:2",
+  "verse": {
+    "arabic": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+    "transliteration": "Waakhrajati alardu athqalaha",
+    "surah": "Az-Zalzalah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَخْرَجَتِ",
+      "transliteration": "ʾakhrajati",
+      "meaning": "she/it brought out, discharged",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to depart"
+      },
+      "components": [
+        {
+          "arabic": "أَخْرَجَ",
+          "meaning": "to bring out, to expel"
+        },
+        {
+          "arabic": "تِ",
+          "meaning": "feminine singular pronoun suffix (she/it)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, flat; the earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَثْقَالَهَا",
+      "transliteration": "ʾathqālahā",
+      "meaning": "its burdens, its heavy things",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "heaviness, weight; difficulty"
+      },
+      "components": [
+        {
+          "arabic": "أثْقَال",
+          "meaning": "weights, burdens (plural of ثِقْل)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (pronoun suffix, referring to the previously mentioned subject)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - brought out - the earth - its burdens"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

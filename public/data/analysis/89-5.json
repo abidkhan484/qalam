@@ -1,0 +1,109 @@
+{
+  "verseId": "89:5",
+  "verse": {
+    "arabic": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ",
+    "transliteration": "Hal fee thalika qasamun lithee hijrin",
+    "surah": "Al-Fajr",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "interrogative particle indicating a question",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (demonstrative pronoun)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَٰلِ",
+          "meaning": "that (remote demonstrative)"
+        },
+        {
+          "arabic": "ك",
+          "meaning": "suffix indicating remoteness or emphasis"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَسَمٌ",
+      "transliteration": "qasamun",
+      "meaning": "an oath, a vow",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, to apportion, to swear"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّذِي",
+      "transliteration": "li-dhī",
+      "meaning": "for one who, belonging to the possessor of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "ذِي",
+          "meaning": "the possessor of, one who has"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حِجْرٍ",
+      "transliteration": "ḥijrin",
+      "meaning": "perception, understanding; also restraint, barrier (context dependent)",
+      "root": {
+        "letters": "ح-ج-ر",
+        "meaning": "to prevent, restrain; to enclose, confine; hardness, solidity"
+      },
+      "components": [
+        {
+          "arabic": "حَجَر",
+          "meaning": "stone, rock; to restrain, prevent"
+        },
+        {
+          "arabic": "ٍ",
+          "meaning": "tanwīn al-naṣb (indicating indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Is-there in that an-oath for-one who perception?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

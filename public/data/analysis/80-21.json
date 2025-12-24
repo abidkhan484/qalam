@@ -1,0 +1,82 @@
+{
+  "verseId": "80:21",
+  "verse": {
+    "arabic": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+    "transliteration": "Thumma amatahu faaqbarahu",
+    "surah": "Abasa",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to establish; also implies time or sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَاتَهُ",
+      "transliteration": "ʾamātahu",
+      "meaning": "He killed him, He caused his death",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "death, to die"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "He (pronoun suffix)"
+        },
+        {
+          "arabic": "مَاتَ",
+          "meaning": "to die, to be killed"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَأَقْبَرَهُ",
+      "transliteration": "faʾaqbarahu",
+      "meaning": "then He buried him, then He provided a grave for him",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be great, to grow, to increase; also related to burying (specifically creating a large mound/grave)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَـ",
+          "meaning": "to do/perform (verbal prefix)"
+        },
+        {
+          "arabic": "قَبَرَ",
+          "meaning": "he buried"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (masculine pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then- He-killed-him and- then-He-buried-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

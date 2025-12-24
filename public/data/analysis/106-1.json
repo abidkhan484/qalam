@@ -1,0 +1,50 @@
+{
+  "verseId": "106:1",
+  "verse": {
+    "arabic": "لِإِيلَافِ قُرَيْشٍ",
+    "transliteration": "Lieelafi qurayshin",
+    "surah": "Quraysh",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِإِيلَافِ",
+      "transliteration": "li-ʾīlāfi",
+      "meaning": "for the bond of affection/security/familiarity",
+      "root": {
+        "letters": "أ-ل-ف",
+        "meaning": "to join, to connect; to be familiar with or accustomed to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to; preposition indicating purpose or benefit"
+        },
+        {
+          "arabic": "إِيلَافِ",
+          "meaning": "bond of affection, security, familiarity (masculine singular genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُرَيْشٍ",
+      "transliteration": "qurayshiŋ",
+      "meaning": "the Quraysh (tribe)",
+      "root": {
+        "letters": "قرش-ي",
+        "meaning": "to gather, to associate, to congregate; also related to earning or seeking livelihood"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the-bond-of-affection [of] Quraysh"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

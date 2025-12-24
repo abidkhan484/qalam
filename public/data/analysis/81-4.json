@@ -1,0 +1,74 @@
+{
+  "verseId": "81:4",
+  "verse": {
+    "arabic": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+    "transliteration": "Waitha alAAisharu AAuttilat",
+    "surah": "At-Takwir",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to come, to arrive; time"
+      },
+      "components": [
+        {
+          "arabic": "إِذ",
+          "meaning": "time; when"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "conditional particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعِشَارُ",
+      "transliteration": "al-ʿishāru",
+      "meaning": "the full-term (she-camels)",
+      "root": {
+        "letters": "ع-ش-ر",
+        "meaning": "to associate, to be ten; fullness, completion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عُطِّلَتْ",
+      "transliteration": "ʿuṭṭilat",
+      "meaning": "were neglected, were left untended",
+      "root": {
+        "letters": "ع-ط-ل",
+        "meaning": "to abandon, to neglect, to leave idle or in disrepair"
+      },
+      "components": [
+        {
+          "arabic": "عَطَّلَتْ",
+          "meaning": "passive form, indicating 'was neglected' or 'was left untended'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-full-term [she-camels] were-neglected"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

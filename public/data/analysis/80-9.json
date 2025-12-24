@@ -1,0 +1,63 @@
+{
+  "verseId": "80:9",
+  "verse": {
+    "arabic": "وَهُوَ يَخْشَىٰ",
+    "transliteration": "Wahuwa yakhsha",
+    "surah": "Abasa",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَهُوَ",
+      "transliteration": "wa-huwa",
+      "meaning": "and he",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to incline, to tend towards; also 'he'"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُوَ",
+          "meaning": "he is"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَخْشَىٰ",
+      "transliteration": "yakhshā",
+      "meaning": "he fears",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to be humble, to fear, to be wary"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person singular present tense (he)"
+        },
+        {
+          "arabic": "خْشَى",
+          "meaning": "to fear, to be afraid of"
+        },
+        {
+          "arabic": "ٰ",
+          "meaning": "tanween al-fath (indicating nominative case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he he-fears"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

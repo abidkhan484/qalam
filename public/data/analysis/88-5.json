@@ -1,0 +1,77 @@
+{
+  "verseId": "88:5",
+  "verse": {
+    "arabic": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+    "transliteration": "Tusqa min AAaynin aniyatin",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تُسْقَىٰ",
+      "transliteration": "tusqā",
+      "meaning": "they will be given drink (passive voice)",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to water, to give drink"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "passive voice marker and prefix for the third person feminine singular"
+        },
+        {
+          "arabic": "سْقَىٰ",
+          "meaning": "to give drink, to water (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَيْنٍ",
+      "transliteration": "ʿaynin",
+      "meaning": "a spring, an eye (of water)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "to be an eye, source, or spring; to perceive or observe"
+      },
+      "components": [
+        {
+          "arabic": "عَيْنٍ",
+          "meaning": "a spring, an eye (of water)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "آَنِيَةٍ",
+      "transliteration": "āniyatin",
+      "meaning": "boiling hot, extremely hot",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be hot, to burn; heat itself"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-will-be-given-drink - from - a-spring - boiling-hot"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

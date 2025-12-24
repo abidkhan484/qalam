@@ -1,0 +1,85 @@
+{
+  "verseId": "80:24",
+  "verse": {
+    "arabic": "فَلْيَنظُرِ الْإِنسَانُ إِلَىٰ طَعَامِهِ",
+    "transliteration": "Falyanthuri alinsanu ila taAAamihi",
+    "surah": "Abasa",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلْيَنظُرِ",
+      "transliteration": "fal-yanẓur",
+      "meaning": "Then let him look/consider",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, let"
+        },
+        {
+          "arabic": "يَنْظُرْ",
+          "meaning": "he looks, he considers (subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "The human being/mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be in companionship; weakness or vulnerability (derived from seeking company due to need)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "To/towards",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To return, to go towards, affiliation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "طَعَامِهِ",
+      "transliteration": "ṭaʿāmihi",
+      "meaning": "His food",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to eat, food, nourishment"
+      },
+      "components": [
+        {
+          "arabic": "طَعَامِ",
+          "meaning": "food"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-let [he] look - the human being - to - his food"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

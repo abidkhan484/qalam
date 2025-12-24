@@ -1,0 +1,83 @@
+{
+  "verseId": "91:15",
+  "verse": {
+    "arabic": "وَلَا يَخَافُ عُقْبَاهَا",
+    "transliteration": "Wala yakhafu AAuqbaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَخَافُ",
+      "transliteration": "yakhāfu",
+      "meaning": "he fears",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, imperfect form (and first-person singular)"
+        },
+        {
+          "arabic": "خَافَ",
+          "meaning": "to fear, to be afraid (root verb)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "tanween al-fatḥ (indicating nominative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عُقْبَاهَا",
+      "transliteration": "ʿuqbāhā",
+      "meaning": "its consequence, its aftermath",
+      "root": {
+        "letters": "ع-ق-ب",
+        "meaning": "to follow, to succeed; consequence"
+      },
+      "components": [
+        {
+          "arabic": "عُقْبَ",
+          "meaning": "consequence, aftermath"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not he-fears its-consequence-[thereof]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

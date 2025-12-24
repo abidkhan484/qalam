@@ -1,0 +1,71 @@
+{
+  "verseId": "92:10",
+  "verse": {
+    "arabic": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+    "transliteration": "Fasanuyassiruhu lilAAusra",
+    "surah": "Al-Layl",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَنُيَسِّرُهُ",
+      "transliteration": "fa-sanuyassiruhu",
+      "meaning": "then We will surely make easy for him",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, to facilitate, to smooth"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so (particle indicating sequence)"
+        },
+        {
+          "arabic": "سَ",
+          "meaning": "prefix indicating future tense"
+        },
+        {
+          "arabic": "نُ",
+          "meaning": "pronoun suffix indicating 'We'"
+        },
+        {
+          "arabic": "يَسِّرُ",
+          "meaning": "to make easy, to facilitate (verb)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "pronoun suffix indicating 'him'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلْعُسْرَىٰ",
+      "transliteration": "lil-ʿusrā",
+      "meaning": "for the difficulty",
+      "root": {
+        "letters": "ع-س-ر",
+        "meaning": "to be difficult; hardship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for; to"
+        },
+        {
+          "arabic": "الْعُسْرَىٰ",
+          "meaning": "the difficulty; the hardship"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[then]-sanuyassiruhu-We will surely make easy for him  lil-ʿusrā-for the difficulty"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

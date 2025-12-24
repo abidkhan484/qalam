@@ -1,0 +1,90 @@
+{
+  "verseId": "87:12",
+  "verse": {
+    "arabic": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+    "transliteration": "Allathee yasla alnnara alkubra",
+    "surah": "Al-A'la",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the who/which (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; to be near or attached"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who/which (relative pronoun base)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَصْلَى",
+      "transliteration": "yaṣlā",
+      "meaning": "[he] bakes/roasts/burns (verb, imperfect)",
+      "root": {
+        "letters": "ص-ل-ي",
+        "meaning": "to be hot, to burn, to roast; to pray (related meaning due to heat/intensity of devotion)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Imperfect tense marker (prefix indicating present/future)"
+        },
+        {
+          "arabic": "صَلَى",
+          "meaning": "to bake/roast/burn (basic verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّارَ",
+      "transliteration": "an-nāra",
+      "meaning": "the fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْكُبْرَىٰ",
+      "transliteration": "al-kubrā",
+      "meaning": "the greatest/largest",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, great; to grow, increase"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كُبْرَىٰ",
+          "meaning": "greatest, largest (feminine form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-who [he]-burns the-fire the-greatest"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

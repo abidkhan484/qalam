@@ -1,0 +1,69 @@
+{
+  "verseId": "81:5",
+  "verse": {
+    "arabic": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+    "transliteration": "Waitha alwuhooshu hushirat",
+    "surah": "At-Takwir",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to come, to arrive; time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْوُحُوشُ",
+      "transliteration": "al-wuḥūshu",
+      "meaning": "the wild beasts",
+      "root": {
+        "letters": "و-ح-ش",
+        "meaning": "to feel fear, to be afraid; wildness, savagery"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "حُشِرَتْ",
+      "transliteration": "ḥushirat",
+      "meaning": "were gathered",
+      "root": {
+        "letters": "ح-ش-ر",
+        "meaning": "to gather, collect, assemble"
+      },
+      "components": [
+        {
+          "arabic": "حَشَرَ",
+          "meaning": "to gather, collect"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine passive suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-wild-beasts were-gathered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

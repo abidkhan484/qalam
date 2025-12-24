@@ -1,0 +1,70 @@
+{
+  "verseId": "80:2",
+  "verse": {
+    "arabic": "أَن جَاءَهُ الْأَعْمَىٰ",
+    "transliteration": "An jaahu alaAAma",
+    "surah": "Abasa",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, because",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَاءَهُ",
+      "transliteration": "jāʾahu",
+      "meaning": "came to him",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "جَاءَ",
+          "meaning": "he came, he arrived"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "to him, his (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَعْمَىٰ",
+      "transliteration": "al-ʾaʿmā",
+      "meaning": "the blind man",
+      "root": {
+        "letters": "ع-م-ي",
+        "meaning": "to be blind, to not see"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَعْمَىٰ",
+          "meaning": "blind man (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "that-came-to-him the-blind-man"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

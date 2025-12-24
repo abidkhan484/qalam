@@ -1,0 +1,81 @@
+{
+  "verseId": "101:6",
+  "verse": {
+    "arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
+    "transliteration": "Faamma man thaqulat mawazeenuhu",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "fa-ʾammā",
+      "meaning": "then as for, so then concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to turn towards"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure, or a point of questioning/investigation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ثَقُلَتْ",
+      "transliteration": "thaqulat",
+      "meaning": "were heavy, became heavy",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "weight, heaviness; to be weighty or difficult"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَوَازِينُهُ",
+      "transliteration": "mawāzīnuhu",
+      "meaning": "his scales",
+      "root": {
+        "letters": "و-ز-ن",
+        "meaning": "weight, balance, justice"
+      },
+      "components": [
+        {
+          "arabic": "مَوَازِينُ",
+          "meaning": "scales (plural)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-ʾammā - then as for | man - who | thaqulat - became heavy | mawāzīnuhu - his scales"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

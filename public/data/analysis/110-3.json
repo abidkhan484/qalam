@@ -1,0 +1,154 @@
+{
+  "verseId": "110:3",
+  "verse": {
+    "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+    "transliteration": "Fasabbih bihamdi rabbika waistaghfirhu innahu kana tawwaban",
+    "surah": "An-Nasr",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَبِّحْ",
+      "transliteration": "fa-sabbiḥ",
+      "meaning": "So exalt/glorify",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to flow; figuratively, to praise extensively or glorify"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "So, then (particle of exhortation)"
+        },
+        {
+          "arabic": "سَبِّحْ",
+          "meaning": "Exalt, glorify (imperative verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِحَمْدِ",
+      "transliteration": "bi-ḥamdi",
+      "meaning": "with praise (of)",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, commendation, glory"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "حَمْدِ",
+          "meaning": "praise (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَاسْتَغْفِرْهُ",
+      "transliteration": "wa-staġfirhu",
+      "meaning": "and seek forgiveness from Him",
+      "root": {
+        "letters": "غ-ف-ر",
+        "meaning": "to forgive, to cover, to pardon"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اِسْتَ",
+          "meaning": "intensive prefix, to seek thoroughly"
+        },
+        {
+          "arabic": "غْفِرْ",
+          "meaning": "forgiveness (verbal noun root)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "Him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنَّهُ",
+      "transliteration": "inna-hu",
+      "meaning": "Indeed, He",
+      "root": {
+        "letters": "هـ-ن-أ",
+        "meaning": "to be, existence, presence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, Verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "was/is",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تَوَّابًا",
+      "transliteration": "tawwāban",
+      "meaning": "Accepting of repentance/Forgiving",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to return, to repent; conversion"
+      },
+      "components": [
+        {
+          "arabic": "تَوَّاب",
+          "meaning": "one who repeatedly turns in repentance; often used as an attribute of God (the Most Accepting of Repentance)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-exalt with-praise of-your Lord and-seek forgiveness from-Him Indeed-He was Accepting-of-repentance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

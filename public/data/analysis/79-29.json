@@ -1,0 +1,85 @@
+{
+  "verseId": "79:29",
+  "verse": {
+    "arabic": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا",
+    "transliteration": "Waaghtasha laylaha waakhraja duhaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأَغْطَشَ",
+      "transliteration": "waʾaghṭasha",
+      "meaning": "and He covered/darkened",
+      "root": {
+        "letters": "غ-ش-و",
+        "meaning": "to cover, to overshadow, to veil; darkness"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَغْطَشَ",
+          "meaning": "He covered/darkened (form I verb, imperfect)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَيْلَهَا",
+      "transliteration": "laylahā",
+      "meaning": "its night"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَأَخْرَجَ",
+      "transliteration": "waʾakhraja",
+      "meaning": "and He brought out/extracted",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to come out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَخْرَجَ",
+          "meaning": "He brought out/extracted"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ضُحَاهَا",
+      "transliteration": "ḍuḥāhā",
+      "meaning": "its brightness/clarity",
+      "root": {
+        "letters": "ض-ح-و",
+        "meaning": "to shine, be bright; clarity, light"
+      },
+      "components": [
+        {
+          "arabic": "ضُحَ",
+          "meaning": "brightness, clarity"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "the (feminine pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-He covered its-night and-He brought-out its-brightness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "verseId": "91:11",
+  "verse": {
+    "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+    "transliteration": "Kaththabat thamoodu bitaghwaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَذَّبَتْ",
+      "transliteration": "kaḏdhabat",
+      "meaning": "denied, falsified",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, untruthfulness"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "denial prefix"
+        },
+        {
+          "arabic": "ذَّبَتْ",
+          "meaning": "feminine singular past tense verb form of ذَبَّ (to deny)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ثَمُودُ",
+      "transliteration": "thamūdu",
+      "meaning": "Thamud (a people)",
+      "root": {
+        "letters": "ث-م-د",
+        "meaning": "firmness, endurance, establishment; to be persistent"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِطَغْوَاهَا",
+      "transliteration": "biṭaġwāhā",
+      "meaning": "by its/their transgression, arrogance",
+      "root": {
+        "letters": "ط-غ-و",
+        "meaning": "to exceed limits, to be arrogant or oppressive"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "طَغْوَاهَا",
+          "meaning": "its/their transgression, arrogance"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "denied-falsified Thamud by-with transgression-its/their"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

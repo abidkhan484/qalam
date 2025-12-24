@@ -1,0 +1,126 @@
+{
+  "verseId": "82:6",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+    "transliteration": "Ya ayyuha alinsanu ma gharraka birabbika alkareemi",
+    "surah": "Al-Infitar",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, attached to noun)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "interrogative/exclamatory particle, often implying calling attention"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "vocative particle, indicates direct address"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly; weakness and dependence (related to the human condition)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what (interrogative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غَرَّكَ",
+      "transliteration": "gharrāka",
+      "meaning": "deceived you, deluded you",
+      "root": {
+        "letters": "غ-ر-ي",
+        "meaning": "to be deceived, to overlook, to be careless about something"
+      },
+      "components": [
+        {
+          "arabic": "غَرَّ",
+          "meaning": "deceived, deluded"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِرَبِّكَ",
+      "transliteration": "bi-rabbika",
+      "meaning": "with/concerning your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to control; Lord"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, concerning"
+        },
+        {
+          "arabic": "رَبِّكَ",
+          "meaning": "your Lord"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْكَرِيمِ",
+      "transliteration": "al-karīmi",
+      "meaning": "the Generous, the Noble",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "to be generous, noble, plentiful; honor, esteem"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَرِيمِ",
+          "meaning": "generous, noble (adjective in the genitive case)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O - O [one] - the human being - what - deceived you - with/concerning your Lord - the Generous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

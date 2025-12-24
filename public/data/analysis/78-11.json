@@ -1,0 +1,70 @@
+{
+  "verseId": "78:11",
+  "verse": {
+    "arabic": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+    "transliteration": "WajaAAalna alnnahara maAAashan",
+    "surah": "An-Naba",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَعَلْنَا",
+      "transliteration": "wa-jaʿalnā",
+      "meaning": "and We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّهَارَ",
+      "transliteration": "an-nahāra",
+      "meaning": "the day",
+      "root": {
+        "letters": "ن-ه-ر",
+        "meaning": "to appear, to shine; daytime"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَعَاشًا",
+      "transliteration": "maʿāshan",
+      "meaning": "livelihood, means of living",
+      "root": {
+        "letters": "ع-ش-ي",
+        "meaning": "to live, to be alive; life itself"
+      },
+      "components": [
+        {
+          "arabic": "مَعَ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "اشًا",
+          "meaning": "livelihood, something to live by (derived from عيش)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We made the-day livelihood"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

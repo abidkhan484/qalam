@@ -1,0 +1,75 @@
+{
+  "verseId": "88:25",
+  "verse": {
+    "arabic": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+    "transliteration": "Inna ilayna iyabahum",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, Verily",
+      "root": {
+        "letters": "ا-ن-ن",
+        "meaning": "to be, existence, affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِن",
+          "meaning": "Indeed, Verily - emphatic particle indicating affirmation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَيْنَا",
+      "transliteration": "ʾilaynā",
+      "meaning": "To Us",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "To return, to approach, to go towards"
+      },
+      "components": [
+        {
+          "arabic": "إِلَى",
+          "meaning": "To, towards"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "Us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِيَابَهُمْ",
+      "transliteration": "ʾiyābahum",
+      "meaning": "Their return",
+      "root": {
+        "letters": "أ-و-ب",
+        "meaning": "to return, to come back"
+      },
+      "components": [
+        {
+          "arabic": "إِيَّا",
+          "meaning": "to Him/towards Him (emphasizing the direction)"
+        },
+        {
+          "arabic": "بَهُمْ",
+          "meaning": "their return/back to them"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-to-Us [is]-their-return"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

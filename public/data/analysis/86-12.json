@@ -1,0 +1,83 @@
+{
+  "verseId": "86:12",
+  "verse": {
+    "arabic": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+    "transliteration": "Waalardi thati alssadAAi",
+    "surah": "At-Tariq",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth as a wide expanse"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَاتِ",
+      "transliteration": "dhāti",
+      "meaning": "possessing, owner of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "to possess, to have; essence, nature"
+      },
+      "components": [
+        {
+          "arabic": "ذَات",
+          "meaning": "possession, owner of; essence, attribute"
+        },
+        {
+          "arabic": "-ِ",
+          "meaning": "genitive case ending (iḍāfa)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصَّدْعِ",
+      "transliteration": "aṣ-ṣadʿi",
+      "meaning": "the cracks, the fissures",
+      "root": {
+        "letters": "ص-د-ع",
+        "meaning": "to break, to split, to cleave; to be discordant"
+      },
+      "components": [
+        {
+          "arabic": "اَلصَّدْعِ",
+          "meaning": "The cracks, the fissures (definite noun with indefinite meaning)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -the-earth possessing -the-cracks"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

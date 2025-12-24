@@ -1,0 +1,78 @@
+{
+  "verseId": "95:3",
+  "verse": {
+    "arabic": "وَهَـٰذَا الْبَلَدِ الْأَمِينِ",
+    "transliteration": "Wahatha albaladi alameeni",
+    "surah": "At-Tin",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذَا",
+        "meaning": "to point, to indicate, to be near"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْبَلَدِ",
+      "transliteration": "al-baladi",
+      "meaning": "the city/land",
+      "root": {
+        "letters": "ب-ل-د",
+        "meaning": "to reach maturity, to attain, the land/city"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَلَدِ",
+          "meaning": "city/land (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَمِينِ",
+      "transliteration": "al-ʾamīni",
+      "meaning": "the secure/trustworthy",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trustworthiness, protection"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "أَمِين",
+          "meaning": "trustworthy, faithful"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-this the-city the-secure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

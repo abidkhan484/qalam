@@ -1,0 +1,77 @@
+{
+  "verseId": "83:8",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+    "transliteration": "Wama adraka ma sijjeenun",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire, or to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "ʾadrakāka",
+      "meaning": "can make you know (you)",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to understand, to comprehend, to attain"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَكَ",
+          "meaning": "can make you know (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to possess, to have, relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سِجِّينٌ",
+      "transliteration": "sijjīn",
+      "meaning": "sijjeen (name of a place/thing)",
+      "root": {
+        "letters": "س-ج-ن",
+        "meaning": "imprisonment, confinement; to hide or cover"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and what - can make you know - what - sijjeen?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

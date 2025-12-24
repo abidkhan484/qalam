@@ -1,0 +1,46 @@
+{
+  "verseId": "86:3",
+  "verse": {
+    "arabic": "النَّجْمُ الثَّاقِبُ",
+    "transliteration": "Alnnajmu alththaqibu",
+    "surah": "At-Tariq",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "النَّجْمُ",
+      "transliteration": "an-najmu",
+      "meaning": "the star",
+      "root": {
+        "letters": "ن-ج-م",
+        "meaning": "to shine, to be bright; a star"
+      },
+      "components": [
+        {
+          "arabic": "النَّجْمُ",
+          "meaning": "the star (definite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الثَّاقِبُ",
+      "transliteration": "ath-thāqibu",
+      "meaning": "the piercing, the splitting, the blazing",
+      "root": {
+        "letters": "ث-ق-ب",
+        "meaning": "to pierce, to penetrate, to split open"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-star - the-piercing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

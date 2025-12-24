@@ -1,0 +1,82 @@
+{
+  "verseId": "109:2",
+  "verse": {
+    "arabic": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+    "transliteration": "La aAAbudu ma taAAbudoona",
+    "surah": "Al-Kafirun",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَعْبُدُ",
+      "transliteration": "ʾaʿbudu",
+      "meaning": "I worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship, slavery"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun prefix)"
+        },
+        {
+          "arabic": "عَبَدْتُ",
+          "meaning": "worship (basic form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; relative pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَعْبُدُونَ",
+      "transliteration": "taʿbudūna",
+      "meaning": "you worship (plural)",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve; slavery"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person plural present tense"
+        },
+        {
+          "arabic": "عَبَدَ",
+          "meaning": "to worship"
+        },
+        {
+          "arabic": "~تُونَ",
+          "meaning": "suffix indicating the second person plural masculine present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-I worship what-you worship"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

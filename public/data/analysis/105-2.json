@@ -1,0 +1,114 @@
+{
+  "verseId": "105:2",
+  "verse": {
+    "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+    "transliteration": "Alam yajAAal kaydahum fee tadleelin",
+    "surah": "Al-Fil",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did not?",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to will, to know"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negative marker, did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَجْعَلْ",
+      "transliteration": "yajʿal",
+      "meaning": "He make(s)",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to create, to make, to place"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first-person singular present tense"
+        },
+        {
+          "arabic": "جَعَلْ",
+          "meaning": "to make, to create"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْدَهُمْ",
+      "transliteration": "kaydahum",
+      "meaning": "Their plan",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "To scheme, plot, intrigue; cunning plan"
+      },
+      "components": [
+        {
+          "arabic": "كيد",
+          "meaning": "Plan, scheme, trick; cunning"
+        },
+        {
+          "arabic": "هم",
+          "meaning": "They, their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to go into; abundance, excess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "تَضْلِيلٍ",
+      "transliteration": "taḍlīlin",
+      "meaning": "Misguidance",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to err, to go astray, to be misguided"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "Prefix denoting nominalization, forming a verbal noun (masdar)"
+        },
+        {
+          "arabic": "ضَلِيل",
+          "meaning": "Misguided (passive participle form)"
+        },
+        {
+          "arabic": "-ٍ",
+          "meaning": "Tanwīn al-tanẓīm (indefinite accusative case ending)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not He make their plan in misguidance?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

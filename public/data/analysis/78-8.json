@@ -1,0 +1,62 @@
+{
+  "verseId": "78:8",
+  "verse": {
+    "arabic": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+    "transliteration": "Wakhalaqnakum azwajan",
+    "surah": "An-Naba",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقْنَاكُمْ",
+      "transliteration": "khalaqnākum",
+      "meaning": "We created you (plural)",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقْ",
+          "meaning": "We created (perfect tense)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَزْوَاجًا",
+      "transliteration": "azwājan",
+      "meaning": "in pairs, couples",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to join, to couple, to marry"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa - khalaqnākum - azwājan"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

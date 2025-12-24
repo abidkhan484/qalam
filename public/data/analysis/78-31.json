@@ -1,0 +1,66 @@
+{
+  "verseId": "78:31",
+  "verse": {
+    "arabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+    "transliteration": "Inna lilmuttaqeena mafazan",
+    "surah": "An-Naba",
+    "verseNumber": 31
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed; Verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence, being"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed; Verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلْمُتَّقِينَ",
+      "transliteration": "lil-muttaqīna",
+      "meaning": "For the righteous; To the pious",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "To shield, protect, be cautious"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "To, for"
+        },
+        {
+          "arabic": "الْمُتَّقِينَ",
+          "meaning": "The righteous, the pious (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَفَازًا",
+      "transliteration": "mafāzan",
+      "meaning": "Attainment; Success; Escape",
+      "root": {
+        "letters": "ف-ز-ي",
+        "meaning": "To overcome, to escape, to succeed; abundance, excellence."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-for the righteous is attainment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

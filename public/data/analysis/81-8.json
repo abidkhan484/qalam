@@ -1,0 +1,81 @@
+{
+  "verseId": "81:8",
+  "verse": {
+    "arabic": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+    "transliteration": "Waitha almawoodatu suilat",
+    "surah": "At-Takwir",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to go, to depart; to cease or finish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَوْءُودَةُ",
+      "transliteration": "al-maw'ūdah",
+      "meaning": "the buried (female infant)",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to leave behind, abandon, forsake"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَوْءُودَةٌ",
+          "meaning": "one who is buried (female infant), abandoned"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سُئِلَتْ",
+      "transliteration": "suʾilat",
+      "meaning": "was asked",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, request"
+      },
+      "components": [
+        {
+          "arabic": "سَأَلَ",
+          "meaning": "to ask, inquire"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine passive marker"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when the-buried-female-infant was-asked"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

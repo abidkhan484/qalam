@@ -1,0 +1,61 @@
+{
+  "verseId": "98:3",
+  "verse": {
+    "arabic": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+    "transliteration": "Feeha kutubun qayyimatun",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, within it",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be contained, to exist within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُتُبٌ",
+      "transliteration": "kutubun",
+      "meaning": "writings, books",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَيِّمَةٌ",
+      "transliteration": "qayyīmatun",
+      "meaning": "valuable, correct, firm",
+      "root": {
+        "letters": "ق-ي-م",
+        "meaning": "to establish, to have value, uprightness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-it writings valuable"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

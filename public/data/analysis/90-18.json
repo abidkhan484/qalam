@@ -1,0 +1,70 @@
+{
+  "verseId": "90:18",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+    "transliteration": "Olaika ashabu almaymanati",
+    "surah": "Al-Balad",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (demonstrative pronoun)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; former, initial"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "Those (demonstrative prefix for plural)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Referring to a plural masculine group; suffix indicating plurality and gender"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "ʾaṣḥābu",
+      "meaning": "Companions, associates",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "To accompany, to follow with, to befriend"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَيْمَنَةِ",
+      "transliteration": "al-maymanati",
+      "meaning": "The right (side), good fortune",
+      "root": {
+        "letters": "ي-م-ن",
+        "meaning": "rightness, good fortune, blessing"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَيْمَنَة",
+          "meaning": "right side, good fortune"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those - companions of - the right"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

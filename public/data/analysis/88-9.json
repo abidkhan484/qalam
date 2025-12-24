@@ -1,0 +1,50 @@
+{
+  "verseId": "88:9",
+  "verse": {
+    "arabic": "لِّسَعْيِهَا رَاضِيَةٌ",
+    "transliteration": "LisaAAyiha radiyatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّسَعْيِهَا",
+      "transliteration": "li-saʿyihā",
+      "meaning": "for its effort/striving/toil (feminine)",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to strive, to endeavor, to make effort"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, in order to"
+        },
+        {
+          "arabic": "سَعْيِهَا",
+          "meaning": "its striving/effort (feminine singular, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَاضِيَةٌ",
+      "transliteration": "rāḍiyahٌ",
+      "meaning": "satisfied (feminine)",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be content, to approve, to accept willingly"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-its effort/striving satisfied"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

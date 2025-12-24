@@ -1,0 +1,71 @@
+{
+  "verseId": "90:10",
+  "verse": {
+    "arabic": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+    "transliteration": "Wahadaynahu alnnajdayni",
+    "surah": "Al-Balad",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَدَيْنَاهُ",
+      "transliteration": "hadaynāhu",
+      "meaning": "We guided him",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "هَدَى",
+          "meaning": "to guide"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّجْدَيْنِ",
+      "transliteration": "an-najdayni",
+      "meaning": "the two ways/paths",
+      "root": {
+        "letters": "ن-ج-د",
+        "meaning": "elevation, high ground, plain"
+      },
+      "components": [
+        {
+          "arabic": "النَّجْدَ",
+          "meaning": "the plain/highland"
+        },
+        {
+          "arabic": "يْنِ",
+          "meaning": "dual ending (tanween with ya)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-We guided-him the-two ways"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

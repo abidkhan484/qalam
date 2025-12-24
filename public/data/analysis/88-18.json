@@ -1,0 +1,81 @@
+{
+  "verseId": "88:18",
+  "verse": {
+    "arabic": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+    "transliteration": "Waila alssamai kayfa rufiAAat",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِلَى",
+      "transliteration": "wa-ʾilā",
+      "meaning": "and to",
+      "root": {
+        "letters": "إ-ل-ي",
+        "meaning": "to return, to go towards, direction"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِلَى",
+          "meaning": "to, towards"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "how?",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "state, condition, manner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رُفِعَتْ",
+      "transliteration": "rufiʿat",
+      "meaning": "was raised",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to lift up, to raise"
+      },
+      "components": [
+        {
+          "arabic": "رَفَعَ",
+          "meaning": "to raise, to elevate"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "feminine passive participle ending"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-to the-sky how? was-raised"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

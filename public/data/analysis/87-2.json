@@ -1,0 +1,70 @@
+{
+  "verseId": "87:2",
+  "verse": {
+    "arabic": "الَّذِي خَلَقَ فَسَوَّىٰ",
+    "transliteration": "Allathee khalaqa fasawwa",
+    "surah": "Al-A'la",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the one who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere to, to follow, to possess a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "the one who, possessor of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to make, to originate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَسَوَّىٰ",
+      "transliteration": "fa-sawwā",
+      "meaning": "and proportioned/balanced",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to make straight, to correct, to be good or proper; to adjust/balance"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "and (particle)"
+        },
+        {
+          "arabic": "سَوَّىٰ",
+          "meaning": "he proportioned/balanced (verb, perfect tense)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-one-who created and-he-proportioned"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

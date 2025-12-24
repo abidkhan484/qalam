@@ -1,0 +1,52 @@
+{
+  "verseId": "78:25",
+  "verse": {
+    "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+    "transliteration": "Illa hameeman waghassaqan",
+    "surah": "An-Naba",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but not",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to reject, or negation/absence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "حَمِيمًا",
+      "transliteration": "ḥamīman",
+      "meaning": "scalding water, hot water",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, warmth, redness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَغَسَّاقًا",
+      "transliteration": "wa-ghaṣṣāqan",
+      "meaning": "and purulence, foul matter",
+      "root": {
+        "letters": "غ-س-ق",
+        "meaning": "to cover, to overwhelm; darkness, obscurity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "except-scalding-water and-purulence"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

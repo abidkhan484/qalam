@@ -1,0 +1,52 @@
+{
+  "verseId": "81:21",
+  "verse": {
+    "arabic": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+    "transliteration": "MutaAAin thamma ameenin",
+    "surah": "At-Takwir",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مُّطَاعٍ",
+      "transliteration": "muṭāʿin",
+      "meaning": "Obeyed, compliant",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "To obey willingly, to submit, to be compliant"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ثَمَّ",
+      "transliteration": "thamma",
+      "meaning": "There, then",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to remain, to stand firm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَمِينٍ",
+      "transliteration": "ʾamīnin",
+      "meaning": "Trustworthy, faithful",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, trustworthiness, faith"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Obeyed-there then-trustworthy"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

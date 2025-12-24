@@ -1,0 +1,61 @@
+{
+  "verseId": "85:4",
+  "verse": {
+    "arabic": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+    "transliteration": "Qutila ashabu alukhdoodi",
+    "surah": "Al-Buruj",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُتِلَ",
+      "transliteration": "qutila",
+      "meaning": "was killed, was destroyed (passive)",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, destruction, perishing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَصْحَابُ",
+      "transliteration": "aṣḥābu",
+      "meaning": "companions, friends",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to befriend, to have relations with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأُخْدُودِ",
+      "transliteration": "al-ukhdūdi",
+      "meaning": "the trench, the ditch",
+      "root": {
+        "letters": "خ-د-د",
+        "meaning": "to dig, to excavate, to make a trench"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أُخْدُود",
+          "meaning": "trench, ditch (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "was-killed - companions-of - the-trench"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

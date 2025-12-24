@@ -1,0 +1,98 @@
+{
+  "verseId": "81:28",
+  "verse": {
+    "arabic": "لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ",
+    "transliteration": "Liman shaa minkum an yastaqeema",
+    "surah": "At-Takwir",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِمَن",
+      "transliteration": "li-man",
+      "meaning": "for who, to whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, origin, lineage; also indicates questioning or specificity"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to; preposition indicating beneficiary or purpose"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever; relative pronoun or interrogative pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "willed, desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to want, to desire, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنكُمْ",
+      "transliteration": "minkum",
+      "meaning": "from you, among you",
+      "root": {
+        "letters": "م-ن-ك",
+        "meaning": "to originate from, to be part of, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, among"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, possessive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that, to (introduce a verbal noun)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَسْتَقِيمَ",
+      "transliteration": "yastaqīma",
+      "meaning": "he may be upright, he seeks to take a right course",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to be upright, to establish"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "prefix indicating seeking or attempting (form X)"
+        },
+        {
+          "arabic": "قِيمَ",
+          "meaning": "uprightness, straightness, right course (from the root ق-و-م)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-who willed from-you that he-may-be-upright"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

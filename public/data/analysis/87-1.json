@@ -1,0 +1,81 @@
+{
+  "verseId": "87:1",
+  "verse": {
+    "arabic": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+    "transliteration": "Sabbihi isma rabbika alaAAla",
+    "surah": "Al-A'la",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَبِّحِ",
+      "transliteration": "sabbiḥ",
+      "meaning": "Glorify, extol",
+      "root": {
+        "letters": "س-ب-ح",
+        "meaning": "to swim, to flow; by extension, to praise and glorify (as something flows easily)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اسْمَ",
+      "transliteration": "isma",
+      "meaning": "Name",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, highness; to rise above; excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Your (masculine singular, possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَعْلَى",
+      "transliteration": "al-aʿlā",
+      "meaning": "The Most High",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, elevated; to rise, ascend"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَعْلَى",
+          "meaning": "Most High, Highest (superlative form of high)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Glorify-extol the name of your Lord the Most High"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

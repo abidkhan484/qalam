@@ -1,0 +1,105 @@
+{
+  "verseId": "109:3",
+  "verse": {
+    "arabic": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+    "transliteration": "Wala antum AAabidoona ma aAAbudu",
+    "surah": "Al-Kafirun",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not/nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not/nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنتُمْ",
+      "transliteration": "antum",
+      "meaning": "you (plural)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, exist; you (pronoun)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَابِدُونَ",
+      "transliteration": "ʿābidūn",
+      "meaning": "worshippers",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "عابد",
+          "meaning": "worshipper (singular)"
+        },
+        {
+          "arabic": "ون",
+          "meaning": "plural marker (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will, to possess/have"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَعْبُدُ",
+      "transliteration": "aʿbudu",
+      "meaning": "I worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship; slavery, servitude"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating first person singular ('I')"
+        },
+        {
+          "arabic": "عَبَدَ",
+          "meaning": "to worship"
+        },
+        {
+          "arabic": "تُ",
+          "meaning": "suffix indicating present tense and first person singular conjugation"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not you worshippers what I-worship"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

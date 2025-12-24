@@ -1,0 +1,58 @@
+{
+  "verseId": "114:6",
+  "verse": {
+    "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "transliteration": "Mina aljinnati wa alnnasm",
+    "surah": "An-Nas",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from among",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجِنَّةِ",
+      "transliteration": "al-jinnati",
+      "meaning": "the jinn, the unseen beings",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover, to be concealed; essence of being hidden or unseen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the mankind, the people",
+      "root": {
+        "letters": "ن-ا-س",
+        "meaning": "to forget, to be lost; mankind (as prone to forgetting their Lord)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "from-among the-jinn and the-mankind"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "verseId": "100:11",
+  "verse": {
+    "arabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
+    "transliteration": "Inna rabbahum bihim yawmaithin lakhabeerun",
+    "surah": "Al-Adiyat",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed; verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be; existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "a particle emphasizing the following statement; indeed"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبَّهُم",
+      "transliteration": "rabba-hum",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to foster, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "رَبَّ",
+          "meaning": "Lord, possessor, master (genitive case)"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (pronoun suffix, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهِمْ",
+      "transliteration": "bi-him",
+      "meaning": "With them"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "That Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass (time)"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then, that time; indicates specification of time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَّخَبِيرٌ",
+      "transliteration": "la-k̲habīrun",
+      "meaning": "is [fully] Acquainted",
+      "root": {
+        "letters": "خ-ب-ر",
+        "meaning": "to know, to be aware; intelligence, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle (not)"
+        },
+        {
+          "arabic": "خَبِيرٌ",
+          "meaning": "fully Acquainted, well-versed; possessing extensive knowledge"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed – their Lord – with them – that Day – is [fully] Acquainted."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

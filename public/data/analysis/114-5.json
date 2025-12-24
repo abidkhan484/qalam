@@ -1,0 +1,101 @@
+{
+  "verseId": "114:5",
+  "verse": {
+    "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "transliteration": "Allathee yuwaswisu fee sudoori alnnasi",
+    "surah": "An-Nas",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the who, that which",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere to, to follow; possession/having a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُوَسْوِسُ",
+      "transliteration": "yuwaswisu",
+      "meaning": "he whispers, he suggests evil",
+      "root": {
+        "letters": "و-س-و",
+        "meaning": "to whisper, to suggest secretly, to incite"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present tense, active voice, third person singular"
+        },
+        {
+          "arabic": "وَسْوِسَ",
+          "meaning": "to whisper, to suggest evil (basic verb form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah, indicating present tense vowel"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, into",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go into; to permeate or be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صُدُورِ",
+      "transliteration": "ṣudūri",
+      "meaning": "breasts, hearts",
+      "root": {
+        "letters": "ص-د-ر",
+        "meaning": "to be broad in the chest; to advance forward, prominence, leading"
+      },
+      "components": [
+        {
+          "arabic": "صُدُورٍ",
+          "meaning": "breasts, hearts (plural form indicating possession or belonging)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "النَّاسِ",
+      "transliteration": "al-nāsi",
+      "meaning": "the people, mankind",
+      "root": {
+        "letters": "ن-س-ي",
+        "meaning": "to forget, to be oblivious"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-who he-whispers in breasts-of the-people"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

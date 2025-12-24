@@ -1,0 +1,70 @@
+{
+  "verseId": "107:6",
+  "verse": {
+    "arabic": "الَّذِينَ هُمْ يُرَاءُونَ",
+    "transliteration": "Allatheena hum yuraoona",
+    "surah": "Al-Ma'un",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who, those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to belong to; relative pronoun indicating association or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who, those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "belonging to, being with"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُرَاءُونَ",
+      "transliteration": "yurā'ūna",
+      "meaning": "they show, they display (hypocritically)",
+      "root": {
+        "letters": "ر-ع-ي",
+        "meaning": "to see, to observe, to tend (flocks); by extension: to seek the approval of others"
+      },
+      "components": [
+        {
+          "arabic": "يُرَ",
+          "meaning": "they (masculine plural) - prefix indicating the verb's form and subject"
+        },
+        {
+          "arabic": "أَءُونَ",
+          "meaning": "show, display (hypocritically) - root form indicating reciprocal action and intent"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who they they-show"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

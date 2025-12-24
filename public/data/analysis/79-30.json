@@ -1,0 +1,72 @@
+{
+  "verseId": "79:30",
+  "verse": {
+    "arabic": "وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا",
+    "transliteration": "Waalarda baAAda thalika dahaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْأَرْضَ",
+      "transliteration": "wa-l-ʾarḍa",
+      "meaning": "and the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be broad, wide; the earth"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَرْضَ",
+          "meaning": "the earth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَعْدَ",
+      "transliteration": "baʿda",
+      "meaning": "after",
+      "root": {
+        "letters": "ب-ع-د",
+        "meaning": "distance, remoteness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submissiveness, weakness; to be low or humble"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "دَحَاهَا",
+      "transliteration": "daḥāhā",
+      "meaning": "He spread it, He extended it",
+      "root": {
+        "letters": "د-ح-و",
+        "meaning": "to spread, to extend, to level out"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the earth after that [it] He-spread-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

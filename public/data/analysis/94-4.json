@@ -1,0 +1,90 @@
+{
+  "verseId": "94:4",
+  "verse": {
+    "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+    "transliteration": "WarafaAAna laka thikraka",
+    "surah": "Ash-Sharh",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَفَعْنَا",
+      "transliteration": "rafaʿnā",
+      "meaning": "we raised, we elevated",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to lift up, to increase"
+      },
+      "components": [
+        {
+          "arabic": "رَفَعْ",
+          "meaning": "we raised, we elevated (basic verb form)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (first-person plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَكَ",
+      "transliteration": "laka",
+      "meaning": "for you, to you",
+      "root": {
+        "letters": "ل-ك-و",
+        "meaning": "possession, ownership, belonging"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to (preposition)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِكْرَكَ",
+      "transliteration": "dhikrak(a)",
+      "meaning": "your repute, your mention",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْرَ",
+          "meaning": "repute, mention"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-we raised-for you-your repute"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "verseId": "85:7",
+  "verse": {
+    "arabic": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+    "transliteration": "Wahum AAala ma yafAAaloona bialmumineena shuhoodun",
+    "surah": "Al-Buruj",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَهُمْ",
+      "transliteration": "wa-hum",
+      "meaning": "and they",
+      "root": {
+        "letters": "ه-م-ي",
+        "meaning": "to have, to possess; also used for pronouns"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to rise, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; related to questioning or negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَفْعَلُونَ",
+      "transliteration": "yafʿalūna",
+      "meaning": "they do, they are doing",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to act"
+      },
+      "components": [
+        {
+          "arabic": "يَفْعَ",
+          "meaning": "they do (present/future tense)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِالْمُؤْمِنِينَ",
+      "transliteration": "bi-l-muʾminīn",
+      "meaning": "with the believers",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to be safe, secure; to believe"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "الْمُؤْمِنِينَ",
+          "meaning": "the believers (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شُهُودٌ",
+      "transliteration": "shuhūdun",
+      "meaning": "witnesses",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to testify, presence"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they upon what they do with-the believers witnesses"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

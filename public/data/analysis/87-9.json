@@ -1,0 +1,81 @@
+{
+  "verseId": "87:9",
+  "verse": {
+    "arabic": "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ",
+    "transliteration": "Fathakkir in nafaAAati alththikra",
+    "surah": "Al-A'la",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَذَكِّرْ",
+      "transliteration": "fa-dhakkir",
+      "meaning": "so remind",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunctive particle)"
+        },
+        {
+          "arabic": "ذَكِّرْ",
+          "meaning": "remind (imperative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِن",
+      "transliteration": "in",
+      "meaning": "if",
+      "root": {
+        "letters": "ا-ن-ي",
+        "meaning": "to be, existence; also indicates condition or supposition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَّفَعَتِ",
+      "transliteration": "nafaʿati",
+      "meaning": "should benefit",
+      "root": {
+        "letters": "ن-ف-ع",
+        "meaning": "to benefit, to be useful, to profit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الذِّكْرَىٰ",
+      "transliteration": "al-dhikrā",
+      "meaning": "the reminder",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذِكْرَىٰ",
+          "meaning": "reminder, recollection, memory"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-remind if benefit-should the-reminder"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

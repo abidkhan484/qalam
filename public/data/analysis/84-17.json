@@ -1,0 +1,74 @@
+{
+  "verseId": "84:17",
+  "verse": {
+    "arabic": "وَاللَّيْلِ وَمَا وَسَقَ",
+    "transliteration": "Waallayli wama wasaqa",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاللَّيْلِ",
+      "transliteration": "wa-l-layli",
+      "meaning": "and the night (with the definite article)",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to become dark"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَيْلِ",
+          "meaning": "night (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what (relative pronoun)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will; questioning particle"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what; whatever; that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَسَقَ",
+      "transliteration": "wasaqā",
+      "meaning": "enveloped, covered, or concealed",
+      "root": {
+        "letters": "س-ق-ا",
+        "meaning": "to water, to irrigate; to pour upon; to flow"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the night – and what - it-enveloped"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

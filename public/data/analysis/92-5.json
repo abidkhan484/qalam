@@ -1,0 +1,90 @@
+{
+  "verseId": "92:5",
+  "verse": {
+    "arabic": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+    "transliteration": "Faamma man aAAta waittaqa",
+    "surah": "Al-Layl",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "then as for; but concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to direct towards"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for; concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who; whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to conceal; also related to questioning and inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَعْطَىٰ",
+      "transliteration": "ʾaʿṭā",
+      "meaning": "gave; bestowed",
+      "root": {
+        "letters": "ع-ط-و",
+        "meaning": "to give, bestow; to offer freely or generously"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating past tense or perfective aspect"
+        },
+        {
+          "arabic": "عَطَىٰ",
+          "meaning": "to give, bestow"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَاتَّقَىٰ",
+      "transliteration": "wattaqā",
+      "meaning": "and feared; and was mindful of",
+      "root": {
+        "letters": "و-ق-ي",
+        "meaning": "to shield, protect, be wary of; to avoid danger"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اتَّقَىٰ",
+          "meaning": "he feared; he was mindful of (derived from the root و-ق-ي)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-as-for who gave and feared"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

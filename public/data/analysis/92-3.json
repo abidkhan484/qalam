@@ -1,0 +1,90 @@
+{
+  "verseId": "92:3",
+  "verse": {
+    "arabic": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَىٰ",
+    "transliteration": "Wama khalaqa alththakara waalontha",
+    "surah": "Al-Layl",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/indeed and",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also, water (related to its possession of life)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/indeed; relative pronoun or interrogative particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "He created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الذَّكَرَ",
+      "transliteration": "al-dhakara",
+      "meaning": "the male",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, male"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذَكَر",
+          "meaning": "male, rememberer"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالْأُنثَىٰ",
+      "transliteration": "wa al-unthā",
+      "meaning": "and the female",
+      "root": {
+        "letters": "أ-ن-ث",
+        "meaning": "femininity, female"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأُنثَىٰ",
+          "meaning": "the female"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what He-created the-male and-the-female"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

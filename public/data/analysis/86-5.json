@@ -1,0 +1,90 @@
+{
+  "verseId": "86:5",
+  "verse": {
+    "arabic": "فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ",
+    "transliteration": "Falyanthuri alinsanu mimma khuliqa",
+    "surah": "At-Tariq",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلْيَنظُرِ",
+      "transliteration": "fa-li-yanẓur",
+      "meaning": "So let him observe/consider",
+      "root": {
+        "letters": "ن-ظ-ر",
+        "meaning": "to see, to observe, to consider"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle initiating a command)"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, so that (particle of purpose)"
+        },
+        {
+          "arabic": "يَنْظُرْ",
+          "meaning": "he observes/considers (verb in subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "The human/man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to be forgetful, weak, or vulnerable; also to associate with others (hence 'human')"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِمَّ",
+      "transliteration": "mim-ma",
+      "meaning": "From what/of which",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "prohibition, restriction, source"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خُلِقَ",
+      "transliteration": "khuliqa",
+      "meaning": "He was created",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to bring into existence"
+      },
+      "components": [
+        {
+          "arabic": "خُلِقَ",
+          "meaning": "He was created (passive voice)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-let-him-observe the-human from-what he-was-created"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

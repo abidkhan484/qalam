@@ -1,0 +1,174 @@
+{
+  "verseId": "97:4",
+  "verse": {
+    "arabic": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "transliteration": "Tanazzalu almalaikatu waalrroohu feeha biithni rabbihim min kulli amrin",
+    "surah": "Al-Qadr",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَنَزَّلُ",
+      "transliteration": "tanazzalu",
+      "meaning": "descends, comes down gradually",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating a causative or iterative sense (form X verb)"
+        },
+        {
+          "arabic": "نَزَّلَ",
+          "meaning": "to send down, to lower"
+        },
+        {
+          "arabic": "~ُ",
+          "meaning": "third person singular masculine present tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَلَائِكَةُ",
+      "transliteration": "al-malāʾikatu",
+      "meaning": "the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship, dominion"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَلَائِكَة",
+          "meaning": "angels (plural of مَلَك)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَالرُّوحُ",
+      "transliteration": "wa-al-rūḥu",
+      "meaning": "and the Spirit",
+      "root": {
+        "letters": "ر-و-ح",
+        "meaning": "to live, to be alive; gentle breeze, life-giving force"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الرُّوحُ",
+          "meaning": "the Spirit"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "therein, in it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include; to be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "بِإِذْنِ",
+      "transliteration": "bi-idhni",
+      "meaning": "by permission of",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to perceive, to allow"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "إِذْنِ",
+          "meaning": "permission"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبِّهِم",
+      "transliteration": "rabbi-him",
+      "meaning": "their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "their (pronoun suffix indicating possession)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "مِّن كُلِّ",
+      "transliteration": "min kulli",
+      "meaning": "from every, of all",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to be full, totality"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        },
+        {
+          "arabic": "كُلِّ",
+          "meaning": "every, all (genitive singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَمْرٍ",
+      "transliteration": "amrin",
+      "meaning": "matter, affair",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "command, order, affair, matter"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "descends-the angels and-the Spirit therein by-permission of-their Lord from every matter"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

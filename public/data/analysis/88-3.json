@@ -1,0 +1,50 @@
+{
+  "verseId": "88:3",
+  "verse": {
+    "arabic": "عَامِلَةٌ نَّاصِبَةٌ",
+    "transliteration": "AAamilatun nasibatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَامِلَةٌ",
+      "transliteration": "ʿāmilatun",
+      "meaning": "Working, active; one who does work",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, exertion"
+      },
+      "components": [
+        {
+          "arabic": "عامل",
+          "meaning": "worker, doer"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker; indefinite noun ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَّاصِبَةٌ",
+      "transliteration": "nāṣibatun",
+      "meaning": "Exhausting, toiling; one who is weary or exhausts oneself",
+      "root": {
+        "letters": "ن-ص-ب",
+        "meaning": "to erect, to set up; effort, labor (generally with difficulty)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Working - exhausted"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

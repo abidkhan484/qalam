@@ -1,0 +1,63 @@
+{
+  "verseId": "96:17",
+  "verse": {
+    "arabic": "فَلْيَدْعُ نَادِيَهُ",
+    "transliteration": "FalyadAAu nadiyahu",
+    "surah": "Al-Alaq",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلْيَدْعُ",
+      "transliteration": "fal-yadʿu",
+      "meaning": "Then let him call",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, so that"
+        },
+        {
+          "arabic": "يَدْعُ",
+          "meaning": "he calls, he invokes, he prays"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَادِيَهُ",
+      "transliteration": "nādī-ahu",
+      "meaning": "His associates/club",
+      "root": {
+        "letters": "ن-د-ي",
+        "meaning": "to call, to summon; association, companionship"
+      },
+      "components": [
+        {
+          "arabic": "نَادِي",
+          "meaning": "associates, club, group of people who meet regularly"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-let-him-call his-associates-[of him]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

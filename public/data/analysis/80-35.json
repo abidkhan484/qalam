@@ -1,0 +1,71 @@
+{
+  "verseId": "80:35",
+  "verse": {
+    "arabic": "وَأُمِّهِ وَأَبِيهِ",
+    "transliteration": "Waommihi waabeehi",
+    "surah": "Abasa",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُمِّهِ",
+      "transliteration": "ʾummihi",
+      "meaning": "his mother",
+      "root": {
+        "letters": "أ-م-ه",
+        "meaning": "mother; the origin or source"
+      },
+      "components": [
+        {
+          "arabic": "أُمّ",
+          "meaning": "mother"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَأَبِيهِ",
+      "transliteration": "waʾabīhi",
+      "meaning": "and his father",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "fatherhood, paternal side"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَبِ",
+          "meaning": "father of (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - his mother and - his father"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

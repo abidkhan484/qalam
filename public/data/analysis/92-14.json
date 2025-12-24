@@ -1,0 +1,69 @@
+{
+  "verseId": "92:14",
+  "verse": {
+    "arabic": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+    "transliteration": "Faanthartukum naran talaththa",
+    "surah": "Al-Layl",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَنذَرْتُكُمْ",
+      "transliteration": "fa-ʾandhartukum",
+      "meaning": "So I warned you (plural)",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to inform"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (conjunction)"
+        },
+        {
+          "arabic": "أَنـ",
+          "meaning": "that (introduces a clause)"
+        },
+        {
+          "arabic": "ذَرْتُ",
+          "meaning": "I warned (first-person singular perfect tense)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural, accusative/genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَارًا",
+      "transliteration": "nāran",
+      "meaning": "A fire",
+      "root": {
+        "letters": "ن-أ-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَلَظَّىٰ",
+      "transliteration": "talazzā",
+      "meaning": "Blazing, fiercely burning",
+      "root": {
+        "letters": "ل-ظ-ي",
+        "meaning": "to be scorched, to burn intensely; to taste fire or its effects"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-I-warned-you-plural a fire blazing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

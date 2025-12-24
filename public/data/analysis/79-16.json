@@ -1,0 +1,121 @@
+{
+  "verseId": "79:16",
+  "verse": {
+    "arabic": "إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى",
+    "transliteration": "Ith nadahu rabbuhu bialwadi almuqaddasi tuwan",
+    "surah": "An-Nazi'at",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, at the time that",
+      "root": {
+        "letters": "أ-ذ-ه",
+        "meaning": "to perceive, to feel, to be aware"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَادَاهُ",
+      "transliteration": "nādāhu",
+      "meaning": "called him",
+      "root": {
+        "letters": "ن-د-ا",
+        "meaning": "to call, to invoke"
+      },
+      "components": [
+        {
+          "arabic": "نَادَى",
+          "meaning": "he called"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبُّهُ",
+      "transliteration": "rabbu-hu",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالْوَادِ",
+      "transliteration": "bi-l-wādi",
+      "meaning": "in the valley",
+      "root": {
+        "letters": "و-د-ي",
+        "meaning": "to love, affection; or to flow, abundance (related to water)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "الْوَادِ",
+          "meaning": "the valley"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمُقَدَّسِ",
+      "transliteration": "al-muqaddas",
+      "meaning": "the sacred",
+      "root": {
+        "letters": "ق-د-س",
+        "meaning": "to be pure, holy, sacred"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُقَدَّسِ",
+          "meaning": "sacred, holy (passive participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "طُوًى",
+      "transliteration": "ṭuwan",
+      "meaning": "Tuwa (name of a valley)",
+      "root": {
+        "letters": "ط-و-ي",
+        "meaning": "to fold, to conceal, to hide"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-at the time that called-him his-Lord in-the valley the-sacred Tuwa"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "verseId": "85:17",
+  "verse": {
+    "arabic": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+    "transliteration": "Hal ataka hadeethu aljunoodi",
+    "surah": "Al-Buruj",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "interrogative particle indicating a question",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتَاكَ",
+      "transliteration": "ʾatāka",
+      "meaning": "came to you, reached you",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come, to reach"
+      },
+      "components": [
+        {
+          "arabic": "أَتَ",
+          "meaning": "came, reached (prefix + stem)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "to you (suffix, second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَدِيثُ",
+      "transliteration": "ḥadīthu",
+      "meaning": "news, story, account",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to occur, to happen; newness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْجُنُودِ",
+      "transliteration": "al-junūdi",
+      "meaning": "the soldiers, the armies",
+      "root": {
+        "letters": "ج-ن-د",
+        "meaning": "to gather, to collect; war, fighting"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جُنُود",
+          "meaning": "soldiers, armies (plural of جندي)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "hal-reached you story-of the soldiers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

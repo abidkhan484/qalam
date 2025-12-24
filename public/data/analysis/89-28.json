@@ -1,0 +1,97 @@
+{
+  "verseId": "89:28",
+  "verse": {
+    "arabic": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+    "transliteration": "IrjiAAee ila rabbiki radiyatan mardiyyatan",
+    "surah": "Al-Fajr",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ارْجِعِي",
+      "transliteration": "irjiʿī",
+      "meaning": "Return (you, feminine singular)",
+      "root": {
+        "letters": "ر-ج-ع",
+        "meaning": "To return, to go back, to revert"
+      },
+      "components": [
+        {
+          "arabic": "اِرْجِعِي",
+          "meaning": "Return (you, feminine singular) - Imperative form derived from the root ر-ج-ع."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "To",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "To turn towards, to incline towards; possession, guardianship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكِ",
+      "transliteration": "rabbi-ki",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion over; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord, Master (genitive case)"
+        },
+        {
+          "arabic": "كِ",
+          "meaning": "Your (feminine singular, possessive pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَاضِيَةً",
+      "transliteration": "rāḍiyatan",
+      "meaning": "Well-pleased, content",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to accept willingly"
+      },
+      "components": [
+        {
+          "arabic": "راضِ",
+          "meaning": "pleased, content (verbal noun stem)"
+        },
+        {
+          "arabic": "ـةً",
+          "meaning": "feminine indefinite accusative marker (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّرْضِيَّةً",
+      "transliteration": "marḍiyyatan",
+      "meaning": "Pleasing (to Him), accepted",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "To be pleased, to approve, contentment"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Return-you to your Lord well-pleased and pleasing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "verseId": "78:38",
+  "verse": {
+    "arabic": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+    "transliteration": "Yawma yaqoomu alrroohu waalmalaikatu saffan la yatakallamoona illa man athina lahu alrrahmanu waqala sawaban",
+    "surah": "An-Naba",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَقُومُ",
+      "transliteration": "yaqūmu",
+      "meaning": "he rises/stands up",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand, to establish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and third person singular"
+        },
+        {
+          "arabic": "قُومَ",
+          "meaning": "to rise, to stand (basic verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرُّوحُ",
+      "transliteration": "ar-rūḥu",
+      "meaning": "the spirit",
+      "root": {
+        "letters": "ر-و-ح",
+        "meaning": "to live, to be alive; softness, gentle breeze"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالْمَلَائِكَةُ",
+      "transliteration": "wal-malāʾikatu",
+      "meaning": "and the angels",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own; kingship"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْمَلَائِكَةُ",
+          "meaning": "the angels"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "صَفًّا",
+      "transliteration": "ṣaffan",
+      "meaning": "in a row/line",
+      "root": {
+        "letters": "ص-ف-ف",
+        "meaning": "to arrange, to line up, to rank"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "ۖ",
+      "transliteration": "faṣilatun",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "ف-ص-ل",
+        "meaning": "to separate, to distinguish, to decide"
+      },
+      "components": [
+        {
+          "arabic": "فاصلة",
+          "meaning": "separator, delimiter"
+        },
+        {
+          "arabic": "-ة",
+          "meaning": "feminine marker, indefinite noun ending"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "يَتَكَلَّمُونَ",
+      "transliteration": "yatakallamūna",
+      "meaning": "they speak",
+      "root": {
+        "letters": "ك-ل-م",
+        "meaning": "speech, word, communication"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "تَـ",
+          "meaning": "indicates present tense, active voice"
+        },
+        {
+          "arabic": "كَلَّمَ",
+          "meaning": "to speak, to converse"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural masculine pronoun suffix, indicating 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to turn away, to decline, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who/one who",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure (as in being unknown)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَذِنَ",
+      "transliteration": "ʾadhina",
+      "meaning": "he permitted",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to listen; by extension, to permit (because permission is 'heard' or acknowledged)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him/to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الرَّحْمَـٰنُ",
+      "transliteration": "ar-raḥmānu",
+      "meaning": "the Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰنُ",
+          "meaning": "The Most Merciful (intensive form of mercy)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَقَالَ",
+      "transliteration": "wa-qāla",
+      "meaning": "and he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "صَوَابًا",
+      "transliteration": "ṣawāban",
+      "meaning": "correctly/truthfully/right thing",
+      "root": {
+        "letters": "ص-و-ب",
+        "meaning": "to be right, correct, or proper; to hit the target"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day- [that] rises/stands up the-spirit and-the-angels in-a-row  not they-speak except who permitted for-him the-Most-Merciful and-he-said correct-thing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

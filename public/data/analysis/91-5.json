@@ -1,0 +1,79 @@
+{
+  "verseId": "91:5",
+  "verse": {
+    "arabic": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+    "transliteration": "Waalssamai wama banaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالسَّمَاءِ",
+      "transliteration": "wa-s-samāʾi",
+      "meaning": "and the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; loftiness, elevation"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "السَّمَاءِ",
+          "meaning": "the sky"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what/whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, from which derive concepts of questioning and relativity (what?)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/whatever (interrogative or relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بَنَاهَا",
+      "transliteration": "banāhā",
+      "meaning": "He constructed it",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct"
+      },
+      "components": [
+        {
+          "arabic": "بَنَ",
+          "meaning": "He built, constructed (past tense)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the sky and-what He-constructed-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

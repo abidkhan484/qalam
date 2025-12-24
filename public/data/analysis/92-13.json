@@ -1,0 +1,99 @@
+{
+  "verseId": "92:13",
+  "verse": {
+    "arabic": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+    "transliteration": "Wainna lana lalakhirata waaloola",
+    "surah": "Al-Layl",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنَّ",
+      "transliteration": "waʾinna",
+      "meaning": "and indeed; verily, and surely",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truth, reality"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَنَا",
+      "transliteration": "lanā",
+      "meaning": "to us; for us",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "to possess, to own, belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَلْآخِرَةَ",
+      "transliteration": "lal-ʾākhirah",
+      "meaning": "certainly the Hereafter; for the Hereafter, indeed the Afterlife",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after, the end; last in time or sequence"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to; preposition indicating purpose or direction"
+        },
+        {
+          "arabic": "الْآخِرَةَ",
+          "meaning": "the Hereafter, the afterlife; definite noun with indefinite article."
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالْأُولَىٰ",
+      "transliteration": "wal-ʾūlā",
+      "meaning": "and the first [life]; and the former, and the initial one",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to return, to begin, to precede"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأُولَىٰ",
+          "meaning": "the first"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed to-us certainly the-Hereafter and-the-first"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

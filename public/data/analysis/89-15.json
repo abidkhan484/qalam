@@ -1,0 +1,233 @@
+{
+  "verseId": "89:15",
+  "verse": {
+    "arabic": "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+    "transliteration": "Faamma alinsanu itha ma ibtalahu rabbuhu faakramahu wanaAAAAamahu fayaqoolu rabbee akramani",
+    "surah": "Al-Fajr",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "then as for; so concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to direct toward; regarding"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then; so"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for; concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being; man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be intimate, forgetfulness (paradoxically, as humans are prone to forgetting)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "ʾidhā",
+      "meaning": "when; if",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go away; to depart; time"
+      },
+      "components": [
+        {
+          "arabic": "إِذ",
+          "meaning": "time; when"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "conditional particle; if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what; that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire; that which exists or is possible"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ابْتَلَاهُ",
+      "transliteration": "ibtalāhu",
+      "meaning": "tried him; tested him",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be afflicted, to test, to try"
+      },
+      "components": [
+        {
+          "arabic": "ابْتَ",
+          "meaning": "to initiate, to begin (prefix indicating initiation)"
+        },
+        {
+          "arabic": "لَاهُ",
+          "meaning": "him (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَبُّهُ",
+      "transliteration": "rabbu-hu",
+      "meaning": "his Lord; his Sustainer",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; to sustain, to foster"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord, Sustainer, Master"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فَأَكْرَمَهُ",
+      "transliteration": "faʾakramahu",
+      "meaning": "then He honored him; then He showed favor to him",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "to be generous, noble, honorable; to show favor or respect"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then; so (particle indicating sequence)"
+        },
+        {
+          "arabic": "أَكْرَمَ",
+          "meaning": "He honored; He showed favor (verb)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَنَعَّمَهُ",
+      "transliteration": "wanaʿʿamahu",
+      "meaning": "and He blessed him; and He granted good to him",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, agreeable; to bestow a favor or blessing"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "نَعَّمَ",
+          "meaning": "He blessed; He granted good"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَيَقُولُ",
+      "transliteration": "fayaqūlu",
+      "meaning": "then he says",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then"
+        },
+        {
+          "arabic": "يَقُولُ",
+          "meaning": "he says"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "رَبِّي",
+      "transliteration": "rabbī",
+      "meaning": "My Lord; My Sustainer",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion; to sustain, to nurture"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Sustainer, Possessor"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "أَكْرَمَنِ",
+      "transliteration": "ʾakramanī",
+      "meaning": "He honored me; He showed favor to me",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "to be generous, honorable, noble; to show favor or respect"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating the active voice and intensifying the verb."
+        },
+        {
+          "arabic": "كَرَمَ",
+          "meaning": "to honor, to be generous; the base verb form."
+        },
+        {
+          "arabic": "نِ",
+          "meaning": "pronoun suffix indicating 'me', the direct object."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-as-for the-human-being when that-which his-Lord tried-him then-He honored-him and-He blessed-him then-he says My-Lord He-honored-me"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

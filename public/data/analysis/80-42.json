@@ -1,0 +1,81 @@
+{
+  "verseId": "80:42",
+  "verse": {
+    "arabic": "أُولَـٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+    "transliteration": "Olaika humu alkafaratu alfajaratu",
+    "surah": "Abasa",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "Those (masculine plural)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "To be first, to begin; the first (in a series)"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "Those (demonstrative pronoun, masculine plural)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "Suffix indicating masculine plural and distance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمُ",
+      "transliteration": "humu",
+      "meaning": "They (masculine plural pronoun)",
+      "root": {
+        "letters": "هـ-م-و",
+        "meaning": "To desire, to intend; belonging to (as in 'they belong')"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكَفَرَةُ",
+      "transliteration": "al-kafaraᵎu",
+      "meaning": "The disbelievers, the unbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَفَرَة",
+          "meaning": "disbelievers, unbelievers (plural form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْفَجَرَةُ",
+      "transliteration": "al-fajaraᵎu",
+      "meaning": "The wicked ones, the transgressors",
+      "root": {
+        "letters": "ف-ج-ر",
+        "meaning": "To dawn, to break; to split open, to cleave; to transgress, to exceed limits."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Those-those they the-disbelievers the-wicked-ones"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

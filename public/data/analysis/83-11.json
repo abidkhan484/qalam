@@ -1,0 +1,103 @@
+{
+  "verseId": "83:11",
+  "verse": {
+    "arabic": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+    "transliteration": "Allatheena yukaththiboona biyawmi alddeeni",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُكَذِّبُونَ",
+      "transliteration": "yukadhdhibūna",
+      "meaning": "they deny/disbelieve",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (pronoun suffix indicating plural masculine)"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "to deny, to disbelieve (derived from the root ك-ذ-ب)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "present/future active indicative suffix (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِيَوْمِ",
+      "transliteration": "bi-yawmi",
+      "meaning": "with/in the day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass (time)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "يَوْمِ",
+          "meaning": "the day (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "the Recompense/Judgment",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be in debt; to subjugate; recompense, judgment, religion"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِينِ",
+          "meaning": "recompense, judgment, religion (genitive singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who they-deny with/in the day-of the-Recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

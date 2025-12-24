@@ -1,0 +1,121 @@
+{
+  "verseId": "90:5",
+  "verse": {
+    "arabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+    "transliteration": "Ayahsabu an lan yaqdira AAalayhi ahadun",
+    "surah": "Al-Balad",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَيَحْسَبُ",
+      "transliteration": "ʾayahsubu",
+      "meaning": "Does he think?",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle, indicates a question"
+        },
+        {
+          "arabic": "يَحْسُبُ",
+          "meaning": "he thinks, he reckons"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "That",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, exist, become; also indicates affirmation or report"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّن",
+      "transliteration": "lan",
+      "meaning": "Never, will not",
+      "root": {
+        "letters": "ل-ن-و",
+        "meaning": "To refuse, to reject, to be averse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَقْدِرَ",
+      "transliteration": "yaqdira",
+      "meaning": "Will be able, overcome",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "To have power, to be able, to measure or estimate."
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "Prefix indicating future tense or potential mood."
+        },
+        {
+          "arabic": "قَدَرَ",
+          "meaning": "To be able, to overcome."
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَيْهِ",
+      "transliteration": "ʿalayhi",
+      "meaning": "Upon him, against him",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority, over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him, to him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَحَدٌ",
+      "transliteration": "ʾaḥadun",
+      "meaning": "Anyone, someone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "Uniqueness, oneness, indivisibility; to be single or alone."
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Indefinite article marker. Indicates 'a/an'."
+        },
+        {
+          "arabic": "حَدٌ",
+          "meaning": "Single, one; derived from the root denoting uniqueness."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Does-he think that not will-be-able overcome upon-him anyone?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "verseId": "84:21",
+  "verse": {
+    "arabic": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩",
+    "transliteration": "Waitha quria AAalayhimu alquranu la yasjudoona",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to go, to depart; to happen, to occur"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قُرِئَ",
+      "transliteration": "qurʾia",
+      "meaning": "was recited",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, to recite"
+      },
+      "components": [
+        {
+          "arabic": "قُرِ",
+          "meaning": "passive voice marker + root for reading/reciting in the past tense"
+        },
+        {
+          "arabic": "ئَ",
+          "meaning": "pronoun suffix indicating unspecified subject (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْهِمُ",
+      "transliteration": "ʿalayhimu",
+      "meaning": "to them, upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to be above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, to, over"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْقُرْآنُ",
+      "transliteration": "al-qurʾānu",
+      "meaning": "the Qur'ān",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite; to learn by heart"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, do not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَسْجُدُونَ",
+      "transliteration": "yasjudūna",
+      "meaning": "they prostrate",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to prostrate, to bow down in submission"
+      },
+      "components": [
+        {
+          "arabic": "يَسْجُد",
+          "meaning": "they prostrate (present/future tense)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "pronoun suffix indicating plural 'they'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when recited-was to-them the-Qur'ān not they-prostrate"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

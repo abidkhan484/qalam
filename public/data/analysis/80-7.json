@@ -1,0 +1,99 @@
+{
+  "verseId": "80:7",
+  "verse": {
+    "arabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+    "transliteration": "Wama AAalayka alla yazzakka",
+    "surah": "Abasa",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, to be able"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْكَ",
+      "transliteration": "ʿalayka",
+      "meaning": "upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to rise above; to depend on"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on top of, over"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَلَّا",
+      "transliteration": "ʾalla",
+      "meaning": "that not/not that",
+      "root": {
+        "letters": "ل-ا-و",
+        "meaning": "to desire, to will, to refuse"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "particle of prohibition, negation, or refusal"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَزَّكَّىٰ",
+      "transliteration": "yazzakkā",
+      "meaning": "he purifies himself/be purified",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "to be pure, clean, good; to flourish, thrive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the first person singular active present tense or imperfective aspect"
+        },
+        {
+          "arabic": "زَكَّى",
+          "meaning": "to purify, cleanse; to make pure (causative form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not upon-you that not-he purifies-himself"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "verseId": "87:18",
+  "verse": {
+    "arabic": "إِنَّ هَـٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+    "transliteration": "Inna hatha lafee alssuhufi aloola",
+    "surah": "Al-A'la",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-نّ-و",
+        "meaning": "to be, existence; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنّ",
+          "meaning": "Indeed, verily (emphasizing affirmation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "This",
+      "root": {
+        "letters": "ه-ذ-ا",
+        "meaning": "to point, to indicate, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَفِي",
+      "transliteration": "lafī",
+      "meaning": "Is indeed in",
+      "root": {
+        "letters": "ل-ف-ي",
+        "meaning": "to remain, to abide, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الصُّحُفِ",
+      "transliteration": "aṣ-ṣuḥufi",
+      "meaning": "The scriptures, the pages",
+      "root": {
+        "letters": "ص-ح-ف",
+        "meaning": "to write, to record; page, writing"
+      },
+      "components": [
+        {
+          "arabic": "اَلـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صُّحُفِ",
+          "meaning": "scriptures, pages (plural of صَحِيفَة)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْأُولَىٰ",
+      "transliteration": "al-ʾūlā",
+      "meaning": "The former, the first",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; primacy"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أُولَىٰ",
+          "meaning": "first (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-this-is-indeed-in-the-scriptures-the-former"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "verseId": "1:2",
+  "verse": {
+    "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "transliteration": "Alhamdu lillahi rabbi alAAalameena",
+    "surah": "Al-Fatihah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الْحَمْدُ",
+      "transliteration": "al-ḥamdu",
+      "meaning": "the praise",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, commendation, glory"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَمْد",
+          "meaning": "praise"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِلَّهِ",
+      "transliteration": "li-llāhi",
+      "meaning": "for Allah",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "divinity, godhood; to be worshipped"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God (proper noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّ",
+      "transliteration": "rabbi",
+      "meaning": "Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "possessive suffix (my)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīn",
+      "meaning": "the worlds",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds; those who know (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-praise - for-Allah - Lord-of - the-worlds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "verseId": "102:5",
+  "verse": {
+    "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+    "transliteration": "Kalla law taAAlamoona AAilma alyaqeeni",
+    "surah": "At-Takathur",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, indeed not, by no means",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to refuse, reject, or be insufficient; negation and denial"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَوْ",
+      "transliteration": "law",
+      "meaning": "If, were it that",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, desire, wish; inability or possibility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "You know, you were to know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine plural imperfect tense"
+        },
+        {
+          "arabic": "عَلِمْـ",
+          "meaning": "root of knowing, awareness"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating the second person masculine plural pronoun and imperfect tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عِلْمَ",
+      "transliteration": "ʿilma",
+      "meaning": "Knowledge of",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, possess knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْيَقِينِ",
+      "transliteration": "al-yaqīni",
+      "meaning": "The certainty, the sure knowledge",
+      "root": {
+        "letters": "ي-ق-ن",
+        "meaning": "To be firm, to be sure, to have certainty."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - if - you know - knowledge of - the certainty"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

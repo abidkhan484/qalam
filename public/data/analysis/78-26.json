@@ -1,0 +1,41 @@
+{
+  "verseId": "78:26",
+  "verse": {
+    "arabic": "جَزَاءً وِفَاقًا",
+    "transliteration": "Jazaan wifaqan",
+    "surah": "An-Naba",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "جَزَاءً",
+      "transliteration": "jazāʾan",
+      "meaning": "Recompense, reward",
+      "root": {
+        "letters": "ج-ي-ز",
+        "meaning": "to recompense, to reward; to benefit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وِفَاقًا",
+      "transliteration": "wifāqan",
+      "meaning": "Agreement, correspondence, suitability",
+      "root": {
+        "letters": "و-ف-ق",
+        "meaning": "To fulfill, to reconcile, to be adequate"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Recompense - agreement/suitability"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

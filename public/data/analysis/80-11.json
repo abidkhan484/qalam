@@ -1,0 +1,74 @@
+{
+  "verseId": "80:11",
+  "verse": {
+    "arabic": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+    "transliteration": "Kalla innaha tathkiratun",
+    "surah": "Abasa",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No, indeed; by no means",
+      "root": {
+        "letters": "ك-لَّ-أ",
+        "meaning": "to reject, to negate, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّهَا",
+      "transliteration": "innahā",
+      "meaning": "Indeed, it (feminine singular pronoun)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَذْكِرَةٌ",
+      "transliteration": "tadhkirah",
+      "meaning": "a reminder, admonition",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating verbal noun (masdar)"
+        },
+        {
+          "arabic": "ذِكْر",
+          "meaning": "remembrance, mention"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker, indefinite noun suffix (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No-indeed-[it]-is-a reminder."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "verseId": "85:1",
+  "verse": {
+    "arabic": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+    "transliteration": "Waalssamai thati alburooji",
+    "surah": "Al-Buruj",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاءِ",
+      "transliteration": "as-samāʾi",
+      "meaning": "the sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "height, elevation; to rise, to be high"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَاتِ",
+      "transliteration": "dhāti",
+      "meaning": "possessor of, owner of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "to have, to possess; essence, nature"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْبُرُوجِ",
+      "transliteration": "al-burūji",
+      "meaning": "the stars, constellations",
+      "root": {
+        "letters": "ب-ر-ج",
+        "meaning": "to be high, to rise; tower, castle"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the sky - possessor of - the stars"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

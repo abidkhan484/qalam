@@ -1,0 +1,88 @@
+{
+  "verseId": "109:4",
+  "verse": {
+    "arabic": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+    "transliteration": "Wala ana AAabidun ma AAabadtum",
+    "surah": "Al-Kafirun",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنَا",
+      "transliteration": "ʾanā",
+      "meaning": "I",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَابِدٌ",
+      "transliteration": "ʿābidun",
+      "meaning": "worshipper",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عَبَدتُّمْ",
+      "transliteration": "ʿabadtum",
+      "meaning": "you worshiped",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "عَبَدْ",
+          "meaning": "you worshiped (basic verb form)"
+        },
+        {
+          "arabic": "تُّمْ",
+          "meaning": "you (masculine plural suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not I worshipper of what you-all worshiped"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

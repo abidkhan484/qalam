@@ -1,0 +1,66 @@
+{
+  "verseId": "90:11",
+  "verse": {
+    "arabic": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+    "transliteration": "Fala iqtahama alAAaqabata",
+    "surah": "Al-Balad",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "so not / then not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to will, to desire, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so / then (particle of sequence)"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not (negation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اقْتَحَمَ",
+      "transliteration": "iqtaḥama",
+      "meaning": "he broke through / he plunged into / he forced his way",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, commendation, boldness"
+      },
+      "components": [
+        {
+          "arabic": "اِقْتَحَمَ",
+          "meaning": "he broke through / he plunged into / he forced his way (denoting intensity and effort)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعَقَبَةَ",
+      "transliteration": "al-ʿaqabata",
+      "meaning": "the difficult pass / the steep ascent / the obstacle",
+      "root": {
+        "letters": "ع-ق-ب",
+        "meaning": "to hinder, to restrain, to stumble"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-not he-broke-through the-difficult-pass"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

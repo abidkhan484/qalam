@@ -1,0 +1,65 @@
+{
+  "verseId": "80:13",
+  "verse": {
+    "arabic": "فِي صُحُفٍ مُّكَرَّمَةٍ",
+    "transliteration": "Fee suhufin mukarramatin",
+    "surah": "Abasa",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صُحُفٍ",
+      "transliteration": "ṣuḥufin",
+      "meaning": "sheets, scrolls (plural of ṣaḥīfah)",
+      "root": {
+        "letters": "ص-ح-ف",
+        "meaning": "to write, to record; smoothness, clarity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّكَرَّمَةٍ",
+      "transliteration": "mukarramatin",
+      "meaning": "honored, noble (feminine plural)",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "generosity, honor, nobility"
+      },
+      "components": [
+        {
+          "arabic": "مُكَرَّم",
+          "meaning": "honored, noble (masculine singular)"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker"
+        },
+        {
+          "arabic": "ٍ",
+          "meaning": "tanwin (indefinite accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in - sheets - honored"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

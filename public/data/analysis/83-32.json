@@ -1,0 +1,126 @@
+{
+  "verseId": "83:32",
+  "verse": {
+    "arabic": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَـٰؤُلَاءِ لَضَالُّونَ",
+    "transliteration": "Waitha raawhum qaloo inna haolai ladalloona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 32
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "wa idhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to arrive, to come about; time"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, whenever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَأَوْهُمْ",
+      "transliteration": "ra’awhum",
+      "meaning": "they saw them",
+      "root": {
+        "letters": "ر-ء-ي",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "رَأَوْ",
+          "meaning": "they saw"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "they said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, truly",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; emphasis or affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "indeed, truly (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "هَـٰؤُلَاءِ",
+      "transliteration": "hā’ulā’i",
+      "meaning": "these",
+      "root": {
+        "letters": "هـ-و-ل",
+        "meaning": "to decline, to weaken, to descend (and by extension, to refer or point to something)"
+      },
+      "components": [
+        {
+          "arabic": "هَـٰا",
+          "meaning": "This (demonstrative particle)"
+        },
+        {
+          "arabic": "أُولَاءِ",
+          "meaning": "These (plural demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَضَالُّونَ",
+      "transliteration": "laḍāllūn",
+      "meaning": "are truly lost",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to err, to go astray, to deviate from the right path"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "ضَالُّونَ",
+          "meaning": "lost, astray (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when they saw them they said indeed these are-truly lost"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

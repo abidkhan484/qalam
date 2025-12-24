@@ -1,0 +1,72 @@
+{
+  "verseId": "91:9",
+  "verse": {
+    "arabic": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+    "transliteration": "Qad aflaha man zakkaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَدْ",
+      "transliteration": "qad",
+      "meaning": "indeed, certainly",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to stand, to step forth, to advance; established, firm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَفْلَحَ",
+      "transliteration": "aflḥa",
+      "meaning": "succeeded, prospered",
+      "root": {
+        "letters": "ف-ل-ح",
+        "meaning": "to be successful, to thrive; to work the land (cultivate)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, to obscure; also relates to questioning and inquiry"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "زَكَّاهَا",
+      "transliteration": "zakkāhā",
+      "meaning": "purified it",
+      "root": {
+        "letters": "ز-ك-ي",
+        "meaning": "growth, purity, goodness"
+      },
+      "components": [
+        {
+          "arabic": "زَكَّى",
+          "meaning": "purified, made good"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "indeed-succeeded who-purified it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

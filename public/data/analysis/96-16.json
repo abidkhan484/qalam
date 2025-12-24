@@ -1,0 +1,52 @@
+{
+  "verseId": "96:16",
+  "verse": {
+    "arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+    "transliteration": "Nasiyatin kathibatin khatiatin",
+    "surah": "Al-Alaq",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَاصِيَةٍ",
+      "transliteration": "nāṣiyahṉ",
+      "meaning": "forelock, top of the head, part of the head covered with hair; (figuratively) power, control",
+      "root": {
+        "letters": "ن-ص-و",
+        "meaning": "to raise, to lift up; to be high or elevated"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَاذِبَةٍ",
+      "transliteration": "kādhibahṉ",
+      "meaning": "lying, false, untruthful; deceiving",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, untruthfulness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَاطِئَةٍ",
+      "transliteration": "khāṭiʾahṉ",
+      "meaning": "sinning, erring, mistaken; doing wrong, transgressing",
+      "root": {
+        "letters": "خ-ط-أ",
+        "meaning": "to err, to be wrong, to make a mistake"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "forelock-of-[a] lying sinning"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

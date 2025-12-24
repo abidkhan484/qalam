@@ -1,0 +1,64 @@
+{
+  "verseId": "111:4",
+  "verse": {
+    "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+    "transliteration": "Waimraatuhu hammalata alhatabi",
+    "surah": "Al-Masad",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "امْرَأَتُهُ",
+      "transliteration": "imraʾatuhu",
+      "meaning": "his wife"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَمَّالَةَ",
+      "transliteration": "ḥammālata",
+      "meaning": "carrier (female)",
+      "root": {
+        "letters": "ح-م-ل",
+        "meaning": "to bear, carry, endure"
+      },
+      "components": [
+        {
+          "arabic": "حَمَّال",
+          "meaning": "carrier (masculine/generic)"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَطَبِ",
+      "transliteration": "al-ḥaṭab",
+      "meaning": "the firewood",
+      "root": {
+        "letters": "ح-ط-ب",
+        "meaning": "to break, to split; dryness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - his wife – carrier-of – the firewood"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

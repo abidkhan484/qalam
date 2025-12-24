@@ -1,0 +1,70 @@
+{
+  "verseId": "88:22",
+  "verse": {
+    "arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+    "transliteration": "Lasta AAalayhim bimusaytirin",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّسْتَ",
+      "transliteration": "lasta",
+      "meaning": "You are not",
+      "root": {
+        "letters": "ل-س-و",
+        "meaning": "to be weak, deficient, or not to possess something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِم",
+      "transliteration": "ʿalayhim",
+      "meaning": "over them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to prevail"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "over, upon"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (suffix pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمُصَيْطِرٍ",
+      "transliteration": "bimuṣayṭir(in)",
+      "meaning": "a controller",
+      "root": {
+        "letters": "ص-ي-ط",
+        "meaning": "to control, dominate, overcome"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "مُصَيْطِرٍ",
+          "meaning": "controller, one who has power and control"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "You-are-not - over-them - a-controller"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "verseId": "89:12",
+  "verse": {
+    "arabic": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+    "transliteration": "Faaktharoo feeha alfasada",
+    "surah": "Al-Fajr",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَكْثَرُوا",
+      "transliteration": "faʾaktharū",
+      "meaning": "so they increased (in number/amount)",
+      "root": {
+        "letters": "ك-ث-ر",
+        "meaning": "to be abundant, to increase greatly, to multiply"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "أَكْثَرُوا",
+          "meaning": "they increased (in number/amount)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it (feminine)",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be contained in, to exist within; to understand"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْفَسَادَ",
+      "transliteration": "al-fasāda",
+      "meaning": "the corruption/spoilage",
+      "root": {
+        "letters": "ف-س-د",
+        "meaning": "decay, ruin, corruption"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فَسَاد",
+          "meaning": "corruption, spoilage, wickedness"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-increased - in-it - the-corruption"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

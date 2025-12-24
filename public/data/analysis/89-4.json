@@ -1,0 +1,65 @@
+{
+  "verseId": "89:4",
+  "verse": {
+    "arabic": "وَاللَّيْلِ إِذَا يَسْرِ",
+    "transliteration": "Waallayli itha yasri",
+    "surah": "Al-Fajr",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاللَّيْلِ",
+      "transliteration": "wa-l-layli",
+      "meaning": "and the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to become dark or hidden"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَيْلٍ",
+          "meaning": "night (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to turn away from something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَسْرِ",
+      "transliteration": "yasri",
+      "meaning": "it passes, it flows",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "ease, facility, smoothness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the night when it-passes"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

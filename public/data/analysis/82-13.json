@@ -1,0 +1,71 @@
+{
+  "verseId": "82:13",
+  "verse": {
+    "arabic": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+    "transliteration": "Inna alabrara lafee naAAeemin",
+    "surah": "Al-Infitar",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily; emphatic particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَبْرَارَ",
+      "transliteration": "al-ʾabrāra",
+      "meaning": "The righteous ones; the virtuous",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be pious, righteous; to excel in goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَفِي",
+      "transliteration": "lafī",
+      "meaning": "Indeed, they are in; emphatic particle + preposition 'in'",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "Indeed, Surely; emphatic particle negating the following verb."
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "In; preposition indicating location or state."
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَعِيمٍ",
+      "transliteration": "naʿīmin",
+      "meaning": "Pleasure, bliss; state of ease and comfort",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "Enjoyment, comfort, pleasantness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-righteous-ones-indeed-they-are-in-pleasure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

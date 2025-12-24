@@ -1,0 +1,70 @@
+{
+  "verseId": "94:3",
+  "verse": {
+    "arabic": "الَّذِي أَنقَضَ ظَهْرَكَ",
+    "transliteration": "Allathee anqada thahraka",
+    "surah": "Ash-Sharh",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the which/who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere to, to follow, to belong"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "which/who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنقَضَ",
+      "transliteration": "anqaḍa",
+      "meaning": "broke/collapsed/weakened",
+      "root": {
+        "letters": "ن-ق-ض",
+        "meaning": "to demolish, to break down, to invalidate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ظَهْرَكَ",
+      "transliteration": "ẓahrāk",
+      "meaning": "your back",
+      "root": {
+        "letters": "ظ-هـ-ر",
+        "meaning": "to appear, to become manifest; the exterior or outside part of something"
+      },
+      "components": [
+        {
+          "arabic": "ظَهْر",
+          "meaning": "back; exterior, outside"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular possessive pronoun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-which broke back-[of] you"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

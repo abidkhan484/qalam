@@ -1,0 +1,70 @@
+{
+  "verseId": "91:7",
+  "verse": {
+    "arabic": "وَنَفْسٍ وَمَا سَوَّاهَا",
+    "transliteration": "Wanafsin wama sawwaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَنَفْسٍ",
+      "transliteration": "wa-nafsin",
+      "meaning": "and a soul/self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath; to desire, to yearn"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَمَا",
+      "transliteration": "wa-mā",
+      "meaning": "and what/whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have, relative pronoun"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/whatever (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَوَّاهَا",
+      "transliteration": "sawwāhā",
+      "meaning": "He proportioned it/shaped it",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to be straight, correct, proper; to make even or level"
+      },
+      "components": [
+        {
+          "arabic": "سَوَّى",
+          "meaning": "He proportioned, shaped, made even"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-a-soul and-what He-shaped-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

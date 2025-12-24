@@ -1,0 +1,118 @@
+{
+  "verseId": "78:35",
+  "verse": {
+    "arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
+    "transliteration": "La yasmaAAoona feeha laghwan wala kiththaban",
+    "surah": "An-Naba",
+    "verseNumber": 35
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَسْمَعُونَ",
+      "transliteration": "yasmaʿūna",
+      "meaning": "they hear",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to listen, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and the first-person plural subject (they)"
+        },
+        {
+          "arabic": "سْمَعُ",
+          "meaning": "the verb root meaning 'to hear'"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating plural masculine subject ('they')"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَغْوًا",
+      "transliteration": "laghwan",
+      "meaning": "ill speech, futility",
+      "root": {
+        "letters": "ل-غ-و",
+        "meaning": "to be empty, vain, frivolous"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "كِذَّابًا",
+      "transliteration": "kidhāban",
+      "meaning": "falsehood, lying speech",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, falsehood"
+      },
+      "components": [
+        {
+          "arabic": "كذب",
+          "meaning": "to lie, falsehood (verbal noun)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwīn al-fatḥ indicating indefinite accusative (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "no- they-hear in-it ill-speech and- no falsehood"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

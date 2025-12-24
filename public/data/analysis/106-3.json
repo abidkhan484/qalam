@@ -1,0 +1,89 @@
+{
+  "verseId": "106:3",
+  "verse": {
+    "arabic": "فَلْيَعْبُدُوا رَبَّ هَـٰذَا الْبَيْتِ",
+    "transliteration": "FalyaAAbudoo rabba hatha albayti",
+    "surah": "Quraysh",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلْيَعْبُدُوا",
+      "transliteration": "fa-lyaʿbudū",
+      "meaning": "So let them worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to worship, to serve"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of enticement)"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, so that (particle indicating purpose)"
+        },
+        {
+          "arabic": "يَعْبُدُوا",
+          "meaning": "they worship (verb, subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبَّ",
+      "transliteration": "rabba",
+      "meaning": "Lord (of)",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to control; to nurture and increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْبَيْتِ",
+      "transliteration": "al-bayti",
+      "meaning": "the House",
+      "root": {
+        "letters": "ب-ي-ت",
+        "meaning": "to remain, to dwell, structure"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَيْت",
+          "meaning": "house, dwelling"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending (possessive)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-let-them worship -Lord-of this -the House"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

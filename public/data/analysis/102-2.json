@@ -1,0 +1,66 @@
+{
+  "verseId": "102:2",
+  "verse": {
+    "arabic": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+    "transliteration": "Hatta zurtumu almaqabira",
+    "surah": "At-Takathur",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "حَتَّىٰ",
+      "transliteration": "ḥattā",
+      "meaning": "until, up to",
+      "root": {
+        "letters": "ح-ت-ي",
+        "meaning": "separation, boundary, limit"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "زُرْتُمُ",
+      "transliteration": "zurtumu",
+      "meaning": "you visited",
+      "root": {
+        "letters": "ز-و-ر",
+        "meaning": "to visit, to come and see"
+      },
+      "components": [
+        {
+          "arabic": "زُرْتُم",
+          "meaning": "you (plural) visited"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَقَابِرَ",
+      "transliteration": "al-maqābir",
+      "meaning": "the graveyards",
+      "root": {
+        "letters": "ق-ب-ر",
+        "meaning": "to bury, to hide, grave"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَقَابِرَ",
+          "meaning": "graveyards (plural of grave)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "until-you-visited the-graveyards"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "verseId": "80:40",
+  "verse": {
+    "arabic": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+    "transliteration": "Wawujoohun yawmaithin AAalayha ghabaratun",
+    "surah": "Abasa",
+    "verseNumber": 40
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَوُجُوهٌ",
+      "transliteration": "wa-wujūhun",
+      "meaning": "and faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to find, to be prominent, appearance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma’idhin",
+      "meaning": "on that Day (specifically)",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time; occasion"
+      },
+      "components": [
+        {
+          "arabic": "يوم",
+          "meaning": "day"
+        },
+        {
+          "arabic": "إذ",
+          "meaning": "then; at that time"
+        },
+        {
+          "arabic": "ـئِذٍ",
+          "meaning": "suffix indicating specificity of the time/day; on that occasion"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon them (feminine plural)",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to rise; superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, on, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "them (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "غَبَرَةٌ",
+      "transliteration": "ghubaratan",
+      "meaning": "dust (indefinite)",
+      "root": {
+        "letters": "غ-ب-ر",
+        "meaning": "to cover, to be dusty; obscurity"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-faces on-that-Day upon-them dust"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

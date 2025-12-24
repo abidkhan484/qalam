@@ -1,0 +1,77 @@
+{
+  "verseId": "81:27",
+  "verse": {
+    "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
+    "transliteration": "In huwa illa thikrun lilAAalameena",
+    "surah": "At-Takwir",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنْ",
+      "transliteration": "ʾin",
+      "meaning": "Indeed, verily; a particle emphasizing negation",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "He, it; pronoun referring to the previous subject (the Qur'an)",
+      "root": {
+        "letters": "هـ-و-ى",
+        "meaning": "to fall, to decline; to be weak or faint; to refer back (pronoun)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "ʾilla",
+      "meaning": "Except, not but; restrictive particle",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِكْرٌ",
+      "transliteration": "dhikrun",
+      "meaning": "Reminder, admonition; indefinite noun",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّلْعَالَمِينَ",
+      "transliteration": "lil-ʿālamīn",
+      "meaning": "For the worlds; preposition + definite noun in genitive case",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware; knowledge, world"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْعَالَمِينَ",
+          "meaning": "the worlds, the realms of creation"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed - it - not but - a reminder - for the worlds."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

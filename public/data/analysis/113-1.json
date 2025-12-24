@@ -1,0 +1,81 @@
+{
+  "verseId": "113:1",
+  "verse": {
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+    "transliteration": "Qul aAAoothu birabbi alfalaqi",
+    "surah": "Al-Falaq",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or relate.  It encompasses the general act of conveying information verbally."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَعُوذُ",
+      "transliteration": "ʾaʿūḏu",
+      "meaning": "I seek refuge",
+      "root": {
+        "letters": "ع-و-ذ",
+        "meaning": "to seek protection, to take refuge"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun prefix)"
+        },
+        {
+          "arabic": "عَوُذ",
+          "meaning": "seeking refuge, protection (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِرَبِّ",
+      "transliteration": "bi-rabbi",
+      "meaning": "in/with the Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْفَلَقِ",
+      "transliteration": "al-falaqi",
+      "meaning": "the daybreak",
+      "root": {
+        "letters": "ف-ل-ق",
+        "meaning": "to split, to cleave, to break apart; dawn as the splitting of darkness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say - I seek refuge - in/with the Lord of - the daybreak"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

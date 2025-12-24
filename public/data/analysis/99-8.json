@@ -1,0 +1,121 @@
+{
+  "verseId": "99:8",
+  "verse": {
+    "arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+    "transliteration": "Waman yaAAmal mithqala tharratin sharran yarahu",
+    "surah": "Az-Zalzalah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَن",
+      "transliteration": "wa man",
+      "meaning": "and who/whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be, exist, occur; also related to questioning or pointing (as in 'who')"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whoever"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَعْمَلْ",
+      "transliteration": "yaʿmal",
+      "meaning": "does/performs",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to perform, to work"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and first person singular (I)"
+        },
+        {
+          "arabic": "عَمَلْ",
+          "meaning": "the root verb meaning 'to do/perform'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِثْقَالَ",
+      "transliteration": "mithqāla",
+      "meaning": "weight of/equal to the weight of",
+      "root": {
+        "letters": "ث-ق-ل",
+        "meaning": "heaviness, weight; to be heavy or weighty"
+      },
+      "components": [
+        {
+          "arabic": "مِثْقَال",
+          "meaning": "weight (unit of measure, often a seed weight)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذَرَّةٍ",
+      "transliteration": "dharratin",
+      "meaning": "a particle/dust mote/atom",
+      "root": {
+        "letters": "ذ-ر-و",
+        "meaning": "to scatter, to divide, smallness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شَرًّا",
+      "transliteration": "sharran",
+      "meaning": "evil/badness",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "to be evil, bad, or harmful; harm itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَرَهُ",
+      "transliteration": "yarahu",
+      "meaning": "he will see it/will witness it",
+      "root": {
+        "letters": "ر-هـ-ي",
+        "meaning": "to see, to perceive, to witness"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense/subjunctive mood"
+        },
+        {
+          "arabic": "رَأَى",
+          "meaning": "he saw/witnessed (past tense root)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular object pronoun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-who does weight-of particle evil will-see-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

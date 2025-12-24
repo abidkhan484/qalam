@@ -1,0 +1,50 @@
+{
+  "verseId": "79:1",
+  "verse": {
+    "arabic": "وَالنَّازِعَاتِ غَرْقًا",
+    "transliteration": "WaalnnaziAAati gharqan",
+    "surah": "An-Nazi'at",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالنَّازِعَاتِ",
+      "transliteration": "wa-an-nāziʿāti",
+      "meaning": "and the extractors/those who violently pull out",
+      "root": {
+        "letters": "ن-ز-ع",
+        "meaning": "to pull out, to extract, to separate forcibly"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "النَّازِعَاتِ",
+          "meaning": "the extractors/those who violently pull out (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "غَرْقًا",
+      "transliteration": "gharqan",
+      "meaning": "with violence/forcefully/violently",
+      "root": {
+        "letters": "غ-ر-ق",
+        "meaning": "to drown, to submerge, to be overwhelmed"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-[the] extractors violently"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

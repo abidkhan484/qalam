@@ -1,0 +1,92 @@
+{
+  "verseId": "84:13",
+  "verse": {
+    "arabic": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+    "transliteration": "Innahu kana fee ahlihi masrooran",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُ",
+      "transliteration": "ʾinnahū",
+      "meaning": "Indeed, he; Verily it is he",
+      "root": {
+        "letters": "هـ-نَ-و",
+        "meaning": "to be, existence; to become, occur"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, Verily (introduces emphasis)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he; it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "He was; He used to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "To be; existence; becoming"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In; Among",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "To enter, to penetrate; to be in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَهْلِهِ",
+      "transliteration": "ʾahlihi",
+      "meaning": "His people; His family; Those belonging to him",
+      "root": {
+        "letters": "أ-ه-ل",
+        "meaning": "to be weak, feeble; to lack strength; belong to"
+      },
+      "components": [
+        {
+          "arabic": "أَهْل",
+          "meaning": "people, family, household"
+        },
+        {
+          "arabic": "ـِهِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَسْرُورًا",
+      "transliteration": "masrūran",
+      "meaning": "Pleased; Happy; Joyful",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "To be joyful; to feel pleasure or delight."
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-he was in-his-people happy."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

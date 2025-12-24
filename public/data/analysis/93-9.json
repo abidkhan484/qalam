@@ -1,0 +1,90 @@
+{
+  "verseId": "93:9",
+  "verse": {
+    "arabic": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+    "transliteration": "Faamma alyateema fala taqhar",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَمَّا",
+      "transliteration": "faʾammā",
+      "meaning": "so as for, then concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to purpose, to direct towards"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then"
+        },
+        {
+          "arabic": "أَمَّا",
+          "meaning": "as for, concerning"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْيَتِيمَ",
+      "transliteration": "al-yatīma",
+      "meaning": "the orphan",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, deficient, or lacking; to need protection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَلَا",
+      "transliteration": "falā",
+      "meaning": "then not, so do not",
+      "root": {
+        "letters": "ل-و-ي",
+        "meaning": "to be weak, to fail, negation/impossibility"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَقْهَرْ",
+      "transliteration": "taqhar",
+      "meaning": "you oppress, you wrong",
+      "root": {
+        "letters": "ق-ه-ر",
+        "meaning": "to subdue, overcome, dominate"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating second-person masculine singular present tense (you)"
+        },
+        {
+          "arabic": "قَهَرَ",
+          "meaning": "to oppress, to wrong, to overcome (root verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-as-for - al-yatīma - fa-lā - taqhar"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

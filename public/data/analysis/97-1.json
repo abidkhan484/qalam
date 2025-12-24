@@ -1,0 +1,186 @@
+{
+  "verseId": "97:1",
+  "verse": {
+    "arabic": "بِّسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+    "transliteration": "Inna anzalnahu fee laylati alqadri",
+    "surah": "Al-Qadr",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِّسْمِ",
+      "transliteration": "bi-smi",
+      "meaning": "in the name of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, highness, sublimity; to rise, ascend"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "اسْم",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of God",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship; God"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "His/of Him (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "ar-Raḥmāni",
+      "meaning": "the Most Gracious",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have mercy; compassion, kindness"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰن",
+          "meaning": "The Most Gracious (intensive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرَّحِيمِ",
+      "transliteration": "ar-Raḥīmi",
+      "meaning": "the Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion, to be merciful"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحِيمِ",
+          "meaning": "The Most Merciful (active participle of the root, indicating constant and abundant mercy)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "إِنَّا",
+      "transliteration": "Innā",
+      "meaning": "Indeed, We",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence, presence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle introducing a clause"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَنزَلْنَاهُ",
+      "transliteration": "Anzalnāhu",
+      "meaning": "We sent it down",
+      "root": {
+        "letters": "ن-ز-ل",
+        "meaning": "to descend, to come down"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "We (pronoun suffix)"
+        },
+        {
+          "arabic": "زَل",
+          "meaning": "to descend, to come down (root)"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "us (pronoun suffix)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix, referring to the Quran)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be within, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَيْلَةِ",
+      "transliteration": "Laylati",
+      "meaning": "night of",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night"
+      },
+      "components": [
+        {
+          "arabic": "لَيْل",
+          "meaning": "night"
+        },
+        {
+          "arabic": "ـةِ",
+          "meaning": "genitive marker indicating possession/attribution (of the night)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْقَدْرِ",
+      "transliteration": "al-Qadri",
+      "meaning": "the Decree/Destiny",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to measure, to estimate, to have power or ability"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَدْرِ",
+          "meaning": "decree, destiny; measure, portion"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "In-the-name-of of-God the-Most-Gracious the-Most-Merciful Indeed, We sent-it-down in night-of the-Decree/Destiny"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

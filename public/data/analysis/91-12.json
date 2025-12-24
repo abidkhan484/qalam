@@ -1,0 +1,70 @@
+{
+  "verseId": "91:12",
+  "verse": {
+    "arabic": "إِذِ انبَعَثَ أَشْقَاهَا",
+    "transliteration": "Ithi inbaAAatha ashqaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذِ",
+      "transliteration": "ʾidhi",
+      "meaning": "when, at the time of",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go away, to depart; to cease, to finish; time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "انبَعَثَ",
+      "transliteration": "inbaʿatha",
+      "meaning": "was sent forth, arose, originated",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send forth, to raise up, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "إن",
+          "meaning": "to be; the particle of emphasis and assertion"
+        },
+        {
+          "arabic": "بَعَثَ",
+          "meaning": "he sent forth, he resurrected"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَشْقَاهَا",
+      "transliteration": "ʾashqaʾuhā",
+      "meaning": "the most wretched of them, the most unfortunate of her/it",
+      "root": {
+        "letters": "ش-ق-ي",
+        "meaning": "to be wretched, unfortunate; to suffer hardship"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "the most (superlative prefix)"
+        },
+        {
+          "arabic": "شَقَاهَا",
+          "meaning": "made it wretched, caused misfortune to it/her"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when - was-sent-forth - the-most-wretched-of-them"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

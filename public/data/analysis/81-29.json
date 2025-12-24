@@ -1,0 +1,138 @@
+{
+  "verseId": "81:29",
+  "verse": {
+    "arabic": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+    "transliteration": "Wama tashaoona illa an yashaa Allahu rabbu alAAalameena",
+    "surah": "At-Takwir",
+    "verseNumber": 29
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and no",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; also negation/nothingness"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/no"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَشَاءُونَ",
+      "transliteration": "tashāʾūna",
+      "meaning": "you will/desire",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to will, to wish, to desire"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the future tense or imperfective aspect"
+        },
+        {
+          "arabic": "شَاءَ",
+          "meaning": "to will, to desire"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person masculine plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except/unless",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to be absent, to deny, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَن",
+      "transliteration": "ʾan",
+      "meaning": "that/to",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; also used to form verbal nouns of measure VIII (إفْعَال)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَشَاءَ",
+      "transliteration": "yashāʾa",
+      "meaning": "He wills/desires",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to will, to desire, to wish; to create (related to the power of divine volition)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah/The God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; divinity; godhood"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَبُّ",
+      "transliteration": "rabbu",
+      "meaning": "Lord/Master",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have dominion, to grow, to increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīna",
+      "meaning": "the worlds/the universe",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds, universes (plural of عالم)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what you-will except that He-wills Allah Lord the-worlds"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

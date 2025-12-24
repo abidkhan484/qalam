@@ -1,0 +1,90 @@
+{
+  "verseId": "95:8",
+  "verse": {
+    "arabic": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+    "transliteration": "Alaysa Allahu biahkami alhakimeena",
+    "surah": "At-Tin",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَيْسَ",
+      "transliteration": "ʾalaysa",
+      "meaning": "Is not, Are not (interrogative particle)",
+      "root": {
+        "letters": "ل-ي-س",
+        "meaning": "to be non-existent, to not be"
+      },
+      "components": [
+        {
+          "arabic": "أَلِ",
+          "meaning": "interrogative particle (similar to هَل)"
+        },
+        {
+          "arabic": "يَسَ",
+          "meaning": "from the verb يَسُ (to not be)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah, The God",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped, deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِأَحْكَمِ",
+      "transliteration": "biʾaḥkami",
+      "meaning": "With the most just, In (the state of) the most just",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to be just"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With"
+        },
+        {
+          "arabic": "أَحْكَمِ",
+          "meaning": "The most just (state)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْحَاكِمِينَ",
+      "transliteration": "al-ḥākimīna",
+      "meaning": "The judges, The ruling ones (plural)",
+      "root": {
+        "letters": "ح-ك-م",
+        "meaning": "To judge, to rule, to arbitrate; to be wise or just."
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَاكِمِينَ",
+          "meaning": "Judges, rulers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Is-not Allah with-the-most-just of-the-judges?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

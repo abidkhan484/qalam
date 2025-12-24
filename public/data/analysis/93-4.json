@@ -1,0 +1,109 @@
+{
+  "verseId": "93:4",
+  "verse": {
+    "arabic": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+    "transliteration": "Walalakhiratu khayrun laka mina aloola",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَلْآخِرَةُ",
+      "transliteration": "lil-ʾākhirati",
+      "meaning": "for the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to follow; the end, the last"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الْآخِرَةُ",
+          "meaning": "the Hereafter, the last life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَّكَ",
+      "transliteration": "lak(a)",
+      "meaning": "for you",
+      "root": {
+        "letters": "ل-ك-ف",
+        "meaning": "possession, ownership, benefit"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "than",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "belonging to, from, source of"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأُولَىٰ",
+      "transliteration": "al-ʾūlá",
+      "meaning": "the first [life]",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; priority"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أُولَىٰ",
+          "meaning": "first (feminine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - for the Hereafter - better - for you - than - the first"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

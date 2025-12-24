@@ -1,0 +1,69 @@
+{
+  "verseId": "90:3",
+  "verse": {
+    "arabic": "وَوَالِدٍ وَمَا وَلَدَ",
+    "transliteration": "Wawalidin wama walada",
+    "surah": "Al-Balad",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَالِدٍ",
+      "transliteration": "wālidin",
+      "meaning": "father",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to be born, to bring forth, to give birth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (related to questioning and negation)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which (relative pronoun, interrogative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَلَدَ",
+      "transliteration": "walada",
+      "meaning": "he bore/brought forth",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to give birth, to produce offspring"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -father-[one] and -what/that which -he bore/brought forth"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

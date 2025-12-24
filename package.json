@@ -1,0 +1,33 @@
+{
+  "name": "qalam",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "build:quran": "tsx scripts/build-quran-json.ts",
+    "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts"
+  },
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.22.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.35",
+    "autoprefixer": "^10.4.17",
+    "tsx": "^4.7.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.1.1"
+  }
+}

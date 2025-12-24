@@ -1,0 +1,60 @@
+{
+  "verseId": "84:3",
+  "verse": {
+    "arabic": "وَإِذَا الْأَرْضُ مُدَّتْ",
+    "transliteration": "Waitha alardu muddat",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-د-ي",
+        "meaning": "to come, to arrive; time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضُ",
+      "transliteration": "al-ʾarḍu",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth itself"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُدَّتْ",
+      "transliteration": "muddat",
+      "meaning": "was extended, stretched out",
+      "root": {
+        "letters": "م-د-د",
+        "meaning": "to stretch, extend, lengthen"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa - when - the earth - was extended"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "verseId": "104:2",
+  "verse": {
+    "arabic": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+    "transliteration": "Allathee jamaAAa malan waAAaddadahu",
+    "surah": "Al-Humazah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the who, which (relative pronoun)",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; to belong to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, which (relative pronoun core)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَمَعَ",
+      "transliteration": "jamaʿa",
+      "meaning": "he collected, gathered",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather, to unite"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَالًا",
+      "transliteration": "mālan",
+      "meaning": "wealth, money (accusative)",
+      "root": {
+        "letters": "م-ل-ي",
+        "meaning": "possession, ownership, fullness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَعَدَّدَهُ",
+      "transliteration": "waʿaddada-hu",
+      "meaning": "and he counted it, and numbered it",
+      "root": {
+        "letters": "ع-د-د",
+        "meaning": "to count, to number, to enumerate"
+      },
+      "components": [
+        {
+          "arabic": "وَعَدَّ",
+          "meaning": "and he counted"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-who collected wealth and-he-counted-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

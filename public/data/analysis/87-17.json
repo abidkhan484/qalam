@@ -1,0 +1,74 @@
+{
+  "verseId": "87:17",
+  "verse": {
+    "arabic": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+    "transliteration": "Waalakhiratu khayrun waabqa",
+    "surah": "Al-A'la",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالْآخِرَةُ",
+      "transliteration": "wa-l-ʾākhiratu",
+      "meaning": "and the Hereafter",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to follow, the end"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the Hereafter, the last (life)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَيْرٌ",
+      "transliteration": "khayrun",
+      "meaning": "better",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, virtue"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَأَبْقَىٰ",
+      "transliteration": "wa-ʾabqā",
+      "meaning": "and more enduring",
+      "root": {
+        "letters": "ب-ق-ي",
+        "meaning": "to remain, to endure, to persist"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَبْقَىٰ",
+          "meaning": "he/it left remaining, more enduring (form IV verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the Hereafter is better and more enduring"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "verseId": "87:4",
+  "verse": {
+    "arabic": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+    "transliteration": "Waallathee akhraja almarAAa",
+    "surah": "Al-A'la",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَالَّذِي",
+      "transliteration": "wa-al-ladhī",
+      "meaning": "and the one who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to possess, to own; to be endowed with a quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الَّذِي",
+          "meaning": "the one who, which, that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَخْرَجَ",
+      "transliteration": "akhraja",
+      "meaning": "brought out, made to emerge",
+      "root": {
+        "letters": "خ-ر-ج",
+        "meaning": "to exit, to go out, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating a causative or intensifying form (form IV)"
+        },
+        {
+          "arabic": "خَرَجَ",
+          "meaning": "to exit, to go out"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَرْعَىٰ",
+      "transliteration": "al-marʿā",
+      "meaning": "the pasture, the grazing land",
+      "root": {
+        "letters": "ر-ع-ي",
+        "meaning": "to graze, pasture, take care of"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-one-who brought-out the-pasture"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

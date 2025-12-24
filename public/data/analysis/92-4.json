@@ -1,0 +1,66 @@
+{
+  "verseId": "92:4",
+  "verse": {
+    "arabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+    "transliteration": "Inna saAAyakum lashatta",
+    "surah": "Al-Layl",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; affirmation"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَعْيَكُمْ",
+      "transliteration": "saʿyukum",
+      "meaning": "Your striving, your effort",
+      "root": {
+        "letters": "س-ع-ي",
+        "meaning": "to strive, to make an effort, exertion"
+      },
+      "components": [
+        {
+          "arabic": "سَعْي",
+          "meaning": "striving, effort"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَشَتَّىٰ",
+      "transliteration": "la-shattā",
+      "meaning": "Diverse, varying",
+      "root": {
+        "letters": "ش-ت-ت",
+        "meaning": "dispersion, scattering, fragmentation"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-your-striving-is-diverse"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

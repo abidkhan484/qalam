@@ -1,0 +1,49 @@
+{
+  "verseId": "92:21",
+  "verse": {
+    "arabic": "وَلَسَوْفَ يَرْضَىٰ",
+    "transliteration": "Walasawfa yarda",
+    "surah": "Al-Layl",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَلَسَوْفَ",
+      "transliteration": "wa-la-sawfa",
+      "meaning": "and surely, and indeed; a particle emphasizing the future event"
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَرْضَىٰ",
+      "transliteration": "yarḍā",
+      "meaning": "he will be satisfied; he will accept contentedly",
+      "root": {
+        "letters": "س-و-ف",
+        "meaning": "to intend, to will, to desire; future time"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَ",
+          "meaning": "indeed, surely (emphatic particle)"
+        },
+        {
+          "arabic": "سَوْفَ",
+          "meaning": "future time, will happen; often paired with a verb to indicate near future"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-surely he-will-be-satisfied"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "verseId": "83:15",
+  "verse": {
+    "arabic": "كَلَّا إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+    "transliteration": "Kalla innahum AAan rabbihim yawmaithin lamahjooboona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No, indeed; by no means",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "to prevent, to restrain; negation, denial"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "إ-ن-ن",
+        "meaning": "affirmation, emphasis"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (particle of emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "To be, to exist; belonging to/they"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "From, about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to be away from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَّبِّهِمْ",
+      "transliteration": "rabbi-him",
+      "meaning": "Their Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord, master"
+      },
+      "components": [
+        {
+          "arabic": "ربّ",
+          "meaning": "Lord, master"
+        },
+        {
+          "arabic": "ـهم",
+          "meaning": "their"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawma-ʾidhi(n)",
+      "meaning": "That Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time; period"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time); then; when"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَّمَحْجُوبُونَ",
+      "transliteration": "lamaḥjūbūn(a)",
+      "meaning": "Partitioned, prevented (from access)",
+      "root": {
+        "letters": "ح-ج-ب",
+        "meaning": "To conceal, to hide, to prevent access"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "For, to"
+        },
+        {
+          "arabic": "مَحْجُوبُونَ",
+          "meaning": "Those who are prevented, partitioned"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No-indeed, indeed-they from-their Lord Day-that partitioned-will-be"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

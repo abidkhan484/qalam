@@ -1,0 +1,129 @@
+{
+  "verseId": "84:10",
+  "verse": {
+    "arabic": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+    "transliteration": "Waamma man ootiya kitabahu waraa thahrihi",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but as for, concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to receive, to undertake"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "or"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; origin of questioning or indication"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أُوتِيَ",
+      "transliteration": "ūtiya",
+      "meaning": "was given, has been granted",
+      "root": {
+        "letters": "أ-و-ت",
+        "meaning": "to give, to bestow, to grant"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "passive voice marker/prefix indicating 'was given to'"
+        },
+        {
+          "arabic": "و-تِيَ",
+          "meaning": "from the root أوتى, pertaining to giving or granting"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كِتَابَهُ",
+      "transliteration": "kitābahū",
+      "meaning": "his record, his book",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "to write, to record"
+      },
+      "components": [
+        {
+          "arabic": "كتاب",
+          "meaning": "book, writing, record"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَرَاءَ",
+      "transliteration": "warāʾa",
+      "meaning": "behind",
+      "root": {
+        "letters": "و-ر-ي",
+        "meaning": "to return, to go back; behind"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ظَهْرِهِ",
+      "transliteration": "ẓahrīhi",
+      "meaning": "his back",
+      "root": {
+        "letters": "ظ-هـ-ر",
+        "meaning": "to appear, to become manifest; the exterior or back of something"
+      },
+      "components": [
+        {
+          "arabic": "ظَهْرِ",
+          "meaning": "back (nominative case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-but-as-for who was-given his-record behind his-back"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

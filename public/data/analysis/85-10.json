@@ -1,0 +1,262 @@
+{
+  "verseId": "85:10",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+    "transliteration": "Inna allatheena fatanoo almumineena waalmuminati thumma lam yatooboo falahum AAathabu jahannama walahum AAathabu alhareeqi",
+    "surah": "Al-Buruj",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; hidden or latent"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (particle emphasizing the following statement)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, or have something"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَتَنُوا",
+      "transliteration": "fatānū",
+      "meaning": "Tortured, tried severely",
+      "root": {
+        "letters": "ف-ت-ن",
+        "meaning": "to test, to try, to be tempted"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمُؤْمِنِينَ",
+      "transliteration": "al-muʾminīna",
+      "meaning": "The believing men",
+      "root": {
+        "letters": "ʔ-m-n",
+        "meaning": "to believe, to trust, to be secure"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "مُؤْمِنِينَ",
+          "meaning": "believing men (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, to call upon, connection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمُؤْمِنَاتِ",
+      "transliteration": "al-muʾmināti",
+      "meaning": "The believing women",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be secure, to trust"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُؤْمِنَاتٍ",
+          "meaning": "believing women (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "Then, afterwards",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to stand still; also implies sequence or continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "Not, did not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَتُوبُوا",
+      "transliteration": "yatūbū",
+      "meaning": "They repent",
+      "root": {
+        "letters": "ت-و-ب",
+        "meaning": "to turn back, to repent"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "تُوبُوا",
+          "meaning": "repent (verbal root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "فَلَهُمْ",
+      "transliteration": "falihum",
+      "meaning": "So for them, then to them",
+      "root": {
+        "letters": "ل-ي-ه",
+        "meaning": "to belong, to possess, be suitable for"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then"
+        },
+        {
+          "arabic": "لَهُمْ",
+          "meaning": "for them, to them (possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "عَذَابُ",
+      "transliteration": "ʿadhābu",
+      "meaning": "Punishment of",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "To suffer pain, to be harsh or severe; to punish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "جَهَنَّمَ",
+      "transliteration": "jahannama",
+      "meaning": "Hell",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "intensity, heat, or severe punishment; a place of intense fire"
+      },
+      "components": [
+        {
+          "arabic": "جَهَنَّمَ",
+          "meaning": "Hell; a place of fiery punishment, derived from the root indicating intense heat and severity."
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "For them, to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "عَذَابُ",
+      "transliteration": "ʿadhābu",
+      "meaning": "Punishment of",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be harsh or severe; pain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْحَرِيقِ",
+      "transliteration": "al-ḥarīqi",
+      "meaning": "The Burning Fire",
+      "root": {
+        "letters": "ح-ر-ق",
+        "meaning": "to burn, to scorch, combustion"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "حَرِيقٍ",
+          "meaning": "burning, fiery (active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-those-who tortured-the-believing-men and-the-believing-women then-not they-repent so-to-them punishment-of Hell and-to-them punishment-of the-Burning Fire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

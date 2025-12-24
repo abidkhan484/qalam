@@ -1,0 +1,94 @@
+{
+  "verseId": "84:4",
+  "verse": {
+    "arabic": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+    "transliteration": "Waalqat ma feeha watakhallat",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَأَلْقَتْ",
+      "transliteration": "waʾalqat",
+      "meaning": "and it cast out",
+      "root": {
+        "letters": "ق-ذ-ف",
+        "meaning": "to throw, to cast out"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَلْقَتْ",
+          "meaning": "it cast out (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to exist, to be"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "within it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to encompass, be within"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَتَخَلَّتْ",
+      "transliteration": "wataḵallat",
+      "meaning": "and it relinquished",
+      "root": {
+        "letters": "خ-ل-و",
+        "meaning": "to be empty, to leave, to abandon"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَخَلَّ",
+          "meaning": "it relinquished, it abandoned (form X verb)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular pronoun suffix (indicating 'it')"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it cast-out that which within-it and-it relinquished"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "verseId": "101:3",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+    "transliteration": "Wama adraka ma alqariAAatu",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, to possess"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "ʾadrakāka",
+      "meaning": "can make you know",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to comprehend, to attain understanding"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَكَ",
+          "meaning": "to reach, to overtake, to comprehend (perfect tense)"
+        },
+        {
+          "arabic": "-ك",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to wish, to desire, or something that exists"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْقَارِعَةُ",
+      "transliteration": "al-qāriʿah",
+      "meaning": "the Striking Calamity",
+      "root": {
+        "letters": "ق-ر-ع",
+        "meaning": "to strike, to knock, to overwhelm"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-what can-make-you-know what the-Striking-Calamity"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "verseId": "87:19",
+  "verse": {
+    "arabic": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+    "transliteration": "Suhufi ibraheema wamoosa",
+    "surah": "Al-A'la",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "صُحُفِ",
+      "transliteration": "ṣuḥufi",
+      "meaning": "scrolls, sheets (of writing)",
+      "root": {
+        "letters": "ص-ح-ف",
+        "meaning": "to write, to record, to smooth out (a surface)"
+      },
+      "components": [
+        {
+          "arabic": "صُحُف",
+          "meaning": "scrolls, sheets (plural of صَحِيفة)"
+        },
+        {
+          "arabic": "ـِ",
+          "meaning": "genitive marker (indicating possession or relation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِبْرَاهِيمَ",
+      "transliteration": "ʾibrāhīma",
+      "meaning": "Abraham",
+      "root": {
+        "letters": "ه-ب-ر",
+        "meaning": "to be abundant, to be great; also associated with strength and firmness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَمُوسَىٰ",
+      "transliteration": "wa-mūsā",
+      "meaning": "and Moses",
+      "root": {
+        "letters": "م-و-س",
+        "meaning": "to strengthen, to empower; also related to smoothness and yielding"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مُوسَىٰ",
+          "meaning": "Moses (name of the prophet)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "scrolls-of Abraham and Moses"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

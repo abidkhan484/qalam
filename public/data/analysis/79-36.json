@@ -1,0 +1,81 @@
+{
+  "verseId": "79:36",
+  "verse": {
+    "arabic": "وَبُرِّزَتِ الْجَحِيمُ لِمَن يَرَىٰ",
+    "transliteration": "Waburrizati aljaheemu liman yara",
+    "surah": "An-Nazi'at",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَبُرِّزَتِ",
+      "transliteration": "wa-burrizati",
+      "meaning": "and was exposed/brought forth",
+      "root": {
+        "letters": "ب-ر-ز",
+        "meaning": "to appear, to become manifest, to emerge"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بُرِّزَتِ",
+          "meaning": "was exposed, was brought forth (feminine singular passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجَحِيمُ",
+      "transliteration": "al-jaḥīmu",
+      "meaning": "the Hellfire",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "intense heat, scorching fire; to be hot or severe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِمَن",
+      "transliteration": "li-man",
+      "meaning": "for who/to whom",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be from, belonging to; also existence or being"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَن",
+          "meaning": "who, whom"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَرَىٰ",
+      "transliteration": "yarā",
+      "meaning": "sees",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "to see, to perceive, to know"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-was-exposed the-Hellfire for-who sees"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

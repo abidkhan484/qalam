@@ -1,0 +1,92 @@
+{
+  "verseId": "87:15",
+  "verse": {
+    "arabic": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+    "transliteration": "Wathakara isma rabbihi fasalla",
+    "surah": "Al-A'la",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to call, invoke; affection, love"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ذَكَرَ",
+      "transliteration": "dhakara",
+      "meaning": "he remembered, he mentioned",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to recall, to mention"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اسْمَ",
+      "transliteration": "isma",
+      "meaning": "name (accusative)",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, elevate; excellence, high status"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord (genitive)",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَصَلَّىٰ",
+      "transliteration": "fa-ṣallā",
+      "meaning": "so he prayed",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "صَلَّىٰ",
+          "meaning": "he prayed"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-remembered name-of his-Lord so-he-prayed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

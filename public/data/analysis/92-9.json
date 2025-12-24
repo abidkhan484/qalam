@@ -1,0 +1,59 @@
+{
+  "verseId": "92:9",
+  "verse": {
+    "arabic": "وَكَذَّبَ بِالْحُسْنَىٰ",
+    "transliteration": "Wakaththaba bialhusna",
+    "surah": "Al-Layl",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَكَذَّبَ",
+      "transliteration": "wa-kaḏḏaba",
+      "meaning": "and he denied/disbelieved",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to fabricate falsehood, to deny the truth"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "كَذَّبَ",
+          "meaning": "he denied, he disbelieved"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِالْحُسْنَىٰ",
+      "transliteration": "bi-l-ḥusnā",
+      "meaning": "with/in the best [thing]",
+      "root": {
+        "letters": "ح-س-ن",
+        "meaning": "excellence, beauty, goodness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with/in/by means of"
+        },
+        {
+          "arabic": "الْحُسْنَىٰ",
+          "meaning": "the best (thing/state)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he-denied with-the-best-[thing]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "verseId": "94:5",
+  "verse": {
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "transliteration": "Fainna maAAa alAAusri yusran",
+    "surah": "Ash-Sharh",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِنَّ",
+      "transliteration": "faʾinna",
+      "meaning": "So indeed, for verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truthfulness"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (introduces a result or consequence)"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "verily, indeed (emphatic affirmation)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَعَ",
+      "transliteration": "maʿa",
+      "meaning": "With, along with",
+      "root": {
+        "letters": "ع-ي-م",
+        "meaning": "Possession, having with, being together."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعُسْرِ",
+      "transliteration": "al-ʿusri",
+      "meaning": "The hardship, the difficulty",
+      "root": {
+        "letters": "ع-س-ر",
+        "meaning": "to be difficult, to be tight, to constrict"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُسْرًا",
+      "transliteration": "yusran",
+      "meaning": "Ease, facility",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, facility, comfort"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-indeed with the-hardship [there is] ease."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

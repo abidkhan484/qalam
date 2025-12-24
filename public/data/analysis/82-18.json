@@ -1,0 +1,103 @@
+{
+  "verseId": "82:18",
+  "verse": {
+    "arabic": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+    "transliteration": "Thumma ma adraka ma yawmu alddeeni",
+    "surah": "Al-Infitar",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "Then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest; also implies time sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "ʾadrāk(a)",
+      "meaning": "Made you know, perceived by you",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to grasp, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "أَدْرَ",
+          "meaning": "to know, to perceive"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, or relative pronoun aspect"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَوْمُ",
+      "transliteration": "yawmu",
+      "meaning": "Day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as a period of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "The Recompense, the Judgement",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "To be indebted, to submit, to hold accountable; encompassing concepts of debt, obligation, judgment and religion"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The definite article"
+        },
+        {
+          "arabic": "دِينِ",
+          "meaning": "Recompense, Judgement, Religion (the noun form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then - what - made-you-know - what - day-of - the-recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

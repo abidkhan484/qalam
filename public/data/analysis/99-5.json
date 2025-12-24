@@ -1,0 +1,90 @@
+{
+  "verseId": "99:5",
+  "verse": {
+    "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+    "transliteration": "Bianna rabbaka awha laha",
+    "surah": "Az-Zalzalah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِأَنَّ",
+      "transliteration": "biʾanna",
+      "meaning": "by the fact that; because of",
+      "root": {
+        "letters": "أ-ن-ن",
+        "meaning": "to be; existence, state of being"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by; with"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that; the fact that"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَبَّكَ",
+      "transliteration": "rabba-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular, genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَوْحَىٰ",
+      "transliteration": "ʾawḥā",
+      "meaning": "inspired; revealed",
+      "root": {
+        "letters": "و-ح-ي",
+        "meaning": "to inspire, to reveal, to hint, to communicate secretly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَهَا",
+      "transliteration": "lahā",
+      "meaning": "to it (feminine singular)",
+      "root": {
+        "letters": "ل-ه-أ",
+        "meaning": "to belong, to possess, for (her)"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "she, her"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "by-the-fact-that your Lord inspired to-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

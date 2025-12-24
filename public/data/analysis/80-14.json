@@ -1,0 +1,36 @@
+{
+  "verseId": "80:14",
+  "verse": {
+    "arabic": "مَّرْفُوعَةٍ مُّطَهَّرَةٍ",
+    "transliteration": "MarfooAAatin mutahharatin",
+    "surah": "Abasa",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَّرْفُوعَةٍ",
+      "transliteration": "marfūʿatin",
+      "meaning": "elevated, raised, exalted",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to raise up, to uplift"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مُّطَهَّرَةٍ",
+      "transliteration": "muṭahharatin",
+      "meaning": "purified, cleansed"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "elevated - purified"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

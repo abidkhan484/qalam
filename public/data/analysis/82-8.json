@@ -1,0 +1,94 @@
+{
+  "verseId": "82:8",
+  "verse": {
+    "arabic": "فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ",
+    "transliteration": "Fee ayyi sooratin ma shaa rakkabaka",
+    "surah": "Al-Infitar",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in, to penetrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيِّ",
+      "transliteration": "ʾayyi",
+      "meaning": "which, what (interrogative)",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "belonging to, pertaining to; also indicates questioning or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "صُورَةٍ",
+      "transliteration": "ṣūratin",
+      "meaning": "form, shape, nature",
+      "root": {
+        "letters": "ص-و-ر",
+        "meaning": "to shape, to form, to paint"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what, whatever (relative)",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "He willed, He desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to wish, to desire, to will"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "رَكَّبَكَ",
+      "transliteration": "rakkaba-ka",
+      "meaning": "He assembled you, He composed you",
+      "root": {
+        "letters": "ر-ك-ب",
+        "meaning": "to mount, to ride; to combine, to put together"
+      },
+      "components": [
+        {
+          "arabic": "رَكَّبَ",
+          "meaning": "He assembled, He composed"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-which form-what He-willed assembled-you"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

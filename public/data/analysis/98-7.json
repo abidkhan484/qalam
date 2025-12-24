@@ -1,0 +1,178 @@
+{
+  "verseId": "98:7",
+  "verse": {
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَـٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+    "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati olaika hum khayru albariyyati",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily; emphatic particle",
+      "root": null,
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily; emphatic particle indicating affirmation and importance."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who, the ones who; relative pronoun + definite article",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to be connected with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "آمَنُوا",
+      "transliteration": "ʾāmanū",
+      "meaning": "Believed, have faith; past tense verb",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating present/past tense, plural form for verbs"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "they believed/have faith (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَعَمِلُوا",
+      "transliteration": "wa-ʿamilū",
+      "meaning": "And they did, and they worked; conjunction + past tense verb",
+      "root": {
+        "letters": "ع-م-ل",
+        "meaning": "to do, to work, to practice"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "عَمِلُوا",
+          "meaning": "they did, they worked (past tense verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الصَّالِحَاتِ",
+      "transliteration": "al-ṣāliḥāti",
+      "meaning": "The righteous deeds, good works; definite article + plural adjective",
+      "root": {
+        "letters": "ص-ل-ح",
+        "meaning": "to be righteous, correct, suitable, virtuous"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "صَالِحَاتِ",
+          "meaning": "righteous (feminine plural adjective)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾulāʾika",
+      "meaning": "Those, these; demonstrative pronoun (plural)",
+      "root": {
+        "letters": "ا-و-ل",
+        "meaning": "to be first, to begin; preceding in time or space"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "demonstrative prefix, indicates remoteness (those)"
+        },
+        {
+          "arabic": "لَـٰ",
+          "meaning": "pronoun suffix, plural marker (them)"
+        },
+        {
+          "arabic": "ئِكَ",
+          "meaning": "pronoun suffix, masculine plural (those)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "They; pronoun",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "pronoun, belonging to or relating to 'they'"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "خَيْرُ",
+      "transliteration": "khayru",
+      "meaning": "The best; superlative adjective",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, excellence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الْبَرِيَّةِ",
+      "transliteration": "al-barīyah",
+      "meaning": "The creation, creatures; definite article + noun (plural)",
+      "root": {
+        "letters": "ب-ر-ي",
+        "meaning": "to create, to bring forth, to be vast or wide"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "بَرِيَّة",
+          "meaning": "creation, creatures (plural noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-ones-who believed-and they did-the-righteous-deeds - those-they are-the best-the-creation"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

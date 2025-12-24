@@ -1,0 +1,152 @@
+{
+  "verseId": "84:6",
+  "verse": {
+    "arabic": "يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+    "transliteration": "Ya ayyuha alinsanu innaka kadihun ila rabbika kadhan famulaqeehi",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O (vocative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "O (vocative particle, attached to noun)",
+      "root": null,
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "Interrogative/Exclamatory particle; can indicate calling attention or intensifying"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "Vocative particle; indicates direct address"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly; weakness, forgetfulness (derived meanings)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "إِنَّكَ",
+      "transliteration": "innaka",
+      "meaning": "indeed you",
+      "root": {
+        "letters": "ك-ن-و",
+        "meaning": "to be; existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed; verily"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَادِحٌ",
+      "transliteration": "kādiḥun",
+      "meaning": "striving, laboring (masculine singular active participle)",
+      "root": {
+        "letters": "ك-د-ح",
+        "meaning": "to strive, to labor intensely, to exert effort"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn towards, to incline, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "كَدْحًا",
+      "transliteration": "kadḥan",
+      "meaning": "with exertion, hardship (accusative of manner)",
+      "root": {
+        "letters": "ك-د-ح",
+        "meaning": "to strive, to labor intensely; effort"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "فَمُلَاقِيهِ",
+      "transliteration": "famulāqīhi",
+      "meaning": "[then] you will meet it",
+      "root": {
+        "letters": "ل-ق-ي",
+        "meaning": "to meet, encounter, overtake"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "مُلَاقِـ",
+          "meaning": "meeting, encounter; active participle of meeting"
+        },
+        {
+          "arabic": "ـهِ",
+          "meaning": "his/it (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "O- O mankind, indeed- you are striving- to- your Lord - with exertion - then-you will meet it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

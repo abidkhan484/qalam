@@ -1,0 +1,90 @@
+{
+  "verseId": "78:3",
+  "verse": {
+    "arabic": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+    "transliteration": "Allathee hum feehi mukhtalifoona",
+    "surah": "An-Naba",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the which, that",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere, to remain, to persist"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "which, that (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهِ",
+      "transliteration": "fīhi",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-ن",
+        "meaning": "to be in, to exist within; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُخْتَلِفُونَ",
+      "transliteration": "mukhtalifūna",
+      "meaning": "disagreeing, in disagreement",
+      "root": {
+        "letters": "خ-ل-ف",
+        "meaning": "to differ, to be left behind, to remain"
+      },
+      "components": [
+        {
+          "arabic": "مُخْتَلِف",
+          "meaning": "disagreeing (verbal noun form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "plural active participle ending (masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-which they in-it disagreeing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

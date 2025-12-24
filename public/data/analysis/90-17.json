@@ -1,0 +1,172 @@
+{
+  "verseId": "90:17",
+  "verse": {
+    "arabic": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+    "transliteration": "Thumma kana mina allatheena amanoo watawasaw bialssabri watawasaw bialmarhamati",
+    "surah": "Al-Balad",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set; subsequently"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَانَ",
+      "transliteration": "kāna",
+      "meaning": "to be, was",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِنَ",
+      "transliteration": "mina",
+      "meaning": "from among, of",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to come forth from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who, the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, possess, have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "آمَنُوا",
+      "transliteration": "āmanū",
+      "meaning": "they believed, they had faith",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "to believe, to be safe, to trust"
+      },
+      "components": [
+        {
+          "arabic": "آ",
+          "meaning": "prefix indicating a group of people (they)"
+        },
+        {
+          "arabic": "مَنُوا",
+          "meaning": "believed, had faith (from the root أ-م-ن)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَتَوَاصَوْا",
+      "transliteration": "wa-tawāṣaw",
+      "meaning": "and they advised each other, and they exhorted one another",
+      "root": {
+        "letters": "و-ص-ي",
+        "meaning": "to entrust, to recommend, to bequeath"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَوَاصَوْا",
+          "meaning": "they advised mutually/each other"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "بِالصَّبْرِ",
+      "transliteration": "bi-ṣ-ṣabri",
+      "meaning": "with patience, in respect of patience",
+      "root": {
+        "letters": "ص-ب-ر",
+        "meaning": "to endure, to bear, to restrain oneself"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in respect of"
+        },
+        {
+          "arabic": "الصَّبْرِ",
+          "meaning": "the patience"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَتَوَاصَوْا",
+      "transliteration": "wa-tawāṣaw",
+      "meaning": "and they advised each other, and they exhorted one another",
+      "root": {
+        "letters": "ص-و-أ",
+        "meaning": "to advise, to recommend, to urge"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَوَاصَوْا",
+          "meaning": "they advised each other (mutual reciprocal action)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "بِالْمَرْحَمَةِ",
+      "transliteration": "bi-l-marḥamati",
+      "meaning": "with compassion, in respect of compassion",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have mercy, to be compassionate"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in respect of"
+        },
+        {
+          "arabic": "الْمَرْحَمَةِ",
+          "meaning": "the compassion"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - was - from among - the ones who - they believed - and-they advised each other - with-patience - and-they advised each other - with-compassion"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

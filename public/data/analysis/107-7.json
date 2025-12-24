@@ -1,0 +1,59 @@
+{
+  "verseId": "107:7",
+  "verse": {
+    "arabic": "وَيَمْنَعُونَ الْمَاعُونَ",
+    "transliteration": "WayamnaAAoona almaAAoona",
+    "surah": "Al-Ma'un",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَمْنَعُونَ",
+      "transliteration": "wa-yamnaʿūna",
+      "meaning": "and they prevent/withhold",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, prevent"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَمْنَعُونَ",
+          "meaning": "they prevent/withhold (verb, masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَاعُونَ",
+      "transliteration": "al-māʿūna",
+      "meaning": "the assistance/help",
+      "root": {
+        "letters": "ع-و-ن",
+        "meaning": "to help, to assist"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَاعُونَ",
+          "meaning": "assistance, help (verbal noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa- [they] prevent - the assistance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "verseId": "88:11",
+  "verse": {
+    "arabic": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
+    "transliteration": "La tasmaAAu feeha laghiyatan",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, none",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, absence of something"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَسْمَعُ",
+      "transliteration": "tasmaʿu",
+      "meaning": "you hear, you will hear",
+      "root": {
+        "letters": "س-م-ع",
+        "meaning": "to hear, to understand"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine singular, present/future tense"
+        },
+        {
+          "arabic": "سْمَعَ",
+          "meaning": "to hear (basic form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating present/future tense and nominative case"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, within it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, to be present in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَاغِيَةً",
+      "transliteration": "lāghiyah",
+      "meaning": "useless speech, frivolous talk, unsuitable speech",
+      "root": {
+        "letters": "ل-غ-و",
+        "meaning": "to be vain, empty, or without benefit"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-you-hear in-it useless-speech"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

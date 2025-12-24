@@ -1,0 +1,70 @@
+{
+  "verseId": "100:4",
+  "verse": {
+    "arabic": "فَأَثَرْنَ بِهِ نَقْعًا",
+    "transliteration": "Faatharna bihi naqAAan",
+    "surah": "Al-Adiyat",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَثَرْنَ",
+      "transliteration": "faʾatharnā",
+      "meaning": "So they stirred up/raised dust",
+      "root": {
+        "letters": "أ-ث-ر",
+        "meaning": "to stir up dust, to raise; to follow (traces), to mention"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "أَثَرْنَ",
+          "meaning": "they stirred up (dust), they raised"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it/by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَقْعًا",
+      "transliteration": "naqʿan",
+      "meaning": "dust/fine particles/turbidity",
+      "root": {
+        "letters": "ن-ق-ع",
+        "meaning": "to strike, to pierce, to weaken; also related to water and its effects (e.g., soaking)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-they-stirred-up--with-it dust"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

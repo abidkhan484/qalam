@@ -1,0 +1,276 @@
+{
+  "verseId": "98:5",
+  "verse": {
+    "arabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+    "transliteration": "Wama omiroo illa liyaAAbudoo Allaha mukhliseena lahu alddeena hunafaa wayuqeemoo alssalata wayutoo alzzakata wathalika deenu alqayyimati",
+    "surah": "Al-Bayyinah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what/and not",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to possess, or to be capable of"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what/that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُمِرُوا",
+      "transliteration": "umirū",
+      "meaning": "they were commanded",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, to matter"
+      },
+      "components": [
+        {
+          "arabic": "أُمِر",
+          "meaning": "passive voice verb stem meaning 'was commanded'"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "plural masculine pronoun suffix meaning 'they'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except",
+      "root": {
+        "letters": "إ-ل-و",
+        "meaning": "to refuse, to deny; negation, exception"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِيَعْبُدُوا",
+      "transliteration": "li-yaʿbudū",
+      "meaning": "to worship",
+      "root": {
+        "letters": "ع-ب-د",
+        "meaning": "to serve, to worship, slavery"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for the purpose of"
+        },
+        {
+          "arabic": "يَعْبُدُوا",
+          "meaning": "they worship"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "اللَّهَ",
+      "transliteration": "allāha",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ى",
+        "meaning": "to worship, to deify, the object of worship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مُخْلِصِينَ",
+      "transliteration": "mukhlisīn",
+      "meaning": "sincere ones/devotedly sincere",
+      "root": {
+        "letters": "خ-ل-ص",
+        "meaning": "to be pure, to be free from mixture; to extract the essence"
+      },
+      "components": [
+        {
+          "arabic": "مُخْلِس",
+          "meaning": "sincere one (masculine, active participle)"
+        },
+        {
+          "arabic": "ِينَ",
+          "meaning": "plural marker (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "to Him/for Him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession, ownership"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "الدِّينَ",
+      "transliteration": "al-dīna",
+      "meaning": "the religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to judge, to reckon, to be in debt; the way of life"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِينَ",
+          "meaning": "religion, faith, way of life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "حُنَفَاءَ",
+      "transliteration": "ḥunafāʾa",
+      "meaning": "inclining to truth/pure monotheists",
+      "root": {
+        "letters": "ح-ن-و",
+        "meaning": "to turn away/deviate, to incline or lean"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "وَيُقِيمُوا",
+      "transliteration": "wa yuqīmū",
+      "meaning": "and they establish",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to stand, to establish, to maintain"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُقِيمُوا",
+          "meaning": "they establish, they maintain (verb, subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "الصَّلَاةَ",
+      "transliteration": "al-ṣalāta",
+      "meaning": "the prayer",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings, to turn (towards)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "وَيُؤْتُوا",
+      "transliteration": "wa yuʾtū",
+      "meaning": "and they give",
+      "root": {
+        "letters": "أ-ت-ى",
+        "meaning": "to come; to give (as something coming from a source)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يُؤْتُوا",
+          "meaning": "they give (present/future tense, active voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 13,
+      "arabic": "الزَّكَاةَ",
+      "transliteration": "al-zakāta",
+      "meaning": "the zakah/obligatory charity",
+      "root": {
+        "letters": "ز-ك-و",
+        "meaning": "to grow, increase; purity, blessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 14,
+      "arabic": "وَذَٰلِكَ",
+      "transliteration": "wa dhālika",
+      "meaning": "and that is/and this is",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; that which is low or dependent"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ذَٰلِكَ",
+          "meaning": "that, this (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 15,
+      "arabic": "دِينُ",
+      "transliteration": "dīnu",
+      "meaning": "religion (of)",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be indebted, to subjugate, to judge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 16,
+      "arabic": "الْقَيِّمَةِ",
+      "transliteration": "al-qayyimati",
+      "meaning": "the uprightness/the correct religion",
+      "root": {
+        "letters": "ق-ي-م",
+        "meaning": "to establish, to stand firm, to have value"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "قَيِّمَة",
+          "meaning": "uprightness, correct religion, value"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and what - they were commanded - except - to worship - Allah - sincere ones - to Him - the religion - inclining to truth - and they establish - the prayer - and they give - the zakah - and that is - religion (of) - the uprightness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

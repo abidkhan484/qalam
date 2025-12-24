@@ -1,0 +1,85 @@
+{
+  "verseId": "90:14",
+  "verse": {
+    "arabic": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+    "transliteration": "Aw itAAamun fee yawmin thee masghabatin",
+    "surah": "Al-Balad",
+    "verseNumber": 14
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-أ-و",
+        "meaning": "to join, to connect; or (as a disjunctive particle)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِطْعَامٌ",
+      "transliteration": "iṭʿām",
+      "meaning": "feeding, food (provided)",
+      "root": {
+        "letters": "أ-ط-ع",
+        "meaning": "to feed, to give food"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, on",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to penetrate, to be contained within"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمٍ",
+      "transliteration": "yawm",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ذِي",
+      "transliteration": "dhī",
+      "meaning": "of (possessing)",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَسْغَبَةٍ",
+      "transliteration": "masghabah",
+      "meaning": "severe hunger, hardship",
+      "root": {
+        "letters": "غ-ب-و",
+        "meaning": "to be overwhelmed, to suffer hardship; to fall into something"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "or - feeding - in - day - of - [that possesses] severe-hunger"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

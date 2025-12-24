@@ -1,0 +1,95 @@
+{
+  "verseId": "110:1",
+  "verse": {
+    "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+    "transliteration": "Itha jaa nasru Allahi waalfathu",
+    "surah": "An-Nasr",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go around, to circle; to come upon; to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَاءَ",
+      "transliteration": "jāʾa",
+      "meaning": "came, arrived",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive, to happen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَصْرُ",
+      "transliteration": "naṣru",
+      "meaning": "victory, help",
+      "root": {
+        "letters": "ن-ص-ر",
+        "meaning": "to aid, to help, to overcome"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "the deity; to worship; god"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "of/belonging to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْفَتْحُ",
+      "transliteration": "al-fatḥu",
+      "meaning": "the conquest, the opening",
+      "root": {
+        "letters": "ف-ت-ح",
+        "meaning": "to open, to conquer, to reveal"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-whenever came victory-help of-Allah and the-conquest-opening"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

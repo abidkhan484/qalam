@@ -1,0 +1,103 @@
+{
+  "verseId": "86:17",
+  "verse": {
+    "arabic": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+    "transliteration": "Famahhili alkafireena amhilhum ruwaydan",
+    "surah": "At-Tariq",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَمَهِّلِ",
+      "transliteration": "fa-mahhili",
+      "meaning": "So allow time for (them)",
+      "root": {
+        "letters": "ه-م-ل",
+        "meaning": "to weaken, to be negligent, to delay"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of consequence)"
+        },
+        {
+          "arabic": "مَهِّلِ",
+          "meaning": "allow time, respite (from the root هَمَّلَ)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْكَافِرِينَ",
+      "transliteration": "al-kāfirīna",
+      "meaning": "the disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (faith), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كَافِرِينَ",
+          "meaning": "disbelievers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَمْهِلْهُمْ",
+      "transliteration": "am-hili-hum",
+      "meaning": "Leave them [for a time]",
+      "root": {
+        "letters": "ه-م-ل",
+        "meaning": "to respite, to delay, to give time"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "prefix indicating prolongation or extension of time, often with a negative nuance (e.g., 'let them have more time')"
+        },
+        {
+          "arabic": "هِلْ",
+          "meaning": "from the root هَمَلَ, indicating respite or delay"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رُوَيْدًا",
+      "transliteration": "ruwaydan",
+      "meaning": "awhile, slowly",
+      "root": {
+        "letters": "ر-و-د",
+        "meaning": "to return, to go back slowly; mildness, gentleness"
+      },
+      "components": [
+        {
+          "arabic": "رُوَيْد",
+          "meaning": "gentle pace, mildness (diminutive form)"
+        },
+        {
+          "arabic": "ًا",
+          "meaning": "tanwin indefinite marker, indicating unspecified quantity"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-allow-time-for the-disbelievers Leave-them awhile"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

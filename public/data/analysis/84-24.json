@@ -1,0 +1,74 @@
+{
+  "verseId": "84:24",
+  "verse": {
+    "arabic": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+    "transliteration": "Fabashshirhum biAAathabin aleemin",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَبَشِّرْهُم",
+      "transliteration": "fa-bashshirhum",
+      "meaning": "So give them glad tidings/rejoice them (with something)",
+      "root": {
+        "letters": "ب-ش-ر",
+        "meaning": "to bring good news, to be generous or kind"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "بَشِّرْ",
+          "meaning": "give glad tidings, rejoice (verb in the imperative mood)"
+        },
+        {
+          "arabic": "ـهُم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِعَذَابٍ",
+      "transliteration": "bi-ʿadhābin",
+      "meaning": "with a punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; painfulness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عَذَابٍ",
+          "meaning": "punishment, torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَلِيمٍ",
+      "transliteration": "ʾalīmin",
+      "meaning": "painful/severe",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "pain, suffering, affliction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-give-them-tidings with-punishment painful"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

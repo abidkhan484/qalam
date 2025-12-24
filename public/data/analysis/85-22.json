@@ -1,0 +1,47 @@
+{
+  "verseId": "85:22",
+  "verse": {
+    "arabic": "فِي لَوْحٍ مَّحْفُوظٍ",
+    "transliteration": "Fee lawhin mahfoothin",
+    "surah": "Al-Buruj",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, within",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "to enter, to go in; to return, to come back"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَوْحٍ",
+      "transliteration": "lawḥin",
+      "meaning": "a slate, a tablet, board",
+      "root": {
+        "letters": "ل-و-ح",
+        "meaning": "to be smooth, to shine; a tablet or surface for writing."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّحْفُوظٍ",
+      "transliteration": "maḥfūẓin",
+      "meaning": "preserved, protected, guarded"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-a-slate-[which is] preserved"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

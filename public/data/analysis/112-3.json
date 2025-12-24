@@ -1,0 +1,72 @@
+{
+  "verseId": "112:3",
+  "verse": {
+    "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "transliteration": "Lam yalid walam yooladu",
+    "surah": "Al-Ikhlas",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "negative particle (denies the following verb)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَلِدْ",
+      "transliteration": "yalid",
+      "meaning": "to beget, to give birth (verb)",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to produce, to bring forth, to give birth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and (conjunction)"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "negative particle (denies the following verb)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُولَدْ",
+      "transliteration": "yūlad",
+      "meaning": "to be born, to come into being (verb)",
+      "root": {
+        "letters": "و-ل-د",
+        "meaning": "to bring forth, to produce offspring, to cause something to originate"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates the present/future tense and active voice (prefix)"
+        },
+        {
+          "arabic": "وُلِدَ",
+          "meaning": "passive form of the verb 'to be born'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-beget and not-be-born"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

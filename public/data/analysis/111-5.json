@@ -1,0 +1,69 @@
+{
+  "verseId": "111:5",
+  "verse": {
+    "arabic": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+    "transliteration": "Fee jeediha hablun min masadin",
+    "surah": "Al-Masad",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in, on, at",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into; to be present in"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جِيدِهَا",
+      "transliteration": "jīdi-hā",
+      "meaning": "her neck"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَبْلٌ",
+      "transliteration": "ḥablun",
+      "meaning": "rope",
+      "root": {
+        "letters": "ح-ب-ل",
+        "meaning": "to bind, to tie, to hold firmly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِّن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish, separation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّسَدٍ",
+      "transliteration": "masadin",
+      "meaning": "twisted fiber, rope-making material",
+      "root": {
+        "letters": "س-د-ن",
+        "meaning": "to be firm, strong, or to twist"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-her neck -rope of -from twisted fiber"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

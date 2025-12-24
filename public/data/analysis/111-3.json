@@ -1,0 +1,77 @@
+{
+  "verseId": "111:3",
+  "verse": {
+    "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+    "transliteration": "Sayasla naran thata lahabin",
+    "surah": "Al-Masad",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَيَصْلَىٰ",
+      "transliteration": "sayaṣlā",
+      "meaning": "He will burn/roast",
+      "root": {
+        "letters": "ص-ل-ي",
+        "meaning": "to burn, to roast; to pray (related through a sense of intense heat/devotion)"
+      },
+      "components": [
+        {
+          "arabic": "سَيَ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "صَلَىٰ",
+          "meaning": "he burned/roasted (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَارًا",
+      "transliteration": "nāran",
+      "meaning": "Fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, fire, heat"
+      },
+      "components": [
+        {
+          "arabic": "نار",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذَاتَ",
+      "transliteration": "dhāta",
+      "meaning": "Possessing/Owner of",
+      "root": {
+        "letters": "ذ-و-ت",
+        "meaning": "to have, to possess, attribute of existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَهَبٍ",
+      "transliteration": "lahabin",
+      "meaning": "Flame/Blazing fire",
+      "root": {
+        "letters": "ل-ه-ب",
+        "meaning": "to blaze, to flame, intense heat"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-will-[burn]-Fire possessing-of flame"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

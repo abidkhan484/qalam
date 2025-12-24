@@ -1,0 +1,78 @@
+{
+  "verseId": "81:3",
+  "verse": {
+    "arabic": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+    "transliteration": "Waitha aljibalu suyyirat",
+    "surah": "At-Takwir",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go, to depart; to come, to happen"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise up; elevation"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِبَالُ",
+          "meaning": "mountains (plural of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سُيِّرَتْ",
+      "transliteration": "suyyirat",
+      "meaning": "were removed/set in motion",
+      "root": {
+        "letters": "س-ي-ر",
+        "meaning": "to travel, to proceed, to go on a journey; to set in motion"
+      },
+      "components": [
+        {
+          "arabic": "سَيَّرَ",
+          "meaning": "to set in motion, to cause to travel or proceed"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine passive suffix (indicating the verb is in the passive voice, 3rd person singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - the mountains - were removed/set in motion"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

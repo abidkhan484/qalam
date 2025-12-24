@@ -1,0 +1,101 @@
+{
+  "verseId": "82:5",
+  "verse": {
+    "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+    "transliteration": "AAalimat nafsun ma qaddamat waakhkharat",
+    "surah": "Al-Infitar",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلِمَتْ",
+      "transliteration": "ʿalimāt",
+      "meaning": "she knew, it came to know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know (masculine)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَفْسٌ",
+      "transliteration": "nafsun",
+      "meaning": "a soul, the self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, soul, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَّا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess; relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قَدَّمَتْ",
+      "transliteration": "qaddamat",
+      "meaning": "it presented, it sent forth",
+      "root": {
+        "letters": "ق-د-م",
+        "meaning": "to advance, to step forward, to present"
+      },
+      "components": [
+        {
+          "arabic": "قَدَّم",
+          "meaning": "to send forth, to present (basic form)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine singular past tense marker"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَأَخَّرَتْ",
+      "transliteration": "waʾakhkharat",
+      "meaning": "and it delayed, and it kept back",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to be late, to delay, to postpone, to put off; to lag behind"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَخَّرَتْ",
+          "meaning": "it delayed, it kept back (feminine singular perfect tense)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "knew-it a-soul what presented-it and-delayed-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "verseId": "89:19",
+  "verse": {
+    "arabic": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا",
+    "transliteration": "Watakuloona altturatha aklan lamman",
+    "surah": "Al-Fajr",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَتَأْكُلُونَ",
+      "transliteration": "wa-taʾkulūna",
+      "meaning": "and you consume",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَأْكُلُونَ",
+          "meaning": "you (plural) consume"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "التُّرَاثَ",
+      "transliteration": "at-turātha",
+      "meaning": "the inheritance",
+      "root": {
+        "letters": "و-ر-ث",
+        "meaning": "to inherit, to acquire; possessing something left by someone else"
+      },
+      "components": [
+        {
+          "arabic": "اَل",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "تُرَاثَ",
+          "meaning": "inheritance"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَكْلًا",
+      "transliteration": "ʾaklan",
+      "meaning": "consuming, eating",
+      "root": {
+        "letters": "أ-ك-ل",
+        "meaning": "to eat, consume; to devour"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَّمًّا",
+      "transliteration": "lamman",
+      "meaning": "altogether, completely",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "to desire, to will, to intend; collective action or state"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you-consume the-inheritance consuming altogether"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

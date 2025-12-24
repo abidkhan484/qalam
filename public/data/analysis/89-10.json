@@ -1,0 +1,69 @@
+{
+  "verseId": "89:10",
+  "verse": {
+    "arabic": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+    "transliteration": "WafirAAawna thee alawtadi",
+    "surah": "Al-Fajr",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فِرْعَوْنَ",
+      "transliteration": "firʿawn",
+      "meaning": "Pharaoh",
+      "root": {
+        "letters": "ف-ر-ع",
+        "meaning": "to branch, to divide; to excel, to be high and lofty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ذِي",
+      "transliteration": "dhī",
+      "meaning": "owner of, possessor of",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, owner, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَوْتَادِ",
+      "transliteration": "al-ʾawtād",
+      "meaning": "the stakes, the pegs",
+      "root": {
+        "letters": "و-ث-د",
+        "meaning": "to firmly establish, to fix, to strengthen"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَوْتَاد",
+          "meaning": "stakes, pegs (plural of وَتَد)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - Pharaoh - owner of - the stakes"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

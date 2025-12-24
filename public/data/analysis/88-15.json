@@ -1,0 +1,46 @@
+{
+  "verseId": "88:15",
+  "verse": {
+    "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
+    "transliteration": "Wanamariqu masfoofatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَنَمَارِقُ",
+      "transliteration": "wa-namāriqu",
+      "meaning": "and cushions",
+      "root": {
+        "letters": "ن-م-ر",
+        "meaning": "marking, spotting; soft bedding (generally related to comfort and rest)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَصْفُوفَةٌ",
+      "transliteration": "maṣfūfatun",
+      "meaning": "lined up, arranged",
+      "root": {
+        "letters": "ص-ف-و",
+        "meaning": "to arrange, to set in order, to purify"
+      },
+      "components": [
+        {
+          "arabic": "مَصْفُوفَةٌ",
+          "meaning": "lined up, arranged (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-cushions [are] lined-up"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

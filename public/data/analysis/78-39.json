@@ -1,0 +1,180 @@
+{
+  "verseId": "78:39",
+  "verse": {
+    "arabic": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا",
+    "transliteration": "Thalika alyawmu alhaqqu faman shaa ittakhatha ila rabbihi maaban",
+    "surah": "An-Naba",
+    "verseNumber": 39
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this (demonstrative pronoun)",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, submission, weakness; to be low or base"
+      },
+      "components": [
+        {
+          "arabic": "ذَا",
+          "meaning": "the possessor of, having"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْيَوْمُ",
+      "transliteration": "al-yawmu",
+      "meaning": "the day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْحَقُّ",
+      "transliteration": "al-ḥaqqu",
+      "meaning": "the truth, the real (thing)",
+      "root": {
+        "letters": "ح-ق-ق",
+        "meaning": "to be true, real; to exist necessarily, to happen with certainty"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَقّ",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ۖ",
+      "transliteration": "fa-",
+      "meaning": "[particle indicating consequence/then]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "particle indicating consequence/then; often untranslatable, connecting clauses"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever (relative pronoun)",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to protect, to guard, origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "willed, desired",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to intend, to will, to desire, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اتَّخَذَ",
+      "transliteration": "ittakhadha",
+      "meaning": "took, chose (as a way)",
+      "root": {
+        "letters": "خ-ذ-ا",
+        "meaning": "to take, to seize, to choose"
+      },
+      "components": [
+        {
+          "arabic": "اِتِّ",
+          "meaning": "intensive or iterative prefix (indicates doing something repeatedly or thoroughly)"
+        },
+        {
+          "arabic": "تَخَذَ",
+          "meaning": "to take, to choose"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ʾilā",
+      "meaning": "to, toward",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn, to incline towards, to resort to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "رَبِّهِ",
+      "transliteration": "rabbihi",
+      "meaning": "his Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "his"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "مَآبًا",
+      "transliteration": "māʾaban",
+      "meaning": "a place of return, a refuge",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "to return, to come back"
+      },
+      "components": [
+        {
+          "arabic": "مَأ",
+          "meaning": "the place of, where"
+        },
+        {
+          "arabic": "آبًا",
+          "meaning": "return, coming back (noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "that-the day-the truth – then who-willed took to-his Lord a-place-of-return"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

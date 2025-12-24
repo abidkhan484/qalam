@@ -1,0 +1,61 @@
+{
+  "verseId": "88:4",
+  "verse": {
+    "arabic": "تَصْلَىٰ نَارًا حَامِيَةً",
+    "transliteration": "Tasla naran hamiyatan",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "تَصْلَىٰ",
+      "transliteration": "taṣlā",
+      "meaning": "they will burn/roast",
+      "root": {
+        "letters": "ص-ل-ي",
+        "meaning": "to burn, to roast; to heat intensely"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَارًا",
+      "transliteration": "nāran",
+      "meaning": "fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, heat, fire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَامِيَةً",
+      "transliteration": "ḥāmiyah",
+      "meaning": "intensely hot/scorching",
+      "root": {
+        "letters": "ح-م-ي",
+        "meaning": "to protect, defend; to be warm or hot"
+      },
+      "components": [
+        {
+          "arabic": "حَامِي",
+          "meaning": "protecting, defending; hot"
+        },
+        {
+          "arabic": "-ةً",
+          "meaning": "feminine indefinite accusative marker (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-will-burn - fire - intensely-hot"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

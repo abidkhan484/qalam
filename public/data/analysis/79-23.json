@@ -1,0 +1,59 @@
+{
+  "verseId": "79:23",
+  "verse": {
+    "arabic": "فَحَشَرَ فَنَادَىٰ",
+    "transliteration": "Fahashara fanada",
+    "surah": "An-Nazi'at",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَحَشَرَ",
+      "transliteration": "fa-ḥashara",
+      "meaning": "then he gathered, so he collected",
+      "root": {
+        "letters": "ح-ش-ر",
+        "meaning": "to collect, to gather, to drive together"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "حَشَرَ",
+          "meaning": "he gathered, he collected"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَنَادَىٰ",
+      "transliteration": "fa-nādā",
+      "meaning": "then he called, so he proclaimed",
+      "root": {
+        "letters": "ن-د-ي",
+        "meaning": "to call out, to summon, to invoke"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so (particle of sequence)"
+        },
+        {
+          "arabic": "نَادَىٰ",
+          "meaning": "he called, he proclaimed (verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-he gathered - then-he called"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

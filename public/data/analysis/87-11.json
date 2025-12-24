@@ -1,0 +1,67 @@
+{
+  "verseId": "87:11",
+  "verse": {
+    "arabic": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+    "transliteration": "Wayatajannabuha alashqa",
+    "surah": "Al-A'la",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَتَجَنَّبُهَا",
+      "transliteration": "wa-yatajannabuhā",
+      "meaning": "and he avoids it",
+      "root": {
+        "letters": "ج-ن-ب",
+        "meaning": "to side away from; to avoid; to keep distance"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَتَ",
+          "meaning": "he (masculine singular) - prefix indicating present/future tense"
+        },
+        {
+          "arabic": "جَنَّبَ",
+          "meaning": "to avoid, to keep away from"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular) - pronoun referring to the previously mentioned thing"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَشْقَى",
+      "transliteration": "al-ashqā",
+      "meaning": "the wretched one/ the most unfortunate",
+      "root": {
+        "letters": "ش-ق-ي",
+        "meaning": "to be distressed, unhappy; to suffer hardship"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَشْقَى",
+          "meaning": "wretched, most unfortunate (superlative form of the adjective)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he avoids-it the-wretched-one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

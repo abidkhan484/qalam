@@ -1,0 +1,50 @@
+{
+  "verseId": "85:18",
+  "verse": {
+    "arabic": "فِرْعَوْنَ وَثَمُودَ",
+    "transliteration": "FirAAawna wathamooda",
+    "surah": "Al-Buruj",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِرْعَوْنَ",
+      "transliteration": "firʿawna",
+      "meaning": "Pharaoh (proper noun)",
+      "root": {
+        "letters": "ف-ر-ع",
+        "meaning": "to branch, to divide; to break away, to rebel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَثَمُودَ",
+      "transliteration": "wa-thamūda",
+      "meaning": "and Thamud (proper noun)",
+      "root": {
+        "letters": "ث-م-د",
+        "meaning": "strength, firmness, permanence; to establish firmly"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ثَمُودَ",
+          "meaning": "Thamud (a people destroyed by God)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Pharaoh-and Thamud"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

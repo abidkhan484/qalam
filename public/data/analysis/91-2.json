@@ -1,0 +1,63 @@
+{
+  "verseId": "91:2",
+  "verse": {
+    "arabic": "وَالْقَمَرِ إِذَا تَلَاهَا",
+    "transliteration": "Waalqamari itha talaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, affection, friendship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْقَمَرِ",
+      "transliteration": "al-qamari",
+      "meaning": "the moon",
+      "root": {
+        "letters": "ق-م-ر",
+        "meaning": "to measure, to control (time), lunar cycle"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-أ",
+        "meaning": "to go, to depart, to vanish; also related to time and occurrence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَلَاهَا",
+      "transliteration": "talāhā",
+      "meaning": "it follows it",
+      "root": {
+        "letters": "ت-ل-و",
+        "meaning": "to follow, to recite, to read after"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -the-moon when it-follows -it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

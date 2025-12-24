@@ -1,0 +1,70 @@
+{
+  "verseId": "80:33",
+  "verse": {
+    "arabic": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+    "transliteration": "Faitha jaati alssakhkhatu",
+    "surah": "Abasa",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "then when, so when",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to come, to happen, to arrive; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَاءَتِ",
+      "transliteration": "jāʾati",
+      "meaning": "came, arrived",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive, to occur"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الصَّاخَّةُ",
+      "transliteration": "aṣ-ṣākhkhatu",
+      "meaning": "the Deafening Blast, the Roaring (one)",
+      "root": {
+        "letters": "ص-خ-خ",
+        "meaning": "to be loud, to roar, to make a clamorous noise"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "صَّاخَّة",
+          "meaning": "deafening blast, roaring (feminine noun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-then [when]-idhā-when, so; jāʾati-came; aṣ-ṣākhkhatu-the Deafening Blast"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

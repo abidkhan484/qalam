@@ -1,0 +1,85 @@
+{
+  "verseId": "78:6",
+  "verse": {
+    "arabic": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+    "transliteration": "Alam najAAali alarda mihadan",
+    "surah": "An-Naba",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Have not; is it not",
+      "root": {
+        "letters": "أ-ل-م",
+        "meaning": "to desire, to wish, to be aware of"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, indicating negation or denial"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negative particle, indicates that something did not happen in the past"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَجْعَلِ",
+      "transliteration": "najʿali",
+      "meaning": "We make; We have made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to create, to make"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "We (pronoun prefix)"
+        },
+        {
+          "arabic": "جَعَلَ",
+          "meaning": "to make, to create"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "present tense marker (مُضَارِع)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْأَرْضَ",
+      "transliteration": "al-ʾarḍa",
+      "meaning": "The earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِهَادًا",
+      "transliteration": "mihādan",
+      "meaning": "A resting place; a bed; a soft expanse",
+      "root": {
+        "letters": "م-ه-د",
+        "meaning": "to lay down; to spread out; to prepare a place"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-not We make the-earth a-resting-place"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

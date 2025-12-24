@@ -1,0 +1,127 @@
+{
+  "verseId": "106:4",
+  "verse": {
+    "arabic": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+    "transliteration": "Allathee atAAamahum min jooAAin waamanahum min khawfin",
+    "surah": "Quraysh",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the one who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere to, to follow, to possess a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "one who, possessor of (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَطْعَمَهُم",
+      "transliteration": "aṭʿamahum",
+      "meaning": "fed them",
+      "root": {
+        "letters": "ط-ع-م",
+        "meaning": "to feed, to nourish"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating imperative or subjunctive mood, or emphasis"
+        },
+        {
+          "arabic": "طَعَمَ",
+          "meaning": "to feed"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّن جُوعٍ",
+      "transliteration": "min jūʿin",
+      "meaning": "from hunger",
+      "root": {
+        "letters": "ج-ع-ع",
+        "meaning": "to be hungry, to suffer need; intensity/severity"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "جُوعٍ",
+          "meaning": "hunger (genitive case indicating source)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَآمَنَهُم",
+      "transliteration": "wa ʾāmanahum",
+      "meaning": "and made them safe",
+      "root": {
+        "letters": "أ-م-ن",
+        "meaning": "security, safety, trustworthiness"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "آمَنَ",
+          "meaning": "made safe, believed"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِّنْ خَوْفٍ",
+      "transliteration": "min khawfin",
+      "meaning": "from fear",
+      "root": {
+        "letters": "خ-و-ف",
+        "meaning": "to fear, to be afraid"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "خَوْفٍ",
+          "meaning": "fear"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-one-who fed-them from hunger and-made-safe-them from fear"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "verseId": "89:11",
+  "verse": {
+    "arabic": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+    "transliteration": "Allatheena taghaw fee albiladi",
+    "surah": "Al-Fajr",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ذ-ه-ي",
+        "meaning": "to be, to exist; possess quality or attribute"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "طَغَوْا",
+      "transliteration": "ṭaghaw",
+      "meaning": "They transgressed, they oppressed",
+      "root": {
+        "letters": "ط-غ-و",
+        "meaning": "To exceed limits, to be arrogant or oppressive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "In",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "To enter, to be contained within, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْبِلَادِ",
+      "transliteration": "al-bilād",
+      "meaning": "The lands",
+      "root": {
+        "letters": "ب-ل-د",
+        "meaning": "to attain, to reach; land, country"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-those-who - they-transgressed - in - the lands"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

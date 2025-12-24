@@ -1,0 +1,103 @@
+{
+  "verseId": "82:7",
+  "verse": {
+    "arabic": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+    "transliteration": "Allathee khalaqaka fasawwaka faAAadalaka",
+    "surah": "Al-Infitar",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "The One who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to adhere to, to belong to, possess"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "who, which, that (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "خَلَقَكَ",
+      "transliteration": "khalaqaka",
+      "meaning": "Created you",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "To create, to originate, to bring into existence"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقَ",
+          "meaning": "He created"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "You (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَسَوَّاكَ",
+      "transliteration": "fa-sawwāka",
+      "meaning": "Then proportioned you",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to make straight, to correct, to proportion"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "سَوَّاكَ",
+          "meaning": "He proportioned you (form II verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَعَدَلَكَ",
+      "transliteration": "fa-'adalak",
+      "meaning": "Then balanced you",
+      "root": {
+        "letters": "ع-د-ل",
+        "meaning": "to be just, to balance, to set right"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "عَدَلَ",
+          "meaning": "balanced, acted justly"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-One-who created-you then-proportioned-you then-balanced-you"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

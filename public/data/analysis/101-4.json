@@ -1,0 +1,101 @@
+{
+  "verseId": "101:4",
+  "verse": {
+    "arabic": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+    "transliteration": "Yawma yakoonu alnnasu kaalfarashi almabthoothi",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as a period of time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَكُونُ",
+      "transliteration": "yakūnu",
+      "meaning": "will be, to be",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense/subjunctive mood"
+        },
+        {
+          "arabic": "كُون",
+          "meaning": "verbal noun from the root ك-و-ن, representing 'being'"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost or strayed; also, people (derived from the idea of forgetting one's origin/ancestors)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَالْفَرَاشِ",
+      "transliteration": "kal-farāshi",
+      "meaning": "like the moths",
+      "root": {
+        "letters": "ف-ر-ش",
+        "meaning": "to spread, to lay out; a moth (insect)"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "الفَرَاشِ",
+          "meaning": "the moths"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْمَبْثُوثِ",
+      "transliteration": "al-mabthūthi",
+      "meaning": "the dispersed, scattered",
+      "root": {
+        "letters": "ب-ث-ث",
+        "meaning": "to spread, scatter, disperse"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَبْثُوثِ",
+          "meaning": "dispersed, scattered (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day- when - will be - the people - like - moths - the dispersed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "verseId": "114:4",
+  "verse": {
+    "arabic": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+    "transliteration": "Min sharri alwaswasi alkhannasi",
+    "surah": "An-Nas",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَرِّ",
+      "transliteration": "sharri",
+      "meaning": "evil, harm",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, badness, wickedness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْوَسْوَاسِ",
+      "transliteration": "al-waswāsi",
+      "meaning": "the whisperer, the suggestion",
+      "root": {
+        "letters": "و-س-و",
+        "meaning": "to whisper, to suggest, to incite subtly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْخَنَّاسِ",
+      "transliteration": "al-khannāsi",
+      "meaning": "the retreating one, the withdrawer",
+      "root": {
+        "letters": "خ-ن-س",
+        "meaning": "to retreat, to withdraw, to hide"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "from-evil the-whisperer the-retreating-one"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

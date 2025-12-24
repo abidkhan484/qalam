@@ -1,0 +1,61 @@
+{
+  "verseId": "88:2",
+  "verse": {
+    "arabic": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+    "transliteration": "Wujoohun yawmaithin khashiAAatun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وُجُوهٌ",
+      "transliteration": "wujūhun",
+      "meaning": "faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to be bright, to find, to appear; face, direction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "on that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on a day; the day of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then; at that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَاشِعَةٌ",
+      "transliteration": "khāshiʿatun",
+      "meaning": "humbled, subdued",
+      "root": {
+        "letters": "خ-ش-ع",
+        "meaning": "to be subdued, humbled; to incline or bend in submission"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "faces - on that Day - humbled"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "verseId": "79:46",
+  "verse": {
+    "arabic": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا",
+    "transliteration": "Kaannahum yawma yarawnaha lam yalbathoo illa AAashiyyatan aw duhaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 46
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَأَنَّهُمْ",
+      "transliteration": "ka'annahum",
+      "meaning": "as if they are, like unto them",
+      "root": {
+        "letters": "ك-ي-ن",
+        "meaning": "to be, to exist; essence, being"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "as if, like"
+        },
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that, indeed"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "on the day, day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَرَوْنَهَا",
+      "transliteration": "yarawnahā",
+      "meaning": "they see it",
+      "root": {
+        "letters": "ر-ي-و",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (masculine plural)"
+        },
+        {
+          "arabic": "رَو",
+          "meaning": "to see, to perceive"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "it (feminine singular)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular, attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "not (negative particle)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَلْبَثُوا",
+      "transliteration": "yalbathū",
+      "meaning": "they remain, they stay",
+      "root": {
+        "letters": "ل-ب-ث",
+        "meaning": "to stay, to remain, to tarry"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, 1st person plural active voice"
+        },
+        {
+          "arabic": "لَبِثُوا",
+          "meaning": "they remained/stayed (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "إِلَّا",
+      "transliteration": "illā",
+      "meaning": "except, but",
+      "root": {
+        "letters": "ا-ل-و",
+        "meaning": "to exclude, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَشِيَّةً",
+      "transliteration": "ʿashiyatan",
+      "meaning": "an afternoon, the late afternoon",
+      "root": {
+        "letters": "ع-ش-ي",
+        "meaning": "to become late, evening/afternoon time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَوْ",
+      "transliteration": "aw",
+      "meaning": "or",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "ضُحَاهَا",
+      "transliteration": "ḍuḥāhā",
+      "meaning": "a morning, the forenoon",
+      "root": {
+        "letters": "ض-ح-و",
+        "meaning": "brightness, clarity, light"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "as-if-they-are day they-see-it not-they-remain except afternoon or morning-thereof"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

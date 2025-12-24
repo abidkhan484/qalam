@@ -1,0 +1,67 @@
+{
+  "verseId": "92:17",
+  "verse": {
+    "arabic": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+    "transliteration": "Wasayujannabuha alatqa",
+    "surah": "Al-Layl",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَسَيُجَنَّبُهَا",
+      "transliteration": "wa-sayujannabuhā",
+      "meaning": "and it will be kept away from it",
+      "root": {
+        "letters": "ج-ن-ب",
+        "meaning": "to be protected, to keep away, to avoid"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سَ",
+          "meaning": "will (future particle)"
+        },
+        {
+          "arabic": "يُجَنَّبُ",
+          "meaning": "will be kept away / protected"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun, referring to Paradise)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْأَتْقَى",
+      "transliteration": "al-ʼatqā",
+      "meaning": "the most righteous",
+      "root": {
+        "letters": "ط-ق-ي",
+        "meaning": "to abstain, to guard oneself, to be pure"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَتْقَى",
+          "meaning": "most righteous, most pious (superlative form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it-will-be-kept-away-from-it the-most-righteous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

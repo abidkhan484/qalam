@@ -1,0 +1,70 @@
+{
+  "verseId": "104:6",
+  "verse": {
+    "arabic": "نَارُ اللَّهِ الْمُوقَدَةُ",
+    "transliteration": "Naru Allahi almooqadatu",
+    "surah": "Al-Humazah",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "نَارُ",
+      "transliteration": "nāru",
+      "meaning": "fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "intensity, heat, burning"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "llāhi",
+      "meaning": "of Allah",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "to worship, god"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمُوقَدَةُ",
+      "transliteration": "al-mūqadatu",
+      "meaning": "the fueled/blazing",
+      "root": {
+        "letters": "ق-د-و",
+        "meaning": "to kindle, to ignite; to burn"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُوقَدَةٌ",
+          "meaning": "fueled, kindled; blazing (passive participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fire-of Allah the-fueled"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

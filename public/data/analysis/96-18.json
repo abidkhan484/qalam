@@ -1,0 +1,63 @@
+{
+  "verseId": "96:18",
+  "verse": {
+    "arabic": "سَنَدْعُ الزَّبَانِيَةَ",
+    "transliteration": "SanadAAu alzzabaniyata",
+    "surah": "Al-Alaq",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "سَنَدْعُ",
+      "transliteration": "sanadʿū",
+      "meaning": "We will call",
+      "root": {
+        "letters": "س-د-ع",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "future particle indicating 'will'"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "pronoun suffix indicating 'we'"
+        },
+        {
+          "arabic": "دَعُ",
+          "meaning": "to call, to invoke, to pray (verb root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الزَّبَانِيَةَ",
+      "transliteration": "al-zabāniyah",
+      "meaning": "The angels of Hell/the executioners",
+      "root": {
+        "letters": "ز-ب-ن",
+        "meaning": "to force, to compel; to inflict punishment"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "زَبَانِيَة",
+          "meaning": "Angels of Hell, executioners (plural form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "We-will-call - the-angels-of-Hell"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

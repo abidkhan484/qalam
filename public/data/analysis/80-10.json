@@ -1,0 +1,70 @@
+{
+  "verseId": "80:10",
+  "verse": {
+    "arabic": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+    "transliteration": "Faanta AAanhu talahha",
+    "surah": "Abasa",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَنتَ",
+      "transliteration": "fa-ʾanta",
+      "meaning": "then you",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (masculine singular)"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "أَنْتَ",
+          "meaning": "you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَنْهُ",
+      "transliteration": "ʿanhu",
+      "meaning": "from him",
+      "root": {
+        "letters": "ع-ن-ه",
+        "meaning": "deviation, removal, separation"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "from, away from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَلَهَّىٰ",
+      "transliteration": "talahhā",
+      "meaning": "you are distracted/negligent",
+      "root": {
+        "letters": "ل-ه-و",
+        "meaning": "to play, to be frivolous, to be negligent or distracted"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-you - from-him - you-are-distracted"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

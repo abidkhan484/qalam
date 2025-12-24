@@ -1,0 +1,59 @@
+{
+  "verseId": "107:4",
+  "verse": {
+    "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+    "transliteration": "Fawaylun lilmusalleena",
+    "surah": "Al-Ma'un",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَوَيْلٌ",
+      "transliteration": "fa-waylun",
+      "meaning": "So woe, then destruction",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "to be lost, to perish; destruction, ruin"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "So, then (particle of emphasis)"
+        },
+        {
+          "arabic": "وَيْلٌ",
+          "meaning": "woe, destruction"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّلْمُصَلِّينَ",
+      "transliteration": "li-l-muṣallīna",
+      "meaning": "to the pray-ers, for those who pray",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to perform ritual worship"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْمُصَلِّينَ",
+          "meaning": "the pray-ers, those who pray (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-woe to-the-pray-ers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

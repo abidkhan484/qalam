@@ -1,0 +1,92 @@
+{
+  "verseId": "113:4",
+  "verse": {
+    "arabic": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+    "transliteration": "Wamin sharri alnnaffathati fee alAAuqadi",
+    "surah": "Al-Falaq",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمِن",
+      "transliteration": "wa min",
+      "meaning": "and from",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to be from, belonging to"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مِن",
+          "meaning": "from, of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "شَرِّ",
+      "transliteration": "sharri",
+      "meaning": "evil of",
+      "root": {
+        "letters": "ش-ر-ر",
+        "meaning": "evil, harm, badness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّفَّاثَاتِ",
+      "transliteration": "an-naffāthāti",
+      "meaning": "the blowers (feminine plural)",
+      "root": {
+        "letters": "ن-ف-ث",
+        "meaning": "to blow, exhale, or scatter"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-ئ",
+        "meaning": "to enter, to be in, to dwell"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْعُقَدِ",
+      "transliteration": "al-ʿuqadi",
+      "meaning": "the knots",
+      "root": {
+        "letters": "ع-ق-د",
+        "meaning": "to tie, to bind, to restrain"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عُقَدِ",
+          "meaning": "knots (plural of عقدة)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-from evil-of the-blowers in the-knots"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

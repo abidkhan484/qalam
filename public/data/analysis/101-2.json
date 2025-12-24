@@ -1,0 +1,41 @@
+{
+  "verseId": "101:2",
+  "verse": {
+    "arabic": "مَا الْقَارِعَةُ",
+    "transliteration": "Ma alqariAAatu",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun marker"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْقَارِعَةُ",
+      "transliteration": "al-qāriʿah",
+      "meaning": "the Striking Calamity",
+      "root": {
+        "letters": "ق-ر-ع",
+        "meaning": "to strike, to knock forcefully, to overwhelm"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "what - the-Striking-Calamity"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

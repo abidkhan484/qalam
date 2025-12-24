@@ -1,0 +1,118 @@
+{
+  "verseId": "110:2",
+  "verse": {
+    "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+    "transliteration": "Waraayta alnnasa yadkhuloona fee deeni Allahi afwajan",
+    "surah": "An-Nasr",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رَأَيْتَ",
+      "transliteration": "ra’ayta",
+      "meaning": "you saw",
+      "root": {
+        "letters": "ر-ي-أ",
+        "meaning": "to see, to perceive, to understand"
+      },
+      "components": [
+        {
+          "arabic": "رَأَيْتَ",
+          "meaning": "you saw (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسَ",
+      "transliteration": "an-nāsa",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; people (derived from the idea of forgetting one's origin)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَدْخُلُونَ",
+      "transliteration": "yadkhulūna",
+      "meaning": "they enter",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter, to go in"
+      },
+      "components": [
+        {
+          "arabic": "يد",
+          "meaning": "they (prefix pronoun)"
+        },
+        {
+          "arabic": "خُلُون",
+          "meaning": "entering (verbal noun/form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فِي",
+      "transliteration": "fī",
+      "meaning": "in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to be in, to contain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "دِينِ",
+      "transliteration": "dīni",
+      "meaning": "religion (of)",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to judge, to reckon, to be indebted; law, judgment, religion"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah (of)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, divinity; to worship or venerate."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "أَفْوَاجًا",
+      "transliteration": "afwājan",
+      "meaning": "multitudes",
+      "root": {
+        "letters": "ف-و-ج",
+        "meaning": "to gather, to group together"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you saw-the people-they enter-in-religion-of-Allah-multitudes"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

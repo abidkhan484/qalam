@@ -1,0 +1,79 @@
+{
+  "verseId": "82:10",
+  "verse": {
+    "arabic": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+    "transliteration": "Wainna AAalaykum lahafitheena",
+    "surah": "Al-Infitar",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنَّ",
+      "transliteration": "waʾinna",
+      "meaning": "and indeed, verily",
+      "root": {
+        "letters": "إ-نّ-ي",
+        "meaning": "affirmation, truthfulness, certainty"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْكُمْ",
+      "transliteration": "ʿalaykum",
+      "meaning": "over you, upon you",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to be over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "over, upon"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَحَافِظِينَ",
+      "transliteration": "laḥāfiẓīn",
+      "meaning": "keepers, guardians",
+      "root": {
+        "letters": "ح-ف-ظ",
+        "meaning": "to guard, to preserve, to protect"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "the definite article 'the'"
+        },
+        {
+          "arabic": "حَافِظِينَ",
+          "meaning": "keepers, guardians (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed over-you [are] keepers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

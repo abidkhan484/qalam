@@ -1,0 +1,69 @@
+{
+  "verseId": "91:4",
+  "verse": {
+    "arabic": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+    "transliteration": "Waallayli itha yaghshaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّيْلِ",
+      "transliteration": "al-layli",
+      "meaning": "the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to conceal or hide"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to take, to seize, to grasp; also possessing power or ability"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَغْشَاهَا",
+      "transliteration": "yaghshāhā",
+      "meaning": "it covers it",
+      "root": {
+        "letters": "غ-ش-و",
+        "meaning": "to cover, to overshadow, to veil"
+      },
+      "components": [
+        {
+          "arabic": "يَغْشَ",
+          "meaning": "it covers"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular pronoun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - the night - when - it covers - it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

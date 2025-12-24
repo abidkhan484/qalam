@@ -1,0 +1,105 @@
+{
+  "verseId": "79:25",
+  "verse": {
+    "arabic": "فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ",
+    "transliteration": "Faakhathahu Allahu nakala alakhirati waaloola",
+    "surah": "An-Nazi'at",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَأَخَذَهُ",
+      "transliteration": "faʾakhaḏahu",
+      "meaning": "So He seized him",
+      "root": {
+        "letters": "خ-ذ-ي",
+        "meaning": "to take, to seize, to grasp"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (consecutive particle)"
+        },
+        {
+          "arabic": "أَخَذَ",
+          "meaning": "he took, he seized"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the deity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَكَالَ",
+      "transliteration": "nakāla",
+      "meaning": "punishment, severe chastisement",
+      "root": {
+        "letters": "ن-ك-ل",
+        "meaning": "to bear, to sustain; to be exhausted or weakened (leading to concepts of difficulty and burden)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْآخِرَةِ",
+      "transliteration": "al-ʾākhirati",
+      "meaning": "the last (transgression/life)",
+      "root": {
+        "letters": "أ-خ-ر",
+        "meaning": "to follow, to come after; the end or last part of something"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "آخِرَة",
+          "meaning": "the afterlife, the last life; the future"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالْأُولَىٰ",
+      "transliteration": "wal-ʾūlā",
+      "meaning": "and the first (transgression/life)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin, the initial stage"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأُولَىٰ",
+          "meaning": "the first (feminine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-[Then]-He-seized-him allāhu nakāla al-ʾākhirati wal-ʾūlā"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

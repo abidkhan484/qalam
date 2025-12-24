@@ -1,0 +1,109 @@
+{
+  "verseId": "93:11",
+  "verse": {
+    "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+    "transliteration": "Waamma biniAAmati rabbika fahaddith",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but as for, concerning",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to take, to receive, to undertake; also implies restriction or focus"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِنِعْمَةِ",
+      "transliteration": "bi-niʿmati",
+      "meaning": "with the favor of, by means of grace of",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, agreeable; grace, kindness"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "نِعْمَةٍ",
+          "meaning": "grace, favor, blessing (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "then, so",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, result, consequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حَدِّثْ",
+      "transliteration": "ḥaddith",
+      "meaning": "report, narrate",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to occur, happen; to report, narrate"
+      },
+      "components": [
+        {
+          "arabic": "حَدَّ",
+          "meaning": "to report, narrate (base form)"
+        },
+        {
+          "arabic": "ثْ",
+          "meaning": "second person masculine singular suffix (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa - and / ammā - but as for / bi-niʿmati - with the favor of / rabbi-ka - your Lord / fa - then / ḥaddith - report"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

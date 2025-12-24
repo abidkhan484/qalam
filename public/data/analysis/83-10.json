@@ -1,0 +1,70 @@
+{
+  "verseId": "83:10",
+  "verse": {
+    "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "transliteration": "Waylun yawmaithin lilmukaththibeena",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 10
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيْلٌ",
+      "transliteration": "waylun",
+      "meaning": "Woe, destruction, calamity",
+      "root": {
+        "letters": "و-ي-ل",
+        "meaning": "Loss, deprivation, destruction; to be lost or perish."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾiḏin",
+      "meaning": "That Day, on that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "day (accusative)"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then, that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لِّلْمُكَذِّبِينَ",
+      "transliteration": "lil-mukadhdhibīn",
+      "meaning": "To the deniers, for the liars",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny the truth"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "الْمُكَذِّبِينَ",
+          "meaning": "the deniers, the liars (plural masculine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Woe - that Day - to-the-deniers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

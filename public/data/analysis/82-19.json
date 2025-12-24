@@ -1,0 +1,175 @@
+{
+  "verseId": "82:19",
+  "verse": {
+    "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+    "transliteration": "Yawma la tamliku nafsun linafsin shayan waalamru yawmaithin lillahi",
+    "surah": "Al-Infitar",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day (as a period of time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَمْلِكُ",
+      "transliteration": "tamliku",
+      "meaning": "possess, own, control",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own, kingship"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating the second person masculine singular present tense"
+        },
+        {
+          "arabic": "مَلِكَ",
+          "meaning": "possession, ownership, kingship (verbal noun)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "present tense ending for the second person masculine singular"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "نَفْسٌ",
+      "transliteration": "nafsun",
+      "meaning": "soul, self, person",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, to expire; spirit, life force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لِّنَفْسٍ",
+      "transliteration": "linafsin",
+      "meaning": "for a soul, for another self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self, breath"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "نَفْسٍ",
+          "meaning": "a soul, a self"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَيْئًا",
+      "transliteration": "shayʾan",
+      "meaning": "a thing, anything",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be something, to exist"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۖ",
+      "transliteration": "āyah",
+      "meaning": "[pause marker]",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "sign, verse, evidence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَالْأَمْرُ",
+      "transliteration": "wal-ʾamru",
+      "meaning": "and the command, and the matter",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order; matter, affair"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الْأَمْرُ",
+          "meaning": "the command, the matter"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that day, on that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "day (accusative)"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then, that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "لِّلَّهِ",
+      "transliteration": "lillāhi",
+      "meaning": "for Allah, to Allah",
+      "root": {
+        "letters": "ح-م-د",
+        "meaning": "praise, glory, commendation"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah (the one and only God)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day - not - possess - soul - for-soul - thing - [pause] - and-the-command - that-day - for-Allah"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

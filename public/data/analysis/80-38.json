@@ -1,0 +1,61 @@
+{
+  "verseId": "80:38",
+  "verse": {
+    "arabic": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+    "transliteration": "Wujoohun yawmaithin musfiratun",
+    "surah": "Abasa",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وُجُوهٌ",
+      "transliteration": "wujūhun",
+      "meaning": "faces (plural)",
+      "root": {
+        "letters": "و-ج-ه",
+        "meaning": "to find, to be prominent, appearance"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that Day, on that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "ئِذٍ",
+          "meaning": "that; then, at that time (demonstrative)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّسْفِرَةٌ",
+      "transliteration": "musfiratun",
+      "meaning": "bright, radiant, gleaming",
+      "root": {
+        "letters": "س-ف-ر",
+        "meaning": "to travel, to go forth; to be clear or bright (derived meaning)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "faces-on-that-Day radiant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

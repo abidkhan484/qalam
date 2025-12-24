@@ -1,0 +1,103 @@
+{
+  "verseId": "100:8",
+  "verse": {
+    "arabic": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+    "transliteration": "Wainnahu lihubbi alkhayri lashadeedun",
+    "surah": "Al-Adiyat",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِنَّهُ",
+      "transliteration": "waʾinnahu",
+      "meaning": "and indeed he",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; becoming, being"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "he, him (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِحُبِّ",
+      "transliteration": "liḥubbi",
+      "meaning": "for love of",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, affection, fondness"
+      },
+      "components": [
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "حُبٍّ",
+          "meaning": "love, affection (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْخَيْرِ",
+      "transliteration": "al-khayri",
+      "meaning": "the wealth/goodness",
+      "root": {
+        "letters": "خ-ي-ر",
+        "meaning": "goodness, benefit, welfare"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "خَيْر",
+          "meaning": "goodness, wealth"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَشَدِيدٌ",
+      "transliteration": "la-shadīdun",
+      "meaning": "is intense/severe",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be strong, intense, severe"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "the emphatic particle 'indeed, truly'"
+        },
+        {
+          "arabic": "شَدِيدٌ",
+          "meaning": "severe, intense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed-he for-love-of the-wealth is-intense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

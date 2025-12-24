@@ -1,0 +1,94 @@
+{
+  "verseId": "84:22",
+  "verse": {
+    "arabic": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
+    "transliteration": "Bali allatheena kafaroo yukaththiboona",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلِ",
+      "transliteration": "bal",
+      "meaning": "But, rather, nay",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be contrary, to oppose, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "Those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "To possess, to have; belonging to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "Those who (relative pronoun, plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafarū",
+      "meaning": "Disbelieved, rejected faith",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "To cover, conceal; to be ungrateful, reject"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "Prefix indicating a group or plural."
+        },
+        {
+          "arabic": "فَرُوا",
+          "meaning": "They rejected/disbelieved (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُكَذِّبُونَ",
+      "transliteration": "yukadhdhibūna",
+      "meaning": "They deny, they belie",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "to deny, to belie - verb stem from the root ك-ذ-ب"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (masculine plural) - suffix indicating subject and tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "But-rather those-who disbelieved they-deny"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

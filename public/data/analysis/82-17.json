@@ -1,0 +1,92 @@
+{
+  "verseId": "82:17",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+    "transliteration": "Wama adraka ma yawmu alddeeni",
+    "surah": "Al-Infitar",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish for, to possess; also relates to questioning or uncertainty"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "ʾadrāka",
+      "meaning": "can make you know",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to understand, to acquire knowledge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "relation, connection; also questioning or negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمُ",
+      "transliteration": "yawmu",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to expire; day (as that which passes)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "of the recompense/judgment",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to be in debt, to be obligated; recompense, judgment, religion"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِين",
+          "meaning": "recompense, judgment, religion"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and what - can make you know - what - day - of the recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

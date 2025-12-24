@@ -1,0 +1,76 @@
+{
+  "verseId": "80:22",
+  "verse": {
+    "arabic": "ثُمَّ إِذَا شَاءَ أَنشَرَهُ",
+    "transliteration": "Thumma itha shaa ansharahu",
+    "surah": "Abasa",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to become firm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ي",
+        "meaning": "to go, to depart; to come, to arrive (in a temporal sense)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَاءَ",
+      "transliteration": "shāʾa",
+      "meaning": "He willed, He desires",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to desire, to will, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنشَرَهُ",
+      "transliteration": "ʾansharahū",
+      "meaning": "He will resurrect him, He will expand it/him",
+      "root": {
+        "letters": "ش-ر-أ",
+        "meaning": "to expand, to loosen, to spread out; also to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "to (infinitive marker)"
+        },
+        {
+          "arabic": "شَرَ",
+          "meaning": "to loosen, expand, or resurrect (root verb)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (masculine singular pronoun, object)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-when-He-willed-He-will-resurrect-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

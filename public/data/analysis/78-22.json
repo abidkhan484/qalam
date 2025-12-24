@@ -1,0 +1,59 @@
+{
+  "verseId": "78:22",
+  "verse": {
+    "arabic": "لِّلطَّاغِينَ مَآبًا",
+    "transliteration": "Lilttagheena maaban",
+    "surah": "An-Naba",
+    "verseNumber": 22
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِّلطَّاغِينَ",
+      "transliteration": "liṭ-ṭāghīna",
+      "meaning": "for the transgressors",
+      "root": {
+        "letters": "ط-غ-ي",
+        "meaning": "to exceed limits, to be insolent; transgression, oppression"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "طَّاغِينَ",
+          "meaning": "transgressors, wrongdoers (plural active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَآبًا",
+      "transliteration": "maʾāban",
+      "meaning": "a place of return",
+      "root": {
+        "letters": "أ-ب-و",
+        "meaning": "to return, to come back; the last part of a journey"
+      },
+      "components": [
+        {
+          "arabic": "مَأ",
+          "meaning": "a place for"
+        },
+        {
+          "arabic": "آبًا",
+          "meaning": "returning, a return"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-the-transgressors - a-place-of-return"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

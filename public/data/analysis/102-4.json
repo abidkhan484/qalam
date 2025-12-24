@@ -1,0 +1,76 @@
+{
+  "verseId": "102:4",
+  "verse": {
+    "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+    "transliteration": "Thumma kalla sawfa taAAlamoona",
+    "surah": "At-Takathur",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to be firm, to stand still"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "no!, indeed not, by no means!",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "to reject, to deny, to be insufficient"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَوْفَ",
+      "transliteration": "sawfa",
+      "meaning": "certainly, soon",
+      "root": {
+        "letters": "س-و-ف",
+        "meaning": "to extend, to prolong; future time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تَعْلَمُونَ",
+      "transliteration": "taʿlamūn",
+      "meaning": "you will know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, be aware"
+      },
+      "components": [
+        {
+          "arabic": "تَـ",
+          "meaning": "prefix indicating future tense or habitual action"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating second person masculine plural (you)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - no! – certainly - you-all will know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

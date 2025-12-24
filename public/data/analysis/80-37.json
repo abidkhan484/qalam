@@ -1,0 +1,121 @@
+{
+  "verseId": "80:37",
+  "verse": {
+    "arabic": "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+    "transliteration": "Likulli imriin minhum yawmaithin shanun yughneehi",
+    "surah": "Abasa",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِكُلِّ",
+      "transliteration": "li-kulli",
+      "meaning": "for every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to complete, to finish; totality, entirety"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُلِّ",
+          "meaning": "every, all of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "امْرِئٍ",
+      "transliteration": "imriʾin",
+      "meaning": "man",
+      "root": {
+        "letters": "م-ر-أ",
+        "meaning": "masculinity, leadership, free man"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِّنْهُمْ",
+      "transliteration": "min-hum",
+      "meaning": "from them",
+      "root": {
+        "letters": "م-ن-ع",
+        "meaning": "to hinder, obstruct, or originate from"
+      },
+      "components": [
+        {
+          "arabic": "مِنْ",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on that day / the Day"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then; at that time"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "شَأْنٌ",
+      "transliteration": "shaʾnun",
+      "meaning": "matter, affair",
+      "root": {
+        "letters": "ش-ي-ن",
+        "meaning": "to do, to undertake; a matter or affair"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يُغْنِيهِ",
+      "transliteration": "yughnīhi",
+      "meaning": "suffices him, is adequate for him",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be sufficient, to suffice, to be rich"
+      },
+      "components": [
+        {
+          "arabic": "يُغْنِ",
+          "meaning": "he suffices"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "him"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-every man from-them that-Day matter suffices-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

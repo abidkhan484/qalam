@@ -1,0 +1,54 @@
+{
+  "verseId": "78:1",
+  "verse": {
+    "arabic": "عَمَّ يَتَسَاءَلُونَ",
+    "transliteration": "AAamma yatasaaloona",
+    "surah": "An-Naba",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَمَّ",
+      "transliteration": "ʿamma",
+      "meaning": "About what?",
+      "root": {
+        "letters": "ع-م-م",
+        "meaning": "to be general, to encompass, widespread"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَتَسَاءَلُونَ",
+      "transliteration": "yatasāʾalūna",
+      "meaning": "They ask one another",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire"
+      },
+      "components": [
+        {
+          "arabic": "يَتَ",
+          "meaning": "they (prefix indicating plurality and present/future tense)"
+        },
+        {
+          "arabic": "تَسَاءَلُ",
+          "meaning": "to ask each other, to question one another (derived from سَأَل)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "they (suffix indicating plurality)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "ʿAmma - [About] what - they-ask-one-another"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "verseId": "78:9",
+  "verse": {
+    "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+    "transliteration": "WajaAAalna nawmakum subatan",
+    "surah": "An-Naba",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجَعَلْنَا",
+      "transliteration": "wa-jaʿalnā",
+      "meaning": "and We made",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to make, to appoint"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جَعَلْنَا",
+          "meaning": "We made"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَوْمَكُمْ",
+      "transliteration": "nawmakum",
+      "meaning": "your sleep",
+      "root": {
+        "letters": "ن-و-م",
+        "meaning": "sleep, rest"
+      },
+      "components": [
+        {
+          "arabic": "نَوْم",
+          "meaning": "sleep"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سُبَاتًا",
+      "transliteration": "subātan",
+      "meaning": "rest, tranquility",
+      "root": {
+        "letters": "س-ب-ت",
+        "meaning": "to rest, to cease from activity; stillness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa- [We] made - your sleep - rest"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

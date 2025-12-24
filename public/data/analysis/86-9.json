@@ -1,0 +1,61 @@
+{
+  "verseId": "86:9",
+  "verse": {
+    "arabic": "يَوْمَ تُبْلَى السَّرَائِرُ",
+    "transliteration": "Yawma tubla alssarairu",
+    "surah": "At-Tariq",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُبْلَى",
+      "transliteration": "tublā",
+      "meaning": "are tested / are put to the trial",
+      "root": {
+        "letters": "ب-ل-و",
+        "meaning": "to be afflicted, to suffer hardship, to test"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating passive voice or the result of an action being done *to* the subject"
+        },
+        {
+          "arabic": "بْلَى",
+          "meaning": "testing, trial, affliction (verbal noun derived from the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّرَائِرُ",
+      "transliteration": "as-sarāʾiru",
+      "meaning": "the secrets/hidden things",
+      "root": {
+        "letters": "س-ر-ر",
+        "meaning": "to conceal, hide, be private"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day-when are-tested the-secrets"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

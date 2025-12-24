@@ -1,0 +1,112 @@
+{
+  "verseId": "89:6",
+  "verse": {
+    "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+    "transliteration": "Alam tara kayfa faAAala rabbuka biAAadin",
+    "surah": "Al-Fajr",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did not, have you not",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "To know, to perceive, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "Negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "Past negative particle, did not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَ",
+      "transliteration": "tara",
+      "meaning": "See, perceive, consider",
+      "root": {
+        "letters": "ر-ي-ا",
+        "meaning": "To see, perceive, to know through observation; vision."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "How",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "to be, to become; state or condition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَعَلَ",
+      "transliteration": "faʿala",
+      "meaning": "He did, He acted",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to act, to make"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess; Lord"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِعَادٍ",
+      "transliteration": "bi-ʿādin",
+      "meaning": "With 'Aad",
+      "root": {
+        "letters": "ع-د-و",
+        "meaning": "to be hostile, enemy; to oppose"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "عَادٍ",
+          "meaning": "the people of 'Aad (a tribe)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not you see how acted your Lord with 'Aad?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

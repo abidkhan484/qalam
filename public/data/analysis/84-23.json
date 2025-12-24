@@ -1,0 +1,94 @@
+{
+  "verseId": "84:23",
+  "verse": {
+    "arabic": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+    "transliteration": "WaAllahu aAAlamu bima yooAAoona",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "and Allah",
+      "root": {
+        "letters": "ل-ه-أ",
+        "meaning": "to be worshipped, to be known, divinity"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "meaning": "Allah (The God)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَعْلَمُ",
+      "transliteration": "aʿlamu",
+      "meaning": "more knowing/most knowing",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, intelligence"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "more/most (superlative marker)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "first person singular pronoun suffix (I)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِمَا",
+      "transliteration": "bi-mā",
+      "meaning": "with what/of what",
+      "root": {
+        "letters": "م-و-ج",
+        "meaning": "to be abundant, flow, exist in large quantity"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by means of"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُوعُونَ",
+      "transliteration": "yūʿūnūna",
+      "meaning": "they conceal/they keep within themselves",
+      "root": {
+        "letters": "و-ع-ي",
+        "meaning": "to perceive, understand, be aware; to keep something hidden or within oneself"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-Allah most-knowing of-what they-conceal"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "verseId": "91:13",
+  "verse": {
+    "arabic": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+    "transliteration": "Faqala lahum rasoolu Allahi naqata Allahi wasuqyaha",
+    "surah": "Ash-Shams",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَقَالَ",
+      "transliteration": "fa-qāla",
+      "meaning": "then he said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "to speak, to say, narration"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "قَالَ",
+          "meaning": "he said"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُمْ",
+      "transliteration": "lahum",
+      "meaning": "to them",
+      "root": {
+        "letters": "ل-هـ-م",
+        "meaning": "to possess, to belong to"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "to, for"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَسُولُ",
+      "transliteration": "rasūlu",
+      "meaning": "messenger of",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, to journey, to communicate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah's (genitive)",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "Divinity, godhood; to be worshipped"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "Belonging to; for"
+        },
+        {
+          "arabic": "اللهِ",
+          "meaning": "The God (Allah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نَاقَةَ",
+      "transliteration": "nāqata",
+      "meaning": "she-camel of",
+      "root": {
+        "letters": "ن-ق-ع",
+        "meaning": "to be thirsty; to drink water; camel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "اللَّهِ",
+      "transliteration": "Allāhi",
+      "meaning": "Allah's (genitive)",
+      "root": {
+        "letters": "ا-ل-ه",
+        "meaning": "The God, divinity; to worship"
+      },
+      "components": [
+        {
+          "arabic": "اللَّه",
+          "meaning": "The God (proper noun)"
+        },
+        {
+          "arabic": "الِ",
+          "meaning": "The (definite article, genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَسُقْيَاهَا",
+      "transliteration": "wa-suqyahā",
+      "meaning": "and her drink/watering",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to water, to give drink"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "سُقْيَاهَا",
+          "meaning": "her drink/watering"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-he-said to-them messenger-of Allah's she-camel-of Allah's and-her-drink"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

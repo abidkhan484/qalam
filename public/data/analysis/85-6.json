@@ -1,0 +1,72 @@
+{
+  "verseId": "85:6",
+  "verse": {
+    "arabic": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+    "transliteration": "Ith hum AAalayha quAAoodun",
+    "surah": "Al-Buruj",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِذْ",
+      "transliteration": "idh",
+      "meaning": "when, at the time when",
+      "root": {
+        "letters": "أ-ذْ-ح",
+        "meaning": "to perceive, to be aware, to feel"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "upon it, over it",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to be over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "قُعُودٌ",
+      "transliteration": "quʿūd",
+      "meaning": "sitting, seated condition",
+      "root": {
+        "letters": "ع-و-د",
+        "meaning": "to return, to be in a state of being"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "when-they upon-it sitting"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

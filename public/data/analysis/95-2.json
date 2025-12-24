@@ -1,0 +1,45 @@
+{
+  "verseId": "95:2",
+  "verse": {
+    "arabic": "وَطُورِ سِينِينَ",
+    "transliteration": "Watoori seeneena",
+    "surah": "At-Tin",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَطُورِ",
+      "transliteration": "wa ṭūri",
+      "meaning": "and [the] Mount",
+      "root": {
+        "letters": "ﻁ-و-ر",
+        "meaning": "to rise, to be high; mountain"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "طُورِ",
+          "meaning": "[the] Mount"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سِينِينَ",
+      "transliteration": "sīnin",
+      "meaning": "Sinai"
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and -[the] Mount- Sinai"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

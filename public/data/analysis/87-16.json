@@ -1,0 +1,93 @@
+{
+  "verseId": "87:16",
+  "verse": {
+    "arabic": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+    "transliteration": "Bal tuthiroona alhayata alddunya",
+    "surah": "Al-A'la",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "but, rather, nay",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to reach the opposite extreme; negation/rejection"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُؤْثِرُونَ",
+      "transliteration": "tu'thirūna",
+      "meaning": "you prefer, you choose",
+      "root": {
+        "letters": "أ-ث-ر",
+        "meaning": "to prefer, to choose, to give preference; trace, remnant"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural present/future tense"
+        },
+        {
+          "arabic": "ؤْ",
+          "meaning": "weak consonant, part of the root; represents a long vowel after 'th'"
+        },
+        {
+          "arabic": "ثِ",
+          "meaning": "part of the root indicating preference/choice"
+        },
+        {
+          "arabic": "رُ",
+          "meaning": "part of the root indicating preference/choice"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "suffix indicating second person plural (masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْحَيَاةَ",
+      "transliteration": "al-ḥayāta",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive, existence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاة",
+          "meaning": "life, vitality"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the worldly (life)",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "lowliness, baseness, humility; temporary existence"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "but-nay you-[do] prefer the-life the-worldly"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

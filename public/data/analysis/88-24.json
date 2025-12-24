@@ -1,0 +1,98 @@
+{
+  "verseId": "88:24",
+  "verse": {
+    "arabic": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+    "transliteration": "FayuAAaththibuhu Allahu alAAathaba alakbara",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَيُعَذِّبُهُ",
+      "transliteration": "fa-yuʿadhdhibuhu",
+      "meaning": "Then He punishes him",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to torment; to be bitter or painful"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so; a connective particle indicating sequence."
+        },
+        {
+          "arabic": "يُـ",
+          "meaning": "he (masculine singular) - a pronoun prefix indicating the subject performing the action."
+        },
+        {
+          "arabic": "عَذَّبَ",
+          "meaning": "to punish, to torment (Form IV verb)"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (masculine singular) - a pronoun suffix indicating the direct object."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهُ",
+      "transliteration": "allāhu",
+      "meaning": "Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be worshipped; the Divine Essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعَذَابَ",
+      "transliteration": "al-ʿadhāba",
+      "meaning": "The punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to inflict pain; bitterness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَذَابٌ",
+          "meaning": "punishment, torment"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَكْبَرَ",
+      "transliteration": "al-akbara",
+      "meaning": "The greatest",
+      "root": {
+        "letters": "ك-ب-ر",
+        "meaning": "to be large, great; to grow, increase"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَكْبَرَ",
+          "meaning": "greatest (superlative form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-yuʿadhdhibuhu - Then He punishes him, allāhu - Allah, al-ʿadhāba - the punishment, al-akbara - the greatest"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

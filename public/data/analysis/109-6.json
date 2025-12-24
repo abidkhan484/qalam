@@ -1,0 +1,99 @@
+{
+  "verseId": "109:6",
+  "verse": {
+    "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+    "transliteration": "Lakum deenukum waliya deeni",
+    "surah": "Al-Kafirun",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you (plural)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "دِينُكُمْ",
+      "transliteration": "dīnakum",
+      "meaning": "your religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to judge, recompense; faith, religion"
+      },
+      "components": [
+        {
+          "arabic": "دِين",
+          "meaning": "religion, faith, judgment"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "your (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلِيَ",
+      "transliteration": "wa li-ya",
+      "meaning": "and for me",
+      "root": {
+        "letters": "و-ل-ي",
+        "meaning": "to turn to, to be responsible for, to protect"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِي",
+          "meaning": "for me"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "دِينِ",
+      "transliteration": "dīnī",
+      "meaning": "my religion",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to judge, to reckon; religion, faith, decree"
+      },
+      "components": [
+        {
+          "arabic": "دِين",
+          "meaning": "religion, faith, creed"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (possessive pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-you is-your religion and for-me is-my religion"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "verseId": "89:20",
+  "verse": {
+    "arabic": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+    "transliteration": "Watuhibboona almala hubban jamman",
+    "surah": "Al-Fajr",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَتُحِبُّونَ",
+      "transliteration": "wa-tuḥibbūna",
+      "meaning": "and you love (plural)",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, to feel affection"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تُحِبُّونَ",
+          "meaning": "you (plural) love"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْمَالَ",
+      "transliteration": "al-māla",
+      "meaning": "the wealth",
+      "root": {
+        "letters": "م-ل-ي",
+        "meaning": "possession, ownership; to fill, be full"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حُبًّا",
+      "transliteration": "ḥubban",
+      "meaning": "love (as an extent/amount)",
+      "root": {
+        "letters": "ح-ب-ب",
+        "meaning": "to love, affection, fondness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "جَمًّا",
+      "transliteration": "jamman",
+      "meaning": "immense, abundant",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to collect, to gather; abundance, multitude"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-you-love the-wealth love immense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

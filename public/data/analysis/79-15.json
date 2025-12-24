@@ -1,0 +1,69 @@
+{
+  "verseId": "79:15",
+  "verse": {
+    "arabic": "هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ",
+    "transliteration": "Hal ataka hadeethu moosa",
+    "surah": "An-Nazi'at",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "interrogative particle indicating a question; 'did...?'",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَتَاكَ",
+      "transliteration": "ʾatāka",
+      "meaning": "came to you; reached you",
+      "root": {
+        "letters": "أ-ت-ي",
+        "meaning": "to come; to approach"
+      },
+      "components": [
+        {
+          "arabic": "أَتَ",
+          "meaning": "came"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "to you (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حَدِيثُ",
+      "transliteration": "ḥadīthu",
+      "meaning": "story; narrative, account",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to occur, happen; to report, narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُوسَىٰ",
+      "transliteration": "mūsā",
+      "meaning": "Moses (name)",
+      "root": {
+        "letters": "م-س-و",
+        "meaning": "weakness, feebleness; to draw water (related to the story of Moses' birth)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "did-come-to-you story-of Moses?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

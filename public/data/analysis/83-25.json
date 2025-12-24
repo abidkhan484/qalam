@@ -1,0 +1,89 @@
+{
+  "verseId": "83:25",
+  "verse": {
+    "arabic": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+    "transliteration": "Yusqawna min raheeqin makhtoomin",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يُسْقَوْنَ",
+      "transliteration": "yusqawna",
+      "meaning": "They will be given to drink",
+      "root": {
+        "letters": "س-ق-ي",
+        "meaning": "to water, to give drink"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (masculine plural) - prefix indicating subject and tense"
+        },
+        {
+          "arabic": "سُقُوا",
+          "meaning": "passive voice, they are given to drink"
+        },
+        {
+          "arabic": "نَ",
+          "meaning": "suffix indicating masculine plural"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "From",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to decrease, to diminish; origin or source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَّحِيقٍ",
+      "transliteration": "raḥīqin",
+      "meaning": "A pure wine/nectar",
+      "root": {
+        "letters": "ر-ح-ق",
+        "meaning": "to return, to go back; sweetness, purity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَّخْتُومٍ",
+      "transliteration": "makhtūmin",
+      "meaning": "Sealed",
+      "root": {
+        "letters": "خ-ت-م",
+        "meaning": "To seal, to stamp, to finish"
+      },
+      "components": [
+        {
+          "arabic": "مَخْ",
+          "meaning": "Passive participle prefix indicating 'sealed'"
+        },
+        {
+          "arabic": "تُوم",
+          "meaning": "Related to being sealed/stamped; participle ending"
+        },
+        {
+          "arabic": "ـٍ",
+          "meaning": "Indefinite accusative ending (tanwīn)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-will-be-given-to-drink – from – [a] pure-wine/nectar – sealed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

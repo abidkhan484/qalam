@@ -1,0 +1,85 @@
+{
+  "verseId": "93:6",
+  "verse": {
+    "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+    "transliteration": "Alam yajidka yateeman faawa",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Did not, have...not",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to want, to wish; negation or absence of something"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negation particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past tense negation (particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَجِدْكَ",
+      "transliteration": "yajidka",
+      "meaning": "He find you",
+      "root": {
+        "letters": "ج-د-و",
+        "meaning": "to find, to obtain, to discover"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, subjunctive or jussive mood (depending on context)"
+        },
+        {
+          "arabic": "جِدْ",
+          "meaning": "finding, obtaining (verbal noun form)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you (masculine singular, direct object suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَتِيمًا",
+      "transliteration": "yatīman",
+      "meaning": "An orphan",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, deficient, or lonely; to lack support"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَآوَىٰ",
+      "transliteration": "faʾāwā",
+      "meaning": "So He gave refuge, then sheltered",
+      "root": {
+        "letters": "أ-و-ى",
+        "meaning": "to return, to seek refuge, to shelter"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Did-not He find-you an-orphan so He-sheltered"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

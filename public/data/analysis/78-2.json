@@ -1,0 +1,61 @@
+{
+  "verseId": "78:2",
+  "verse": {
+    "arabic": "عَنِ النَّبَإِ الْعَظِيمِ",
+    "transliteration": "AAani alnnabai alAAatheemi",
+    "surah": "An-Naba",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about, concerning",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be related to, pertaining to, with respect to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "النَّبَإِ",
+      "transliteration": "an-nabāʾi",
+      "meaning": "the news, the tidings",
+      "root": {
+        "letters": "ن-ب-أ",
+        "meaning": "to report, to inform, significant news"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْعَظِيمِ",
+      "transliteration": "al-ʿaẓīmi",
+      "meaning": "the great, the immense",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, immense, powerful; size, magnitude"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَظِيمِ",
+          "meaning": "great, immense (adjective)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "about - the news - the great"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

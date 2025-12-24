@@ -1,0 +1,118 @@
+{
+  "verseId": "83:3",
+  "verse": {
+    "arabic": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+    "transliteration": "Waitha kaloohum aw wazanoohum yukhsiroona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَإِذَا",
+      "transliteration": "waʾidhā",
+      "meaning": "and when",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to come, to happen; time"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when; if"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَالُوهُمْ",
+      "transliteration": "kālūhum",
+      "meaning": "[they] measure them",
+      "root": {
+        "letters": "ك-ي-ل",
+        "meaning": "to measure, to apportion"
+      },
+      "components": [
+        {
+          "arabic": "ك",
+          "meaning": "like, as"
+        },
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "وهُمْ",
+          "meaning": "them (pronoun suffix attached)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَو",
+      "transliteration": "ʾaw",
+      "meaning": "or",
+      "root": {
+        "letters": "و-ا-و",
+        "meaning": "connection, joining, alternative"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَّزَنُوهُمْ",
+      "transliteration": "wazanūhum",
+      "meaning": "[they] weigh them",
+      "root": {
+        "letters": "و-ز-ن",
+        "meaning": "to measure, to weigh, to estimate; justice and equity"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "زَنُوهُمْ",
+          "meaning": "they weighed them"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يُخْسِرُونَ",
+      "transliteration": "yukhsirūn",
+      "meaning": "they cause loss",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to be defeated, to suffer loss"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "prefix indicating present/future tense, and first person plural active voice (they)"
+        },
+        {
+          "arabic": "خْسِر",
+          "meaning": "loss, defeat (stem of the root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating first person plural active voice (they)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when [they] measure-them or [they] weigh-them they cause-loss"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

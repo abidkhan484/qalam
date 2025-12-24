@@ -1,0 +1,126 @@
+{
+  "verseId": "95:1",
+  "verse": {
+    "arabic": "بِّسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ وَالتِّينِ وَالزَّيْتُونِ",
+    "transliteration": "Waaltteeni waalzzaytooni",
+    "surah": "At-Tin",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بِّسْمِ",
+      "transliteration": "bi-smi",
+      "meaning": "in the name of",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "elevation, high status, renown"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with, by means of"
+        },
+        {
+          "arabic": "اسْمِ",
+          "meaning": "the name"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "اللَّهِ",
+      "transliteration": "al-llāhi",
+      "meaning": "the God",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "to worship, divinity, godhood"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَّهِ",
+          "meaning": "God (possessive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "meaning": "the Most Compassionate",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have mercy, compassion; kindness"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰنِ",
+          "meaning": "The Most Compassionate (intensive form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الرَّحِيمِ",
+      "transliteration": "ar-raḥīmi",
+      "meaning": "the Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have mercy, compassion; tenderness"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "رَّحِيمِ",
+          "meaning": "Merciful (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَالتِّينِ",
+      "transliteration": "wa-t-tīni",
+      "meaning": "and the fig",
+      "root": {
+        "letters": "ت-ي-ن",
+        "meaning": "softness, tenderness; fig tree, the fig fruit itself"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "التِّينِ",
+          "meaning": "the fig (definite noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "وَالزَّيْتُونِ",
+      "transliteration": "wa-z-zaytūni",
+      "meaning": "and the olive",
+      "root": {
+        "letters": "ز-ي-ت",
+        "meaning": "oil, richness, moisture"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-the name-of the-God the-Most Compassionate the-Most Merciful and-the fig and-the olive"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "verseId": "83:18",
+  "verse": {
+    "arabic": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ",
+    "transliteration": "Kalla inna kitaba alabrari lafee AAilliyyeena",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Indeed not, By no means",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "to prevent, to restrain, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "Indeed, Verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, Verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كِتَابَ",
+      "transliteration": "kitāba",
+      "meaning": "Record, Book (accusative)",
+      "root": {
+        "letters": "ك-ت-ب",
+        "meaning": "To write, to record"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَبْرَارِ",
+      "transliteration": "al-abrāri",
+      "meaning": "The righteous (genitive plural)",
+      "root": {
+        "letters": "ب-ر-ر",
+        "meaning": "to be pious, righteous; to excel in goodness"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "لَفِي",
+      "transliteration": "lafī",
+      "meaning": "Is indeed in, Surely is within",
+      "root": {
+        "letters": "ل-ف-ي",
+        "meaning": "To remain, to stay, to be present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "عِلِّيِّينَ",
+      "transliteration": "'illiyyīna",
+      "meaning": "The highest places (genitive plural)",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to elevate"
+      },
+      "components": [
+        {
+          "arabic": "عَلِيّ",
+          "meaning": "high, elevated"
+        },
+        {
+          "arabic": "ِيِّينَ",
+          "meaning": "plural genitive ending indicating belonging to the highest places"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No!- Indeed- a record- of the righteous- is indeed in- the highest places."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

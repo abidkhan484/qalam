@@ -1,0 +1,81 @@
+{
+  "verseId": "78:28",
+  "verse": {
+    "arabic": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
+    "transliteration": "Wakaththaboo biayatina kiththaban",
+    "surah": "An-Naba",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-د-ع",
+        "meaning": "to love, affection, friendship"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَذَّبُوا",
+      "transliteration": "kadhabū",
+      "meaning": "they denied, they lied",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to contradict"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (masculine plural pronoun)"
+        },
+        {
+          "arabic": "ذَبُوا",
+          "meaning": "denied, lied (verb form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِآيَاتِنَا",
+      "transliteration": "bi-āyātinā",
+      "meaning": "with Our verses",
+      "root": {
+        "letters": "أ-ي-ت",
+        "meaning": "sign, verse, miracle"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "آيَاتِنَا",
+          "meaning": "Our verses"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كِذَّابًا",
+      "transliteration": "kidhāban",
+      "meaning": "denial, falsehood, lyingly",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, untruthfulness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-they-denied with-Our-verses denial-[emphatically]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

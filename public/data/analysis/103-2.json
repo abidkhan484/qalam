@@ -1,0 +1,68 @@
+{
+  "verseId": "103:2",
+  "verse": {
+    "arabic": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+    "transliteration": "Inna alinsana lafee khusrin",
+    "surah": "Al-Asr",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; signifies affirmation and emphasis."
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "A verbal particle indicating emphasis, confirmation, or certainty."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be friendly; weakness; forgetfulness (related to being distracted from God)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَفِي",
+      "transliteration": "lafī",
+      "meaning": "Indeed is in, surely is in",
+      "root": {
+        "letters": "ل-ف-ي",
+        "meaning": "to be in, to remain, to perish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خُسْرٍ",
+      "transliteration": "khusrin",
+      "meaning": "Loss, ruin, disadvantage",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to be deficient, to suffer loss"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the-human-being surely-is-in loss"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

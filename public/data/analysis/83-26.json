@@ -1,0 +1,133 @@
+{
+  "verseId": "83:26",
+  "verse": {
+    "arabic": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+    "transliteration": "Khitamuhu miskun wafee thalika falyatanafasi almutanafisoona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "خِتَامُهُ",
+      "transliteration": "khiātūhu",
+      "meaning": "its seal, its end",
+      "root": {
+        "letters": "خ-ت-م",
+        "meaning": "to seal, to finish, to conclude"
+      },
+      "components": [
+        {
+          "arabic": "خِتَامُ",
+          "meaning": "seal, end"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "its, his/her (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مِسْكٌ",
+      "transliteration": "miskun",
+      "meaning": "musk",
+      "root": {
+        "letters": "م-س-ك",
+        "meaning": "to hold, to restrain; firmness, stability (leading to the fragrant quality as a retained substance)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ۖ",
+      "transliteration": "fa-ṣilan",
+      "meaning": "(pause marker)",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَفِي",
+      "transliteration": "wa-fī",
+      "meaning": "and in",
+      "root": {
+        "letters": "ف-ي-أ",
+        "meaning": "to enter, to go into, to be contained within; sufficiency"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "ذَٰلِكَ",
+      "transliteration": "dhālika",
+      "meaning": "that, this",
+      "root": {
+        "letters": "ذ-ل-ك",
+        "meaning": "humility, weakness, submission; to be low, to be humbled"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "فَلْيَتَنَافَسِ",
+      "transliteration": "fa-l-yatanāfasī",
+      "meaning": "so let compete, then let strive",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, to soul, to desire, to compete"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of enticement)"
+        },
+        {
+          "arabic": "لِـ",
+          "meaning": "for, to (particle of purpose)"
+        },
+        {
+          "arabic": "يَتَنَافَسِ",
+          "meaning": "they compete, they strive (verb in subjunctive mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْمُتَنَافِسُونَ",
+      "transliteration": "al-mutanāfisūna",
+      "meaning": "the competitors, the strivors",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "soul, self; to breathe, desire, strive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مُتَنَافِسُونَ",
+          "meaning": "competitors, strivors (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "its-seal musk - and-in that so-let-compete the-competitors"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

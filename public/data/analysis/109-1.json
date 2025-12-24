@@ -1,0 +1,83 @@
+{
+  "verseId": "109:1",
+  "verse": {
+    "arabic": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+    "transliteration": "Qul ya ayyuha alkafiroona",
+    "surah": "Al-Kafirun",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, utter, or command"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَا",
+      "transliteration": "yā",
+      "meaning": "O",
+      "root": null,
+      "components": [
+        {
+          "arabic": "يَا",
+          "meaning": "O (vocative particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَيُّهَا",
+      "transliteration": "ayyuhā",
+      "meaning": "[vocative particle] O you (masculine plural)",
+      "root": {
+        "letters": "ه-ي-أ",
+        "meaning": "to call, to invoke; attention"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "O!"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "you (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْكَافِرُونَ",
+      "transliteration": "al-kāfirūna",
+      "meaning": "The disbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, conceal; to be ungrateful, deny (faith)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "كَافِرُونَ",
+          "meaning": "Disbelievers (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say- O- O you- The disbelievers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "verseId": "1:7",
+  "verse": {
+    "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+    "transliteration": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala alddalleena",
+    "surah": "Al-Fatihah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "صِرَاطَ",
+      "transliteration": "ṣirāṭa",
+      "meaning": "path, way",
+      "root": {
+        "letters": "ص-ر-ط",
+        "meaning": "to be straight, direct; path, way"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "those who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to be endowed with"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "those who (relative pronoun with suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنْعَمْتَ",
+      "transliteration": "ʾanʿamta",
+      "meaning": "You have bestowed favor",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to be pleasant, agreeable; to bestow favor or blessing"
+      },
+      "components": [
+        {
+          "arabic": "أَنۡ",
+          "meaning": "to"
+        },
+        {
+          "arabic": "عَمۡتَ",
+          "meaning": "you bestowed favor upon you (second person masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "غَيْرِ",
+      "transliteration": "ghayri",
+      "meaning": "not of, other than",
+      "root": {
+        "letters": "غ-ي-ر",
+        "meaning": "to be other than, to lack, deficiency"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْمَغْضُوبِ",
+      "transliteration": "al-maghḍūbi",
+      "meaning": "the angered, those who have evoked anger",
+      "root": {
+        "letters": "غ-ض-ب",
+        "meaning": "to feel anger, to be wrathful"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "مَغْضُوبِ",
+          "meaning": "angered, wrathful (passive participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, elevated; to ascend; over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "and not, nor",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be unwilling"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الضَّالِّينَ",
+      "transliteration": "al-ḍāllīna",
+      "meaning": "the astray, those who are lost",
+      "root": {
+        "letters": "ض-ل-ل",
+        "meaning": "to go astray, to err, to be lost"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ضَّالِّينَ",
+          "meaning": "those who are astray, the lost ones (plural active participle)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "path-of those-who You-have-bestowed favor upon-them not-of the-angered upon-them and-not the-astray"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

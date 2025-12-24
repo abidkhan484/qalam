@@ -1,0 +1,208 @@
+{
+  "verseId": "78:37",
+  "verse": {
+    "arabic": "رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+    "transliteration": "Rabbi alssamawati waalardi wama baynahuma alrrahmani la yamlikoona minhu khitaban",
+    "surah": "An-Naba",
+    "verseNumber": 37
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَّبِّ",
+      "transliteration": "rabbi",
+      "meaning": "Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship, mastery"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (vocative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "as-samāwāti",
+      "meaning": "the heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, be elevated; height, loftiness"
+      },
+      "components": [
+        {
+          "arabic": "السَّمَاوَاتِ",
+          "meaning": "the heavens (plural definite form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and"
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "the earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, to be level, the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "اَلْ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "earth, land"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "genitive case ending (ʾiʿrab)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and whatever",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "possession, ability, source"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "whatever, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بَيْنَهُمَا",
+      "transliteration": "baynahumā",
+      "meaning": "between them",
+      "root": {
+        "letters": "ب-ي-ن",
+        "meaning": "to be separate, to distinguish, interval"
+      },
+      "components": [
+        {
+          "arabic": "بَيْن",
+          "meaning": "between"
+        },
+        {
+          "arabic": "هُمَا",
+          "meaning": "they two"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الرَّحْمَـٰنِ",
+      "transliteration": "ar-raḥmāni",
+      "meaning": "the Most Merciful",
+      "root": {
+        "letters": "ر-ح-م",
+        "meaning": "to have compassion; to be kind and tender"
+      },
+      "components": [
+        {
+          "arabic": "الرَّحْمَـٰن",
+          "meaning": "The Most Merciful (intensive form of the root)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "ۖ",
+      "transliteration": "(pause)",
+      "meaning": "[separator]",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "يَمْلِكُونَ",
+      "transliteration": "yamlikūna",
+      "meaning": "they possess",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "to possess, to own"
+      },
+      "components": [
+        {
+          "arabic": "يَـ",
+          "meaning": "prefix indicating present/future tense and first person plural (they)"
+        },
+        {
+          "arabic": "مَلِكَـ",
+          "meaning": "possession, ownership (from the root م-ل-ك)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "suffix indicating plural masculine present/future active voice (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "مِنْهُ",
+      "transliteration": "minhu",
+      "meaning": "from Him",
+      "root": {
+        "letters": "م-ن-ه",
+        "meaning": "to originate, to be from"
+      },
+      "components": [
+        {
+          "arabic": "مِن",
+          "meaning": "from"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "He/Him (pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "خِطَابًا",
+      "transliteration": "khiṭāban",
+      "meaning": "speech [authority for]",
+      "root": {
+        "letters": "خ-ط-ب",
+        "meaning": "to speak, address; to write; to form letters"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Lord-of the heavens and earth and whatever between-them the Most Merciful [pause] not they-possess from-Him speech."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

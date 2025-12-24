@@ -1,0 +1,74 @@
+{
+  "verseId": "79:33",
+  "verse": {
+    "arabic": "مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ",
+    "transliteration": "MataAAan lakum walianAAamikum",
+    "surah": "An-Nazi'at",
+    "verseNumber": 33
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مَتَاعًا",
+      "transliteration": "matāʿan",
+      "meaning": "benefit, provision, enjoyment",
+      "root": {
+        "letters": "م-ت-ع",
+        "meaning": "enjoyment, benefit, temporary possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّكُمْ",
+      "transliteration": "lakum",
+      "meaning": "for you",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist; possession"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "to, for (preposition)"
+        },
+        {
+          "arabic": "كُمْ",
+          "meaning": "you (plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلِأَنْعَامِكُمْ",
+      "transliteration": "wa-liʾanʿāmikum",
+      "meaning": "and for your livestock",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "to provide, bestow; livestock, cattle"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لِ",
+          "meaning": "for, to, belonging to"
+        },
+        {
+          "arabic": "أَنْعَامِكُمْ",
+          "meaning": "your livestock"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "benefit-provision for-you and-for livestock-of-yours"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

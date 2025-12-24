@@ -1,0 +1,105 @@
+{
+  "verseId": "79:19",
+  "verse": {
+    "arabic": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+    "transliteration": "Waahdiyaka ila rabbika fatakhsha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "to connect, to join"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَهْدِيَكَ",
+      "transliteration": "ahdīka",
+      "meaning": "I guide you",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun suffix indicating first person singular)"
+        },
+        {
+          "arabic": "هَدَى",
+          "meaning": "to guide"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "you (pronoun suffix indicating second person singular, masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِلَىٰ",
+      "transliteration": "ilā",
+      "meaning": "to",
+      "root": {
+        "letters": "ي-ل-و",
+        "meaning": "to tend to, incline towards, or reach a destination"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess, to own; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَتَخْشَىٰ",
+      "transliteration": "fa-takhshā",
+      "meaning": "so you fear",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to be afraid, to fear, to dread"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "تَخْشَىٰ",
+          "meaning": "you fear (verb, 2nd person masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-I-guide-you to-your Lord so-you-fear"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

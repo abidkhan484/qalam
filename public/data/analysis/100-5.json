@@ -1,0 +1,70 @@
+{
+  "verseId": "100:5",
+  "verse": {
+    "arabic": "فَوَسَطْنَ بِهِ جَمْعًا",
+    "transliteration": "Fawasatna bihi jamAAan",
+    "surah": "Al-Adiyat",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَوَسَطْنَ",
+      "transliteration": "fa-wasaṭna",
+      "meaning": "then we brought/caused to arrive in the midst",
+      "root": {
+        "letters": "و-س-ط",
+        "meaning": "to be in the middle, to mediate, central position"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "وَسَطْنَ",
+          "meaning": "we brought/caused to arrive in the midst (verb, perfect tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بِهِ",
+      "transliteration": "bi-hi",
+      "meaning": "with it/by means of it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, accompaniment, instrumentality"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix, referring to the previously mentioned object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "جَمْعًا",
+      "transliteration": "jamʿan",
+      "meaning": "a multitude/collective body",
+      "root": {
+        "letters": "ج-م-ع",
+        "meaning": "to gather, to collect"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-we-brought-with-it a-multitude collectively"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

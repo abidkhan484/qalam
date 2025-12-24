@@ -1,0 +1,115 @@
+{
+  "verseId": "83:4",
+  "verse": {
+    "arabic": "أَلَا يَظُنُّ أُولَـٰئِكَ أَنَّهُم مَّبْعُوثُونَ",
+    "transliteration": "Ala yathunnu olaika annahum mabAAoothoona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَا",
+      "transliteration": "ʾalā",
+      "meaning": "particle of questioning/exclamation; isn't it so?",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَظُنُّ",
+      "transliteration": "yaẓunnu",
+      "meaning": "to think, to believe, to suppose",
+      "root": {
+        "letters": "ظ-ن-ن",
+        "meaning": "to think, to believe, to have an opinion"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present tense, imperfect aspect (prefix)"
+        },
+        {
+          "arabic": "ظُنّ",
+          "meaning": "to think, to believe (form I verb stem)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicating the vowel of the present tense imperfect form"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أُولَـٰئِكَ",
+      "transliteration": "ʾūlāʾika",
+      "meaning": "those (masculine plural)",
+      "root": {
+        "letters": "أ-و-ل",
+        "meaning": "to be first, to begin; the first of something"
+      },
+      "components": [
+        {
+          "arabic": "أُو",
+          "meaning": "those (demonstrative pronoun prefix)"
+        },
+        {
+          "arabic": "لَـٰئِكَ",
+          "meaning": "suffix indicating plural masculine, referring to those present or known"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَنَّهُم",
+      "transliteration": "ʾannahum",
+      "meaning": "that they (masculine plural)",
+      "root": {
+        "letters": "ن-هـ-ي",
+        "meaning": "to be, to exist; weakness, inability"
+      },
+      "components": [
+        {
+          "arabic": "أَنَّ",
+          "meaning": "that"
+        },
+        {
+          "arabic": "هُم",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَّبْعُوثُونَ",
+      "transliteration": "mabʿūthūna",
+      "meaning": "resurrected, sent forth (passive participle plural)",
+      "root": {
+        "letters": "ب-ع-ث",
+        "meaning": "to send, to raise up, to resurrect"
+      },
+      "components": [
+        {
+          "arabic": "مَـ",
+          "meaning": "passive participle marker"
+        },
+        {
+          "arabic": "بُعُوثٌ",
+          "meaning": "plural of بَعْث (sending, resurrection)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "plural masculine ending"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Isn't-it-so they-think that-they resurrected?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

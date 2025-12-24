@@ -1,0 +1,50 @@
+{
+  "verseId": "83:5",
+  "verse": {
+    "arabic": "لِيَوْمٍ عَظِيمٍ",
+    "transliteration": "Liyawmin AAatheemin",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لِيَوْمٍ",
+      "transliteration": "li-yawmin",
+      "meaning": "for a day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "يَوْمٍ",
+          "meaning": "a day (genitive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَظِيمٍ",
+      "transliteration": "ʿaẓīmin",
+      "meaning": "tremendous, great",
+      "root": {
+        "letters": "ع-ظ-م",
+        "meaning": "to be great, to be large, power, magnitude"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "for-a day - tremendous"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

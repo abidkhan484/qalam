@@ -1,0 +1,83 @@
+{
+  "verseId": "104:8",
+  "verse": {
+    "arabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+    "transliteration": "lnnaha AAalayhim musadatun",
+    "surah": "Al-Humazah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهَا",
+      "transliteration": "ʾinnahā",
+      "meaning": "Indeed it (feminine)",
+      "root": {
+        "letters": "ه-ن-و",
+        "meaning": "to be, existence; also weakness or decay (depending on form)"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed, verily (emphatic particle)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِم",
+      "transliteration": "ʿalayhim",
+      "meaning": "Upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend; over, above"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِم",
+          "meaning": "them (masculine plural pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّؤْصَدَةٌ",
+      "transliteration": "muʾṣadah",
+      "meaning": "Closed, sealed",
+      "root": {
+        "letters": "ص-د-أ",
+        "meaning": "to obstruct, to close up, to be tight or compact"
+      },
+      "components": [
+        {
+          "arabic": "مُؤْ",
+          "meaning": "passive participle prefix indicating 'one that is acted upon'"
+        },
+        {
+          "arabic": "صَد",
+          "meaning": "to close, to obstruct"
+        },
+        {
+          "arabic": "ة",
+          "meaning": "feminine marker (tāʾ marbūṭa)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-it upon-them closed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "verseId": "81:26",
+  "verse": {
+    "arabic": "فَأَيْنَ تَذْهَبُونَ",
+    "transliteration": "Faayna tathhaboona",
+    "surah": "At-Takwir",
+    "verseNumber": 26
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَ",
+      "transliteration": "fa-",
+      "meaning": "so, then; connective particle indicating sequence or result",
+      "root": null,
+      "components": [
+        {
+          "arabic": "ف",
+          "meaning": "A connective particle indicating sequence or result; 'so', 'then'."
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيْنَ",
+      "transliteration": "ʾayna",
+      "meaning": "where?",
+      "root": {
+        "letters": "أ-ي-ن",
+        "meaning": "to exist, to be present; related to location and time"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَذْهَبُونَ",
+      "transliteration": "tadhhabūna",
+      "meaning": "you (plural) go, you are going; movement away from a place",
+      "root": {
+        "letters": "ذ-ه-ب",
+        "meaning": "to go away, to depart, to vanish"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the present tense, or imperfective aspect"
+        },
+        {
+          "arabic": "ذَهَبَ",
+          "meaning": "to go, to depart"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating 'you (plural)' masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-where? -you (plural) go?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

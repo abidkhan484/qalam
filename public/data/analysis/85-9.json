@@ -1,0 +1,194 @@
+{
+  "verseId": "85:9",
+  "verse": {
+    "arabic": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+    "transliteration": "Allathee lahu mulku alssamawati waalardi waAllahu AAala kulli shayin shaheedun",
+    "surah": "Al-Buruj",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "The one who, which",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to adhere to, to belong to; possessing a quality or characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "one who, which (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "To him, for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, ownership, possession"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُلْكُ",
+      "transliteration": "mulku",
+      "meaning": "Kingdom, dominion",
+      "root": {
+        "letters": "م-ل-ك",
+        "meaning": "Possession, ownership"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "السَّمَاوَاتِ",
+      "transliteration": "al-samāwāti",
+      "meaning": "The heavens",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; elevation"
+      },
+      "components": [
+        {
+          "arabic": "السَّمَ",
+          "meaning": "the heaven(s)"
+        },
+        {
+          "arabic": "ـَاوَاتِ",
+          "meaning": "plural ending, indicating multiple heavens"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "And",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْأَرْضِ",
+      "transliteration": "al-ʾarḍi",
+      "meaning": "The earth",
+      "root": {
+        "letters": "أ-ر-ض",
+        "meaning": "to be wide, spacious; the earth itself"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "أَرْض",
+          "meaning": "Earth"
+        },
+        {
+          "arabic": "ِ",
+          "meaning": "Genitive case ending (possessive or related)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "ۚ",
+      "transliteration": "lā sakinah",
+      "meaning": "[Pause marker]",
+      "root": null,
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "negative particle, no"
+        },
+        {
+          "arabic": "سَكِينَة",
+          "meaning": "tranquility, peace; a feeling of calm and security"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "وَاللَّهُ",
+      "transliteration": "wa-llāhu",
+      "meaning": "And Allah",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to be divine, to worship; God"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الله",
+          "meaning": "Allah, The God"
+        }
+      ]
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "عَلَىٰ",
+      "transliteration": "ʿalā",
+      "meaning": "Upon, over",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "To be high, to elevate, to ascend; superiority"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 10,
+      "arabic": "كُلِّ",
+      "transliteration": "kulli",
+      "meaning": "All, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "Totality, wholeness; to be complete or encompass everything"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 11,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "Thing",
+      "root": {
+        "letters": "ش-ي-ء",
+        "meaning": "to be, to exist; something that is perceived or felt"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 12,
+      "arabic": "شَهِيدٌ",
+      "transliteration": "shahīdun",
+      "meaning": "Witness",
+      "root": {
+        "letters": "ش-ه-د",
+        "meaning": "to witness, to be present, to testify"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "The-one-who to-him kingdom the-heavens and the-earth -and Allah upon all thing Witness"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "verseId": "96:5",
+  "verse": {
+    "arabic": "عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+    "transliteration": "AAallama alinsana ma lam yaAAlam",
+    "surah": "Al-Alaq",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَّمَ",
+      "transliteration": "ʿallama",
+      "meaning": "He taught",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "To know, to be aware, to learn"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانَ",
+      "transliteration": "al-ʾinsāna",
+      "meaning": "The human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be friendly, adapt; weakness and dependence (as humans rely on Allah)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "That which, what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, relative pronoun origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "Not",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَعْلَمْ",
+      "transliteration": "yaʿlam",
+      "meaning": "He knew",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense or subjunctive mood (often with a sense of volition)"
+        },
+        {
+          "arabic": "عَلِمَ",
+          "meaning": "to know, to possess knowledge"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-taught the-human being that which not he-knew"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

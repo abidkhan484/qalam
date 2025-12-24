@@ -1,0 +1,92 @@
+{
+  "verseId": "101:8",
+  "verse": {
+    "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+    "transliteration": "Waamma man khaffat mawazeenuhu",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, joining"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَمَّا",
+      "transliteration": "ammā",
+      "meaning": "but as for",
+      "root": {
+        "letters": "أ-م-م",
+        "meaning": "to intend, to collect, to take hold of"
+      },
+      "components": [
+        {
+          "arabic": "أَمْ",
+          "meaning": "but, however"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَنْ",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to perish, to be destroyed; also, a source or origin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَفَّتْ",
+      "transliteration": "khaffat",
+      "meaning": "were light, became light (feminine singular past tense)",
+      "root": {
+        "letters": "خ-ف-ف",
+        "meaning": "lightness, easiness, subtlety"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مَوَازِينُهُ",
+      "transliteration": "mawāzīnuhu",
+      "meaning": "his scales",
+      "root": {
+        "letters": "و-ز-ن",
+        "meaning": "to weigh, measure; balance, equilibrium"
+      },
+      "components": [
+        {
+          "arabic": "مَوَازِينُ",
+          "meaning": "scales (plural)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "his"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - but as for - who/whoever - became light - his scales"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

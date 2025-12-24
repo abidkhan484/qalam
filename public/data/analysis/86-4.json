@@ -1,0 +1,117 @@
+{
+  "verseId": "86:4",
+  "verse": {
+    "arabic": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "transliteration": "In kullu nafsin lamma AAalayha hafithun",
+    "surah": "At-Tariq",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كُلُّ",
+      "transliteration": "kullu",
+      "meaning": "All, every",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "Completeness, totality; to encompass or contain wholly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "نَفْسٍ",
+      "transliteration": "nafsin",
+      "meaning": "Soul, person, self",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "breath, soul, life force, person"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَّمَّا",
+      "transliteration": "lammā",
+      "meaning": "But that, except that",
+      "root": {
+        "letters": "ل-م-م",
+        "meaning": "To desire, to will, to intend; also, to blame or reproach."
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "For, to, except that"
+        },
+        {
+          "arabic": "مَّا",
+          "meaning": "That, what, except that (relative/conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَلَيْهَا",
+      "transliteration": "ʿalayhā",
+      "meaning": "Upon it, over it",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "حَافِظٌ",
+      "transliteration": "ḥāfiẓun",
+      "meaning": "Protector, guardian, watcher",
+      "root": {
+        "letters": "ح-ف-ظ",
+        "meaning": "to guard, to preserve, to protect"
+      },
+      "components": [
+        {
+          "arabic": "حَفِظَ",
+          "meaning": "to protect, to preserve"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "nominative case ending (tanwīn an-niṣbah)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed- every- soul- but that- upon it- protector"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

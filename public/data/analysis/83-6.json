@@ -1,0 +1,105 @@
+{
+  "verseId": "83:6",
+  "verse": {
+    "arabic": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ",
+    "transliteration": "Yawma yaqoomu alnnasu lirabbi alAAalameena",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist, day"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَقُومُ",
+      "transliteration": "yaqūmu",
+      "meaning": "he rises, he stands up",
+      "root": {
+        "letters": "ق-و-م",
+        "meaning": "to rise, to stand up, to establish"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, first person singular (in this context)"
+        },
+        {
+          "arabic": "قُوم",
+          "meaning": "root of the verb meaning 'to rise, to stand up'"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicates nominative case and short vowel for the present tense verb"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النَّاسُ",
+      "transliteration": "an-nāsu",
+      "meaning": "the people, mankind",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; also, to go away, to depart (hence people as they 'depart' from existence)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لِرَبِّ",
+      "transliteration": "li-rabbi",
+      "meaning": "for the Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion, to possess, to master; Lord"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "رَبِّ",
+          "meaning": "my Lord, the Lord of (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْعَالَمِينَ",
+      "transliteration": "al-ʿālamīn",
+      "meaning": "the worlds",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, knowledge"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَالَمِينَ",
+          "meaning": "worlds, beings with knowledge, inhabitants of worlds (plural)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day- when rises the people for-Lord of the worlds-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

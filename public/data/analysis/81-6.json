@@ -1,0 +1,69 @@
+{
+  "verseId": "81:6",
+  "verse": {
+    "arabic": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+    "transliteration": "Waitha albiharu sujjirat",
+    "surah": "At-Takwir",
+    "verseNumber": 6
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to depart; to decline or weaken"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْبِحَارُ",
+      "transliteration": "al-biḥāru",
+      "meaning": "the seas",
+      "root": {
+        "letters": "ب-ح-ر",
+        "meaning": "to swim, to flow; sea, ocean"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بِحَارُ",
+          "meaning": "seas (plural of بحر)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سُجِّرَتْ",
+      "transliteration": "sujjirat",
+      "meaning": "were filled (with flame)",
+      "root": {
+        "letters": "س-ج-ر",
+        "meaning": "to cover, to conceal; to be dark; to ignite, to flame"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - when - the seas - were filled [with flame]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "verseId": "81:20",
+  "verse": {
+    "arabic": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ",
+    "transliteration": "Thee quwwatin AAinda thee alAAarshi makeenin",
+    "surah": "At-Takwir",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ذِي",
+      "transliteration": "ḏī",
+      "meaning": "possessor of, owner of (construct state)",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, having, owner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "قُوَّةٍ",
+      "transliteration": "quwwatin",
+      "meaning": "power, strength (genitive case)",
+      "root": {
+        "letters": "ق-و-ة",
+        "meaning": "to be strong, to have power; firmness, solidity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عِندَ",
+      "transliteration": "ʿinda",
+      "meaning": "near, with, at the presence of",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "possess, have, find"
+      },
+      "components": [
+        {
+          "arabic": "عِنْدَ",
+          "meaning": "near, with, at the presence of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِي",
+      "transliteration": "ḏī",
+      "meaning": "possessor of, owner of (construct state)",
+      "root": {
+        "letters": "ذ-و-ي",
+        "meaning": "possession, ownership, having"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْعَرْشِ",
+      "transliteration": "al-ʿarshi",
+      "meaning": "the throne (genitive case)",
+      "root": {
+        "letters": "ع-ر-ش",
+        "meaning": "to be strong, firm; throne, kingship"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "عَرْش",
+          "meaning": "throne"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "مَكِينٍ",
+      "transliteration": "makīnin",
+      "meaning": "secure, firm, established",
+      "root": {
+        "letters": "م-ك-ن",
+        "meaning": "to be secure, to be firm, to enable"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "possessor-of power near possessor-of the throne secure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

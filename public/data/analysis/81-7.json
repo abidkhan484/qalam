@@ -1,0 +1,78 @@
+{
+  "verseId": "81:7",
+  "verse": {
+    "arabic": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+    "transliteration": "Waitha alnnufoosu zuwwijat",
+    "surah": "At-Takwir",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when",
+      "root": {
+        "letters": "ذ-ه-د",
+        "meaning": "to go away, to avoid, to flee; time passing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "النُّفُوسُ",
+      "transliteration": "an-nufūs",
+      "meaning": "the souls",
+      "root": {
+        "letters": "ن-ف-س",
+        "meaning": "to breathe, soul, self, essence"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "نفوس",
+          "meaning": "souls"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "زُوِّجَتْ",
+      "transliteration": "zuwwijat",
+      "meaning": "were paired/married",
+      "root": {
+        "letters": "ز-و-ج",
+        "meaning": "to combine in pairs, to marry"
+      },
+      "components": [
+        {
+          "arabic": "زَوَّجَ",
+          "meaning": "to marry, to pair (someone)"
+        },
+        {
+          "arabic": "تْ",
+          "meaning": "feminine passive marker (suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa - when - the souls - were paired"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

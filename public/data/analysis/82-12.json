@@ -1,0 +1,78 @@
+{
+  "verseId": "82:12",
+  "verse": {
+    "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+    "transliteration": "YaAAlamoona ma tafAAaloona",
+    "surah": "Al-Infitar",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَعْلَمُونَ",
+      "transliteration": "yaʿlamūna",
+      "meaning": "They know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense, and first person plural (they)"
+        },
+        {
+          "arabic": "عَلِم",
+          "meaning": "to know, to possess knowledge"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating first person plural (they)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "What, whatever",
+      "root": {
+        "letters": "م-و-ي",
+        "meaning": "to have, possess; to exist, be"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تَفْعَلُونَ",
+      "transliteration": "tafʿalūna",
+      "meaning": "You do",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating second person masculine plural"
+        },
+        {
+          "arabic": "فَعَلَ",
+          "meaning": "to do, to make (verb root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person masculine plural, present tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-know – what - you-do"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "verseId": "80:36",
+  "verse": {
+    "arabic": "وَصَاحِبَتِهِ وَبَنِيهِ",
+    "transliteration": "Wasahibatihi wabaneehi",
+    "surah": "Abasa",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَاحِبَتِهِ",
+      "transliteration": "ṣāḥibatihi",
+      "meaning": "his companion, his wife",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to have a companion, friendship"
+      },
+      "components": [
+        {
+          "arabic": "صَاحِبَ",
+          "meaning": "companion, friend"
+        },
+        {
+          "arabic": "-تِهِ",
+          "meaning": "his (feminine), belonging to him (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَبَنِيهِ",
+      "transliteration": "wa-banīhi",
+      "meaning": "and his sons/children",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct; also, to have sons/children"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "بِنِيهِ",
+          "meaning": "his sons/children"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and - his companion - and - his sons/children"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

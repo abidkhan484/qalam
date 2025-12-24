@@ -1,0 +1,74 @@
+{
+  "verseId": "86:15",
+  "verse": {
+    "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+    "transliteration": "Innahum yakeedoona kaydan",
+    "surah": "At-Tariq",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّهُمْ",
+      "transliteration": "ʾinnahum",
+      "meaning": "Indeed they; Verily they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; belonging/pronoun suffix"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed; Verily (emphatic particle)"
+        },
+        {
+          "arabic": "هُمْ",
+          "meaning": "They (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَكِيدُونَ",
+      "transliteration": "yakīdūna",
+      "meaning": "They plan; They scheme",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "to deceive, to plot, to scheme"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "كِيدُ",
+          "meaning": "plotting, scheming (verbal noun)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "they (plural suffix indicating present tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْدًا",
+      "transliteration": "kaydan",
+      "meaning": "A plan; A scheme",
+      "root": {
+        "letters": "ك-ي-د",
+        "meaning": "To scheme; to plot; deception"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-they [are] planning a plan."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

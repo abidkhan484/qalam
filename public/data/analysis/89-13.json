@@ -1,0 +1,101 @@
+{
+  "verseId": "89:13",
+  "verse": {
+    "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+    "transliteration": "Fasabba AAalayhim rabbuka sawta AAathabin",
+    "surah": "Al-Fajr",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَصَبَّ",
+      "transliteration": "fa-ṣabba",
+      "meaning": "then He poured",
+      "root": {
+        "letters": "ص-ب-ب",
+        "meaning": "to pour, flow, or descend"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "صَبَّ",
+          "meaning": "he poured"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, to prevail over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to possess, to have control; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "سَوْطَ",
+      "transliteration": "sawṭa",
+      "meaning": "scourge, whip",
+      "root": {
+        "letters": "س-و-ط",
+        "meaning": "to drive away, to strike; generally related to forceful impact or control"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "عَذَابٍ",
+      "transliteration": "ʿadhābin",
+      "meaning": "punishment, torment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to punish, to be severe; bitterness"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-poured-then upon-them Lord-your scourge punishment"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

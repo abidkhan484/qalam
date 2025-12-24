@@ -1,0 +1,78 @@
+{
+  "verseId": "82:15",
+  "verse": {
+    "arabic": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+    "transliteration": "Yaslawnaha yawma alddeeni",
+    "surah": "Al-Infitar",
+    "verseNumber": 15
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَصْلَوْنَهَا",
+      "transliteration": "yaṣlūnahā",
+      "meaning": "They will roast/burn it",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to roast, burn, cook by fire; to pray (related concept of intense heat/devotion)"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating first person plural present/future tense (they)"
+        },
+        {
+          "arabic": "صْلَ",
+          "meaning": "root verb stem related to roasting/burning"
+        },
+        {
+          "arabic": "وَنَ",
+          "meaning": "suffix indicating first person plural pronouns (they)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "suffix pronoun: 'it' (feminine singular, object)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "On the day of",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; to pass, elapse (time)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الدِّينِ",
+      "transliteration": "al-dīni",
+      "meaning": "The Recompense/Judgment",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "to settle debt, to be in subservience, recompense, judgment"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "دِين",
+          "meaning": "recompense, judgment, religion"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-will-roast/burn-it - On-the-day - The-Recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

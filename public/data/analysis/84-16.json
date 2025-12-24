@@ -1,0 +1,79 @@
+{
+  "verseId": "84:16",
+  "verse": {
+    "arabic": "فَلَا أُقْسِمُ بِالشَّفَقِ",
+    "transliteration": "Fala oqsimu bialshshafaqi",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَلَا",
+      "transliteration": "fa-lā",
+      "meaning": "then no / so not",
+      "root": {
+        "letters": "ل-ي-ا",
+        "meaning": "to refuse, to deny, negation"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "no, not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "uqsimu",
+      "meaning": "I swear / I make an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, apportion, distribute; to swear (by dividing one's word/intention)"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "prefix indicating first person singular ('I')"
+        },
+        {
+          "arabic": "قَسَمَ",
+          "meaning": "to swear, to make an oath (derived from the root ق-س-م)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِالشَّفَقِ",
+      "transliteration": "bi-sh-shafaq",
+      "meaning": "by the twilight / by the fading light",
+      "root": {
+        "letters": "ش-ف-ق",
+        "meaning": "to be tender, delicate; to dawn; evening twilight"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "الشَّفَقِ",
+          "meaning": "the twilight/fading light"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-not I-swear by-the-twilight"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

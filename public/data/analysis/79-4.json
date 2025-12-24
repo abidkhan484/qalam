@@ -1,0 +1,50 @@
+{
+  "verseId": "79:4",
+  "verse": {
+    "arabic": "فَالسَّابِقَاتِ سَبْقًا",
+    "transliteration": "Faalssabiqati sabqan",
+    "surah": "An-Nazi'at",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَالسَّابِقَاتِ",
+      "transliteration": "fa-as-sābiqāt",
+      "meaning": "Then the forerunners/those who outstrip",
+      "root": {
+        "letters": "س-ب-ق",
+        "meaning": "to precede, to outstrip, to be ahead"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "السَّابِقَاتِ",
+          "meaning": "the forerunners, those who outstrip (feminine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَبْقًا",
+      "transliteration": "sabqan",
+      "meaning": "Racing/outstripping/precedence",
+      "root": {
+        "letters": "س-ب-ق",
+        "meaning": "to precede, to go before, to outstrip"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then-the-forerunners racing/outstripping"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

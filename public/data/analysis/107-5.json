@@ -1,0 +1,92 @@
+{
+  "verseId": "107:5",
+  "verse": {
+    "arabic": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+    "transliteration": "Allatheena hum AAan salatihim sahoona",
+    "surah": "Al-Ma'un",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to have relation to"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "ه-م-أ",
+        "meaning": "to be, to exist; belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَن",
+      "transliteration": "ʿan",
+      "meaning": "from, about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to return, to revert, to go back from"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَلَاتِهِمْ",
+      "transliteration": "ṣalātihim",
+      "meaning": "their prayers",
+      "root": {
+        "letters": "ص-ل-و",
+        "meaning": "to pray, to invoke blessings"
+      },
+      "components": [
+        {
+          "arabic": "صَلَا",
+          "meaning": "prayers (plural form base)"
+        },
+        {
+          "arabic": "تِهِمْ",
+          "meaning": "their possession"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "سَاهُونَ",
+      "transliteration": "sāhūnūna",
+      "meaning": "heedless, neglectful",
+      "root": {
+        "letters": "س-ه-و",
+        "meaning": "to be absent of mind, to forget; heedlessness, distraction"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who they from their-prayers heedless"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

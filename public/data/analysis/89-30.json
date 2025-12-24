@@ -1,0 +1,59 @@
+{
+  "verseId": "89:30",
+  "verse": {
+    "arabic": "وَادْخُلِي جَنَّتِي",
+    "transliteration": "Waodkhulee jannatee",
+    "surah": "Al-Fajr",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَادْخُلِي",
+      "transliteration": "wa-udkhulī",
+      "meaning": "and enter (you, feminine singular)",
+      "root": {
+        "letters": "د-خ-ل",
+        "meaning": "to enter; to go in; to penetrate"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "ادْخُلِي",
+          "meaning": "enter (you, feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "جَنَّتِي",
+      "transliteration": "jannatī",
+      "meaning": "My paradise",
+      "root": {
+        "letters": "ج-ن-ن",
+        "meaning": "to hide, to cover; garden (as a hidden place)"
+      },
+      "components": [
+        {
+          "arabic": "جَنَّت",
+          "meaning": "garden, paradise"
+        },
+        {
+          "arabic": "ـِي",
+          "meaning": "my (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-enter [you, feminine singular] My-paradise"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

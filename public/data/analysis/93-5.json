@@ -1,0 +1,115 @@
+{
+  "verseId": "93:5",
+  "verse": {
+    "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+    "transliteration": "Walasawfa yuAAteeka rabbuka fatarda",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa-",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَسَوْفَ",
+      "transliteration": "la-sawfa-",
+      "meaning": "certainly, indeed (emphatic future particle)",
+      "root": {
+        "letters": "س-و-ف",
+        "meaning": "to desire, to intend, to will"
+      },
+      "components": [
+        {
+          "arabic": "لَ",
+          "meaning": "particle of emphasis, certainly"
+        },
+        {
+          "arabic": "سَوْفَ",
+          "meaning": "future tense marker, will/shall (delayed)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُعْطِيكَ",
+      "transliteration": "yuʿṭīka-",
+      "meaning": "He will give to you",
+      "root": {
+        "letters": "ع-ط-ي",
+        "meaning": "to give, bestow, grant"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "He (masculine singular pronoun prefix, indicative of future tense)"
+        },
+        {
+          "arabic": "عَطِ",
+          "meaning": "giving, bestowing (verbal noun)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "to you (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka-",
+      "meaning": "your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبّ",
+          "meaning": "Lord, Master"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَتَرْضَىٰ",
+      "transliteration": "fa-tarḍā-",
+      "meaning": "and you will be satisfied",
+      "root": {
+        "letters": "ر-ض-ي",
+        "meaning": "to be pleased, to accept, to be content"
+      },
+      "components": [
+        {
+          "arabic": "تَ",
+          "meaning": "prefix indicating the second person masculine singular future tense"
+        },
+        {
+          "arabic": "رَضَى",
+          "meaning": "satisfaction, contentment; root verb meaning to be satisfied"
+        },
+        {
+          "arabic": "ٰ",
+          "meaning": "tanwīn al-fatḥ, indicating indefinite noun and nominative case (subject)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-indeed surely He-will-give to-you your Lord and-you will-be-satisfied"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

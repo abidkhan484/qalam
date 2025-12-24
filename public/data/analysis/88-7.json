@@ -1,0 +1,116 @@
+{
+  "verseId": "88:7",
+  "verse": {
+    "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ",
+    "transliteration": "La yusminu wala yughnee min jooAAin",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, neither",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُسْمِنُ",
+      "transliteration": "yusminu",
+      "meaning": "it fattens, it nourishes",
+      "root": {
+        "letters": "س-م-ن",
+        "meaning": "to be fat, to grow fat; to nourish, to feed"
+      },
+      "components": [
+        {
+          "arabic": "ي",
+          "meaning": "prefix indicating the present tense, active voice, 3rd person singular"
+        },
+        {
+          "arabic": "سْمِن",
+          "meaning": "fatness, nourishment (derived from the root س-م-ن)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammah - vowel marking indicating present tense, active voice"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "وَلَا",
+      "transliteration": "wa-lā",
+      "meaning": "nor, and not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "لَا",
+          "meaning": "not, nor"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يُغْنِي",
+      "transliteration": "yughnī",
+      "meaning": "it suffices, it avails",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be rich, to suffice, to be independent"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating the present tense, first person singular (I)"
+        },
+        {
+          "arabic": "غَنِيَ",
+          "meaning": "to suffice, to be sufficient"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, against",
+      "root": {
+        "letters": "م-ن-ي",
+        "meaning": "source, origin, extraction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "جُوعٍ",
+      "transliteration": "jūʿin",
+      "meaning": "hunger",
+      "root": {
+        "letters": "ج-ع-و",
+        "meaning": "to be empty, to lack, to suffer need"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-it-fattens and-not-it-suffices from hunger"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

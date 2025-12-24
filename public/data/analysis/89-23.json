@@ -1,0 +1,189 @@
+{
+  "verseId": "89:23",
+  "verse": {
+    "arabic": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+    "transliteration": "Wajeea yawmaithin bijahannama yawmaithin yatathakkaru alinsanu waanna lahu alththikra",
+    "surah": "Al-Fajr",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَجِيءَ",
+      "transliteration": "wa-jiʾa",
+      "meaning": "and was brought",
+      "root": {
+        "letters": "ج-ي-ء",
+        "meaning": "to come, to arrive, to happen; also specifically 'to bring'"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "جِيءَ",
+          "meaning": "was brought (passive)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day of"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that time, then"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِجَهَنَّمَ",
+      "transliteration": "bi-jahannam",
+      "meaning": "with Hell",
+      "root": {
+        "letters": "ج-ه-ن",
+        "meaning": "to burn, to be hot; a pit or valley (often fiery)"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, by means of"
+        },
+        {
+          "arabic": "جَهَنَّمَ",
+          "meaning": "Hell, the fiery pit"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day; time"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day; that day (temporal adverb)"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "then; at that time (demonstrative adverb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَتَذَكَّرُ",
+      "transliteration": "yataḏakkaru",
+      "meaning": "will remember",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to recall"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense or continuous action (form I)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "reflexive prefix, indicating that the action is done to oneself (form VIII)"
+        },
+        {
+          "arabic": "ذَكَّرَ",
+          "meaning": "to remind, to cause someone to remember"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah ending indicating 3rd person masculine singular, present/future tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being/man",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, be friendly; weakness, vulnerability (related to dependence on others)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "وَأَنَّىٰ",
+      "transliteration": "wa-ʾannā",
+      "meaning": "and how/what good",
+      "root": {
+        "letters": "أ-ن-ي",
+        "meaning": "to be, existence; weakness, inability"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "أَنَّىٰ",
+          "meaning": "how, what good; a particle expressing questioning about manner or state"
+        }
+      ]
+    },
+    {
+      "wordNumber": 8,
+      "arabic": "لَهُ",
+      "transliteration": "lahu",
+      "meaning": "for him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, for, unto"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 9,
+      "arabic": "الذِّكْرَىٰ",
+      "transliteration": "al-ḏikrā",
+      "meaning": "the remembrance/benefit",
+      "root": {
+        "letters": "ḏ-k-r",
+        "meaning": "to remember, to recall, to mention"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the definite article"
+        },
+        {
+          "arabic": "ذِكْرَىٰ",
+          "meaning": "remembrance, benefit, admonition"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-was-brought that-Day with-Hell - that-Day will-remember the-human being and-how for-him the-remembrance"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "verseId": "93:8",
+  "verse": {
+    "arabic": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+    "transliteration": "Wawajadaka AAailan faaghna",
+    "surah": "Ad-Duhaa",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "وَجَدَ",
+      "transliteration": "wajada",
+      "meaning": "He found",
+      "root": {
+        "letters": "و-ج-د",
+        "meaning": "to find, to obtain, to perceive"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَ",
+      "transliteration": "ka",
+      "meaning": "you",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "manner, how"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَائِلًا",
+      "transliteration": "ʿāʾilan",
+      "meaning": "poor, needy",
+      "root": {
+        "letters": "ع-ي-ل",
+        "meaning": "to lack, be deficient, poverty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "فَ",
+      "transliteration": "fa",
+      "meaning": "so, then",
+      "root": {
+        "letters": "ف-ي-ء",
+        "meaning": "return, result, consequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "أَغْنَىٰ",
+      "transliteration": "aghnā",
+      "meaning": "He made self-sufficient, He enriched",
+      "root": {
+        "letters": "غ-ن-ي",
+        "meaning": "to be free from want, to suffice, to be wealthy"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-He found-you poor and-then-He made-self-sufficient"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "verseId": "112:2",
+  "verse": {
+    "arabic": "اللَّهُ الصَّمَدُ",
+    "transliteration": "Allahu alssamadu",
+    "surah": "Al-Ikhlas",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "اللَّهُ",
+      "transliteration": "Allāhu",
+      "meaning": "Allah (the God)",
+      "root": {
+        "letters": "ل-هـ-ا",
+        "meaning": "to worship; to be devoted to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الصَّمَدُ",
+      "transliteration": "aṣ-Ṣamadu",
+      "meaning": "The Eternal Refuge, The Self-Sufficient",
+      "root": {
+        "letters": "ص-م-د",
+        "meaning": "to be firm, steadfast, to endure, to maintain oneself without need of others"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Allah - The Eternal Refuge"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

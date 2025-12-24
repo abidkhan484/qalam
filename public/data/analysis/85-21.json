@@ -1,0 +1,63 @@
+{
+  "verseId": "85:21",
+  "verse": {
+    "arabic": "بَلْ هُوَ قُرْآنٌ مَّجِيدٌ",
+    "transliteration": "Bal huwa quranun majeedun",
+    "surah": "Al-Buruj",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "but, rather",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to moisten; dispute, disagreement"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "هُوَ",
+      "transliteration": "huwa",
+      "meaning": "he, it",
+      "root": {
+        "letters": "هـ-و-ي",
+        "meaning": "to exist, to be; essence, identity"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قُرْآنٌ",
+      "transliteration": "qurʾānun",
+      "meaning": "the Qur'an, a reading/recitation",
+      "root": {
+        "letters": "ق-ر-أ",
+        "meaning": "to read, recite"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَّجِيدٌ",
+      "transliteration": "majīdun",
+      "meaning": "honored, glorious, magnificent",
+      "root": {
+        "letters": "ج-د-د",
+        "meaning": "to be new, to renew, to excel"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "but-rather it [is] the Qur'an honored"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

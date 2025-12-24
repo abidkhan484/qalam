@@ -1,0 +1,97 @@
+{
+  "verseId": "79:45",
+  "verse": {
+    "arabic": "إِنَّمَا أَنتَ مُنذِرُ مَن يَخْشَاهَا",
+    "transliteration": "Innama anta munthiru man yakhshaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 45
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "only, indeed only",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to be limited, restricted, or exclusive"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "indeed, verily (emphasizer)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which (relative pronoun used for restriction)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "you (masculine singular)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be (in a state), existence, being"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُنذِرُ",
+      "transliteration": "munḏiru",
+      "meaning": "a warner, one who warns",
+      "root": {
+        "letters": "ن-ذ-ر",
+        "meaning": "to warn, to give notice, to remind"
+      },
+      "components": [
+        {
+          "arabic": "مُنْذِر",
+          "meaning": "one who warns, a warner (active participle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَن",
+      "transliteration": "man",
+      "meaning": "who, whoever",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to be hidden, concealed; to belong or relate to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَخْشَاهَا",
+      "transliteration": "yakhshāhā",
+      "meaning": "fears it",
+      "root": {
+        "letters": "خ-ش-ي",
+        "meaning": "to fear, to be afraid, to hold in awe"
+      },
+      "components": [
+        {
+          "arabic": "يَخْشَ",
+          "meaning": "he fears"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "indeed-only you are a-warner for who fears-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "verseId": "80:34",
+  "verse": {
+    "arabic": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+    "transliteration": "Yawma yafirru almaro min akheehi",
+    "surah": "Abasa",
+    "verseNumber": 34
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَ",
+      "transliteration": "yawma",
+      "meaning": "day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "to pass, to exist; day as something that passes or is present"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَفِرُّ",
+      "transliteration": "yafirru",
+      "meaning": "he will flee",
+      "root": {
+        "letters": "ف-ر-ر",
+        "meaning": "to escape, to flee, to run away"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating future tense or subjunctive mood"
+        },
+        {
+          "arabic": "فَرَّ",
+          "meaning": "he fled, he escaped (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَرْءُ",
+      "transliteration": "al-marʾu",
+      "meaning": "the man",
+      "root": {
+        "letters": "م-ر-أ",
+        "meaning": "masculinity, humankind, virility"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَخِيهِ",
+      "transliteration": "akhihi",
+      "meaning": "his brother",
+      "root": {
+        "letters": "أ-خ-و",
+        "meaning": "to have a brother; kinship, fraternity"
+      },
+      "components": [
+        {
+          "arabic": "أَخ",
+          "meaning": "brother"
+        },
+        {
+          "arabic": "ـِهِ",
+          "meaning": "his (possessive pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "day-on he-will-flee the-man from his-brother"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

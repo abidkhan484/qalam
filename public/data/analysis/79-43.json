@@ -1,0 +1,81 @@
+{
+  "verseId": "79:43",
+  "verse": {
+    "arabic": "فِيمَ أَنتَ مِن ذِكْرَاهَا",
+    "transliteration": "Feema anta min thikraha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 43
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فِيمَ",
+      "transliteration": "fīmā",
+      "meaning": "in what, concerning what",
+      "root": {
+        "letters": "ف-ي-م",
+        "meaning": "to be in, to contain, regarding"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in, within"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "you (masculine singular)",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, existence; personal pronoun base"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from, of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate from, to be sourced in, deficiency or lack (related to the idea of something being taken *from* a whole)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "ذِكْرَاهَا",
+      "transliteration": "dhikrāhā",
+      "meaning": "its mention, her remembrance (referring to a feminine singular)",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, recollection"
+      },
+      "components": [
+        {
+          "arabic": "ذِكْرَ",
+          "meaning": "remembrance, mention"
+        },
+        {
+          "arabic": "اهَا",
+          "meaning": "her (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "in-what you from mention-of-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

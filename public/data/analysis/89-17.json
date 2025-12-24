@@ -1,0 +1,100 @@
+{
+  "verseId": "89:17",
+  "verse": {
+    "arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ",
+    "transliteration": "Kalla bal la tukrimoona alyateema",
+    "surah": "Al-Fajr",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No! Indeed not!",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to reject, to negate, to refuse"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَل",
+      "transliteration": "bal",
+      "meaning": "But; rather; nay",
+      "root": {
+        "letters": "ب-ل-ل",
+        "meaning": "to be wet, to be moist; to reject, disprove, or invalidate (derived meaning)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "Not; do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse; non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "تُكْرِمُونَ",
+      "transliteration": "tukrimūna",
+      "meaning": "You honor; you do not honor",
+      "root": {
+        "letters": "ك-ر-م",
+        "meaning": "To be generous, to honor, to respect"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "Prefix indicating second person plural (you)"
+        },
+        {
+          "arabic": "كَرُم",
+          "meaning": "Honor, generosity (verbal root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "Suffix indicating second person plural (you - masculine)"
+        },
+        {
+          "arabic": "ا",
+          "meaning": "Vowel marker (ḍammah)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْيَتِيمَ",
+      "transliteration": "al-yatīma",
+      "meaning": "The orphan",
+      "root": {
+        "letters": "ي-ت-م",
+        "meaning": "to be weak, deficient, orphaned; lacking a parent"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "The (definite article)"
+        },
+        {
+          "arabic": "يَتِيمَ",
+          "meaning": "orphan (masculine, accusative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - But - Not - You honor - The orphan"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

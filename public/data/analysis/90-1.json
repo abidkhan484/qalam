@@ -1,0 +1,91 @@
+{
+  "verseId": "90:1",
+  "verse": {
+    "arabic": "لَا أُقْسِمُ بِهَـٰذَا الْبَلَدِ",
+    "transliteration": "La oqsimu bihatha albaladi",
+    "surah": "Al-Balad",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أُقْسِمُ",
+      "transliteration": "uqsimu",
+      "meaning": "I swear, I make an oath",
+      "root": {
+        "letters": "ق-س-م",
+        "meaning": "to divide, to apportion, to distribute; also, to swear (by extension)"
+      },
+      "components": [
+        {
+          "arabic": "أُ",
+          "meaning": "prefix indicating first-person singular active voice imperfect tense"
+        },
+        {
+          "arabic": "قَسَمَ",
+          "meaning": "to swear, to make an oath (verb root)"
+        },
+        {
+          "arabic": "ـُ",
+          "meaning": "ḍammah indicating imperfect tense and first-person singular pronoun"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِهَـٰذَا",
+      "transliteration": "bihādhā",
+      "meaning": "by this",
+      "root": {
+        "letters": "ه-ذ-أ",
+        "meaning": "to point, to indicate, this"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with"
+        },
+        {
+          "arabic": "هَـٰذَا",
+          "meaning": "this"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْبَلَدِ",
+      "transliteration": "al-baladi",
+      "meaning": "the city, the land",
+      "root": {
+        "letters": "ب-ل-د",
+        "meaning": "to reach maturity, to be old; a place, land, city"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "بَلَد",
+          "meaning": "city, land, country"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not - I-swear - by-this - the-city"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

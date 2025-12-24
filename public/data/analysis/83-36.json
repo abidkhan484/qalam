@@ -1,0 +1,118 @@
+{
+  "verseId": "83:36",
+  "verse": {
+    "arabic": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+    "transliteration": "Hal thuwwiba alkuffaru ma kanoo yafAAaloona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 36
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "هَلْ",
+      "transliteration": "hal",
+      "meaning": "interrogative particle, 'is it?' or 'did...?'",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "ثُوِّبَ",
+      "transliteration": "thuwiba",
+      "meaning": "passive voice verb, 'were rewarded/recompensed'",
+      "root": {
+        "letters": "ث-و-ب",
+        "meaning": "to return, to come back; to bestow a gift (as returning something good)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْكُفَّارُ",
+      "transliteration": "al-kuffār",
+      "meaning": "the disbelievers, the unbelievers",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny (grace), to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "كُفَّار",
+          "meaning": "plural of كَافِر (disbeliever, one who covers/denies grace)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "relative pronoun, 'what' or 'that which'",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to will; also related to water and possession"
+      },
+      "components": [
+        {
+          "arabic": "مَا",
+          "meaning": "relative pronoun indicating 'what' or 'that which', often introducing noun clauses"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كَانُوا",
+      "transliteration": "kānū",
+      "meaning": "they were (in past time)",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist"
+      },
+      "components": [
+        {
+          "arabic": "كَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "انُوا",
+          "meaning": "were (verb suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَفْعَلُونَ",
+      "transliteration": "yafʿalūn",
+      "meaning": "they used to do, they were doing",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to make, to act"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (pronoun suffix)"
+        },
+        {
+          "arabic": "فْعَلُ",
+          "meaning": "doing (verbal noun)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "plural masculine suffix"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Is-it [were]-rewarded the-disbelievers what they were doing?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

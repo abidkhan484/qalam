@@ -1,0 +1,74 @@
+{
+  "verseId": "79:12",
+  "verse": {
+    "arabic": "قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+    "transliteration": "Qaloo tilka ithan karratun khasiratun",
+    "surah": "An-Nazi'at",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قَالُوا",
+      "transliteration": "qālū",
+      "meaning": "They said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak, to say"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تِلْكَ",
+      "transliteration": "tilka",
+      "meaning": "That (feminine)",
+      "root": {
+        "letters": "د-ل-ك",
+        "meaning": "to point, to indicate, to show"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "إِذًا",
+      "transliteration": "ʾidhan",
+      "meaning": "Then, therefore",
+      "root": {
+        "letters": "أ-ذ-ن",
+        "meaning": "to hear, to permit, to allow"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "كَرَّةٌ",
+      "transliteration": "karrah",
+      "meaning": "Return, turning back",
+      "root": {
+        "letters": "ك-ر-ر",
+        "meaning": "To return, to repeat, to revert"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "خَاسِرَةٌ",
+      "transliteration": "khāsirah",
+      "meaning": "Losing, ruined",
+      "root": {
+        "letters": "خ-س-ر",
+        "meaning": "to lose, to suffer loss or defeat"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "They-said That then would-be a return losing"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

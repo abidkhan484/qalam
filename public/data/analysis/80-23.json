@@ -1,0 +1,83 @@
+{
+  "verseId": "80:23",
+  "verse": {
+    "arabic": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+    "transliteration": "Kalla lamma yaqdi ma amarahu",
+    "surah": "Abasa",
+    "verseNumber": 23
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, indeed not, by no means!",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to refuse, to reject, to deny"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَمَّا",
+      "transliteration": "lammā",
+      "meaning": "not yet, when not",
+      "root": {
+        "letters": "ل-مَّ-ا",
+        "meaning": "to desire, to will; also related to time and restriction"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَقْضِ",
+      "transliteration": "yaqḍi",
+      "meaning": "he completes, he fulfills",
+      "root": {
+        "letters": "ق-ض-ي",
+        "meaning": "to finish, to complete, to judge"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what, that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to be, to exist; pertaining to existence or non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَمَرَهُ",
+      "transliteration": "amarahu",
+      "meaning": "He commanded him",
+      "root": {
+        "letters": "أ-م-ر",
+        "meaning": "to command, to order, to impose; matter, affair"
+      },
+      "components": [
+        {
+          "arabic": "أمر",
+          "meaning": "command, order"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No!-not-yet-he-completes-[the]-what-He-commanded-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "verseId": "83:16",
+  "verse": {
+    "arabic": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+    "transliteration": "Thumma innahum lasaloo aljaheemi",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّ",
+      "transliteration": "inna",
+      "meaning": "indeed, verily"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هُمْ",
+      "transliteration": "hum",
+      "meaning": "they",
+      "root": {
+        "letters": "هـ-م-ي",
+        "meaning": "to be, to exist; belonging to, possessing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَصَالُو",
+      "transliteration": "laṣālu",
+      "meaning": "[they are] destined to enter, will surely enter",
+      "root": {
+        "letters": "ص-و-ل",
+        "meaning": "to arrive, to reach, to enter"
+      },
+      "components": [
+        {
+          "arabic": "لا",
+          "meaning": "not, negation"
+        },
+        {
+          "arabic": "صَالُو",
+          "meaning": "they will enter, they are destined to enter"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "الْجَحِيمِ",
+      "transliteration": "al-jaḥīm",
+      "meaning": "the Hellfire, the blazing fire",
+      "root": {
+        "letters": "ج-ح-م",
+        "meaning": "intense heat, burning, aridity; fierceness and severity"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جَحِيم",
+          "meaning": "Hellfire, blazing fire (derived from the root)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-indeed-they-[are]-destined-to-enter the-Hellfire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

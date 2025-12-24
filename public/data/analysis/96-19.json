@@ -1,0 +1,105 @@
+{
+  "verseId": "96:19",
+  "verse": {
+    "arabic": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِب ۩",
+    "transliteration": "Kalla la tutiAAhu waosjud waiqtarib",
+    "surah": "Al-Alaq",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Indeed not, By no means",
+      "root": {
+        "letters": "ك-لّ-ا",
+        "meaning": "to reject, to deny, to repel; negation or prohibition"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "Not, Do not",
+      "root": {
+        "letters": "ل-ي-و",
+        "meaning": "to negate, to refuse, to be without"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُطِعْهُ",
+      "transliteration": "tuṭiʿhu",
+      "meaning": "Obey him",
+      "root": {
+        "letters": "ط-و-ع",
+        "meaning": "to obey, to submit willingly"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the second person masculine singular imperative form."
+        },
+        {
+          "arabic": "طِعْ",
+          "meaning": "the root relating to obedience."
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him (masculine, singular pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَاسْجُدْ",
+      "transliteration": "wasjud",
+      "meaning": "And prostrate",
+      "root": {
+        "letters": "س-ج-د",
+        "meaning": "to bow down, to prostrate oneself"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اسْجُدْ",
+          "meaning": "prostrate (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَاقْتَرِبْ",
+      "transliteration": "waqtarib",
+      "meaning": "And draw near",
+      "root": {
+        "letters": "ق-ر-ب",
+        "meaning": "to be near, to approach"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اقْتَرِبْ",
+          "meaning": "draw near, come close (imperative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - Not - Obey-him - And-prostrate - And-draw-near"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

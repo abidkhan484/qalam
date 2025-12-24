@@ -1,0 +1,86 @@
+{
+  "verseId": "85:12",
+  "verse": {
+    "arabic": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+    "transliteration": "Inna batsha rabbika lashadeedun",
+    "surah": "Al-Buruj",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِنَّ",
+      "transliteration": "ʾinna",
+      "meaning": "Indeed, verily",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; to become"
+      },
+      "components": [
+        {
+          "arabic": "إِنْ",
+          "meaning": "Indeed, verily (introduces emphasis)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَطْشَ",
+      "transliteration": "baṭsha",
+      "meaning": "Vengeance, severity",
+      "root": {
+        "letters": "ب-ط-ش",
+        "meaning": "force, violence, subjugation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "رَبِّكَ",
+      "transliteration": "rabbi-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "Your (masculine singular pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "لَشَدِيدٌ",
+      "transliteration": "la-shadīdun",
+      "meaning": "Is severe, is indeed intense",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be strong, intense, severe"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "Emphatic particle; signifies intensity or affirmation."
+        },
+        {
+          "arabic": "شَدِيدٌ",
+          "meaning": "Severe, intense, strong; active participle from the root ش-د-د."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-the vengeance-of-your Lord-is severe."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

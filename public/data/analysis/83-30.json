@@ -1,0 +1,102 @@
+{
+  "verseId": "83:30",
+  "verse": {
+    "arabic": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ",
+    "transliteration": "Waitha marroo bihim yataghamazoona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 30
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; to finish, to end"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَرُّوا",
+      "transliteration": "marrū",
+      "meaning": "they passed by",
+      "root": {
+        "letters": "م-ر-ر",
+        "meaning": "to pass, to flow"
+      },
+      "components": [
+        {
+          "arabic": "مَرّ",
+          "meaning": "to pass by, to flow past"
+        },
+        {
+          "arabic": "ُوا",
+          "meaning": "they (masculine plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِهِمْ",
+      "transliteration": "bihim",
+      "meaning": "by them",
+      "root": {
+        "letters": "ب-هـ-م",
+        "meaning": "to be with, to accompany, by means of"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "by, with, in"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "يَتَغَامَزُونَ",
+      "transliteration": "yataghāmazūna",
+      "meaning": "they exchange glances, they mock",
+      "root": {
+        "letters": "غ-م-ز",
+        "meaning": "to hint, to exchange secret glances, to mock subtly"
+      },
+      "components": [
+        {
+          "arabic": "يَتَـ",
+          "meaning": "they (masculine plural) are doing"
+        },
+        {
+          "arabic": "تَغَامَزَ",
+          "meaning": "to exchange glances, to mock subtly (Form IV verb)"
+        },
+        {
+          "arabic": "ـُونَ",
+          "meaning": "they (masculine plural) - suffix indicating present continuous tense"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-when they passed-by by-them they exchange-glances"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

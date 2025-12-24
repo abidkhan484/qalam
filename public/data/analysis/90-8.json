@@ -1,0 +1,99 @@
+{
+  "verseId": "90:8",
+  "verse": {
+    "arabic": "أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ",
+    "transliteration": "Alam najAAal lahu AAaynayni",
+    "surah": "Al-Balad",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "particle of questioning/negation with emphasis, equivalent to 'Have...not?'",
+      "root": {
+        "letters": "ل-م-أ",
+        "meaning": "to desire, to wish, to will; also, negation and lack."
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "particle of emphasis/negation"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "particle of past negation"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَجْعَل",
+      "transliteration": "najʿal",
+      "meaning": "we make, we create, we provide",
+      "root": {
+        "letters": "ج-ع-ل",
+        "meaning": "to place, to put, to make"
+      },
+      "components": [
+        {
+          "arabic": "نَ",
+          "meaning": "we (pronoun prefix)"
+        },
+        {
+          "arabic": "جَعَل",
+          "meaning": "to make, to create"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "لَّهُ",
+      "transliteration": "lahu",
+      "meaning": "for him, to him, belonging to him",
+      "root": {
+        "letters": "ل-هـ-ي",
+        "meaning": "belonging to, possession, for"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him, he"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَيْنَيْنِ",
+      "transliteration": "ʿaynayni",
+      "meaning": "two eyes (dual form)",
+      "root": {
+        "letters": "ع-ي-ن",
+        "meaning": "eye; source, spring; to perceive, see"
+      },
+      "components": [
+        {
+          "arabic": "عَيْن",
+          "meaning": "eye (singular)"
+        },
+        {
+          "arabic": "يْنِ",
+          "meaning": "dual ending (tanwin)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have-we not made for-him two-eyes?"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

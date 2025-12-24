@@ -1,0 +1,112 @@
+{
+  "verseId": "83:2",
+  "verse": {
+    "arabic": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+    "transliteration": "Allatheena itha iktaloo AAala alnnasi yastawfoona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "الَّذِينَ",
+      "transliteration": "al-ladhīna",
+      "meaning": "the ones who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to belong to, to possess, to have a quality"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "َّذِينَ",
+          "meaning": "ones who (plural relative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to go, to depart; to come, to arrive; to begin"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "اكْتَالُوا",
+      "transliteration": "iktālū",
+      "meaning": "they measured, they took a measure",
+      "root": {
+        "letters": "ك-ي-ل",
+        "meaning": "to measure, to quantify"
+      },
+      "components": [
+        {
+          "arabic": "اِكْتَ",
+          "meaning": "intensive/iterative prefix (form X)"
+        },
+        {
+          "arabic": "تَالُوا",
+          "meaning": "they measured (past tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَلَى",
+      "transliteration": "ʿalā",
+      "meaning": "upon, over, with respect to",
+      "root": {
+        "letters": "ع-ل-و",
+        "meaning": "to be high, to ascend, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "the people",
+      "root": {
+        "letters": "ن-س-و",
+        "meaning": "to forget, to be lost; people (as they are prone to forgetting their covenant)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "يَسْتَوْفُونَ",
+      "transliteration": "yastawfūna",
+      "meaning": "they fulfill, they complete, they take in full",
+      "root": {
+        "letters": "س-و-ف",
+        "meaning": "to consume completely, to take fully, to exhaust"
+      },
+      "components": [
+        {
+          "arabic": "يَسْتَ",
+          "meaning": "prefix indicating iterative/habitual action in present tense"
+        },
+        {
+          "arabic": "تَوْفُونَ",
+          "meaning": "to complete, to fulfill fully (from the root س-و-ف)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "the-ones-who when they-measured upon the-people they-fulfill"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

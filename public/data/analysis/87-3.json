@@ -1,0 +1,81 @@
+{
+  "verseId": "87:3",
+  "verse": {
+    "arabic": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+    "transliteration": "Waallathee qaddara fahada",
+    "surah": "Al-A'la",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": {
+        "letters": "و-ص-ل",
+        "meaning": "connection, linking"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "the one who",
+      "root": {
+        "letters": "ل-ذ-ي",
+        "meaning": "to adhere to, to belong to; possession"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "one who, possessor of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "قَدَّرَ",
+      "transliteration": "qaddara",
+      "meaning": "destined, measured out, determined",
+      "root": {
+        "letters": "ق-د-ر",
+        "meaning": "to have power, to be able; to measure, estimate, determine"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَهَدَىٰ",
+      "transliteration": "fahadā",
+      "meaning": "so guided, and He guided",
+      "root": {
+        "letters": "ه-د-ي",
+        "meaning": "to guide, to show the right way, to lead"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle indicating consequence)"
+        },
+        {
+          "arabic": "هَدَىٰ",
+          "meaning": "he guided"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the-one-who destined--so guided"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

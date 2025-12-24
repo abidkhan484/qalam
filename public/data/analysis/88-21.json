@@ -1,0 +1,94 @@
+{
+  "verseId": "88:21",
+  "verse": {
+    "arabic": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+    "transliteration": "Fathakkir innama anta muthakkirun",
+    "surah": "Al-Ghashiyah",
+    "verseNumber": 21
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَذَكِّرْ",
+      "transliteration": "fa-dhakkir",
+      "meaning": "So remind!",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "to remember, to mention, to remind"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "ذَكِّرْ",
+          "meaning": "remind! (verb in the imperative mood)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِنَّمَا",
+      "transliteration": "innamā",
+      "meaning": "Only; indeed",
+      "root": {
+        "letters": "ن-م-أ",
+        "meaning": "to limit, to specify, to restrict"
+      },
+      "components": [
+        {
+          "arabic": "إِنَّ",
+          "meaning": "Indeed; verily (emphasizing particle)"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what; that which (relative pronoun used for restriction)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَنتَ",
+      "transliteration": "anta",
+      "meaning": "You",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence, essence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مُذَكِّرٌ",
+      "transliteration": "mudhakkirun",
+      "meaning": "Reminding; a reminder",
+      "root": {
+        "letters": "ذ-ك-ر",
+        "meaning": "To remember, to mention, to recall; remembrance"
+      },
+      "components": [
+        {
+          "arabic": "مُـ",
+          "meaning": "Prefix indicating the active participle form."
+        },
+        {
+          "arabic": "ذَكَّرَ",
+          "meaning": "To remind."
+        },
+        {
+          "arabic": "~ٌ",
+          "meaning": "Indefinite active participle ending."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-remind! -indeed-you -are -a-reminder."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

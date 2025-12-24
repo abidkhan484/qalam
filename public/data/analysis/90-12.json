@@ -1,0 +1,72 @@
+{
+  "verseId": "90:12",
+  "verse": {
+    "arabic": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+    "transliteration": "Wama adraka ma alAAaqabatu",
+    "surah": "Al-Balad",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to wish, to possess (related to questioning)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَدْرَاكَ",
+      "transliteration": "ʾadrāka",
+      "meaning": "can make you know/understand",
+      "root": {
+        "letters": "د-ر-ك",
+        "meaning": "to perceive, to know, to understand; to reach/attain"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "what/that which",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to desire, to will; relating to questioning or uncertainty"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْعَقَبَةُ",
+      "transliteration": "al-ʿaqabah",
+      "meaning": "the difficult pass/obstacle",
+      "root": {
+        "letters": "ع-ق-ب",
+        "meaning": "to hinder, restrain, or to climb a steep place with difficulty"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "wa - what - can - make - you - know - what - the - difficult-pass"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

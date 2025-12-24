@@ -1,0 +1,61 @@
+{
+  "verseId": "80:20",
+  "verse": {
+    "arabic": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+    "transliteration": "Thumma alssabeela yassarahu",
+    "surah": "Abasa",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to stand firmly"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "السَّبِيلَ",
+      "transliteration": "as-sabīla",
+      "meaning": "the way, the path",
+      "root": {
+        "letters": "س-ب-ا",
+        "meaning": "to go, to follow a path; to flow (of water)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَسَّرَهُ",
+      "transliteration": "yassarahū",
+      "meaning": "He eased it, He facilitated it",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "to be easy, to facilitate, ease"
+      },
+      "components": [
+        {
+          "arabic": "يَسَّرَ",
+          "meaning": "He eased, He facilitated"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "him (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - the-way - He-eased-it"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "verseId": "102:8",
+  "verse": {
+    "arabic": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+    "transliteration": "Thumma latusalunna yawmaithin AAani alnnaAAeemi",
+    "surah": "At-Takathur",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set after; to follow in time or sequence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَتُسْأَلُنَّ",
+      "transliteration": "la-tusʾalunna",
+      "meaning": "you will surely be asked",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, inquire, question"
+      },
+      "components": [
+        {
+          "arabic": "لَـ",
+          "meaning": "the emphatic particle, signifies insistence or certainty"
+        },
+        {
+          "arabic": "تُسْأَلُنَّ",
+          "meaning": "you will surely be asked (passive voice, future tense)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the Day"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about, concerning",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, concern, regarding"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "about, concerning, from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "النَّعِيمِ",
+      "transliteration": "an-naʿīmi",
+      "meaning": "the pleasure, the bliss",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "enjoyment, comfort, pleasantness"
+      },
+      "components": [
+        {
+          "arabic": "النَّعِيمِ",
+          "meaning": "the pleasure, the bliss (definite form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - surely - you - will-be-asked - that - Day - about - the-pleasure"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "verseId": "94:7",
+  "verse": {
+    "arabic": "فَإِذَا فَرَغْتَ فَانصَبْ",
+    "transliteration": "Faitha faraghta fainsab",
+    "surah": "Ash-Sharh",
+    "verseNumber": 7
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَإِذَا",
+      "transliteration": "faʾidhā",
+      "meaning": "So when",
+      "root": {
+        "letters": "إ-ذ-ي",
+        "meaning": "to come, to arrive; sudden occurrence"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "so, then (particle of sequence)"
+        },
+        {
+          "arabic": "إِذَا",
+          "meaning": "when, whenever (conditional particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "فَرَغْتَ",
+      "transliteration": "faraġta",
+      "meaning": "you have finished",
+      "root": {
+        "letters": "ف-ر-غ",
+        "meaning": "to be empty, to finish, to have leisure"
+      },
+      "components": [
+        {
+          "arabic": "فَرِغ",
+          "meaning": "completion, emptiness (verbal noun)"
+        },
+        {
+          "arabic": "تَ",
+          "meaning": "you (masculine singular) - suffix indicating second person singular past tense"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَانصَبْ",
+      "transliteration": "fānṣab",
+      "meaning": "then stand up",
+      "root": {
+        "letters": "ن-ص-ب",
+        "meaning": "to erect, to set up, to raise"
+      },
+      "components": [
+        {
+          "arabic": "فَ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "انْصَبْ",
+          "meaning": "stand up (imperative)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa-when-so you-have-finished then-stand-up"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

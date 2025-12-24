@@ -1,0 +1,61 @@
+{
+  "verseId": "81:17",
+  "verse": {
+    "arabic": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+    "transliteration": "Waallayli itha AAasAAasa",
+    "surah": "At-Takwir",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاللَّيْلِ",
+      "transliteration": "wa-l-layli",
+      "meaning": "and the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark or hidden"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "اللَّيْلِ",
+          "meaning": "the night (definite)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, as",
+      "root": {
+        "letters": "أ-ذ-ا",
+        "meaning": "to go, to flow; to come upon; to experience"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَسْعَسَ",
+      "transliteration": "ʿasʿasa",
+      "meaning": "it darkened, it closed in",
+      "root": {
+        "letters": "ع-س-س",
+        "meaning": "to be dark, to become black or dusky"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the night - when - it darkened"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

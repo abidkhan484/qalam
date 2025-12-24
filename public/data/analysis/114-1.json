@@ -1,0 +1,81 @@
+{
+  "verseId": "114:1",
+  "verse": {
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "transliteration": "Qul aAAoothu birabbi alnnasi",
+    "surah": "An-Nas",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُلْ",
+      "transliteration": "qul",
+      "meaning": "Say!",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "To speak; to utter; to narrate"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَعُوذُ",
+      "transliteration": "ʾaʿūḏu",
+      "meaning": "I seek refuge",
+      "root": {
+        "letters": "ع-و-ذ",
+        "meaning": "to seek protection, to take refuge"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "I (pronoun prefix)"
+        },
+        {
+          "arabic": "عُوذُ",
+          "meaning": "seeking refuge, protection (verbal noun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "بِرَبِّ",
+      "transliteration": "bi-rabbi",
+      "meaning": "in/with the Lord of",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have power, to possess; Lord, Master"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "in, with"
+        },
+        {
+          "arabic": "رَبِّ",
+          "meaning": "Lord (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nāsi",
+      "meaning": "mankind/people",
+      "root": {
+        "letters": "ن-س-أ",
+        "meaning": "to forget, to be lost; also to move about or wander (from which comes the sense of people)"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Say - I-seek refuge - in/with the Lord of - mankind."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

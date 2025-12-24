@@ -1,0 +1,80 @@
+{
+  "verseId": "105:3",
+  "verse": {
+    "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+    "transliteration": "Waarsala AAalayhim tayran ababeela",
+    "surah": "Al-Fil",
+    "verseNumber": 3
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَرْسَلَ",
+      "transliteration": "ʾarsala",
+      "meaning": "He sent",
+      "root": {
+        "letters": "ر-س-ل",
+        "meaning": "to send, dispatch; to follow a messenger"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to rise, to ascend; superiority; over"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over, above"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "طَيْرًا",
+      "transliteration": "ṭayran",
+      "meaning": "birds",
+      "root": {
+        "letters": "ط-ي-ر",
+        "meaning": "to fly, bird"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَبَابِيلَ",
+      "transliteration": "ʾabābīl",
+      "meaning": "in flocks",
+      "root": {
+        "letters": "أ-ب-ل",
+        "meaning": "to return, to come back repeatedly; change, alteration"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-He-sent upon-them birds flocks-"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

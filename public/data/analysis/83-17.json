@@ -1,0 +1,149 @@
+{
+  "verseId": "83:17",
+  "verse": {
+    "arabic": "ثُمَّ يُقَالُ هَـٰذَا الَّذِي كُنتُم بِهِ تُكَذِّبُونَ",
+    "transliteration": "Thumma yuqalu hatha allathee kuntum bihi tukaththiboona",
+    "surah": "Al-Mutaffifin",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to settle, to rest, to be firm"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُقَالُ",
+      "transliteration": "yuqālu",
+      "meaning": "it is said, will be said",
+      "root": {
+        "letters": "ق-و-ل",
+        "meaning": "speech, saying"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker, indicates it is being said (to someone)"
+        },
+        {
+          "arabic": "قَال",
+          "meaning": "he said"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "ḍammah, indicates nominative case and part of the passive voice construction"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "هَـٰذَا",
+      "transliteration": "hādhā",
+      "meaning": "this",
+      "root": {
+        "letters": "هـ-ذ-ا",
+        "meaning": "to point, to indicate, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الَّذِي",
+      "transliteration": "al-ladhī",
+      "meaning": "that which, the one who",
+      "root": {
+        "letters": "ل-د-و",
+        "meaning": "to adhere to, to follow; possess something as a characteristic"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "ذي",
+          "meaning": "possessing; having the quality of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "كُنتُم",
+      "transliteration": "kuntum",
+      "meaning": "you were",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "كن",
+          "meaning": "to be"
+        },
+        {
+          "arabic": "تم",
+          "meaning": "suffix denoting second person plural (you)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِهِ",
+      "transliteration": "bihī",
+      "meaning": "with it, in it, by it",
+      "root": {
+        "letters": "ب-هـ-ي",
+        "meaning": "possession, having, being with"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with, in, by"
+        },
+        {
+          "arabic": "هِ",
+          "meaning": "it (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "تُكَذِّبُونَ",
+      "transliteration": "tukadhdhibūna",
+      "meaning": "you deny, you used to reject",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false, to deny the truth"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second-person plural present tense"
+        },
+        {
+          "arabic": "كَذِّبُ",
+          "meaning": "to deny, to reject (verbal noun form)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second-person plural masculine"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Then - it is said - this - that which - you were - with it - you deny"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

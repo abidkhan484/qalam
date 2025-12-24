@@ -1,0 +1,79 @@
+{
+  "verseId": "85:16",
+  "verse": {
+    "arabic": "فَعَّالٌ لِّمَا يُرِيدُ",
+    "transliteration": "FaAAAAalun lima yureedu",
+    "surah": "Al-Buruj",
+    "verseNumber": 16
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَعَّالٌ",
+      "transliteration": "faʿʿālun",
+      "meaning": "Active, Effective, Doer",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to act"
+      },
+      "components": [
+        {
+          "arabic": "فَعّال",
+          "meaning": "Active, Effective (pattern VIII participle)"
+        },
+        {
+          "arabic": "ٌ",
+          "meaning": "Indefinite nominative ending (tanwīn)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِّمَا",
+      "transliteration": "li-mā",
+      "meaning": "For what, to what",
+      "root": {
+        "letters": "ل-م-و",
+        "meaning": "to want, to desire; for the sake of"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what, that which"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُرِيدُ",
+      "transliteration": "yurīdu",
+      "meaning": "He intends, He wills",
+      "root": {
+        "letters": "أ-ر-د",
+        "meaning": "to desire, to want, to seek"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "prefix indicating present/future tense and 3rd person singular masculine"
+        },
+        {
+          "arabic": "رِيدُ",
+          "meaning": "desire, wanting (verbal noun form)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Active-for what He-intends"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

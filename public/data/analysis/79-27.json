@@ -1,0 +1,103 @@
+{
+  "verseId": "79:27",
+  "verse": {
+    "arabic": "أَأَنتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا",
+    "transliteration": "Aantum ashaddu khalqan ami alssamao banaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 27
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَأَنتُمْ",
+      "transliteration": "ʾaʾantum",
+      "meaning": "Are you (plural masculine)",
+      "root": {
+        "letters": "أ-ن-ت",
+        "meaning": "to be, existence; you (pronoun)"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "interrogative particle indicating a question"
+        },
+        {
+          "arabic": "أَنْتُمْ",
+          "meaning": "you (plural masculine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَشَدُّ",
+      "transliteration": "ʾašaddu",
+      "meaning": "More difficult/stronger",
+      "root": {
+        "letters": "ش-د-د",
+        "meaning": "to be strong, intense, firm; to exert force"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "خَلْقًا",
+      "transliteration": "ḫalqan",
+      "meaning": "Creation/made thing",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "To create, to originate, to produce from nothing"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَمِ",
+      "transliteration": "ʾami",
+      "meaning": "Or",
+      "root": {
+        "letters": "أ-م-و",
+        "meaning": "to desire, to wish, to be inclined towards"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "السَّمَاءُ",
+      "transliteration": "as-samāʾu",
+      "meaning": "The heaven/sky",
+      "root": {
+        "letters": "س-م-و",
+        "meaning": "to rise, to be high; height, elevation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بَنَاهَا",
+      "transliteration": "banāhā",
+      "meaning": "He constructed it/built it",
+      "root": {
+        "letters": "ب-ن-ي",
+        "meaning": "to build, to construct"
+      },
+      "components": [
+        {
+          "arabic": "بَنَ",
+          "meaning": "He built, he constructed"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Are-you [more] difficult creation or the heaven? Constructed-it."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

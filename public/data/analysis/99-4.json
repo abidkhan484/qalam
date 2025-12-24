@@ -1,0 +1,79 @@
+{
+  "verseId": "99:4",
+  "verse": {
+    "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    "transliteration": "Yawmaithin tuhaddithu akhbaraha",
+    "surah": "Az-Zalzalah",
+    "verseNumber": 4
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَوْمَئِذٍ",
+      "transliteration": "yawmaʾidhin",
+      "meaning": "On that day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day"
+      },
+      "components": [
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day"
+        },
+        {
+          "arabic": "إِذٍ",
+          "meaning": "that (time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تُحَدِّثُ",
+      "transliteration": "tuḥaddithu",
+      "meaning": "It will report/narrate",
+      "root": {
+        "letters": "ح-د-ث",
+        "meaning": "to occur, happen; to report, narrate"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating the third person feminine singular present tense"
+        },
+        {
+          "arabic": "حَدِّثُ",
+          "meaning": "to report, narrate (verb root form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "أَخْبَارَهَا",
+      "transliteration": "akhbārahā",
+      "meaning": "Its news/stories",
+      "root": {
+        "letters": "خ-ب-ر",
+        "meaning": "to report, to narrate; news, information"
+      },
+      "components": [
+        {
+          "arabic": "أَخْبَارَ",
+          "meaning": "news, stories (plural)"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "its (feminine singular possessive pronoun)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "On-that-day it-will-report its-news"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

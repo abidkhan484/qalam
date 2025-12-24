@@ -1,0 +1,100 @@
+{
+  "verseId": "78:24",
+  "verse": {
+    "arabic": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+    "transliteration": "La yathooqoona feeha bardan wala sharaban",
+    "surah": "An-Naba",
+    "verseNumber": 24
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, no",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "to refuse, to deny, weakness/softness (from which negation arises)"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَذُوقُونَ",
+      "transliteration": "yadhūqūn",
+      "meaning": "they taste, they will taste",
+      "root": {
+        "letters": "ذ-و-ق",
+        "meaning": "to taste, to experience"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "they (masculine plural pronoun prefix)"
+        },
+        {
+          "arabic": "ذُوقُونَ",
+          "meaning": "tasting (verbal noun form)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it, therein",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to be contained, to include, to dwell"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بَرْدًا",
+      "transliteration": "bardan",
+      "meaning": "coolness, cold water",
+      "root": {
+        "letters": "ب-ر-د",
+        "meaning": "to cool, to be cold"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "شَرَابًا",
+      "transliteration": "sharāban",
+      "meaning": "a drink, drinking water",
+      "root": {
+        "letters": "ش-ر-ب",
+        "meaning": "to drink, drinking"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "not-they-taste in-it coolness and-drink"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

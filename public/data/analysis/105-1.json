@@ -1,0 +1,132 @@
+{
+  "verseId": "105:1",
+  "verse": {
+    "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+    "transliteration": "Alam tara kayfa faAAala rabbuka biashabi alfeeli",
+    "surah": "Al-Fil",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَلَمْ",
+      "transliteration": "ʾalam",
+      "meaning": "Have you not?",
+      "root": {
+        "letters": "ل-م-ع",
+        "meaning": "to know, to perceive"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "negative particle, not"
+        },
+        {
+          "arabic": "لَمْ",
+          "meaning": "past negative particle, have not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "تَرَ",
+      "transliteration": "tara",
+      "meaning": "See, observe, consider",
+      "root": {
+        "letters": "ت-ر-ي",
+        "meaning": "to observe, to perceive, to look at"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَيْفَ",
+      "transliteration": "kayfa",
+      "meaning": "How?",
+      "root": {
+        "letters": "ك-ي-ف",
+        "meaning": "state, condition, manner"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فَعَلَ",
+      "transliteration": "faʿala",
+      "meaning": "He did, He acted",
+      "root": {
+        "letters": "ف-ع-ل",
+        "meaning": "to do, to act, to create"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "رَبُّكَ",
+      "transliteration": "rabbu-ka",
+      "meaning": "Your Lord",
+      "root": {
+        "letters": "ر-ب-ب",
+        "meaning": "to have dominion over, to possess, to master; Lordship"
+      },
+      "components": [
+        {
+          "arabic": "رَبُّ",
+          "meaning": "Lord"
+        },
+        {
+          "arabic": "-كَ",
+          "meaning": "your (masculine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "بِأَصْحَابِ",
+      "transliteration": "bi-ʾaṣḥābi",
+      "meaning": "With the companions of",
+      "root": {
+        "letters": "ص-ح-ب",
+        "meaning": "to accompany, to follow with, to befriend"
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "with"
+        },
+        {
+          "arabic": "أَصْحَابِ",
+          "meaning": "the companions of"
+        }
+      ]
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "الْفِيلِ",
+      "transliteration": "al-fīli",
+      "meaning": "The elephant",
+      "root": {
+        "letters": "ف-ي-ل",
+        "meaning": "to be large, massive; elephant"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "فِيل",
+          "meaning": "elephant"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Have you not-see how-did your-Lord with-companions of-the elephant"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

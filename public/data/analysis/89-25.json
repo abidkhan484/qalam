@@ -1,0 +1,109 @@
+{
+  "verseId": "89:25",
+  "verse": {
+    "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+    "transliteration": "Fayawmaithin la yuAAaththibu AAathabahu ahadun",
+    "surah": "Al-Fajr",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَيَوْمَئِذٍ",
+      "transliteration": "fa-yawmaʾidhin",
+      "meaning": "So on that Day",
+      "root": {
+        "letters": "ي-و-م",
+        "meaning": "day, time"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "so, then (particle of consequence)"
+        },
+        {
+          "arabic": "يَوْمَ",
+          "meaning": "on the day (accusative case)"
+        },
+        {
+          "arabic": "ـئِذٍ",
+          "meaning": "that (demonstrative pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَّا",
+      "transliteration": "lā",
+      "meaning": "not, none"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يُعَذِّبُ",
+      "transliteration": "yuʿadhdhibu",
+      "meaning": "will punish",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to inflict pain; to punish; to be severe"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "indicates future tense and active voice, prefix for verb conjugation"
+        },
+        {
+          "arabic": "عَذَّبَ",
+          "meaning": "to punish intensely"
+        },
+        {
+          "arabic": "بُ",
+          "meaning": "vowel indicating present/future tense and person"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "عَذَابَهُ",
+      "transliteration": "ʿadhābahū",
+      "meaning": "His punishment",
+      "root": {
+        "letters": "ع-ذ-ب",
+        "meaning": "to suffer, to be painful; to punish"
+      },
+      "components": [
+        {
+          "arabic": "عَذَاب",
+          "meaning": "punishment, torment"
+        },
+        {
+          "arabic": "ـهُ",
+          "meaning": "his (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "أَحَدٌ",
+      "transliteration": "aḥadun",
+      "meaning": "anyone, none",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, singular"
+      },
+      "components": [
+        {
+          "arabic": "أَحَد",
+          "meaning": "one, unique, single; also anyone (in negative contexts)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "So-on that Day - not - will punish - His punishment - anyone"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "verseId": "82:9",
+  "verse": {
+    "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+    "transliteration": "Kalla bal tukaththiboona bialddeeni",
+    "surah": "Al-Infitar",
+    "verseNumber": 9
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "No!, Indeed not!",
+      "root": {
+        "letters": "ك-ل-أ",
+        "meaning": "to prevent, to ward off, to repel; negation or refutation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "بَلْ",
+      "transliteration": "bal",
+      "meaning": "But, Rather!",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "تُكَذِّبُونَ",
+      "transliteration": "tukadhdhībūna",
+      "meaning": "You deny, You reject",
+      "root": {
+        "letters": "ك-ذ-ب",
+        "meaning": "to lie, to be false; to deny, to reject"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating second person plural present tense (You)"
+        },
+        {
+          "arabic": "كَذِّب",
+          "meaning": "to deny, to reject (verbal root)"
+        },
+        {
+          "arabic": "ُونَ",
+          "meaning": "suffix indicating second person plural masculine (You - plural)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "بِالدِّينِ",
+      "transliteration": "bi-l-dīni",
+      "meaning": "With the Recompense, With the Judgment",
+      "root": {
+        "letters": "د-ي-ن",
+        "meaning": "To judge, to reckon, to hold accountable; religion, recompense, judgment."
+      },
+      "components": [
+        {
+          "arabic": "بِ",
+          "meaning": "With, by means of."
+        },
+        {
+          "arabic": "الدِّينِ",
+          "meaning": "The Recompense, The Judgment."
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "No! - But - You-deny - With-the-Recompense"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

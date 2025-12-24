@@ -1,0 +1,56 @@
+{
+  "verseId": "79:28",
+  "verse": {
+    "arabic": "رَفَعَ سَمْكَهَا فَسَوَّاهَا",
+    "transliteration": "RafaAAa samkaha fasawwaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 28
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "رَفَعَ",
+      "transliteration": "rafaʿa",
+      "meaning": "He raised; He elevated",
+      "root": {
+        "letters": "ر-ف-ع",
+        "meaning": "to elevate, to lift up, to increase"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَمْكَهَا",
+      "transliteration": "samkahā",
+      "meaning": "its ceiling; its thickness/roof"
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "فَسَوَّاهَا",
+      "transliteration": "fasawwāhā",
+      "meaning": "and He proportioned it; and He made it even/level",
+      "root": {
+        "letters": "س-و-ي",
+        "meaning": "to make even, to straighten, to proportion"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "and (connector)"
+        },
+        {
+          "arabic": "سَوَّاهَا",
+          "meaning": "He proportioned it; He made it even/level (verb)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "He-raised its-ceiling and-He-proportioned it."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

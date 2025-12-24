@@ -1,0 +1,90 @@
+{
+  "verseId": "101:5",
+  "verse": {
+    "arabic": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
+    "transliteration": "Watakoonu aljibalu kaalAAihni almanfooshi",
+    "surah": "Al-Qari'ah",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَتَكُونُ",
+      "transliteration": "wa-takūnu",
+      "meaning": "and it will be/become",
+      "root": {
+        "letters": "ك-و-ن",
+        "meaning": "to be, to exist, to become"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and"
+        },
+        {
+          "arabic": "تَكُونُ",
+          "meaning": "it will be/become (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْجِبَالُ",
+      "transliteration": "al-jibālu",
+      "meaning": "the mountains",
+      "root": {
+        "letters": "ج-ب-ل",
+        "meaning": "to be firm, solid; to rise up; strength, power"
+      },
+      "components": [
+        {
+          "arabic": "ال",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "جِبَالُ",
+          "meaning": "mountains (plural of جَبَل)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "كَالْعِهْنِ",
+      "transliteration": "ka-l-ʿihni",
+      "meaning": "like the wool",
+      "root": {
+        "letters": "ع-ح-ن",
+        "meaning": "to be soft, tender; wool; fluff"
+      },
+      "components": [
+        {
+          "arabic": "كَـ",
+          "meaning": "like"
+        },
+        {
+          "arabic": "الْعِهْنِ",
+          "meaning": "the wool"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "الْمَنفُوشِ",
+      "transliteration": "al-manfūshi",
+      "meaning": "the fluffed/carded (wool)",
+      "root": {
+        "letters": "ن-ف-ش",
+        "meaning": "to blow, to spread out, to fluff up"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it-will-be the-mountains like-the wool the-fluffed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

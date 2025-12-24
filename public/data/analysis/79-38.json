@@ -1,0 +1,70 @@
+{
+  "verseId": "79:38",
+  "verse": {
+    "arabic": "وَآثَرَ الْحَيَاةَ الدُّنْيَا",
+    "transliteration": "Waathara alhayata alddunya",
+    "surah": "An-Nazi'at",
+    "verseNumber": 38
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَآثَرَ",
+      "transliteration": "wa-ʾāthara",
+      "meaning": "and he preferred, and he chose",
+      "root": {
+        "letters": "أ-ث-ر",
+        "meaning": "to prefer, to choose; traces, vestiges"
+      },
+      "components": [
+        {
+          "arabic": "وَ",
+          "meaning": "and (conjunction)"
+        },
+        {
+          "arabic": "آثَرَ",
+          "meaning": "he preferred, he chose (verb)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْحَيَاةَ",
+      "transliteration": "al-ḥayāta",
+      "meaning": "the life",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "to live, be alive"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "حَيَاة",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الدُّنْيَا",
+      "transliteration": "ad-dunyā",
+      "meaning": "the world, the present life",
+      "root": {
+        "letters": "د-ن-و",
+        "meaning": "to be low, humble; to subjugate or overpower"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-he-preferred the-life the-world"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

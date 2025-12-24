@@ -1,0 +1,50 @@
+{
+  "verseId": "84:12",
+  "verse": {
+    "arabic": "وَيَصْلَىٰ سَعِيرًا",
+    "transliteration": "Wayasla saAAeeran",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 12
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَيَصْلَىٰ",
+      "transliteration": "wa yaṣlā",
+      "meaning": "and it is burned/scorched",
+      "root": {
+        "letters": "ص-ل-ي",
+        "meaning": "to roast, burn, cook; to pray (related to purification by fire)"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "يَصْلَىٰ",
+          "meaning": "it is burned/scorched (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "سَعِيرًا",
+      "transliteration": "saʿīran",
+      "meaning": "a blazing fire/inferno",
+      "root": {
+        "letters": "س-ع-ر",
+        "meaning": "to burn, to blaze; intensity of heat"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-it-is-burned a-blazing-fire"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

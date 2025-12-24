@@ -1,0 +1,90 @@
+{
+  "verseId": "80:17",
+  "verse": {
+    "arabic": "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ",
+    "transliteration": "Qutila alinsanu ma akfarahu",
+    "surah": "Abasa",
+    "verseNumber": 17
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "قُتِلَ",
+      "transliteration": "qutila",
+      "meaning": "was killed, was destroyed",
+      "root": {
+        "letters": "ق-ت-ل",
+        "meaning": "killing, destruction, perishing"
+      },
+      "components": [
+        {
+          "arabic": "قُتِلَ",
+          "meaning": "was killed, was destroyed (passive voice)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "الْإِنسَانُ",
+      "transliteration": "al-ʾinsānu",
+      "meaning": "the human being, mankind",
+      "root": {
+        "letters": "أ-ن-س",
+        "meaning": "to associate, to be friendly, weakness/dependence (as humans rely on God)"
+      },
+      "components": [
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "إِنسَانُ",
+          "meaning": "human being, mankind"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مَا",
+      "transliteration": "mā",
+      "meaning": "how, what",
+      "root": {
+        "letters": "م-و-ا",
+        "meaning": "to exist, to be; non-specification, negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَكْفَرَهُ",
+      "transliteration": "ʾakfarahu",
+      "meaning": "he disbelieved him, he was ungrateful to him",
+      "root": {
+        "letters": "ك-ف-ر",
+        "meaning": "to cover, to conceal; to deny, to disbelieve, to be ungrateful"
+      },
+      "components": [
+        {
+          "arabic": "أَ",
+          "meaning": "prefix indicating negation or intensification"
+        },
+        {
+          "arabic": "كفَّرَ",
+          "meaning": "to expiate, to forgive; to disbelieve (related form)"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him/it (pronoun suffix)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "was-killed the-human being how he-disbelieved-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

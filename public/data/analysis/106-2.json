@@ -1,0 +1,76 @@
+{
+  "verseId": "106:2",
+  "verse": {
+    "arabic": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+    "transliteration": "Eelafihim rihlata alshshitai waalssayfi",
+    "surah": "Quraysh",
+    "verseNumber": 2
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "إِيلَافِهِمْ",
+      "transliteration": "ʾīlāfihim",
+      "meaning": "Their accustomed security; their habituation; the benefits they enjoy",
+      "root": {
+        "letters": "أ-ل-ف",
+        "meaning": "to join, to be friendly with, to become accustomed to"
+      },
+      "components": [
+        {
+          "arabic": "إِ",
+          "meaning": "prefix indicating emphasis or intensification; here, a preposition forming the noun"
+        },
+        {
+          "arabic": "لَاف",
+          "meaning": "habituation, security, benefits (derived from the root أ-ل-ف)"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "their (possessive suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "رِحْلَةَ",
+      "transliteration": "riḥlata",
+      "meaning": "A journey; a caravan trip",
+      "root": {
+        "letters": "ر-ح-ل",
+        "meaning": "To travel; to set out on a journey."
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الشِّتَاءِ",
+      "transliteration": "al-shittāʾi",
+      "meaning": "The winter; the season of winter",
+      "root": {
+        "letters": "ش-ت-و",
+        "meaning": "coldness, severity; to be cold or severe"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "وَالصَّيْفِ",
+      "transliteration": "wa-ṣ-ṣayfi",
+      "meaning": "And the summer; the season of summer",
+      "root": {
+        "letters": "ص-ي-ف",
+        "meaning": "To be hot; summer heat, to become warm"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Their-accustomed-security [of]-journey the-winter and-the-summer"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

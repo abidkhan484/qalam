@@ -1,0 +1,65 @@
+{
+  "verseId": "78:5",
+  "verse": {
+    "arabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+    "transliteration": "Thumma kalla sayaAAlamoona",
+    "surah": "An-Naba",
+    "verseNumber": 5
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish after something else; continuation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "كَلَّا",
+      "transliteration": "kallā",
+      "meaning": "no!, indeed not, by no means!",
+      "root": {
+        "letters": "ك-ل-ل",
+        "meaning": "to refuse, to reject, to deny; a sense of strong negation"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "سَيَعْلَمُونَ",
+      "transliteration": "sayʿlamūna",
+      "meaning": "they will surely know, they are going to know",
+      "root": {
+        "letters": "ع-ل-م",
+        "meaning": "to know, to be aware, to understand"
+      },
+      "components": [
+        {
+          "arabic": "سَ",
+          "meaning": "future particle indicating 'will'"
+        },
+        {
+          "arabic": "يَعْلَمُ",
+          "meaning": "they know (verb, present tense)"
+        },
+        {
+          "arabic": "ونَ",
+          "meaning": "pronoun suffix indicating 'they'"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then - no! - they-will-surely-know"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

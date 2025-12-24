@@ -1,0 +1,111 @@
+{
+  "verseId": "79:42",
+  "verse": {
+    "arabic": "يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا",
+    "transliteration": "Yasaloonaka AAani alssaAAati ayyana mursaha",
+    "surah": "An-Nazi'at",
+    "verseNumber": 42
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "يَسْأَلُونَكَ",
+      "transliteration": "yasʾalūna-ka",
+      "meaning": "they ask you",
+      "root": {
+        "letters": "س-أ-ل",
+        "meaning": "to ask, to inquire"
+      },
+      "components": [
+        {
+          "arabic": "يَسْأَلُونَ",
+          "meaning": "they ask"
+        },
+        {
+          "arabic": "كَ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "عَنِ",
+      "transliteration": "ʿani",
+      "meaning": "about",
+      "root": {
+        "letters": "ع-ن-و",
+        "meaning": "to be in relation to, pertaining to"
+      },
+      "components": [
+        {
+          "arabic": "عَنْ",
+          "meaning": "about, from"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "السَّاعَةِ",
+      "transliteration": "as-sāʿati",
+      "meaning": "the Hour",
+      "root": {
+        "letters": "س-ع-ح",
+        "meaning": "to be wide, spacious; to rise or become high; to burn; to hasten"
+      },
+      "components": [
+        {
+          "arabic": "السَّاعَةِ",
+          "meaning": "the Hour (time of judgement, appointed time)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "أَيَّانَ",
+      "transliteration": "ʾayyāna",
+      "meaning": "when?",
+      "root": {
+        "letters": "أ-ي-ن",
+        "meaning": "to be, to exist; also related to time and place"
+      },
+      "components": [
+        {
+          "arabic": "أَيّ",
+          "meaning": "when, at what time"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (suffix pronoun, indicates inquiry related to the speaker)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "مُرْسَاهَا",
+      "transliteration": "mursāhā",
+      "meaning": "its mooring/arrival",
+      "root": {
+        "letters": "ر-س-و",
+        "meaning": "to moor, to anchor, to arrive"
+      },
+      "components": [
+        {
+          "arabic": "مُرْسَ",
+          "meaning": "moored, anchoring"
+        },
+        {
+          "arabic": "اهَا",
+          "meaning": "its (feminine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "they-ask you - about - the Hour - when? - its mooring/arrival"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

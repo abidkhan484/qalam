@@ -1,0 +1,81 @@
+{
+  "verseId": "80:25",
+  "verse": {
+    "arabic": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+    "transliteration": "Anna sababna almaa sabban",
+    "surah": "Abasa",
+    "verseNumber": 25
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "أَنَّا",
+      "transliteration": "ʾannā",
+      "meaning": "Indeed that we",
+      "root": {
+        "letters": "أ-ن-و",
+        "meaning": "to be, to exist; indicating affirmation or emphasis"
+      },
+      "components": [
+        {
+          "arabic": "أَن",
+          "meaning": "Indeed, that"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we, us (pronoun suffix)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "صَبَبْنَا",
+      "transliteration": "ṣabbābnā",
+      "meaning": "We poured",
+      "root": {
+        "letters": "ص-ب-ب",
+        "meaning": "to pour, flow down"
+      },
+      "components": [
+        {
+          "arabic": "صَبَّ",
+          "meaning": "to pour"
+        },
+        {
+          "arabic": "نَا",
+          "meaning": "we (inclusive pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "الْمَاءَ",
+      "transliteration": "al-māʾa",
+      "meaning": "The water",
+      "root": {
+        "letters": "م-ي-ء",
+        "meaning": "liquidity, fluidity, existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "صَبًّا",
+      "transliteration": "ṣabban",
+      "meaning": "A pouring, torrents",
+      "root": {
+        "letters": "ص-ب-ب",
+        "meaning": "to pour, to flow down"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "Indeed-that we poured the-water a-pouring."
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

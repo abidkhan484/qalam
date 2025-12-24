@@ -1,0 +1,125 @@
+{
+  "verseId": "92:19",
+  "verse": {
+    "arabic": "وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ",
+    "transliteration": "Wama liahadin AAindahu min niAAmatin tujza",
+    "surah": "Al-Layl",
+    "verseNumber": 19
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَمَا",
+      "transliteration": "wa mā",
+      "meaning": "and not / and what",
+      "root": {
+        "letters": "م-و-أ",
+        "meaning": "to possess, to have; also negation/lack of something"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "مَا",
+          "meaning": "what / not"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لِأَحَدٍ",
+      "transliteration": "li-aḥadin",
+      "meaning": "for anyone / to someone",
+      "root": {
+        "letters": "أ-ح-د",
+        "meaning": "to be unique, one, solitary"
+      },
+      "components": [
+        {
+          "arabic": "لِ",
+          "meaning": "for, to"
+        },
+        {
+          "arabic": "أَحَدٍ",
+          "meaning": "anyone, someone"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "عِندَهُ",
+      "transliteration": "ʿindahu",
+      "meaning": "with him / at his disposal",
+      "root": {
+        "letters": "ع-ن-د",
+        "meaning": "to possess, to have, to be near or at"
+      },
+      "components": [
+        {
+          "arabic": "عِندَ",
+          "meaning": "with, at, near"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from / of",
+      "root": {
+        "letters": "م-ن-ن",
+        "meaning": "to originate, to derive from, belonging to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "نِّعْمَةٍ",
+      "transliteration": "niʿmatin",
+      "meaning": "a favor / a blessing",
+      "root": {
+        "letters": "ن-ع-م",
+        "meaning": "enjoyment, benefit, favor"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "تُجْزَىٰ",
+      "transliteration": "tujzā",
+      "meaning": "is rewarded / to be compensated",
+      "root": {
+        "letters": "ج-ز-ي",
+        "meaning": "to reward, to compensate, to be sufficient"
+      },
+      "components": [
+        {
+          "arabic": "تُ",
+          "meaning": "prefix indicating passive voice or being acted upon"
+        },
+        {
+          "arabic": "جُزْي",
+          "meaning": "passive form of the verb 'to reward'"
+        },
+        {
+          "arabic": "ـا",
+          "meaning": "vowel indicating present/future tense and person (3rd person singular feminine)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-not for-anyone with-him from a-favor to-be-rewarded"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

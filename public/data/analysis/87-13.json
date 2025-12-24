@@ -1,0 +1,108 @@
+{
+  "verseId": "87:13",
+  "verse": {
+    "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+    "transliteration": "Thumma la yamootu feeha wala yahya",
+    "surah": "Al-A'la",
+    "verseNumber": 13
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "ثُمَّ",
+      "transliteration": "thumma",
+      "meaning": "then, moreover",
+      "root": {
+        "letters": "ث-م-م",
+        "meaning": "to place, to set, to establish after something else"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, neither",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَمُوتُ",
+      "transliteration": "yamūtu",
+      "meaning": "he dies",
+      "root": {
+        "letters": "م-و-ت",
+        "meaning": "to die, perish, cease to live"
+      },
+      "components": [
+        {
+          "arabic": "يَ",
+          "meaning": "indicates present tense, imperfect form marker"
+        },
+        {
+          "arabic": "مُوت",
+          "meaning": "death, dying; the verbal noun from موت"
+        }
+      ]
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "فِيهَا",
+      "transliteration": "fīhā",
+      "meaning": "in it",
+      "root": {
+        "letters": "ف-ي-ح",
+        "meaning": "to contain, to include, to be in"
+      },
+      "components": [
+        {
+          "arabic": "فِي",
+          "meaning": "in"
+        },
+        {
+          "arabic": "هَا",
+          "meaning": "it (feminine singular)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 5,
+      "arabic": "وَ",
+      "transliteration": "wa",
+      "meaning": "and",
+      "root": null,
+      "components": []
+    },
+    {
+      "wordNumber": 6,
+      "arabic": "لَا",
+      "transliteration": "lā",
+      "meaning": "not, neither",
+      "root": {
+        "letters": "ل-ي-ن",
+        "meaning": "to refuse, to deny, non-existence"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 7,
+      "arabic": "يَحْيَىٰ",
+      "transliteration": "yaḥyā",
+      "meaning": "he lives",
+      "root": {
+        "letters": "ح-ي-و",
+        "meaning": "life, to live"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "then-not he-dies in-it and-not he-lives"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

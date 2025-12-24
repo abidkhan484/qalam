@@ -1,0 +1,61 @@
+{
+  "verseId": "90:20",
+  "verse": {
+    "arabic": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ",
+    "transliteration": "AAalayhim narun musadatun",
+    "surah": "Al-Balad",
+    "verseNumber": 20
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "عَلَيْهِمْ",
+      "transliteration": "ʿalayhim",
+      "meaning": "upon them",
+      "root": {
+        "letters": "ع-ل-ي",
+        "meaning": "to be high, to ascend, over, upon"
+      },
+      "components": [
+        {
+          "arabic": "عَلَى",
+          "meaning": "upon, over"
+        },
+        {
+          "arabic": "هِمْ",
+          "meaning": "them (attached pronoun)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "نَارٌ",
+      "transliteration": "nārun",
+      "meaning": "fire",
+      "root": {
+        "letters": "ن-ا-ر",
+        "meaning": "to burn, heat, fire"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "مُّؤْصَدَةٌ",
+      "transliteration": "muʾṣadah",
+      "meaning": "closed, barred",
+      "root": {
+        "letters": "ص-د-أ",
+        "meaning": "to obstruct, to close tightly, to be firm or solid"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "upon-them fire closed"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

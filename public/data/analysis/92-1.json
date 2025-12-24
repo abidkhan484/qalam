@@ -1,0 +1,65 @@
+{
+  "verseId": "92:1",
+  "verse": {
+    "arabic": "وَاللَّيْلِ إِذَا يَغْشَىٰ",
+    "transliteration": "Waallayli itha yaghsha",
+    "surah": "Al-Layl",
+    "verseNumber": 1
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "وَاللَّيْلِ",
+      "transliteration": "wa-l-layli",
+      "meaning": "and the night",
+      "root": {
+        "letters": "ل-ي-ل",
+        "meaning": "darkness, night; to be dark or hidden"
+      },
+      "components": [
+        {
+          "arabic": "و",
+          "meaning": "and"
+        },
+        {
+          "arabic": "الـ",
+          "meaning": "the (definite article)"
+        },
+        {
+          "arabic": "لَيْلٍ",
+          "meaning": "night (genitive case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "إِذَا",
+      "transliteration": "idhā",
+      "meaning": "when, whenever",
+      "root": {
+        "letters": "ذ-هـ-د",
+        "meaning": "to go away, to depart; also to desire, to wish"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "يَغْشَىٰ",
+      "transliteration": "yaghshā",
+      "meaning": "it covers, it enshrouds",
+      "root": {
+        "letters": "غ-ش-ي",
+        "meaning": "to cover, to overshadow, to veil"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "and-the night when it covers"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

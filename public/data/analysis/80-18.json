@@ -1,0 +1,72 @@
+{
+  "verseId": "80:18",
+  "verse": {
+    "arabic": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+    "transliteration": "Min ayyi shayin khalaqahu",
+    "surah": "Abasa",
+    "verseNumber": 18
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "مِنْ",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": {
+        "letters": "م-ن-أ",
+        "meaning": "to originate, to derive from, source"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "أَيِّ",
+      "transliteration": "ayy",
+      "meaning": "which, any",
+      "root": {
+        "letters": "أ-ي-ي",
+        "meaning": "relativity, questioning; pertaining to"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "شَيْءٍ",
+      "transliteration": "shayʾin",
+      "meaning": "thing, substance",
+      "root": {
+        "letters": "ش-ي-أ",
+        "meaning": "to be, to exist; a matter or affair"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "خَلَقَهُ",
+      "transliteration": "khalaqahu",
+      "meaning": "He created it (him)",
+      "root": {
+        "letters": "خ-ل-ق",
+        "meaning": "to create, to originate, to produce from nothing"
+      },
+      "components": [
+        {
+          "arabic": "خَلَقَ",
+          "meaning": "He created"
+        },
+        {
+          "arabic": "هُ",
+          "meaning": "it (masculine singular)"
+        }
+      ]
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "from-which thing created-him"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

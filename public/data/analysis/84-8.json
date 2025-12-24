@@ -1,0 +1,85 @@
+{
+  "verseId": "84:8",
+  "verse": {
+    "arabic": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+    "transliteration": "Fasawfa yuhasabu hisaban yaseeran",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 8
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَوْفَ",
+      "transliteration": "fa-sawfa",
+      "meaning": "then, so will; introducing a future event with emphasis",
+      "root": {
+        "letters": "س-و-ف",
+        "meaning": "to intend, to will, to desire; future expectation"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so; connective particle emphasizing the following statement"
+        },
+        {
+          "arabic": "سَوْفَ",
+          "meaning": "will, future event (emphasized)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يُحَاسَبُ",
+      "transliteration": "yuḥāsabu",
+      "meaning": "he will be held accountable, he will be reckoned with",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": [
+        {
+          "arabic": "يُ",
+          "meaning": "passive voice marker/prefix indicating 'he is being...'"
+        },
+        {
+          "arabic": "حَاسَبَ",
+          "meaning": "to hold accountable, to reckon with (active form)"
+        },
+        {
+          "arabic": "ُ",
+          "meaning": "dammatan (vowel marking indicating nominative case)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "حِسَابًا",
+      "transliteration": "ḥisāban",
+      "meaning": "an account, reckoning",
+      "root": {
+        "letters": "ح-س-ب",
+        "meaning": "to calculate, to reckon, to suffice"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 4,
+      "arabic": "يَسِيرًا",
+      "transliteration": "yasīran",
+      "meaning": "easy, simple, light",
+      "root": {
+        "letters": "ي-س-ر",
+        "meaning": "ease, facility, comfort"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "so-will he-be-reckoned an-account easy"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

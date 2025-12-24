@@ -1,0 +1,61 @@
+{
+  "verseId": "84:11",
+  "verse": {
+    "arabic": "فَسَوْفَ يَدْعُو ثُبُورًا",
+    "transliteration": "Fasawfa yadAAoo thubooran",
+    "surah": "Al-Inshiqaq",
+    "verseNumber": 11
+  },
+  "words": [
+    {
+      "wordNumber": 1,
+      "arabic": "فَسَوْفَ",
+      "transliteration": "fasawfa",
+      "meaning": "then will/so, soon",
+      "root": {
+        "letters": "س-و-ف",
+        "meaning": "to intend, to will, to desire; future time"
+      },
+      "components": [
+        {
+          "arabic": "فَـ",
+          "meaning": "then, so"
+        },
+        {
+          "arabic": "سَوْفَ",
+          "meaning": "will/shall (future particle)"
+        }
+      ]
+    },
+    {
+      "wordNumber": 2,
+      "arabic": "يَدْعُو",
+      "transliteration": "yadʿū",
+      "meaning": "he will call/cry out",
+      "root": {
+        "letters": "د-ع-و",
+        "meaning": "to call, to invoke, to pray"
+      },
+      "components": []
+    },
+    {
+      "wordNumber": 3,
+      "arabic": "ثُبُورًا",
+      "transliteration": "thubūran",
+      "meaning": "destruction, ruin",
+      "root": {
+        "letters": "ث-ب-ر",
+        "meaning": "to break, to perish, to be destroyed"
+      },
+      "components": []
+    }
+  ],
+  "literalTranslation": {
+    "wordAligned": "fa- [then] sawfa-[will/soon] yadʿū-[he will call] thubūran-[destruction]"
+  },
+  "metadata": {
+    "analysisType": "lexical and morphological",
+    "linguisticFramework": "Classical Arabic grammar (naḥw, ṣarf)",
+    "scope": "no tafsīr, thematic, or theological interpretation"
+  }
+}

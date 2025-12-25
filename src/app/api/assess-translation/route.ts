@@ -2,21 +2,11 @@ import { NextRequest, NextResponse } from 'next/server'
 import { promises as fs } from 'fs'
 import path from 'path'
 import type { VerseAnalysis, AttemptFeedback } from '@/types'
-
-// Together.ai API configuration
-const TOGETHER_API_URL = 'https://api.together.xyz/v1/chat/completions'
-const TOGETHER_MODEL = process.env.TOGETHER_MODEL || 'meta-llama/Llama-3.3-70B-Instruct-Turbo'
+import { callLLM, buildAssessmentPrompt, type AssessmentResult } from '@/lib/llm'
 
 interface AssessmentRequest {
   verseId: string
   userTranslation: string
-}
-
-interface AssessmentResponse {
-  score: number
-  feedback: string
-  correctElements: string[]
-  missedElements: string[]
 }
 
 /**
@@ -57,117 +47,9 @@ async function getReferenceTranslation(verseId: string): Promise<string | null> 
 }
 
 /**
- * Build the prompt for Together.ai
- */
-function buildPrompt(
-  arabic: string,
-  referenceTranslation: string,
-  wordMeanings: string,
-  userTranslation: string
-): string {
-  return `You are an expert in Quranic Arabic and translation assessment. Evaluate a student's English translation of a Quranic verse.
-
-VERSE INFORMATION:
-- Arabic: ${arabic}
-- Reference Translation: "${referenceTranslation}"
-- Word-by-word meanings: ${wordMeanings}
-
-STUDENT'S TRANSLATION:
-"${userTranslation}"
-
-TASK: Assess the student's translation accuracy and provide constructive feedback.
-
-SCORING CRITERIA (0-100):
-- 90-100: Excellent - captures meaning accurately with proper nuance
-- 70-89: Good - main meaning correct with minor issues
-- 50-69: Fair - partial understanding, some key elements missing
-- 30-49: Needs work - significant gaps in meaning
-- 0-29: Incorrect - major misunderstanding
-
-RESPOND IN THIS EXACT JSON FORMAT (no markdown, no code blocks):
-{
-  "score": <number 0-100>,
-  "feedback": "<1-2 sentences explaining what was good or needs improvement>",
-  "correctElements": ["<element 1>", "<element 2>"],
-  "missedElements": ["<element 1>", "<element 2>"]
-}
-
-Keep feedback encouraging and educational. Focus on meaning, not exact wording.`
-}
-
-/**
- * Call Together.ai API
- */
-async function callTogetherAI(prompt: string): Promise<AssessmentResponse> {
-  const apiKey = process.env.TOGETHER_API_KEY
-
-  if (!apiKey) {
-    throw new Error('TOGETHER_API_KEY is not configured')
-  }
-
-  const response = await fetch(TOGETHER_API_URL, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model: TOGETHER_MODEL,
-      messages: [
-        {
-          role: 'user',
-          content: prompt,
-        },
-      ],
-      temperature: 0.3,
-      max_tokens: 500,
-    }),
-  })
-
-  if (!response.ok) {
-    const errorText = await response.text()
-    throw new Error(`Together.ai API error: ${response.status} - ${errorText}`)
-  }
-
-  const data = await response.json()
-  const content = data.choices?.[0]?.message?.content
-
-  if (!content) {
-    throw new Error('Empty response from Together.ai')
-  }
-
-  // Parse the JSON response
-  try {
-    // Clean up potential markdown code blocks
-    const cleanedContent = content
-      .replace(/```json\n?/g, '')
-      .replace(/```\n?/g, '')
-      .trim()
-
-    const parsed = JSON.parse(cleanedContent)
-
-    return {
-      score: Math.max(0, Math.min(100, parsed.score || 0)),
-      feedback: parsed.feedback || 'Unable to generate feedback.',
-      correctElements: Array.isArray(parsed.correctElements) ? parsed.correctElements : [],
-      missedElements: Array.isArray(parsed.missedElements) ? parsed.missedElements : [],
-    }
-  } catch {
-    // If JSON parsing fails, return a default response
-    console.error('Failed to parse Together.ai response:', content)
-    return {
-      score: 50,
-      feedback: 'Unable to parse assessment. Please try again.',
-      correctElements: [],
-      missedElements: [],
-    }
-  }
-}
-
-/**
  * Convert AI response to AttemptFeedback format
  */
-function toAttemptFeedback(assessment: AssessmentResponse): AttemptFeedback {
+function toAttemptFeedback(assessment: AssessmentResult): AttemptFeedback {
   const score = assessment.score / 100 // Convert to 0-1 scale
 
   // Generate encouragement based on score
@@ -229,15 +111,15 @@ export async function POST(request: NextRequest) {
       .map(w => `${w.arabic} = "${w.meaning}"`)
       .join(', ')
 
-    // Build prompt and call Together.ai
-    const prompt = buildPrompt(
+    // Build prompt and call LLM (backend selected via ASSESSMENT_BACKEND env)
+    const prompt = buildAssessmentPrompt(
       analysis.verse.arabic,
       referenceTranslation,
       wordMeanings,
       userTranslation.trim()
     )
 
-    const assessment = await callTogetherAI(prompt)
+    const assessment = await callLLM(prompt)
     const feedback = toAttemptFeedback(assessment)
 
     return NextResponse.json({

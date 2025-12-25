@@ -1,3 +1,5 @@
+# Qalam Static Site - Cloudflare Pages
+# For the Assessment API Worker, see ./worker/wrangler.toml
 name = "qalam"
 compatibility_date = "2024-12-24"
 

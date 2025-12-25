@@ -46,34 +46,8 @@ const defaultAnalysis: WordAnalysis[] = [
   },
 ]
 
-// Mock feedback generator (will be replaced with LLM evaluation)
-function generateMockFeedback(score: number): AttemptFeedback {
-  const isExcellent = score >= 0.9
-  const isGood = score >= 0.7
-
-  return {
-    overallScore: score,
-    correctElements: isExcellent
-      ? ['Excellent understanding of the verse', 'Proper translation of divine attributes', 'Good grammatical structure']
-      : isGood
-      ? ['Captured the core meaning', 'Good use of English phrasing']
-      : ['Basic meaning understood'],
-    missedElements: isExcellent
-      ? []
-      : isGood
-      ? ['Consider using "the Most" before Gracious and Merciful for emphasis']
-      : ['Missing some key elements', 'Translation could be more precise'],
-    suggestions: [
-      'Both الرَّحْمَٰنِ and الرَّحِيمِ derive from the root ر-ح-م meaning mercy',
-      'The "Bismillah" is recited before beginning any good deed',
-    ],
-    encouragement: isExcellent
-      ? 'Excellent work! Your translation beautifully captures the meaning.'
-      : isGood
-      ? 'Great effort! You understood the verse well.'
-      : 'Good start! Keep practicing to improve your understanding.',
-  }
-}
+// API URL for assessment (Worker in production, local API in dev)
+const API_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
 type ViewState = 'practice' | 'feedback' | 'analysis'
 
@@ -168,22 +142,39 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
     setIsSubmitting(true)
 
     try {
-      // TODO: Call evaluation API
-      await new Promise((resolve) => setTimeout(resolve, 1500))
+      // Call assessment API (Worker in production, /api route in dev)
+      const endpoint = API_URL ? `${API_URL}/assess` : '/api/assess-translation'
+      const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          verseId,
+          userTranslation: userTranslation.trim(),
+        }),
+      })
 
-      // Generate mock score based on translation length/content
-      const baseScore = Math.min(0.95, 0.5 + (userTranslation.length / 100) * 0.3 + Math.random() * 0.2)
+      const result = await response.json()
+
+      if (!result.success) {
+        throw new Error(result.error || 'Assessment failed')
+      }
+
+      // Apply hints penalty to the score
       const hintsPenalty = hintsRevealed * 0.05
-      const finalScore = Math.max(0.3, baseScore - hintsPenalty)
+      const adjustedScore = Math.max(0.1, result.data.feedback.overallScore - hintsPenalty)
 
-      setFeedback(generateMockFeedback(finalScore))
+      setFeedback({
+        ...result.data.feedback,
+        overallScore: adjustedScore,
+      })
       setViewState('feedback')
-    } catch {
-      setError('Something went wrong. Please try again.')
+    } catch (err) {
+      const message = err instanceof Error ? err.message : 'Something went wrong'
+      setError(message + '. Please try again.')
     } finally {
       setIsSubmitting(false)
     }
-  }, [userTranslation, hintsRevealed])
+  }, [userTranslation, verseId, hintsRevealed])
 
   // Keyboard shortcut for submit
   const handleKeyDown = useCallback((e: KeyboardEvent) => {
@@ -363,11 +354,10 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
                 <Button
                   onClick={handleSubmit}
                   isLoading={isSubmitting}
-                  disabled={true}
                   className="flex-1"
                   size="lg"
                 >
-                  Submit Translation (Coming Soon)
+                  Submit Translation
                 </Button>
 
                 {hintsRevealed < analysis.length && (

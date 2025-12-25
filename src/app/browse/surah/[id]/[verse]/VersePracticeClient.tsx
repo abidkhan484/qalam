@@ -9,6 +9,7 @@ import { FeedbackCard } from '@/components/FeedbackCard'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
 import { getVerseAnalysis, getSurahMetadata } from '@/lib/data'
+import { saveLastVerse } from '@/lib/lastVerse'
 import type { AttemptFeedback, WordAnalysis, VerseAnalysis, Verse, Surah } from '@/types'
 
 // Default analysis for verses without pre-computed analysis (verse 1:1)
@@ -73,6 +74,7 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
   const [viewState, setViewState] = useState<ViewState>('practice')
   const [error, setError] = useState('')
   const [feedback, setFeedback] = useState<AttemptFeedback | null>(null)
+  const [referenceTranslation, setReferenceTranslation] = useState<string>('')
   const [hintsRevealed, setHintsRevealed] = useState(0)
   const [showHints, setShowHints] = useState(false)
   const [verseAnalysis, setVerseAnalysis] = useState<VerseAnalysis | null>(null)
@@ -121,6 +123,9 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
           },
           totalVerses: surahMeta?.verseCount ?? 0,
         })
+
+        // Save as last viewed verse
+        saveLastVerse(surahId, verseNum)
       } catch (err) {
         console.error('Failed to load verse:', err)
         setLoadError('Failed to load verse data.')
@@ -167,6 +172,7 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
         ...result.data.feedback,
         overallScore: adjustedScore,
       })
+      setReferenceTranslation(result.data.referenceTranslation || '')
       setViewState('feedback')
     } catch (err) {
       const message = err instanceof Error ? err.message : 'Something went wrong'
@@ -191,6 +197,7 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
   const handleTryAgain = () => {
     setUserTranslation('')
     setFeedback(null)
+    setReferenceTranslation('')
     setViewState('practice')
     setHintsRevealed(0)
     setShowHints(false)
@@ -410,7 +417,7 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
                 <CardTitle>Reference Translation</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-700 text-lg">{verse.textEnglish}</p>
+                <p className="text-gray-700 text-lg">{referenceTranslation}</p>
               </CardContent>
             </Card>
 

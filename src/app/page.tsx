@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { Button } from '@/components/ui'
+import { StartPracticeLink } from '@/components/StartPracticeLink'
 
 export default function HomePage() {
   return (
@@ -26,11 +27,9 @@ export default function HomePage() {
                   Browse Surahs
                 </Button>
               </Link>
-              <Link href="/browse/surah/1/1">
-                <Button variant="secondary">
-                  Start Practice
-                </Button>
-              </Link>
+              <StartPracticeLink variant="secondary">
+                Start Practice
+              </StartPracticeLink>
             </div>
           </div>
         </nav>
@@ -216,9 +215,9 @@ export default function HomePage() {
               <Link href="/browse" className="hover:text-white transition-colors">
                 Browse
               </Link>
-              <Link href="/browse/surah/1/1" className="hover:text-white transition-colors">
+              <StartPracticeLink asText className="hover:text-white transition-colors">
                 Practice
-              </Link>
+              </StartPracticeLink>
               <a
                 href="https://github.com/foyzulkarim/qalam"
                 target="_blank"

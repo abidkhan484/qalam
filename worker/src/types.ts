@@ -7,6 +7,9 @@ export interface Env {
   // KV namespace for caching assessments
   ASSESSMENT_CACHE: KVNamespace
 
+  // Static data URL (defaults to production, override for local dev)
+  DATA_BASE_URL?: string
+
   // LLM Configuration
   ASSESSMENT_BACKEND: string // 'together' | 'vllm' | 'ollama'
   TOGETHER_API_KEY: string

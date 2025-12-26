@@ -15,6 +15,9 @@ preview_id = "YOUR_KV_PREVIEW_NAMESPACE_ID"
 ASSESSMENT_BACKEND = "together"
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 ALLOWED_ORIGINS = "https://qalam.pages.dev,http://localhost:3000"
+# For local dev, override DATA_BASE_URL to point to local static server
+# In production, this defaults to https://qalam.pages.dev/data
+DATA_BASE_URL = "http://localhost:3000/data"
 
 # For local development with vLLM
 # ASSESSMENT_BACKEND = "vllm"
@@ -23,8 +26,8 @@ ALLOWED_ORIGINS = "https://qalam.pages.dev,http://localhost:3000"
 
 # Production environment
 [env.production]
-vars = { ASSESSMENT_BACKEND = "together" }
+vars = { ASSESSMENT_BACKEND = "together", DATA_BASE_URL = "https://qalam.pages.dev/data" }
 
-# Development environment (local vLLM)
+# Development environment (local vLLM + local static server)
 [env.dev]
-vars = { ASSESSMENT_BACKEND = "vllm", VLLM_BASE_URL = "http://localhost:8000", VLLM_MODEL = "Qwen/Qwen3-4B-Instruct" }
+vars = { ASSESSMENT_BACKEND = "vllm", VLLM_BASE_URL = "http://localhost:8000", VLLM_MODEL = "Qwen/Qwen3-4B-Instruct", DATA_BASE_URL = "http://localhost:3000/data" }

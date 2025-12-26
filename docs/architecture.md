@@ -82,25 +82,124 @@ Word-by-word linguistic analysis in `public/data/analysis/`:
 - Generated using LM Studio (Gemma3-27B) or Ollama
 - See [LLM Integration](./llm-integration.md) for details
 
-## Data Flow
+## End-to-End Flow
+
+### Build Time (Data Preparation)
 
 ```
-Build Time:
-┌─────────────────┐     ┌─────────────────┐
-│ Tanzil.net      │────▶│ quran.json      │
-│ source files    │     │ (verified text) │
-└─────────────────┘     └─────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                        BUILD TIME                                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  1. Quran Text (Human-Verified)                                 │
+│  ┌─────────────────┐     ┌─────────────────┐                    │
+│  │ Tanzil.net      │────▶│ quran.json      │                    │
+│  │ • quran-simple  │     │ • Arabic text   │                    │
+│  │ • en.sahih      │     │ • Translations  │                    │
+│  │ • transliteration│    │ • 6,236 verses  │                    │
+│  └─────────────────┘     └─────────────────┘                    │
+│         ▲                                                        │
+│         │ npm run build:quran                                   │
+│                                                                  │
+│  2. Verse Analysis (LLM-Generated)                              │
+│  ┌─────────────────┐     ┌─────────────────┐                    │
+│  │ Local LLM       │────▶│ analysis/*.json │                    │
+│  │ • LM Studio     │     │ • Word meanings │                    │
+│  │ • Ollama        │     │ • Arabic roots  │                    │
+│  │                 │     │ • Grammar       │                    │
+│  └─────────────────┘     └─────────────────┘                    │
+│         ▲                                                        │
+│         │ npm run seed:analysis                                 │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-┌─────────────────┐     ┌─────────────────┐
-│ LM Studio or    │────▶│ analysis/*.json │
-│ Ollama (local)  │     │ (linguistic)    │
-└─────────────────┘     └─────────────────┘
+### Runtime (User Flow)
 
-Runtime:
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│ User visits     │────▶│ Static JSON     │────▶│ React renders   │
-│ verse page      │     │ loaded          │     │ Arabic + analysis│
-└─────────────────┘     └─────────────────┘     └─────────────────┘
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         RUNTIME                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  1. Browse & Select                                             │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐                   │
+│  │ Landing  │───▶│ Surah    │───▶│ Verse    │                   │
+│  │ Page     │    │ List     │    │ Page     │                   │
+│  └──────────┘    └──────────┘    └──────────┘                   │
+│                                        │                         │
+│                                        ▼                         │
+│  2. Practice                    ┌──────────────┐                │
+│                                 │ See Arabic   │                │
+│                                 │ (no translation)│             │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  3. Submit Translation          ┌──────────────┐                │
+│                                 │ User writes  │                │
+│                                 │ their attempt │               │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  4. Assessment                  ┌──────────────┐                │
+│                                 │ Worker API   │◀── KV Cache    │
+│                                 │ (Cloudflare) │                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│                                 ┌──────────────┐                │
+│                                 │ LLM Evaluates│                │
+│                                 │ (Together.ai)│                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  5. Feedback                    ┌──────────────┐                │
+│                                 │ Score +      │                │
+│                                 │ Feedback     │                │
+│                                 │ displayed    │                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  6. View Analysis               ┌──────────────┐                │
+│                                 │ Word-by-word │                │
+│                                 │ breakdown    │                │
+│                                 └──────┬───────┘                │
+│                                        │                         │
+│                                        ▼                         │
+│  7. Progress Saved              ┌──────────────┐                │
+│                                 │ LocalStorage │                │
+│                                 │ • Last verse │                │
+│                                 │ • Scores     │                │
+│                                 └──────────────┘                │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Infrastructure
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      PRODUCTION                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ┌──────────────┐      ┌──────────────┐      ┌──────────────┐   │
+│  │ Static Site  │      │ Worker API   │      │ Together.ai  │   │
+│  │ (CF Pages)   │─────▶│ /assess      │─────▶│ LLM API      │   │
+│  │              │      │              │      │              │   │
+│  └──────────────┘      └──────┬───────┘      └──────────────┘   │
+│         │                     │                                  │
+│         │               ┌─────▼──────┐                          │
+│         │               │ CF KV      │                          │
+│         │               │ (cache)    │                          │
+│         │               └────────────┘                          │
+│         │                                                        │
+│         ▼                                                        │
+│  ┌──────────────┐                                               │
+│  │ Browser      │                                               │
+│  │ LocalStorage │                                               │
+│  │ (progress)   │                                               │
+│  └──────────────┘                                               │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ## Key Types

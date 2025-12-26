@@ -1,0 +1,17 @@
+# Qalam Assessment API Worker
+name = "qalam-api"
+main = "src/index.ts"
+compatibility_date = "2024-12-24"
+
+# KV Namespace for caching assessments
+[[kv_namespaces]]
+binding = "ASSESSMENT_CACHE"
+id = "221015cc0cd54b0b951396214433e4b8"
+preview_id = "051d05919a3240c2b23006ece503dcdb"
+
+# Environment variables (secrets like TOGETHER_API_KEY set via wrangler secret)
+[vars]
+ASSESSMENT_BACKEND = "together"
+TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
+ALLOWED_ORIGINS = "https://qalam.pages.dev,http://localhost:3000"
+DATA_BASE_URL = "https://qalam.pages.dev/data"

@@ -1,0 +1,20 @@
+{
+  "name": "qalam-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "dev:remote": "wrangler dev --remote",
+    "dev:local": "wrangler dev --env dev",
+    "deploy": "wrangler deploy",
+    "deploy:prod": "wrangler deploy --env production",
+    "tail": "wrangler tail",
+    "kv:create": "wrangler kv:namespace create ASSESSMENT_CACHE",
+    "kv:create:preview": "wrangler kv:namespace create ASSESSMENT_CACHE --preview"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241218.0",
+    "typescript": "^5.7.2",
+    "wrangler": "^4.54.0"
+  }
+}

@@ -9,6 +9,8 @@ import { FeedbackCard } from '@/components/FeedbackCard'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
 import { getVerseAnalysis, getSurahMetadata } from '@/lib/data'
+import { saveLastVerse } from '@/lib/lastVerse'
+import { markVerseMemorized, getMemorizedVerse, unmemorizeVerse, type MemorizedVerseData } from '@/lib/memorization'
 import type { AttemptFeedback, WordAnalysis, VerseAnalysis, Verse, Surah } from '@/types'
 
 // Default analysis for verses without pre-computed analysis (verse 1:1)
@@ -46,34 +48,8 @@ const defaultAnalysis: WordAnalysis[] = [
   },
 ]
 
-// Mock feedback generator (will be replaced with LLM evaluation)
-function generateMockFeedback(score: number): AttemptFeedback {
-  const isExcellent = score >= 0.9
-  const isGood = score >= 0.7
-
-  return {
-    overallScore: score,
-    correctElements: isExcellent
-      ? ['Excellent understanding of the verse', 'Proper translation of divine attributes', 'Good grammatical structure']
-      : isGood
-      ? ['Captured the core meaning', 'Good use of English phrasing']
-      : ['Basic meaning understood'],
-    missedElements: isExcellent
-      ? []
-      : isGood
-      ? ['Consider using "the Most" before Gracious and Merciful for emphasis']
-      : ['Missing some key elements', 'Translation could be more precise'],
-    suggestions: [
-      'Both الرَّحْمَٰنِ and الرَّحِيمِ derive from the root ر-ح-م meaning mercy',
-      'The "Bismillah" is recited before beginning any good deed',
-    ],
-    encouragement: isExcellent
-      ? 'Excellent work! Your translation beautifully captures the meaning.'
-      : isGood
-      ? 'Great effort! You understood the verse well.'
-      : 'Good start! Keep practicing to improve your understanding.',
-  }
-}
+// API URL for assessment (Worker in production, local API in dev)
+const API_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
 type ViewState = 'practice' | 'feedback' | 'analysis'
 
@@ -99,9 +75,20 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
   const [viewState, setViewState] = useState<ViewState>('practice')
   const [error, setError] = useState('')
   const [feedback, setFeedback] = useState<AttemptFeedback | null>(null)
+  const [referenceTranslation, setReferenceTranslation] = useState<string>('')
   const [hintsRevealed, setHintsRevealed] = useState(0)
   const [showHints, setShowHints] = useState(false)
   const [verseAnalysis, setVerseAnalysis] = useState<VerseAnalysis | null>(null)
+  const [memorizedData, setMemorizedData] = useState<MemorizedVerseData | null>(null)
+
+  // Check memorization status on mount and when verseId changes
+  useEffect(() => {
+    setMemorizedData(getMemorizedVerse(verseId))
+  }, [verseId])
+
+  // Derived state for convenience
+  const isMemorized = !!memorizedData
+  const isPerfect = isMemorized && memorizedData.highScore >= 1.0
 
   // Use loaded analysis or fall back to default
   const analysis = verseAnalysis?.words || defaultAnalysis
@@ -147,6 +134,9 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
           },
           totalVerses: surahMeta?.verseCount ?? 0,
         })
+
+        // Save as last viewed verse
+        saveLastVerse(surahId, verseNum)
       } catch (err) {
         console.error('Failed to load verse:', err)
         setLoadError('Failed to load verse data.')
@@ -168,22 +158,46 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
     setIsSubmitting(true)
 
     try {
-      // TODO: Call evaluation API
-      await new Promise((resolve) => setTimeout(resolve, 1500))
+      // Call assessment API (Worker in production, /api route in dev)
+      const endpoint = API_URL ? `${API_URL}/assess` : '/api/assess-translation'
+      const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          verseId,
+          userTranslation: userTranslation.trim(),
+        }),
+      })
 
-      // Generate mock score based on translation length/content
-      const baseScore = Math.min(0.95, 0.5 + (userTranslation.length / 100) * 0.3 + Math.random() * 0.2)
+      const result = await response.json()
+
+      if (!result.success) {
+        throw new Error(result.error || 'Assessment failed')
+      }
+
+      // Apply hints penalty to the score
       const hintsPenalty = hintsRevealed * 0.05
-      const finalScore = Math.max(0.3, baseScore - hintsPenalty)
+      const adjustedScore = Math.max(0.1, result.data.feedback.overallScore - hintsPenalty)
 
-      setFeedback(generateMockFeedback(finalScore))
+      setFeedback({
+        ...result.data.feedback,
+        overallScore: adjustedScore,
+      })
+      setReferenceTranslation(result.data.referenceTranslation || '')
       setViewState('feedback')
-    } catch {
-      setError('Something went wrong. Please try again.')
+
+      // Mark verse as memorized if score >= 90%
+      if (adjustedScore >= 0.9) {
+        markVerseMemorized(verseId, adjustedScore)
+        setMemorizedData(getMemorizedVerse(verseId))
+      }
+    } catch (err) {
+      const message = err instanceof Error ? err.message : 'Something went wrong'
+      setError(message + '. Please try again.')
     } finally {
       setIsSubmitting(false)
     }
-  }, [userTranslation, hintsRevealed])
+  }, [userTranslation, verseId, hintsRevealed])
 
   // Keyboard shortcut for submit
   const handleKeyDown = useCallback((e: KeyboardEvent) => {
@@ -200,6 +214,7 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
   const handleTryAgain = () => {
     setUserTranslation('')
     setFeedback(null)
+    setReferenceTranslation('')
     setViewState('practice')
     setHintsRevealed(0)
     setShowHints(false)
@@ -293,13 +308,32 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
             </ol>
           </nav>
 
-          {/* Progress in surah */}
-          {totalVerses > 0 && (
-            <div className="text-sm text-gray-500">
-              <span className="font-medium text-gray-900">{verse.verseNumber}</span>
-              <span> of {totalVerses}</span>
-            </div>
-          )}
+          <div className="flex items-center gap-3">
+            {/* Memorization Status */}
+            {isMemorized && (
+              <div className={cn(
+                'flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium',
+                isPerfect
+                  ? 'bg-amber-100 text-amber-700'
+                  : 'bg-secondary-100 text-secondary-700'
+              )}>
+                {isPerfect ? <span>⭐</span> : (
+                  <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                  </svg>
+                )}
+                <span>{Math.round((memorizedData?.highScore || 0) * 100)}%</span>
+              </div>
+            )}
+
+            {/* Progress in surah */}
+            {totalVerses > 0 && (
+              <div className="text-sm text-gray-500">
+                <span className="font-medium text-gray-900">{verse.verseNumber}</span>
+                <span> of {totalVerses}</span>
+              </div>
+            )}
+          </div>
         </div>
 
         {/* Verse Display */}
@@ -310,6 +344,7 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
           size="xl"
           className="mb-8"
           colorizeWords={viewState === 'analysis'}
+          variant={isPerfect ? 'perfect' : isMemorized ? 'memorized' : 'default'}
         />
 
         {/* Practice/Feedback Content */}
@@ -363,11 +398,10 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
                 <Button
                   onClick={handleSubmit}
                   isLoading={isSubmitting}
-                  disabled={true}
                   className="flex-1"
                   size="lg"
                 >
-                  Submit Translation (Coming Soon)
+                  Submit Translation
                 </Button>
 
                 {hintsRevealed < analysis.length && (
@@ -390,6 +424,23 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
                   View Word Analysis
                 </Button>
               </div>
+
+              {/* Navigation buttons */}
+              <div className="mt-4 flex justify-between border-t pt-4">
+                <Button
+                  onClick={handlePreviousVerse}
+                  variant="outline"
+                  disabled={verse.verseNumber <= 1}
+                >
+                  ← Previous
+                </Button>
+                <Button
+                  onClick={handleNextVerse}
+                  variant="outline"
+                >
+                  {verse.verseNumber >= totalVerses ? 'Back to Surah' : 'Next →'}
+                </Button>
+              </div>
             </CardContent>
           </Card>
         )}
@@ -399,8 +450,27 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
             {/* Score Celebration for 90%+ */}
             {feedback.overallScore >= 0.9 && (
               <div className="text-center py-4 animate-fade-in">
-                <div className="text-6xl mb-2">🌟</div>
-                <p className="text-xl font-semibold text-success-600">Excellent!</p>
+                {feedback.overallScore >= 1.0 ? (
+                  <>
+                    <div className="text-6xl mb-2">⭐</div>
+                    <p className="text-xl font-semibold text-amber-600">Perfect!</p>
+                    <div className="mt-3 inline-flex items-center gap-2 px-4 py-2 bg-amber-100 border border-amber-300 rounded-full">
+                      <span className="text-lg">⭐</span>
+                      <span className="text-sm font-medium text-amber-700">100% - Perfectly Memorized!</span>
+                    </div>
+                  </>
+                ) : (
+                  <>
+                    <div className="text-6xl mb-2">🌟</div>
+                    <p className="text-xl font-semibold text-success-600">Excellent!</p>
+                    <div className="mt-3 inline-flex items-center gap-2 px-4 py-2 bg-secondary-100 border border-secondary-300 rounded-full">
+                      <svg className="w-5 h-5 text-secondary-600" fill="currentColor" viewBox="0 0 20 20">
+                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                      </svg>
+                      <span className="text-sm font-medium text-secondary-700">Verse Memorized!</span>
+                    </div>
+                  </>
+                )}
               </div>
             )}
 
@@ -420,12 +490,27 @@ export default function VersePracticeClient({ params }: { params: Promise<{ id: 
                 <CardTitle>Reference Translation</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-700 text-lg">{verse.textEnglish}</p>
+                <p className="text-gray-700 text-lg">{referenceTranslation}</p>
               </CardContent>
             </Card>
 
             {/* Feedback */}
             <FeedbackCard feedback={feedback} />
+
+            {/* Un-memorize Option */}
+            {isMemorized && (
+              <div className="flex justify-center">
+                <button
+                  onClick={() => {
+                    unmemorizeVerse(verseId)
+                    setMemorizedData(null)
+                  }}
+                  className="text-sm text-gray-500 hover:text-gray-700 underline"
+                >
+                  Remove from memorized
+                </button>
+              </div>
+            )}
 
             {/* Actions */}
             <div className="flex flex-col sm:flex-row gap-3">

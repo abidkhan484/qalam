@@ -4,30 +4,14 @@ main = "src/index.ts"
 compatibility_date = "2024-12-24"
 
 # KV Namespace for caching assessments
-# Create with: wrangler kv:namespace create ASSESSMENT_CACHE
 [[kv_namespaces]]
 binding = "ASSESSMENT_CACHE"
-id = "YOUR_KV_NAMESPACE_ID"
-preview_id = "YOUR_KV_PREVIEW_NAMESPACE_ID"
+id = "221015cc0cd54b0b951396214433e4b8"
+preview_id = "051d05919a3240c2b23006ece503dcdb"
 
-# Environment variables (secrets should be set via wrangler secret)
+# Environment variables (secrets like TOGETHER_API_KEY set via wrangler secret)
 [vars]
 ASSESSMENT_BACKEND = "together"
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 ALLOWED_ORIGINS = "https://qalam.pages.dev,http://localhost:3000"
-# For local dev, override DATA_BASE_URL to point to local static server
-# In production, this defaults to https://qalam.pages.dev/data
-DATA_BASE_URL = "http://localhost:3000/data"
-
-# For local development with vLLM
-# ASSESSMENT_BACKEND = "vllm"
-# VLLM_BASE_URL = "http://localhost:8000"
-# VLLM_MODEL = "Qwen/Qwen3-4B-Instruct"
-
-# Production environment
-[env.production]
-vars = { ASSESSMENT_BACKEND = "together", DATA_BASE_URL = "https://qalam.pages.dev/data" }
-
-# Development environment (local vLLM + local static server)
-[env.dev]
-vars = { ASSESSMENT_BACKEND = "vllm", VLLM_BASE_URL = "http://localhost:8000", VLLM_MODEL = "Qwen/Qwen3-4B-Instruct", DATA_BASE_URL = "http://localhost:3000/data" }
+DATA_BASE_URL = "https://qalam.pages.dev/data"

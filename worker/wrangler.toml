@@ -13,5 +13,5 @@ preview_id = "051d05919a3240c2b23006ece503dcdb"
 [vars]
 ASSESSMENT_BACKEND = "together"
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
-ALLOWED_ORIGINS = "https://qalam.pages.dev,http://localhost:3000"
-DATA_BASE_URL = "https://qalam.pages.dev/data"
+ALLOWED_ORIGINS = "https://versemadeeasy.com,https://www.versemadeeasy.com,https://qalam.pages.dev,http://localhost:3000"
+DATA_BASE_URL = "https://versemadeeasy.com/data"

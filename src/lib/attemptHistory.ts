@@ -1,6 +1,8 @@
 import type { AttemptFeedback } from '@/types'
 
 const STORAGE_KEY = 'qalam_attempt_history'
+const MAX_ATTEMPTS_PER_VERSE = 50
+const MAX_TOTAL_ATTEMPTS = 500
 
 export interface StoredAttempt {
   id: string              // unique id (timestamp-based)
@@ -56,7 +58,49 @@ function generateAttemptId(): string {
 }
 
 /**
+ * Prune attempts when limits are exceeded
+ * Applies two-tier retention policy:
+ * 1. Per-verse limit: Keep only MAX_ATTEMPTS_PER_VERSE most recent per verse
+ * 2. Global limit: Keep only MAX_TOTAL_ATTEMPTS most recent overall
+ */
+function pruneAttempts(store: AttemptHistoryStore): void {
+  // First pass: prune per-verse to MAX_ATTEMPTS_PER_VERSE
+  const verseGroups: Record<string, StoredAttempt[]> = {}
+
+  for (const attempt of store.attempts) {
+    if (!verseGroups[attempt.verseId]) {
+      verseGroups[attempt.verseId] = []
+    }
+    verseGroups[attempt.verseId].push(attempt)
+  }
+
+  // Sort each verse group by timestamp (newest first) and keep only recent ones
+  const prunedAttempts: StoredAttempt[] = []
+
+  for (const verseId in verseGroups) {
+    const verseAttempts = verseGroups[verseId]
+      .sort((a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime())
+      .slice(0, MAX_ATTEMPTS_PER_VERSE)
+
+    prunedAttempts.push(...verseAttempts)
+  }
+
+  // Second pass: prune global to MAX_TOTAL_ATTEMPTS
+  if (prunedAttempts.length > MAX_TOTAL_ATTEMPTS) {
+    prunedAttempts
+      .sort((a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime())
+      .splice(MAX_TOTAL_ATTEMPTS)
+  }
+
+  store.attempts = prunedAttempts
+}
+
+/**
  * Save a new attempt to history
+ * Enforces retention policy:
+ * - Max 50 attempts per verse
+ * - Max 500 total attempts
+ * Older attempts are automatically pruned when limits are exceeded
  */
 export function saveAttempt(
   verseId: string,
@@ -74,6 +118,10 @@ export function saveAttempt(
   }
 
   store.attempts.push(attempt)
+
+  // Apply retention policy before saving
+  pruneAttempts(store)
+
   store.lastUpdated = new Date().toISOString()
   saveAttemptHistoryStore(store)
 

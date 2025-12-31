@@ -1,11 +1,12 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
-import { Button, Card, Spinner } from '@/components/ui'
+import { Button, Card, Spinner, Alert } from '@/components/ui'
 import { FeedbackCard } from '@/components/FeedbackCard'
 import { Navbar } from '@/components/Navbar'
 import { cn } from '@/lib/utils'
+import { getScoreColor, formatDate, formatRelativeDate } from '@/lib/formatters'
 import {
   getAllAttempts,
   getAttemptsByVerse,
@@ -19,45 +20,12 @@ import type { Surah } from '@/types'
 type ViewMode = 'timeline' | 'by-verse'
 type SortOrder = 'newest' | 'oldest'
 
-function getScoreColor(score: number): string {
-  if (score >= 0.9) return 'bg-success-100 text-success-700 border-success-200'
-  if (score >= 0.7) return 'bg-primary-100 text-primary-700 border-primary-200'
-  if (score >= 0.5) return 'bg-warning-100 text-warning-700 border-warning-200'
-  return 'bg-error-100 text-error-700 border-error-200'
-}
-
-function formatDate(timestamp: string): string {
-  const date = new Date(timestamp)
-  return date.toLocaleDateString('en-US', {
-    month: 'short',
-    day: 'numeric',
-    year: 'numeric',
-    hour: 'numeric',
-    minute: '2-digit'
-  })
-}
-
-function formatRelativeDate(timestamp: string): string {
-  const date = new Date(timestamp)
-  const now = new Date()
-  const diffMs = now.getTime() - date.getTime()
-  const diffMins = Math.floor(diffMs / 60000)
-  const diffHours = Math.floor(diffMs / 3600000)
-  const diffDays = Math.floor(diffMs / 86400000)
-
-  if (diffMins < 1) return 'Just now'
-  if (diffMins < 60) return `${diffMins}m ago`
-  if (diffHours < 24) return `${diffHours}h ago`
-  if (diffDays < 7) return `${diffDays}d ago`
-
-  return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
-}
-
 export default function HistoryPage() {
   const [attempts, setAttempts] = useState<StoredAttempt[]>([])
   const [attemptsByVerse, setAttemptsByVerse] = useState<Record<string, StoredAttempt[]>>({})
   const [surahs, setSurahs] = useState<Surah[]>([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
   const [viewMode, setViewMode] = useState<ViewMode>('timeline')
   const [sortOrder, setSortOrder] = useState<SortOrder>('newest')
   const [expandedId, setExpandedId] = useState<string | null>(null)
@@ -67,19 +35,42 @@ export default function HistoryPage() {
   useEffect(() => {
     async function loadData() {
       try {
+        setError(null)
+        setLoading(true)
+        const [surahsData] = await Promise.all([getAllSurahs()])
+        setSurahs(surahsData)
+
+        // Load attempts from localStorage
+        setAttempts(getAllAttempts())
+        setAttemptsByVerse(getAttemptsByVerse())
+      } catch (error) {
+        console.error('Failed to load surahs:', error)
+        const errorMessage = error instanceof Error ? error.message : 'Failed to load surah data'
+        setError(`Unable to load surah information: ${errorMessage}`)
+      } finally {
+        setLoading(false)
+      }
+    }
+    loadData()
+  }, [])
+
+  const handleRetry = () => {
+    const loadData = async () => {
+      try {
+        setError(null)
+        setLoading(true)
         const [surahsData] = await Promise.all([getAllSurahs()])
         setSurahs(surahsData)
       } catch (error) {
         console.error('Failed to load surahs:', error)
+        const errorMessage = error instanceof Error ? error.message : 'Failed to load surah data'
+        setError(`Unable to load surah information: ${errorMessage}`)
+      } finally {
+        setLoading(false)
       }
-
-      // Load attempts from localStorage
-      setAttempts(getAllAttempts())
-      setAttemptsByVerse(getAttemptsByVerse())
-      setLoading(false)
     }
     loadData()
-  }, [])
+  }
 
   const stats = getHistoryStats()
 
@@ -102,23 +93,27 @@ export default function HistoryPage() {
   }
 
   // Filter and sort attempts
-  const filteredAttempts = attempts
-    .filter(a => !surahFilter || a.verseId.startsWith(`${surahFilter}:`))
-    .sort((a, b) => {
-      const timeA = new Date(a.timestamp).getTime()
-      const timeB = new Date(b.timestamp).getTime()
-      return sortOrder === 'newest' ? timeB - timeA : timeA - timeB
-    })
+  const filteredAttempts = useMemo(() => {
+    return attempts
+      .filter(a => !surahFilter || a.verseId.startsWith(`${surahFilter}:`))
+      .sort((a, b) => {
+        const timeA = new Date(a.timestamp).getTime()
+        const timeB = new Date(b.timestamp).getTime()
+        return sortOrder === 'newest' ? timeB - timeA : timeA - timeB
+      })
+  }, [attempts, surahFilter, sortOrder])
 
   // Filter attempts by verse
-  const filteredAttemptsByVerse = Object.entries(attemptsByVerse)
-    .filter(([verseId]) => !surahFilter || verseId.startsWith(`${surahFilter}:`))
-    .sort((a, b) => {
-      // Sort by most recent attempt in each group
-      const latestA = new Date(a[1][0]?.timestamp || 0).getTime()
-      const latestB = new Date(b[1][0]?.timestamp || 0).getTime()
-      return sortOrder === 'newest' ? latestB - latestA : latestA - latestB
-    })
+  const filteredAttemptsByVerse = useMemo(() => {
+    return Object.entries(attemptsByVerse)
+      .filter(([verseId]) => !surahFilter || verseId.startsWith(`${surahFilter}:`))
+      .sort((a, b) => {
+        // Sort by most recent attempt in each group
+        const latestA = new Date(a[1][0]?.timestamp || 0).getTime()
+        const latestB = new Date(b[1][0]?.timestamp || 0).getTime()
+        return sortOrder === 'newest' ? latestB - latestA : latestA - latestB
+      })
+  }, [attemptsByVerse, surahFilter, sortOrder])
 
   // Get unique surah IDs from attempts
   const surahsWithAttempts = [...new Set(attempts.map(a => parseInt(a.verseId.split(':')[0], 10)))]
@@ -149,6 +144,27 @@ export default function HistoryPage() {
             Review your past translation attempts and track your progress
           </p>
         </div>
+
+        {/* Error Alert */}
+        {error && (
+          <div className="mb-6">
+            <Alert
+              variant="error"
+              title="Failed to Load Surah Data"
+              onDismiss={() => setError(null)}
+            >
+              <p className="mb-3">{error}</p>
+              <Button
+                size="sm"
+                variant="outline"
+                onClick={handleRetry}
+                className="bg-white hover:bg-red-50"
+              >
+                Try Again
+              </Button>
+            </Alert>
+          </div>
+        )}
 
         {attempts.length === 0 ? (
           <Card>

@@ -1,413 +1,724 @@
-# API Consolidation Plan
+# Architecture Migration Plan
 
 ## Overview
 
-This document outlines the plan to consolidate the separate Cloudflare Worker (`qalam-api`) into the main Next.js application deployed on Cloudflare Pages. This simplifies the architecture, reduces deployment complexity, and narrows the troubleshooting scope.
+This document outlines the migration to a Cloudflare-native architecture that uses platform services as they're designed to be used. This approach eliminates adapter complexity, solves file limit issues permanently, and provides a solid foundation for CI/CD with Playwright testing.
 
-## Current Architecture (Before)
-
-```
-┌─────────────────────────────────────────┐
-│         CLOUDFLARE PAGES                │
-│         (qalam project)                 │
-├─────────────────────────────────────────┤
-│  Next.js App                            │
-│  ├── Pages & Components (SSR/Edge)      │
-│  ├── /api/assess-translation (unused)   │
-│  └── /public/data/* (static JSON)       │
-└──────────────────┬──────────────────────┘
-                   │ CORS API calls
-                   ▼
-┌─────────────────────────────────────────┐
-│         CLOUDFLARE WORKER               │
-│         (qalam-api project)             │
-├─────────────────────────────────────────┤
-│  POST /assess                           │
-│  ├── KV caching (ASSESSMENT_CACHE)      │
-│  ├── Together.ai LLM calls              │
-│  └── Fetches data from Pages            │
-└─────────────────────────────────────────┘
-```
-
-### Problems with Current Architecture
-
-1. **Two deployment pipelines** - Pages and Worker deployed separately
-2. **CORS configuration** - Worker needs to allow origins from Pages
-3. **Duplicate code** - LLM logic exists in both Next.js and Worker
-4. **Circular dependency** - Worker fetches data from Pages
-5. **Environment variable duplication** - `TOGETHER_API_KEY` in both places
-6. **Deployment failures** - Mixing GitHub integration with wrangler commands
-
-## Target Architecture (After)
+## Target Architecture
 
 ```
-┌─────────────────────────────────────────┐
-│         CLOUDFLARE PAGES                │
-│         (qalam project)                 │
-├─────────────────────────────────────────┤
-│  Next.js App (Edge Runtime)             │
-│  ├── Pages & Components                 │
-│  ├── /api/assess-translation            │
-│  │     ├── Check KV cache               │
-│  │     ├── Call Together.ai if miss     │
-│  │     └── Cache result in KV           │
-│  └── /public/data/* (static JSON)       │
-├─────────────────────────────────────────┤
-│  Bindings:                              │
-│  └── ASSESSMENT_CACHE (KV namespace)    │
-└─────────────────────────────────────────┘
+┌─────────────────────────┐     ┌─────────────────────────┐
+│   CLOUDFLARE PAGES      │     │   CLOUDFLARE WORKER     │
+│   (Static App Only)     │     │   (qalam-api)           │
+├─────────────────────────┤     ├─────────────────────────┤
+│ Next.js static export   │     │ POST /assess            │
+│ HTML/JS/CSS/fonts       │────▶│ GET /data/*             │
+│ No data files           │     │ KV caching              │
+│ < 500 files             │     │ Fetches from R2         │
+└─────────────────────────┘     └─────────────────────────┘
+          │                              │
+          │                              ▼
+          │                     ┌─────────────────────────┐
+          │                     │   CLOUDFLARE R2         │
+          │                     │   (Object Storage)      │
+          │                     ├─────────────────────────┤
+          │                     │ quran.json              │
+          │                     │ surahs.json             │
+          │                     │ analysis/*.json (1000+) │
+          │                     └─────────────────────────┘
+          │                              │
+          │                              ▼
+          │                     ┌─────────────────────────┐
+          │                     │   CLOUDFLARE KV         │
+          │                     │   (Key-Value Cache)     │
+          │                     ├─────────────────────────┤
+          │                     │ Assessment results      │
+          └────────────────────▶│ 30-day TTL              │
+                                └─────────────────────────┘
 ```
 
-### Benefits of Consolidated Architecture
+## Why This Architecture
 
-1. **Single deployment** - One `git push` deploys everything
-2. **No CORS issues** - Same-origin API calls
-3. **Single codebase** - All logic in one place
-4. **Simpler debugging** - One set of logs, one project
-5. **Preserved caching** - Same KV namespace, cached data retained
+### Problems with Current Setup
+1. `@cloudflare/next-on-pages` adapter adds complexity and fragility
+2. Mixing GitHub integration with wrangler deploy commands
+3. 20k file limit concerns with static export
+4. Duplicate API code in Next.js and Worker
+
+### Benefits of Target Architecture
+1. **Cloudflare-native** - No adapters, uses platform services directly
+2. **File limit solved** - App bundle is small, data lives in R2
+3. **Clear separation** - Pages = UI, Worker = API + Data, R2 = Storage
+4. **Single Worker** - All server logic in one place
+5. **CI/CD ready** - Clean deployment targets for GitHub Actions + Playwright
+
+---
+
+## Architecture Components
+
+### 1. Cloudflare Pages (Static Site)
+
+**Purpose:** Serve the static Next.js application
+
+**Contents:**
+- Pre-rendered HTML pages
+- JavaScript bundles
+- CSS stylesheets
+- Fonts and images
+- NO JSON data files
+
+**Configuration:**
+```js
+// next.config.js
+const nextConfig = {
+  output: 'export',
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
+}
+```
+
+**Build Output:** `out/` directory with ~200-500 files
+
+### 2. Cloudflare Worker (API + Data Server)
+
+**Purpose:** Handle all server-side logic
+
+**Endpoints:**
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/assess` | POST | Translation assessment (with KV caching) |
+| `/data/quran.json` | GET | Full Quran data |
+| `/data/surahs.json` | GET | Surah metadata |
+| `/data/analysis/:id.json` | GET | Verse analysis files |
+| `/health` | GET | Health check for monitoring |
+
+**Bindings:**
+- `ASSESSMENT_CACHE` - KV namespace for caching
+- `DATA_BUCKET` - R2 bucket for JSON files
+- `TOGETHER_API_KEY` - Secret for LLM API
+
+### 3. Cloudflare R2 (Object Storage)
+
+**Purpose:** Store all JSON data files
+
+**Structure:**
+```
+qalam-data/
+├── quran.json           (~3MB)
+├── surahs.json          (~10KB)
+└── analysis/
+    ├── 1-1.json
+    ├── 1-2.json
+    ├── ...
+    └── 114-6.json       (~1000+ files)
+```
+
+**Benefits:**
+- 10GB free storage
+- Free egress to Workers (same Cloudflare network)
+- No file count limits
+- Can add more translations/analysis without deployment
+
+### 4. Cloudflare KV (Cache)
+
+**Purpose:** Cache LLM assessment results
+
+**Key Format:** `assessment:{verseId}:{translationHash}`
+**TTL:** 30 days
+**Existing namespace:** `221015cc0cd54b0b951396214433e4b8` (preserve existing cache)
 
 ---
 
 ## Implementation Plan
 
-### Phase 1: Add KV Caching to Next.js API Route
+### Phase 1: Set Up R2 Storage
 
-#### 1.1 Create Cache Utility
+#### 1.1 Create R2 Bucket
 
-**File:** `src/lib/cache.ts`
+```bash
+# Create the bucket
+npx wrangler r2 bucket create qalam-data
 
-```typescript
-/**
- * KV Cache Helper for Assessment Results
- * Works with Cloudflare KV in Edge Runtime via @cloudflare/next-on-pages
- */
-
-import type { AttemptFeedback } from '@/types'
-
-// Cache TTL: 30 days (in seconds)
-const CACHE_TTL = 30 * 24 * 60 * 60
-
-/**
- * Generate a cache key from verseId and user translation
- */
-export function getCacheKey(verseId: string, userTranslation: string): string {
-  const normalized = userTranslation.toLowerCase().trim().replace(/\s+/g, ' ')
-
-  let hash = 0
-  for (let i = 0; i < normalized.length; i++) {
-    const char = normalized.charCodeAt(i)
-    hash = ((hash << 5) - hash) + char
-    hash = hash & hash
-  }
-
-  const hashHex = (hash >>> 0).toString(16)
-  return `assessment:${verseId}:${hashHex}`
-}
-
-/**
- * Get cached assessment from KV
- */
-export async function getCachedAssessment(
-  kv: KVNamespace | undefined,
-  verseId: string,
-  userTranslation: string
-): Promise<AttemptFeedback | null> {
-  if (!kv) return null
-
-  const key = getCacheKey(verseId, userTranslation)
-  try {
-    return await kv.get(key, 'json') as AttemptFeedback | null
-  } catch (error) {
-    console.error('Cache read error:', error)
-    return null
-  }
-}
-
-/**
- * Store assessment in KV cache
- */
-export async function cacheAssessment(
-  kv: KVNamespace | undefined,
-  verseId: string,
-  userTranslation: string,
-  feedback: AttemptFeedback
-): Promise<void> {
-  if (!kv) return
-
-  const key = getCacheKey(verseId, userTranslation)
-  try {
-    await kv.put(key, JSON.stringify(feedback), { expirationTtl: CACHE_TTL })
-  } catch (error) {
-    console.error('Cache write error:', error)
-  }
-}
+# Verify creation
+npx wrangler r2 bucket list
 ```
 
-#### 1.2 Update API Route
+#### 1.2 Upload Data Files
 
-**File:** `src/app/api/assess-translation/route.ts`
+```bash
+# Upload quran.json
+npx wrangler r2 object put qalam-data/quran.json --file=public/data/quran.json
 
-Add KV caching using `@cloudflare/next-on-pages`:
+# Upload surahs.json
+npx wrangler r2 object put qalam-data/surahs.json --file=public/data/surahs.json
+
+# Upload all analysis files (script)
+for file in public/data/analysis/*.json; do
+  filename=$(basename "$file")
+  npx wrangler r2 object put "qalam-data/analysis/$filename" --file="$file"
+done
+```
+
+#### 1.3 Create Upload Script
+
+**File:** `scripts/upload-to-r2.ts`
 
 ```typescript
-import { getRequestContext } from '@cloudflare/next-on-pages'
-import { getCachedAssessment, cacheAssessment } from '@/lib/cache'
+/**
+ * Upload data files to R2
+ * Run with: npx tsx scripts/upload-to-r2.ts
+ */
+import { execSync } from 'child_process'
+import { readdirSync } from 'fs'
+import { join } from 'path'
 
-// In the POST handler:
-export async function POST(request: NextRequest) {
-  // Get Cloudflare bindings
-  const { env } = getRequestContext()
-  const kv = env.ASSESSMENT_CACHE as KVNamespace | undefined
+const BUCKET = 'qalam-data'
+const DATA_DIR = 'public/data'
 
-  // ... validation code ...
-
-  // Check cache first
-  const cached = await getCachedAssessment(kv, verseId, trimmedTranslation)
-  if (cached) {
-    return NextResponse.json({
-      success: true,
-      data: { feedback: cached, referenceTranslation },
-      cached: true,
-    })
-  }
-
-  // ... LLM call code ...
-
-  // Cache the result (fire and forget)
-  cacheAssessment(kv, verseId, trimmedTranslation, feedback)
-
-  return NextResponse.json({
-    success: true,
-    data: { feedback, referenceTranslation },
-    cached: false,
+function upload(localPath: string, remotePath: string) {
+  console.log(`Uploading ${remotePath}...`)
+  execSync(`npx wrangler r2 object put "${BUCKET}/${remotePath}" --file="${localPath}"`, {
+    stdio: 'inherit',
   })
 }
-```
 
-#### 1.3 Add TypeScript Declarations
+// Upload main files
+upload(join(DATA_DIR, 'quran.json'), 'quran.json')
+upload(join(DATA_DIR, 'surahs.json'), 'surahs.json')
 
-**File:** `src/types/cloudflare.d.ts`
+// Upload analysis files
+const analysisDir = join(DATA_DIR, 'analysis')
+const analysisFiles = readdirSync(analysisDir).filter(f => f.endsWith('.json'))
 
-```typescript
-// Cloudflare KV type for Edge Runtime
-interface CloudflareEnv {
-  ASSESSMENT_CACHE?: KVNamespace
+console.log(`\nUploading ${analysisFiles.length} analysis files...`)
+for (const file of analysisFiles) {
+  upload(join(analysisDir, file), `analysis/${file}`)
 }
 
-declare module '@cloudflare/next-on-pages' {
-  export function getRequestContext(): {
-    env: CloudflareEnv
-    ctx: ExecutionContext
-    cf: IncomingRequestCfProperties
-  }
-}
+console.log('\nDone!')
 ```
 
 ---
 
-### Phase 2: Configure Cloudflare Bindings
+### Phase 2: Update Worker
 
-#### 2.1 Update wrangler.toml
+#### 2.1 Add R2 Binding
 
-**File:** `wrangler.toml`
+**File:** `worker/wrangler.toml`
 
 ```toml
-# Qalam - Cloudflare Pages (Next.js with @cloudflare/next-on-pages)
-name = "qalam"
+name = "qalam-api"
+main = "src/index.ts"
 compatibility_date = "2024-12-24"
-pages_build_output_dir = ".vercel/output/static"
 
-# KV Namespace for caching assessments (same as worker used)
+# KV Namespace for caching assessments
 [[kv_namespaces]]
 binding = "ASSESSMENT_CACHE"
 id = "221015cc0cd54b0b951396214433e4b8"
 preview_id = "051d05919a3240c2b23006ece503dcdb"
+
+# R2 Bucket for data files
+[[r2_buckets]]
+binding = "DATA_BUCKET"
+bucket_name = "qalam-data"
+preview_bucket_name = "qalam-data-preview"
+
+[vars]
+ASSESSMENT_BACKEND = "together"
+TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
+ALLOWED_ORIGINS = "https://versemadeeasy.com,https://www.versemadeeasy.com,https://qalam.pages.dev,http://localhost:3000"
 ```
 
-#### 2.2 Cloudflare Dashboard Configuration
+#### 2.2 Update Worker Types
 
-In the Cloudflare Pages project settings:
-
-**Environment Variables:**
-| Variable | Value | Environment |
-|----------|-------|-------------|
-| `TOGETHER_API_KEY` | (your key) | Production |
-| `ASSESSMENT_BACKEND` | `together` | Production |
-
-**KV Namespace Bindings:**
-| Variable name | KV namespace |
-|---------------|--------------|
-| `ASSESSMENT_CACHE` | qalam-assessment-cache |
-
----
-
-### Phase 3: Simplify Client Code
-
-#### 3.1 Update VersePracticeClient
-
-**File:** `src/app/browse/surah/[id]/[verse]/VersePracticeClient.tsx`
-
-Remove the conditional API URL logic:
+**File:** `worker/src/types.ts`
 
 ```typescript
-// BEFORE:
-const API_URL = process.env.NEXT_PUBLIC_API_URL || ''
-// ...
-const endpoint = API_URL ? `${API_URL}/assess` : '/api/assess-translation'
+export interface Env {
+  // KV for caching
+  ASSESSMENT_CACHE: KVNamespace
 
-// AFTER:
-const endpoint = '/api/assess-translation'
+  // R2 for data storage
+  DATA_BUCKET: R2Bucket
+
+  // Environment variables
+  ASSESSMENT_BACKEND: string
+  TOGETHER_API_KEY: string
+  TOGETHER_MODEL: string
+  ALLOWED_ORIGINS: string
+}
 ```
 
-#### 3.2 Remove Environment Variable
+#### 2.3 Add Data Handler
 
-Remove `NEXT_PUBLIC_API_URL` from:
-- Cloudflare Pages environment variables
-- Any `.env` files
-- Documentation references
+**File:** `worker/src/handlers/data.ts`
 
----
+```typescript
+import type { Env } from '../types'
 
-### Phase 4: Cleanup
+/**
+ * Serve data files from R2
+ */
+export async function handleData(
+  request: Request,
+  env: Env,
+  path: string
+): Promise<Response> {
+  // Remove leading slash
+  const key = path.startsWith('/') ? path.slice(1) : path
 
-#### 4.1 Files to Delete
+  try {
+    const object = await env.DATA_BUCKET.get(key)
 
-```
-worker/                          # Entire directory
-├── src/
-│   ├── index.ts
-│   ├── handlers/
-│   │   └── assess.ts
-│   ├── lib/
-│   │   ├── cache.ts
-│   │   ├── llm.ts
-│   │   └── prompts.ts
-│   └── types.ts
-├── wrangler.toml
-├── package.json
-├── package-lock.json
-└── tsconfig.json
-```
+    if (!object) {
+      return new Response(JSON.stringify({ error: 'Not found' }), {
+        status: 404,
+        headers: { 'Content-Type': 'application/json' },
+      })
+    }
 
-#### 4.2 Update package.json Scripts
-
-Remove worker-related scripts:
-
-```json
-{
-  "scripts": {
-    // REMOVE these:
-    "worker:dev": "cd worker && npm run dev",
-    "worker:dev:remote": "cd worker && npm run dev:remote",
-    "worker:deploy": "cd worker && npm run deploy"
+    // Return with appropriate caching headers
+    return new Response(object.body, {
+      headers: {
+        'Content-Type': 'application/json',
+        'Cache-Control': 'public, max-age=86400', // 24 hours
+        'ETag': object.etag,
+      },
+    })
+  } catch (error) {
+    console.error('R2 fetch error:', error)
+    return new Response(JSON.stringify({ error: 'Internal error' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    })
   }
 }
 ```
 
-#### 4.3 Cloudflare Dashboard Cleanup
+#### 2.4 Update Worker Router
 
-1. **Delete the `qalam-api` Worker** from Workers & Pages
-2. **Keep the KV namespace** - it's now used by Pages
+**File:** `worker/src/index.ts`
 
-#### 4.4 Update Documentation
+```typescript
+import { handleAssessment } from './handlers/assess'
+import { handleData } from './handlers/data'
+import type { Env } from './types'
 
-Update `CLAUDE.md` to reflect the new architecture:
-- Remove references to separate Worker
-- Update deployment instructions
-- Document KV binding requirements
+export default {
+  async fetch(request: Request, env: Env): Promise<Response> {
+    const url = new URL(request.url)
+    const path = url.pathname
+
+    // CORS headers
+    const corsHeaders = getCorsHeaders(request, env)
+
+    // Handle preflight
+    if (request.method === 'OPTIONS') {
+      return new Response(null, { headers: corsHeaders })
+    }
+
+    let response: Response
+
+    // Route requests
+    if (path === '/assess' && request.method === 'POST') {
+      response = await handleAssessment(request, env)
+    } else if (path.startsWith('/data/')) {
+      const dataPath = path.replace('/data/', '')
+      response = await handleData(request, env, dataPath)
+    } else if (path === '/health') {
+      response = new Response(JSON.stringify({ status: 'ok' }), {
+        headers: { 'Content-Type': 'application/json' },
+      })
+    } else {
+      response = new Response(JSON.stringify({ error: 'Not found' }), {
+        status: 404,
+        headers: { 'Content-Type': 'application/json' },
+      })
+    }
+
+    // Add CORS headers to response
+    Object.entries(corsHeaders).forEach(([key, value]) => {
+      response.headers.set(key, value)
+    })
+
+    return response
+  },
+}
+
+function getCorsHeaders(request: Request, env: Env): Record<string, string> {
+  const origin = request.headers.get('Origin') || ''
+  const allowedOrigins = env.ALLOWED_ORIGINS?.split(',') || []
+
+  const isAllowed = allowedOrigins.some(allowed =>
+    origin === allowed.trim() || allowed.trim() === '*'
+  )
+
+  return {
+    'Access-Control-Allow-Origin': isAllowed ? origin : '',
+    'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '86400',
+  }
+}
+```
+
+#### 2.5 Update Assessment Handler
+
+Modify `worker/src/handlers/assess.ts` to fetch data from R2 instead of external URL:
+
+```typescript
+async function getVerseAnalysis(verseId: string, env: Env): Promise<VerseAnalysis | null> {
+  const fileName = verseId.replace(':', '-')
+  const key = `analysis/${fileName}.json`
+
+  try {
+    const object = await env.DATA_BUCKET.get(key)
+    if (!object) return null
+    return await object.json()
+  } catch {
+    return null
+  }
+}
+
+async function getReferenceTranslation(verseId: string, env: Env): Promise<string | null> {
+  const [surahId, verseNum] = verseId.split(':').map(Number)
+
+  try {
+    const object = await env.DATA_BUCKET.get('quran.json')
+    if (!object) return null
+
+    const quranData = await object.json()
+    const surah = quranData.surahs.find((s: any) => s.id === surahId)
+    if (!surah) return null
+
+    const verse = surah.verses.find((v: any) => v.number === verseNum)
+    if (!verse) return null
+
+    return verse.translations['en.sahih'] || null
+  } catch {
+    return null
+  }
+}
+```
 
 ---
 
-## Deployment Configuration
+### Phase 3: Convert Next.js to Static Export
 
-### Cloudflare Pages Build Settings
+#### 3.1 Update Next.js Config
+
+**File:** `next.config.js`
+
+```js
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
+}
+
+module.exports = nextConfig
+```
+
+#### 3.2 Remove SSR Dependencies
+
+Check each page and ensure they work with static export:
+- Remove `runtime = 'edge'` declarations
+- Ensure data fetching happens client-side
+- Remove API routes (will use Worker instead)
+
+#### 3.3 Delete Next.js API Route
+
+```bash
+rm -rf src/app/api/
+```
+
+#### 3.4 Update Data Fetching Library
+
+**File:** `src/lib/data.ts`
+
+Update to fetch from Worker API:
+
+```typescript
+// API base URL - Worker in production, can be configured for local dev
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://qalam-api.foyzul.workers.dev'
+
+export async function getQuranData(): Promise<QuranData | null> {
+  try {
+    const response = await fetch(`${API_BASE_URL}/data/quran.json`)
+    if (!response.ok) return null
+    return await response.json()
+  } catch {
+    return null
+  }
+}
+
+export async function getVerseAnalysis(verseId: string): Promise<VerseAnalysis | null> {
+  const fileName = verseId.replace(':', '-')
+  try {
+    const response = await fetch(`${API_BASE_URL}/data/analysis/${fileName}.json`)
+    if (!response.ok) return null
+    return await response.json()
+  } catch {
+    return null
+  }
+}
+
+// ... similar updates for other functions
+```
+
+#### 3.5 Update Client Component
+
+**File:** `src/app/browse/surah/[id]/[verse]/VersePracticeClient.tsx`
+
+```typescript
+// API URL for all requests
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://qalam-api.foyzul.workers.dev'
+
+// In handleSubmit:
+const response = await fetch(`${API_URL}/assess`, {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({
+    verseId,
+    userTranslation: userTranslation.trim(),
+  }),
+})
+```
+
+---
+
+### Phase 4: Update Deployment Configuration
+
+#### 4.1 Simplify Pages Build
+
+**File:** `wrangler.toml` (root - for Pages)
+
+```toml
+# No longer needed - Pages will use simple static deployment
+# Delete this file or keep minimal config
+name = "qalam"
+compatibility_date = "2024-12-24"
+```
+
+#### 4.2 Update Cloudflare Pages Settings
+
+In Cloudflare Dashboard → Pages → qalam → Settings:
 
 | Setting | Value |
 |---------|-------|
-| **Build command** | `npm run pages:build` |
-| **Deploy command** | `npx wrangler pages deploy .vercel/output/static` |
-| **Build output directory** | `.vercel/output/static` |
-| **Root directory** | `/` |
+| Build command | `npm run build` |
+| Build output directory | `out` |
+| Root directory | `/` |
 
-### Required Secrets/Variables
+**Remove** the deploy command - Pages will automatically deploy the `out` directory.
 
-| Name | Type | Description |
-|------|------|-------------|
-| `TOGETHER_API_KEY` | Secret | API key for Together.ai |
-| `CLOUDFLARE_API_TOKEN` | Secret | For wrangler deployment (needs Pages Edit permission) |
+#### 4.3 Update package.json Scripts
 
----
-
-## Testing Plan
-
-### Local Testing
-
-```bash
-# Start local dev with KV emulation
-npm run pages:dev
+```json
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out -p 3000",
+    "lint": "next lint",
+    "build:quran": "tsx scripts/build-quran-json.ts",
+    "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts",
+    "upload:data": "tsx scripts/upload-to-r2.ts",
+    "worker:dev": "cd worker && npm run dev",
+    "worker:deploy": "cd worker && npm run deploy",
+    "test:e2e": "playwright test"
+  }
+}
 ```
 
-### Verify:
-1. [ ] Assessment works without cache (first request)
-2. [ ] Assessment returns cached result (second identical request)
-3. [ ] Different translations create different cache entries
-4. [ ] Cache miss falls back to LLM correctly
-
-### Production Testing
-
-After deployment:
-1. [ ] Visit https://versemadeeasy.com
-2. [ ] Navigate to a verse practice page
-3. [ ] Submit a translation
-4. [ ] Verify feedback is returned
-5. [ ] Submit same translation again - should be faster (cached)
-6. [ ] Check Cloudflare dashboard for KV activity
-
 ---
 
-## Rollback Plan
+### Phase 5: CI/CD Pipeline
 
-If issues arise after deployment:
+#### 5.1 GitHub Actions Workflow
 
-1. **Revert the branch**: `git revert` the merge commit
-2. **Redeploy**: Push to trigger new Pages deployment
-3. **Re-enable Worker**: If needed, the worker code is in git history
+**File:** `.github/workflows/deploy.yml`
 
-The KV cache data remains intact regardless of which service reads it.
+```yaml
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+env:
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+jobs:
+  # Run tests first
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build
+
+      # Playwright tests
+      - name: Install Playwright
+        run: npx playwright install --with-deps
+
+      - name: Run Playwright tests
+        run: npm run test:e2e
+
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-report
+          path: playwright-report/
+
+  # Deploy Worker
+  deploy-worker:
+    needs: test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+      - run: cd worker && npm ci
+      - run: cd worker && npx wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+  # Deploy Pages (static site)
+  deploy-pages:
+    needs: test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+      - run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: qalam
+          directory: out
+```
+
+#### 5.2 Environment Secrets Required
+
+Add these to GitHub repository secrets:
+- `CLOUDFLARE_API_TOKEN` - API token with Workers and Pages permissions
+- `CLOUDFLARE_ACCOUNT_ID` - Your Cloudflare account ID
 
 ---
 
 ## Migration Checklist
 
-- [ ] Create `src/lib/cache.ts`
-- [ ] Update `src/app/api/assess-translation/route.ts`
-- [ ] Create `src/types/cloudflare.d.ts`
-- [ ] Update `wrangler.toml` with KV binding
-- [ ] Update `VersePracticeClient.tsx` to remove API_URL logic
-- [ ] Add `TOGETHER_API_KEY` to Pages environment variables
-- [ ] Add KV namespace binding in Pages dashboard
-- [ ] Test locally with `npm run pages:dev`
-- [ ] Deploy and verify
-- [ ] Delete `worker/` directory
-- [ ] Remove worker scripts from `package.json`
-- [ ] Delete `qalam-api` Worker from Cloudflare dashboard
-- [ ] Update `CLAUDE.md` documentation
+### Preparation
+- [ ] Read and understand this plan
+- [ ] Ensure Cloudflare CLI (`wrangler`) is authenticated locally
+
+### Phase 1: R2 Setup
+- [ ] Create R2 bucket `qalam-data`
+- [ ] Create `scripts/upload-to-r2.ts`
+- [ ] Upload all data files to R2
+- [ ] Verify files are accessible via wrangler
+
+### Phase 2: Worker Updates
+- [ ] Add R2 binding to `worker/wrangler.toml`
+- [ ] Update `worker/src/types.ts`
+- [ ] Create `worker/src/handlers/data.ts`
+- [ ] Update `worker/src/index.ts` router
+- [ ] Update assessment handler to use R2
+- [ ] Test Worker locally with `npm run worker:dev`
+- [ ] Deploy Worker with `npm run worker:deploy`
+
+### Phase 3: Next.js Static Export
+- [ ] Update `next.config.js` with `output: 'export'`
+- [ ] Delete `src/app/api/` directory
+- [ ] Update `src/lib/data.ts` to fetch from Worker
+- [ ] Update `VersePracticeClient.tsx` API calls
+- [ ] Test locally with `npm run build && npm run start`
+
+### Phase 4: Deployment Config
+- [ ] Update Cloudflare Pages build settings
+- [ ] Remove `pages:build` and `pages:deploy` scripts
+- [ ] Update `package.json` scripts
+- [ ] Remove root `wrangler.toml` (or simplify)
+
+### Phase 5: CI/CD
+- [ ] Create `.github/workflows/deploy.yml`
+- [ ] Add secrets to GitHub repository
+- [ ] Test deployment pipeline
+
+### Cleanup
+- [ ] Remove old files
+- [ ] Update CLAUDE.md documentation
+- [ ] Update README if needed
 
 ---
 
-## Timeline
+## Rollback Plan
 
-This is a focused refactoring task. All changes can be made in a single PR once the plan is approved.
+If issues arise:
 
-**Dependencies:**
-- Cloudflare Pages dashboard access
-- `TOGETHER_API_KEY` available
-- KV namespace ID confirmed
+1. **Worker issues** - Previous Worker version available in Cloudflare dashboard
+2. **Pages issues** - Revert to previous deployment in Pages dashboard
+3. **Data issues** - R2 data is independent, can re-upload from `public/data/`
+4. **Full rollback** - Git revert and redeploy
 
 ---
 
-## Questions to Resolve
+## Future Considerations
 
-1. Should we keep the worker code in a `worker-archive/` folder for reference, or delete completely?
-2. Do we need to update any external documentation or links that point to the worker URL?
-3. Is there any monitoring/alerting set up for the worker that needs to be migrated?
+### Adding New Data
+With R2, adding new analysis files doesn't require redeployment:
+```bash
+npx wrangler r2 object put qalam-data/analysis/NEW-FILE.json --file=path/to/file.json
+```
+
+### Multiple Environments
+Can create separate R2 buckets and KV namespaces for staging:
+- `qalam-data-staging`
+- `qalam-assessment-cache-staging`
+
+### Playwright Tests
+The architecture supports E2E testing well:
+- Static site can be served locally
+- Worker can be mocked or pointed to staging
+- Tests run against real deployment in CI
+
+---
+
+## Questions?
+
+This plan prioritizes:
+1. **Reliability** - Native Cloudflare services
+2. **Simplicity** - Clear separation of concerns
+3. **Scalability** - R2 handles unlimited data growth
+4. **Developer Experience** - Easy local development and deployment
+
+Feel free to ask questions or request modifications before implementation.

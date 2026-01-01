@@ -2,15 +2,15 @@ import { Surah, Verse, VerseAnalysis, QuranData, QuranSurah, QuranVerse } from '
 
 /**
  * Data fetching utilities for Quran data
- * Data is served from the Worker API (R2 bucket) in production,
- * or from local /data in development
+ * Data is served directly from public R2 bucket
+ * Assessment requests go to the Worker API
  */
 
-// API base URL - Worker in production, local in development
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
-
-// Data URL - use Worker API if available, otherwise local /data
-const DATA_BASE_URL = API_BASE_URL ? `${API_BASE_URL}/data` : '/data'
+// Public R2 URL for data (required - no fallback to ensure env is configured)
+const DATA_BASE_URL = process.env.NEXT_PUBLIC_R2_URL
+if (!DATA_BASE_URL) {
+  throw new Error('NEXT_PUBLIC_R2_URL environment variable is required')
+}
 
 // Analysis manifest type
 export interface AnalysisManifest {

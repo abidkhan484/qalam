@@ -15,25 +15,25 @@ import { callLLM } from '../lib/llm';
 import { getCachedAssessment, cacheAssessment } from '../lib/cache';
 
 /**
- * Fetch verse analysis from R2 bucket
+ * Fetch verse analysis from public R2 bucket
  */
 async function getVerseAnalysis(
   verseId: string,
   env: Env
 ): Promise<VerseAnalysis | null> {
   const fileName = verseId.replace(':', '-');
-  const key = `analysis/${fileName}.json`;
+  const url = `${env.R2_PUBLIC_URL}/analysis/${fileName}.json`;
 
   try {
-    const object = await env.DATA_BUCKET.get(key);
-    if (!object) return null;
-    return (await object.json()) as VerseAnalysis;
+    const response = await fetch(url);
+    if (!response.ok) return null;
+    return (await response.json()) as VerseAnalysis;
   } catch {
     return null;
   }
 }
 
-// Cache for quran.json to avoid repeated R2 fetches
+// Cache for quran.json to avoid repeated fetches
 let quranDataCache: {
   surahs: Array<{
     id: number;
@@ -45,7 +45,7 @@ let quranDataCache: {
 } | null = null;
 
 /**
- * Fetch reference translation from R2 bucket
+ * Fetch reference translation from public R2 bucket
  */
 async function getReferenceTranslation(
   verseId: string,
@@ -56,9 +56,9 @@ async function getReferenceTranslation(
   try {
     // Use cached data if available
     if (!quranDataCache) {
-      const object = await env.DATA_BUCKET.get('quran.json');
-      if (!object) return null;
-      quranDataCache = await object.json();
+      const response = await fetch(`${env.R2_PUBLIC_URL}/quran.json`);
+      if (!response.ok) return null;
+      quranDataCache = await response.json();
     }
 
     const surah = quranDataCache?.surahs.find((s) => s.id === surahId);

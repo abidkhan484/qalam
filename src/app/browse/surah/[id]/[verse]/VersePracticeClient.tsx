@@ -50,8 +50,11 @@ const defaultAnalysis: WordAnalysis[] = [
   },
 ]
 
-// API URL for assessment - Worker API is the single source
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://qalam-api.foyzul.workers.dev'
+// API URL for assessment (required - no fallback to ensure env is configured)
+const API_URL = process.env.NEXT_PUBLIC_API_URL
+if (!API_URL) {
+  throw new Error('NEXT_PUBLIC_API_URL environment variable is required')
+}
 
 type ViewState = 'practice' | 'feedback' | 'analysis'
 

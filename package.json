@@ -10,7 +10,6 @@
     "build:quran": "tsx scripts/build-quran-json.ts",
     "seed:analysis": "tsx --env-file=.env scripts/seed-analysis.ts",
     "upload:r2": "tsx scripts/upload-to-r2.ts",
-    "sync:r2": "tsx scripts/sync-to-r2.ts",
     "data:status": "tsx scripts/data-status.ts",
     "worker:dev": "cd worker && npm run dev",
     "worker:dev:remote": "cd worker && npm run dev:remote",

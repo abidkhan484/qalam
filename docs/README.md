@@ -12,6 +12,14 @@ Technical documentation for the Qalam project.
 | [LLM Integration](./llm-integration.md) | How verse analysis is generated + runtime evaluation |
 | [Learning Philosophy](./learning-philosophy.md) | Pedagogical approach and design principles |
 
+## Assessment API (Worker)
+
+The translation assessment feature runs on a Cloudflare Worker with KV caching:
+
+| Document | Description |
+|----------|-------------|
+| [Worker README](../worker/README.md) | API reference, setup, and deployment |
+
 ## Analysis Generation
 
 Technical reference for the LLM analysis generation system:

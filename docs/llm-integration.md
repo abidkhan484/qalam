@@ -160,11 +160,11 @@ Analysis files are saved to `public/data/analysis/{surah}-{verse}.json`:
 
 ## Current Coverage
 
-Analysis has been generated for:
-- **Surah Al-Fatihah** (1:1-7)
-- **Juz Amma** (Surahs 78-114)
+Analysis files are stored in `public/data/analysis/`. To see current coverage:
 
-Total: ~550 verses with full word-by-word analysis.
+```bash
+ls public/data/analysis/ | wc -l
+```
 
 ## Adding More Verses
 

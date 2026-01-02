@@ -57,6 +57,8 @@ qalam/
 │   ├── app/                      # Next.js App Router
 │   │   ├── page.tsx              # Landing page
 │   │   ├── layout.tsx            # Root layout with fonts
+│   │   ├── history/
+│   │   │   └── page.tsx          # Attempt history page
 │   │   └── browse/
 │   │       ├── page.tsx          # Surah listing
 │   │       └── surah/[id]/
@@ -65,13 +67,16 @@ qalam/
 │   │               └── page.tsx  # Practice page
 │   │
 │   ├── components/
-│   │   ├── ui/                   # Button, Card, Input, Alert, Spinner
+│   │   ├── ui/                   # Button, Card, Input, Alert, Spinner, Modal
 │   │   ├── Navbar.tsx
 │   │   ├── VerseDisplay.tsx
-│   │   └── FeedbackCard.tsx
+│   │   ├── FeedbackCard.tsx
+│   │   └── AttemptHistoryModal.tsx
 │   │
 │   ├── lib/
-│   │   └── data.ts               # Data fetching from R2
+│   │   ├── data.ts               # Data fetching from R2
+│   │   ├── attemptHistory.ts     # LocalStorage attempt tracking
+│   │   └── formatters.ts         # Date/score formatting utilities
 │   │
 │   └── types/
 │       └── index.ts              # TypeScript definitions
@@ -87,6 +92,10 @@ qalam/
 │   ├── quran.json                # Complete Quran
 │   ├── surahs.json               # Surah metadata
 │   └── analysis/                 # Word-by-word analysis
+│
+├── worker/                       # Cloudflare Worker (Assessment API)
+│   ├── src/index.ts              # Worker entry point
+│   └── wrangler.toml             # Worker configuration
 │
 ├── scripts/
 │   ├── build-quran-json.ts       # Build quran.json
@@ -201,6 +210,36 @@ interface WordAnalysis {
   morphology?: { pattern: string; wordType: string }
 }
 ```
+
+## Client-Side State (LocalStorage)
+
+User progress is stored in the browser with no server-side persistence:
+
+```typescript
+// Stored in localStorage under 'qalam_attempt_history'
+interface AttemptHistoryStore {
+  attempts: StoredAttempt[]
+  lastUpdated: string  // ISO date
+}
+
+interface StoredAttempt {
+  id: string              // timestamp-based unique id
+  verseId: string         // e.g., "1:5"
+  userTranslation: string
+  feedback: AttemptFeedback
+  timestamp: string       // ISO date
+}
+```
+
+**Limits:**
+- Max 50 attempts per verse
+- Max 500 total attempts
+- Older attempts pruned automatically
+
+**Features:**
+- View attempt history by timeline or grouped by verse
+- Filter by surah
+- See score progression over time
 
 ## Design System
 

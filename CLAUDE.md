@@ -46,8 +46,7 @@ npm run lint             # Run ESLint
 # Data Management
 npm run build:quran      # Build quran.json from Tanzil.net source files
 npm run seed:analysis    # Generate verse analysis via Ollama
-npm run upload:r2        # Upload all data files to R2 (initial setup)
-npm run sync:r2          # Sync new analysis files to R2 (delta sync)
+npm run upload:r2        # Upload all data files to R2
 npm run data:status      # Show analysis generation progress
 
 # Deployment
@@ -115,7 +114,7 @@ Worker (via `wrangler secret`):
 2. **Generate Analysis**:
    ```bash
    npm run seed:analysis  # Generate analysis files locally
-   npm run sync:r2        # Sync to R2 (no app redeploy needed!)
+   npm run upload:r2      # Upload to R2 (no app redeploy needed!)
    ```
 
 3. **Deploy**:
